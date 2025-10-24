@@ -1,0 +1,381 @@
+{
+	"meta": {
+		"language_name": "Norwegian Bokmål",
+		"language_name_native": "Norsk Bokmål",
+		"language_code": "nb",
+		"creators": "NMapper"
+	},
+	"common": {
+		"ui": {
+			"translation_coverage": "Oversettelse Dekning",
+			"translation_by": "Oversatt av",
+			"username": "Brukernavn",
+			"password": "Passord",
+			"email": "E-post",
+			"repeat_password": "Gjenta Passord",
+			"back_button": "Tilbake",
+			"resend_button": "Send på Nytt",
+			"register_button": "Registrer",
+			"change_button": "Bytt",
+			"logout_button": "Logg Ut",
+			"confirm_button": "Bekreft",
+			"continue_button": "Forsett",
+			"ok_button": "OK",
+			"cancel_button": "Avbryt",
+			"load_button": "Last Inn",
+			"new_password": "Nytt Passord",
+			"repeat_new_password": "Gjenta Nytt Passord",
+			"contact": "Kontakt",
+			"socials": "Sosialt",
+			"legal": "Juridisk",
+			"community_translations": "Felleskapsoversettelser",
+			"loading": "Laster Inn",
+			"play": "Spill",
+			"use_button": "Bruk",
+			"claim_button": "Hevd"
+		},
+		
+		"popout_messages": {
+			"unexpected_error": "Uforventet Feil",
+			"please_try_again": "Prøv igjen",
+			"error_contacting_server": "Servertilkoblingsfeil",
+			"internal_server_error": "Intern serverfeil",
+			"down_for_maintenance": "Server Nede for Vedlikehold",
+			"guest_account": "Utilgjengelig for Gjestebrukere",
+			"guest_account_text": "Denne funksjonen er utilgjengelig for gjestebrukere."
+		},
+		"registration": {
+			"terms_of_service": "Du må godta Tjenestevilkårene for å registere",
+			"no_username": "Brukernavn ikke oppgitt",
+			"username_length": "Brukernavn kan ikke være lengre enn 16 tegn",
+			"invalid_username": "Brukernavn kan bare inneholde bokstaver utenom ÆØÅ, tall og understreker",
+			"amq_username": "Brukernavnet \"AMQ\" er reservert og kan ikke brukes",
+			"password_too_short": "Passordet må være minst 5 tegn",
+			"password_too_long": "Passordet må være maksimalt 9999 tegn",
+			"passwords_not_matching": "Passordene stemmer ikke overens",
+			"no_email": "Ingen e-post oppgitt",
+			"invalid_email": "Ikke en gyldig e-postadresse",
+			"no_country": "Ingen bostedsland oppgitt",
+			"disabled": "Registering er deaktivert",
+			"unknown_country": "Ukjent bostedsland",
+			"username_taken": "Brukernavnet er allerede tatt",
+			"email_taken": "E-postadresse er allerede registrert",
+			"email_sent": "Bekreftelses-e-posten er sendt til _EMAIL_",
+			"email_length": "E-postadresse må være maksimalt 255 tegn",
+			"account_created": "Bruker _NAME_ ble opprettet"
+		},
+		"guest_account": {
+			"title": "Gjestebrukere",
+			"click_to_register": "Klikk her for å fullføre registreringen",
+			"complete_registration": "Fullfør registreringen",
+			"complete_registration_message": "For å fullføre registreringen, bekreft e-postadressen din ved å klikke på lenken som er sendt til _BOLD_ _EMAIL_ _BOLD_"
+		}
+	},
+	"login_page": {
+		"ui": {
+			"play_now": "Spill Nå",
+			"login": "Logg Inn",
+			"send_button": "Send",
+			"return_to_login": "Gå tilbake til innlogging",
+			"stay_signed_in": "Forbli innlogget",
+			"forgot_password": "Glemt passord?",
+			"forgot_username": "Glemt brukernavn?",
+			"country_of_residence": "Bostedsland",
+			"agree_terms_of_service": "Jeg godtar _LINK_ Tjenestevilkårene _LINK_",
+			"start_playing_now": "Start Å Spille Nå"
+		},
+		"popout_messages": {
+			"create_guest_account": {
+				"title": "Lag Gjestebruker",
+				"text": "Ved å lage en gjestebruker godtar du _LINK_ Tjenestevilkårene _LINK_ og _LINK_Personvernerklæringen_LINK_.",
+				"error_title": "Feil ved oppretting av gjestebruker",
+				"error_disabled": "Gjestebrukere er deaktivert"
+			},
+			"select_country": "Vennligst velg ditt bostedsland",
+			"country_error": "Feil ved registering av bostedsland",
+			"already_online": {
+				"title": "Bruker er allerede pålogget",
+				"text": "Fortsett innlogging, og logg ut de andre øktene?"
+			},
+			"guest_timeout": "Gjestebrukeren har blitt tidsavbrutt, vennligst opprett en ny"
+		},
+		"text": {
+			"create_account": "Lag Bruker",
+			"recover_username_title": "Gjennopprett Brukernavn",
+			"recover_username_text": "Skriv inn e-postadressen som ble brukt for å registrere brukeren din, for å få brukernavnet ditt tilsendt.",
+			"forgot_password_title": "Glemt Passord",
+			"forgot_password_text": "Skriv inn e-postadressen som ble brukt for å registrere brukeren din, for å få tilsendt en lenke for å tilbakestille passordet ditt.",
+			"reset_password_title": "Tilbakestill Passord",
+			"missing_information": "Mangler Brukerinfo",
+			"missing_country": "Brukeren din mangler bostedsland, vennligst velg det nedenfor",
+			"promo_title": "#1 Anime Musikk Quiz!",
+			"promo_one": {
+				"title": "Uendlige Antall Quizer",
+				"line_one": "35 000+ Sanger Fra 8 000+ Anime",
+				"line_two": "Hver Quiz er Unikt Generert",
+				"line_three": "Tilpasset quizer for din MyAnimeList, AniList eller Kitsu",
+				"line_four": "Spill Gratis"
+			},
+			"promo_two": {
+				"title": "Spill på Din Måte",
+				"line_one": "Med Venner",
+				"line_two": "Utfordre Deg Selv",
+				"line_three": "Klatre Opp Ranked Stigen",
+				"line_four": "Utforsk Dungeon Crawler-en"
+			},
+			"login_queue": {
+				"title": "Innloggingskø",
+				"text": "Innloggingsserveren opplever stor belastning, du vil bli logget inn om et øyeblikk",
+				"position": "Plassering i køen: _SPAN_ 0 _SPAN_"
+			}
+		},
+		"messages": {
+			"account_verified": "Bruker er verifisert, du kan nå logge inn",
+			"account_verified_guest": "Bruker er verifisert, du kan nå lukke denne fanen",
+			"verification_error": "Bruker Verifiseringsfeil: En uforventet feil oppstod",
+			"unknown_reset_code": "Ukjent Tilbakestillingskode",
+			"wrong_username_password": "Feil brukernavn eller passord",
+			"email_sent": "E-post sendt",
+			"password_updated": "Passord Oppdatert"
+		},
+		"account_verification": {
+			"title": "Bruker Verifikasjon",
+			"text_one": "_SPAN_ Bruker ikke verifisert _SPAN_, vennligst verifiser e-postadressen din ved å klikke på lenken sendt til _BOLD_ _EMAIL_ _BOLD_.",
+			"text_two": "Mottok du ikke en e-post? Vent opptil et minutt for at e-posten skal komme, og sjekk søppelposten din. Hvis du fortsatt ikke mottar e-posten, kan du sende den på nytt eller endre e-postadressen din ved å bruke feltet nedenfor."
+		},
+		"banned_messages": {
+			"title_temp": "Bruker Midlertidlig Utestengt",
+			"title_ban": "Bruker Utestengt",
+			"text_one": "Din bruker har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets Tjenestevilkår.",
+			"text_two": "Din bruker har blitt flagget for brudd på Tjenestevilkårene av en moderator, og har derfor blitt utestengt. Du skal ha mottatt en e-post med informasjon om hvorfor du ble utestengt.",
+			"text_three": "Din bruker har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets Tjenestevilkår.",
+			"text_temp": "Siden dette er din første forseelse, har din bruker bare blitt midlertidig utestengt. Men hvis du forsetter å jukse etter at utstengelesen er opphevet, vil kontoen din bli permanent utestengt.",
+			"text_perm": "Siden dette er din andre forseelse, vil din bruker bli utestengt permanent.",
+			"text_end": "Hvis du mener at denne utestengelsen er en feil, kan du lage en ticket på spillets _LINK_ Discord _LINK_ i #open-a-ticket kanalen.",
+			"suspended_until": "Utestengt til"
+		}
+	},
+	"main_menu": {
+		"ui": {
+			"news": "Nyheter",
+			"stay_connected": "Hold Kontakten",
+			"merch_store": "Merchbutikk",
+			"song_library": "Sangbibliotek",
+			"leaderboard": "Toppliste"
+		},
+		"carousel": {
+			"social_promo": "Få Gratis Tickets ved å følge AMQ på Discord og Patreon!",
+			"patreon_promo": "Støtt Spillet og Lås opp Eksklusive Belønninger",
+			"sale_names": {
+				"fall": "Høstsalg!",
+				"summer": "Sommersalg!",
+				"winter": "Vintersalg!",
+				"spring": "Vårsalg!",
+				"halloween": "Halloweensalg!",
+				"christmas": "Julesalg!",
+				"lunar": "Månefestivalsalg!",
+				"valentine": "Valentinsdagssalg!",
+				"summer_games": "Sommerlekersalg!"
+			},
+			"sale_text": "Få den beste ticket verdien!",
+			"skin_header": "Eksklusivt",
+			"skin_seasons": {
+				"spring": "Vårskins",
+				"summer": "Sommerskins",
+				"fall": "Høstskins",
+				"winter": "Winterskins",
+				"halloween": "Halloweenskins",
+				"christmas": "Juleskins",
+				"lunar": "Månefestivalskins",
+				"valentine": "Valentinsdagsskins",
+				"summer_games": "Sommerlekerskins"
+			},
+			"skin_text": "Få eksklusive skins for å ståtte AMQ!",
+			"skin_footer": "Tilgjengelig Nå"
+		},
+		"quiz_of_the_day": {
+			"title": "Dagens Quiz",
+			"time_slots": "Quiz Tidspunkt",
+			"weekly_schedule": "Ukeplan",
+			"current_week": "Denne Uken",
+			"what_is": "Hva er \"Dagens Quiz\"?",
+			"what_is_description": "\"Dagens Quiz\" er en daglig ubegrenset størrelse quiz hvor spillerer kan teste sine ferdigheter more andre i felleskapet. Det er for øyeblikket delt mellon ranked quizer, en svært konkurransepreget modus, og temaquizer laget av felleskapet designet for å gi en unik og morsom opplevelse.",
+			"ranked_description": "Ranked Beskrivelse",
+			"week": "Uke _NUMBER_",
+			"week_year": "Uke _NUMBER_ av _NUMBER_",
+			"championship": "Mesterskap",
+			"championship_description": "Månedens 150 topprangerte spiller kjemper om sjansen om å bli månedens mester!",
+			"rest_day": "Hviledag",
+			"rest_day_description": "Ingen quizer dagen etter masterskapet.",
+			"ranked": "Ranked",
+			"ranked_finished": "Ferdig",
+			"ranked_types": {
+				"novice": {
+					"title": "Novise",
+					"description": "45 sanger målrettet mot nye og oppkommende spillere"
+				},
+				"expert": {
+					"title": "Ekspert",
+					"description": "85 sanger målrettet mot erfarne spillere. Belønner med ekstra rangeringspoeng"
+				}
+			},
+			"states": {
+				"ranked": {
+					"offline": "Ranked - Offline",
+					"lobby": "Ranked - Lobby Opp",
+					"playing": "Ranked - Spilles",
+					"completed": "Ranked - Ferdig",
+					"rest_day": "Ranked - Hviledag"
+				},
+				"themed": {
+					"offline": "Temaquiz - Offline",
+					"lobby_up": "Temaquiz - Lobby Opp",
+					"playing": "Temaquiz - Spilles",
+					"completed": "Temaquiz - Ferdig"
+				},
+				"championship": {
+					"offline": "Mesterskap - Offline",
+					"lobby_up": "Mesterskap - Lobby Opp",
+					"playing": "Mesterskap - Spilles",
+					"completed": "Mesterskap - Ferdig"
+				}
+			},
+			"week_days": {
+				"monday": "Mandag",
+				"tuesday": "Tirsdag",
+				"wednesday": "Onsdag",
+				"thursday": "Torsdag",
+				"friday": "Fredag",
+				"saturday": "Lørdag",
+				"sunday": "Søndag"
+			},
+			"popout_messages": {
+				"weekly_quiz": {
+					"title": "Quiz Ukeplan",
+					"text": "Se quiz ukeplanen og finn mer informasjon om modusen"
+				},
+				"region_time": { "text": "Region og tid til neste quiz" }
+			},
+			"alerts": {
+				"ranked_rules": {
+					"title": "Ranked Regler",
+					"text": "Ved å spille ranked samtykker du til at du ikke vil hinte eller dele svar med andre spillere, eller bruke verktøy, metoder eller programvare som gir deg en urettferdig fordel."
+				}
+			}
+		},
+		"ranked_description": {
+			"title": "Ranked Modus",
+			"description": "Utfordre deg selv mot dine venner og AMQ felleskapet ved å bli med i ranked games. Hvert ranked game vil gi deg rangeringspoeng, og låser opp nye eksklusive belønninger og bringer deg nærmere å bli med de beste av de beste i regionens masterskap hold i slutten av hver måned._BREAK_ Vær oppmerksom på at brukeren din må være level 10 eller høyere for å spille ranked matcher.",
+			"how_it_works": "Hvordan Funker Det",
+			"regions": "Regioner",
+			"region_description": "Ranked modusen er delt tre separate regioner (vest, sentral, øst), hver med sin egen toppliste, starttid og mesterskap. Du vil kunne delta i alle regioner, men rangeringspoengene teller bare for regionen de er opptjent i.",
+			"ranked_game": "Ranked Game",
+			"ranked_game_description_one": "30 minutter før start tid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen._BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid",
+			"ranked_game_description_two": "På slutten av hver ranked game, vil du får rangeringspoeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise games, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert games, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 4 poeng hver, de neste fem gir 5 peong hver, deretter 6 poeng for hver av de neste 5 og så videre.",
+			"end_of_season": "Slutten av Sesongen",
+			"end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, og hvor vinneren får tittlen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle rangeringspoengene bli tilbakestilt og en ny sesong starter.",
+			"rules": "Regler",
+			"rules_description": "Ranked modusen er en test av individuelle ferdigeter, så det er viktig at du ikke deler hint eller svar med andre spillere. Alle verktøy, metoder og programvarer som gir deg en urettferdig fordel er ikke tillatt (som er det er for alle modusene). _BREAK_ Brudd på reglene ovenfor kan føre til at brukeren din blir utestengt og alle ranked belønninger blir fjernet."
+		},
+		"avatar_drive": {
+			"standings": "Stillingen",
+			"recent": "Nyeste",
+			"weekly": "Ukentlig",
+			"weekly_short": "U",
+			"monthly": "Månedlig",
+			"monthly_short": "M",
+			"all_time": "All Tid",
+			"all_time_short": "AT",
+			"donate": "Doner",
+			"faq": "FAQ",
+			"amount": "Beløp",
+			"description": "Doner for hva den neste avataren skal være! Når kampanjen er over, vil avataren som leder bli lagt til spillet! Vær oppmerkson på at kampanjen vil fortsette et par dager etter målet er nådd.",
+			"faq_what_is": {
+				"title": "Hva er en Avatar Kampanje?",
+				"text": "Avatar Kampanjen er din måte å støtte spillet, mens du samtidig påvirker hva fremtidige avatarer vil være. Systemet er ganske enkelt, når du donerer kan du velge hvilken som helst avatar i Avatar Kampanjen eller nominere en ny avatar. Verdien som doneres legges deretter til avatarens totale score, og når målet for kampanjen er oppnådd, vil avataren med høyest score bli lagt til spillet som en fremtidig avatar."
+			},
+			"faq_nomination_type": {
+				"title": "Hvilken Type Avatarer Kan Jeg Nominere?",
+				"text": "Du kan nominere hvilken som helst type avatar du kan tenke på, så lenge de ikke er støtende, lovlig kan legges til spillet og passer inn i spillets design. Alle nominasjoner blir gjennomgått, og kan bli avvist hvis de ikke føller retningslinjene nevnt ovenfor."
+			},
+			"faq_existing_avatar": {
+				"title": "Kan Jeg Nomenere en Eksisterende Karakter?",
+				"text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for Avatar Kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skin bli lagg til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\""
+			},
+			"donate_towards": "Doner For",
+			"nominated_avatar": "Nominasjon Avatar",
+			"new_avatar": "Ny Avatar",
+			"none": "Ingen",
+			"avatar_description": "Avatar Beskrivelse",
+			"Mavatar_description_placeholder": "Kort Beskrivelse av Avatar",
+			"nomination": "Nominasjon",
+			"anonymous_donation": "Anonym Donasjon",
+			"free_donation": "Bruk Gratis Donasjon",
+			"free_donation_amount": "Beløp: _NUMBER_€",
+			"approx_dollars": "Omtrent. $",
+			"checkout": "Betal",
+			"popover": { "no_free_donation": "Gratis donasjonen allerede brukt denne måneden" },
+			"alerts": {
+				"invalid_amount": {
+					"title": "Ugyldig Donasjonsbeløp",
+					"text": "Du må angi et donasjonsbeløp"
+				},
+				"donation_error": { "title": "Donasjonsfeil" },
+				"donation_received": {
+					"title": "Donasjon Mottat",
+					"text": "Takk for at du støtter spillet!"
+				},
+				"use_free_donation": {
+					"title": "Bruk Gratis Donasjon",
+					"text": "Du får én gratis donasjon i måned"
+				}
+			}
+		},
+		"social_rewards": {
+			"title": "Sosiale Media Belønning",
+			"description": "Som en takk for at du følger spillets Discord og Patreon, så vil du motta 8 ticket som belønning for å følge hver av dem. _BREAK_ Sørg for å bli med i _LINK_ Discord-en _LINK_ før du hevder Discord-belønningen. _BREAK_ Sørg for å bli med (gratis) eller støtt _LINK_ Patreon-en _LINK_ før du hevder Patreon-belønnigen."
+		},
+		"game_mode": {
+			"title": "Modus",
+			"solo": {
+				"title": "Solo",
+				"description": "Utfordre deg selv med et ubegrenset antall personlige unike quizer"
+			},
+			"multiplayer": {
+				"title": "Flerspiller",
+				"description": "Spill unike quizer med venner og andre anime-fans"
+			},
+			"community": {
+				"title": "Felleskapet",
+				"description": "Spill tilpassede quizer laget av felleskapet eller lag dine egne"
+			},
+			"jam": {
+				"title": "Jam Quiz",
+				"description": "En uendelig quiz hvor spiller kan hoppe inn og ut når som helst"
+			},
+			"nexus": {
+				"title": "Nexus",
+				"description": "Utfordre Nexus-krypten, en unike roguelike-quizmodus, som kan spilles alene eller med venner"
+			}
+		}
+	},
+	"menu_bar": {
+		"settings": {
+			"language": {
+				"custom": "Selv Valgt",
+				"custom_description": "Legg til en oversettelsesfil for å teste den i spillet",
+				"custom_title": "Velg Oversettelsesfil",
+				"custom_placeholder": "URL til oversettelsesfilen",
+				"custom_alert_description": "Legg til en URL til din oversettelsesfil",
+				"custom_failed_to_load": {
+					"title": "Kunne ikke laste inn valgt språk",
+					"text": "Kunne ikke last den valgte oversettelsesfilen fra den oppgitte URL-en."
+				},
+				"custom_wrong_format": {
+					"title": "Oversettelesesfil Format Feil",
+					"text": "Den oppgitte oversettelesefilen er ikke i riktig format. Se nettleserkonsollen for mer informasjon."
+				}
+			}
+		}
+	}
+}
