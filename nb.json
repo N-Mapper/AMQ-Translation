@@ -45,7 +45,7 @@
 			"guest_account_text": "Denne funksjonen er utilgjengelig for gjestebrukere."
 		},
 		"registration": {
-			"terms_of_service": "Du må godta Tjenestevilkårene for å registere",
+			"terms_of_service": "Du må godta tjenestevilkårene for å registere",
 			"no_username": "Brukernavn ikke oppgitt",
 			"username_length": "Brukernavn kan ikke være lengre enn 16 tegn",
 			"invalid_username": "Brukernavn kan bare inneholde bokstaver utenom ÆØÅ, tall og understreker",
@@ -81,13 +81,13 @@
 			"forgot_password": "Glemt passord?",
 			"forgot_username": "Glemt brukernavn?",
 			"country_of_residence": "Bostedsland",
-			"agree_terms_of_service": "Jeg godtar _LINK_ Tjenestevilkårene _LINK_",
+			"agree_terms_of_service": "Jeg godtar _LINK_ tjenestevilkårene _LINK_",
 			"start_playing_now": "Start Å Spille Nå"
 		},
 		"popout_messages": {
 			"create_guest_account": {
 				"title": "Lag Gjestebruker",
-				"text": "Ved å lage en gjestebruker godtar du _LINK_ Tjenestevilkårene _LINK_ og _LINK_ Personvernerklæringen _LINK_.",
+				"text": "Ved å lage en gjestebruker godtar du _LINK_ tjenestevilkårene _LINK_ og _LINK_ personvernerklæringen _LINK_.",
 				"error_title": "Feil ved oppretting av gjestebruker",
 				"error_disabled": "Gjestebrukere er deaktivert"
 			},
@@ -147,7 +147,7 @@
 			"title_temp": "Bruker Midlertidlig Utestengt",
 			"title_ban": "Bruker Utestengt",
 			"text_one": "Din bruker har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets Tjenestevilkår.",
-			"text_two": "Din bruker har blitt flagget for brudd på Tjenestevilkårene av en moderator, og har derfor blitt utestengt. Du skal ha mottatt en e-post med informasjon om hvorfor du ble utestengt.",
+			"text_two": "Din bruker har blitt flagget for brudd på tjenestevilkårene av en moderator, og har derfor blitt utestengt. Du skal ha mottatt en e-post med informasjon om hvorfor du ble utestengt.",
 			"text_three": "Din bruker har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets Tjenestevilkår.",
 			"text_temp": "Siden dette er din første forseelse, har din bruker bare blitt midlertidig utestengt. Men hvis du forsetter å jukse etter at utstengelesen er opphevet, vil kontoen din bli permanent utestengt.",
 			"text_perm": "Siden dette er din andre forseelse, vil din bruker bli utestengt permanent.",
