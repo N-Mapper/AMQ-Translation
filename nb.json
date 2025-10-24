@@ -141,7 +141,7 @@
 		"account_verification": {
 			"title": "Bruker Verifikasjon",
 			"text_one": "_SPAN_ Bruker ikke verifisert _SPAN_, vennligst verifiser e-postadressen din ved å klikke på lenken sendt til _BOLD_ _EMAIL_ _BOLD_.",
-			"text_two": "Mottok du ikke en e-post? Vent opptil et minutt for at e-posten skal komme, og sjekk søppelposten din. Hvis du fortsatt ikke mottar e-posten, kan du sende den på nytt eller endre e-postadressen din ved å bruke feltet nedenfor."
+			"text_two": "Mottok du ikke en e-post? Vent opptil et minutt for at e-posten skal komme og sjekk søppelposten din. Hvis du fortsatt ikke mottar e-posten, kan du sende den på nytt eller endre e-postadressen din ved å bruke feltet nedenfor."
 		},
 		"banned_messages": {
 			"title_temp": "Bruker Midlertidlig Utestengt",
@@ -273,7 +273,7 @@
 			"ranked_game_description_one": "30 minutter før start tid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen._BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid",
 			"ranked_game_description_two": "På slutten av hver ranked game, vil du får rangeringspoeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise games, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert games, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 4 poeng hver, de neste fem gir 5 peong hver, deretter 6 poeng for hver av de neste 5 og så videre.",
 			"end_of_season": "Slutten av Sesongen",
-			"end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, og hvor vinneren får tittlen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle rangeringspoengene bli tilbakestilt og en ny sesong starter.",
+			"end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, hvor vinneren får tittlen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle rangeringspoengene bli tilbakestilt og en ny sesong starter.",
 			"rules": "Regler",
 			"rules_description": "Ranked modusen er en test av individuelle ferdigeter, så det er viktig at du ikke deler hint eller svar med andre spillere. Alle verktøy, metoder og programvarer som gir deg en urettferdig fordel er ikke tillatt (som er det er for alle modusene). _BREAK_ Brudd på reglene ovenfor kan føre til at brukeren din blir utestengt og alle ranked belønninger blir fjernet."
 		},
@@ -296,7 +296,7 @@
 			},
 			"faq_nomination_type": {
 				"title": "Hvilken Type Avatarer Kan Jeg Nominere?",
-				"text": "Du kan nominere hvilken som helst type avatar du kan tenke på, så lenge de ikke er støtende, lovlig kan legges til spillet og passer inn i spillets design. Alle nominasjoner blir gjennomgått, og kan bli avvist hvis de ikke føller retningslinjene nevnt ovenfor."
+				"text": "Du kan nominere hvilken som helst type avatar du kan tenke på, så lenge de ikke er støtende, lovlig kan legges til spillet og passer inn i spillets design. Alle nominasjoner blir gjennomgått, og kan bli avvist hvis de ikke følger retningslinjene nevnt ovenfor."
 			},
 			"faq_existing_avatar": {
 				"title": "Kan Jeg Nomenere en Eksisterende Karakter?",
