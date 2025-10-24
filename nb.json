@@ -222,20 +222,20 @@
 			"states": {
 				"ranked": {
 					"offline": "Ranked - Offline",
-					"lobby": "Ranked - Lobby Opp",
+					"lobby": "Ranked - Lobby Oppe",
 					"playing": "Ranked - Spilles",
 					"completed": "Ranked - Ferdig",
 					"rest_day": "Ranked - Hviledag"
 				},
 				"themed": {
 					"offline": "Temaquiz - Offline",
-					"lobby_up": "Temaquiz - Lobby Opp",
+					"lobby_up": "Temaquiz - Lobby Oppe",
 					"playing": "Temaquiz - Spilles",
 					"completed": "Temaquiz - Ferdig"
 				},
 				"championship": {
 					"offline": "Mesterskap - Offline",
-					"lobby_up": "Mesterskap - Lobby Opp",
+					"lobby_up": "Mesterskap - Lobby Oppe",
 					"playing": "Mesterskap - Spilles",
 					"completed": "Mesterskap - Ferdig"
 				}
