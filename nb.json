@@ -7,29 +7,29 @@
 	},
 	"common": {
 		"ui": {
-			"translation_coverage": "Oversettelse Dekning",
+			"translation_coverage": "Oversettelse dekning",
 			"translation_by": "Oversatt av",
 			"username": "Brukernavn",
 			"password": "Passord",
 			"email": "E-post",
-			"repeat_password": "Gjenta Passord",
+			"repeat_password": "Gjenta passord",
 			"back_button": "Tilbake",
-			"resend_button": "Send på Nytt",
+			"resend_button": "Send på nytt",
 			"register_button": "Registrer",
 			"change_button": "Bytt",
-			"logout_button": "Logg Ut",
+			"logout_button": "Logg ut",
 			"confirm_button": "Bekreft",
 			"continue_button": "Forsett",
 			"ok_button": "OK",
 			"cancel_button": "Avbryt",
-			"load_button": "Last Inn",
-			"new_password": "Nytt Passord",
-			"repeat_new_password": "Gjenta Nytt Passord",
+			"load_button": "Last inn",
+			"new_password": "Nytt passord",
+			"repeat_new_password": "Gjenta nytt passord",
 			"contact": "Kontakt",
 			"socials": "Sosialt",
 			"legal": "Juridisk",
 			"community_translations": "Felleskapsoversettelser",
-			"loading": "Laster Inn",
+			"loading": "Laster inn",
 			"play": "Spill",
 			"use_button": "Bruk",
 			"claim_button": "Hevd"
@@ -41,7 +41,7 @@
 			"error_contacting_server": "Servertilkoblingsfeil",
 			"internal_server_error": "Internserverfeil",
 			"down_for_maintenance": "Server Nede for Vedlikehold",
-			"guest_account": "Utilgjengelig for Gjestebrukere",
+			"guest_account": "Utilgjengelig for gjestebrukere",
 			"guest_account_text": "Denne funksjonen er utilgjengelig for gjestebrukere."
 		},
 		"registration": {
@@ -73,8 +73,8 @@
 	},
 	"login_page": {
 		"ui": {
-			"play_now": "Spill Nå",
-			"login": "Logg Inn",
+			"play_now": "Spill nå",
+			"login": "Logg inn",
 			"send_button": "Send",
 			"return_to_login": "Gå tilbake til innlogging",
 			"stay_signed_in": "Forbli innlogget",
@@ -82,7 +82,7 @@
 			"forgot_username": "Glemt brukernavn?",
 			"country_of_residence": "Bostedsland",
 			"agree_terms_of_service": "Jeg godtar _LINK_ tjenestevilkårene _LINK_",
-			"start_playing_now": "Start Å Spille Nå"
+			"start_playing_now": "Start å spille nå"
 		},
 		"popout_messages": {
 			"create_guest_account": {
@@ -111,17 +111,17 @@
 			"promo_title": "#1 Anime Musikk Quiz!",
 			"promo_one": {
 				"title": "Uendlige Antall Quizer",
-				"line_one": "35 000+ Sanger Fra 8 000+ Anime",
-				"line_two": "Hver Quiz er Unikt Generert",
+				"line_one": "35 000+ sanger fra 8 000+ Anime",
+				"line_two": "Hver quiz er unikt generert",
 				"line_three": "Tilpasset quizer for din MyAnimeList, AniList eller Kitsu",
-				"line_four": "Spill Gratis"
+				"line_four": "Spill gratis"
 			},
 			"promo_two": {
 				"title": "Spill på Din Måte",
-				"line_one": "Med Venner",
-				"line_two": "Utfordre Deg Selv",
-				"line_three": "Klatre Opp Ranked Stigen",
-				"line_four": "Utforsk Dungeon Crawler-en"
+				"line_one": "Med venner",
+				"line_two": "Utfordre deg selv",
+				"line_three": "Klatre opp ranked stigen",
+				"line_four": "Utforsk dungeon crawler-en"
 			},
 			"login_queue": {
 				"title": "Innloggingskø",
