@@ -16,7 +16,7 @@
 			"back_button": "Tilbake",
 			"resend_button": "Send på nytt",
 			"register_button": "Registrer",
-			"change_button": "Bytt",
+			"change_button": "Endre",
 			"logout_button": "Logg ut",
 			"confirm_button": "Bekreft",
 			"continue_button": "Forsett",
@@ -40,7 +40,7 @@
 			"please_try_again": "Prøv igjen",
 			"error_contacting_server": "Servertilkoblingsfeil",
 			"internal_server_error": "Internserverfeil",
-			"down_for_maintenance": "Server Nede for Vedlikehold",
+			"down_for_maintenance": "Server nede for vedlikehold",
 			"guest_account": "Utilgjengelig for gjestebrukere",
 			"guest_account_text": "Denne funksjonen er utilgjengelig for gjestebrukere."
 		},
@@ -117,7 +117,7 @@
 				"line_four": "Spill gratis"
 			},
 			"promo_two": {
-				"title": "Spill på Din Måte",
+				"title": "Spill på din måte",
 				"line_one": "Med venner",
 				"line_two": "Utfordre deg selv",
 				"line_three": "Klatre opp ranked stigen",
@@ -362,7 +362,7 @@
 	"menu_bar": {
 		"settings": {
 			"language": {
-				"custom": "Selv Valgt",
+				"custom": "Bruk egen",
 				"custom_description": "Legg til en oversettelsesfil for å teste den i spillet",
 				"custom_title": "Velg Oversettelsesfil",
 				"custom_placeholder": "URL til oversettelsesfilen",
