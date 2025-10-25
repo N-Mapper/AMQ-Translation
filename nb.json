@@ -82,7 +82,7 @@
 			"forgot_username": "Glemt brukernavn?",
 			"country_of_residence": "Bostedsland",
 			"agree_terms_of_service": "Jeg godtar _LINK_ tjenestevilkårene _LINK_",
-			"start_playing_now": "Start å spille nå"
+			"start_playing_now": "Start Å Spille Nå"
 		},
 		"popout_messages": {
 			"create_guest_account": {
@@ -222,20 +222,20 @@
 			"states": {
 				"ranked": {
 					"offline": "Ranked - Offline",
-					"lobby": "Ranked - Lobby Oppe",
+					"lobby": "Ranked - Lobby Åpen",
 					"playing": "Ranked - Spilles",
 					"completed": "Ranked - Ferdig",
 					"rest_day": "Ranked - Hviledag"
 				},
 				"themed": {
 					"offline": "Temaquiz - Offline",
-					"lobby_up": "Temaquiz - Lobby Oppe",
+					"lobby_up": "Temaquiz - Lobby Åpen",
 					"playing": "Temaquiz - Spilles",
 					"completed": "Temaquiz - Ferdig"
 				},
 				"championship": {
 					"offline": "Mesterskap - Offline",
-					"lobby_up": "Mesterskap - Lobby Oppe",
+					"lobby_up": "Mesterskap - Lobby Åpen",
 					"playing": "Mesterskap - Spilles",
 					"completed": "Mesterskap - Ferdig"
 				}
@@ -295,14 +295,14 @@
 				"text": "Avatar-kampanjen er din måte å støtte spillet, mens du samtidig påvirker hva fremtidige avatarer vil være. Systemet er ganske enkelt, når du donerer kan du velge hvilken som helst avatar i Avatar-kampanjen eller nominere en ny avatar. Verdien som doneres legges deretter til avatarens totale score, og når målet for kampanjen er oppnådd, vil avataren med høyest score bli lagt til spillet som en fremtidig avatar."
 			},
 			"faq_nomination_type": {
-				"title": "Hvilken Type Avatarer Kan Jeg Nominere?",
+				"title": "Hvilken type avatarer kan jeg nominere?",
 				"text": "Du kan nominere hvilken som helst type avatar du kan tenke på, så lenge de ikke er støtende, lovlig kan legges til spillet og passer inn i spillets design. Alle nominasjoner blir gjennomgått, og kan bli avvist hvis de ikke følger retningslinjene nevnt ovenfor."
 			},
 			"faq_existing_avatar": {
-				"title": "Kan Jeg Nomenere en Eksisterende Karakter?",
+				"title": "Kan jeg nomenere en eksisterende karakter?",
 				"text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for Avatar-kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skin bli lagg til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\""
 			},
-			"donate_towards": "Doner For",
+			"donate_towards": "Doner for",
 			"nominated_avatar": "Nominasjon Avatar",
 			"new_avatar": "Ny Avatar",
 			"none": "Ingen",
