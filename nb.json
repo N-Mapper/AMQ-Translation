@@ -28,7 +28,7 @@
 			"contact": "Kontakt",
 			"socials": "Sosialt",
 			"legal": "Juridisk",
-			"community_translations": "Felleskapsoversettelser",
+			"community_translations": "Fellesskapsoversettelser",
 			"loading": "Laster inn",
 			"play": "Spill",
 			"use_button": "Bruk",
@@ -39,13 +39,13 @@
 			"unexpected_error": "Uforventet Feil",
 			"please_try_again": "Prøv igjen",
 			"error_contacting_server": "Servertilkoblingsfeil",
-			"internal_server_error": "Internserverfeil",
+			"internal_server_error": "Intern Serverfeil",
 			"down_for_maintenance": "Server nede for vedlikehold",
 			"guest_account": "Utilgjengelig for gjestebrukere",
 			"guest_account_text": "Denne funksjonen er utilgjengelig for gjestebrukere."
 		},
 		"registration": {
-			"terms_of_service": "Du må godta tjenestevilkårene for å registere",
+			"terms_of_service": "Du må godta tjenestevilkårene for å registrere",
 			"no_username": "Brukernavn ikke oppgitt",
 			"username_length": "Brukernavn kan ikke være lengre enn 16 tegn",
 			"invalid_username": "Brukernavn kan bare inneholde bokstaver utenom ÆØÅ, tall og understreker",
@@ -53,15 +53,15 @@
 			"password_too_short": "Passordet må være minst 5 tegn",
 			"password_too_long": "Passordet må være maksimalt 9999 tegn",
 			"passwords_not_matching": "Passordene stemmer ikke overens",
-			"no_email": "Ingen e-post oppgitt",
+			"no_email": "Ingen e-postadresse oppgitt",
 			"invalid_email": "Ikke en gyldig e-postadresse",
 			"no_country": "Ingen bostedsland oppgitt",
-			"disabled": "Registering er deaktivert",
+			"disabled": "Registrering er deaktivert",
 			"unknown_country": "Ukjent bostedsland",
 			"username_taken": "Brukernavnet er allerede tatt",
 			"email_taken": "E-postadresse er allerede registrert",
 			"email_sent": "Bekreftelses-e-posten er sendt til _EMAIL_",
-			"email_length": "E-postadresse må være maksimalt 255 tegn",
+			"email_length": "E-postadresse kan maksimalt være 255 tegn",
 			"account_created": "Bruker _NAME_ ble opprettet"
 		},
 		"guest_account": {
@@ -111,9 +111,9 @@
 			"promo_title": "#1 Anime Musikk Quiz!",
 			"promo_one": {
 				"title": "Uendlige Antall Quizer",
-				"line_one": "35 000+ sanger fra 8 000+ Anime",
+				"line_one": "35 000+ sanger fra 8 000+ anime",
 				"line_two": "Hver quiz er unikt generert",
-				"line_three": "Tilpasset quizer for din MyAnimeList, AniList eller Kitsu",
+				"line_three": "Tilpassede quizer for din MyAnimeList, AniList eller Kitsu",
 				"line_four": "Spill gratis"
 			},
 			"promo_two": {
@@ -136,21 +136,21 @@
 			"unknown_reset_code": "Ukjent Tilbakestillingskode",
 			"wrong_username_password": "Feil brukernavn eller passord",
 			"email_sent": "E-post sendt",
-			"password_updated": "Passord Oppdatert"
+			"password_updated": "Passord oppdatert"
 		},
 		"account_verification": {
-			"title": "Brukerverifikasjon",
+			"title": "Brukerverifisering",
 			"text_one": "_SPAN_ Bruker ikke verifisert _SPAN_, vennligst verifiser e-postadressen din ved å klikke på lenken sendt til _BOLD_ _EMAIL_ _BOLD_.",
 			"text_two": "Mottok du ikke en e-post? Vent opptil et minutt for at e-posten skal komme og sjekk søppelposten din. Hvis du fortsatt ikke mottar e-posten, kan du sende den på nytt eller endre e-postadressen din ved å bruke feltet nedenfor."
 		},
 		"banned_messages": {
 			"title_temp": "Bruker Midlertidlig Utestengt",
 			"title_ban": "Bruker Utestengt",
-			"text_one": "Din bruker har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets Tjenestevilkår.",
+			"text_one": "Din bruker har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets tjenestevilkår.",
 			"text_two": "Din bruker har blitt flagget for brudd på tjenestevilkårene av en moderator, og har derfor blitt utestengt. Du skal ha mottatt en e-post med informasjon om hvorfor du ble utestengt.",
-			"text_three": "Din bruker har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets Tjenestevilkår.",
-			"text_temp": "Siden dette er din første forseelse, har din bruker bare blitt midlertidig utestengt. Men hvis du fortsetter å jukse etter at utstengelesen er opphevet, vil kontoen din bli permanent utestengt.",
-			"text_perm": "Siden dette er din andre forseelse, vil din bruker bli utestengt permanent.",
+			"text_three": "Din bruker har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets tjenestevilkår.",
+			"text_temp": "Siden dette er din første utestengelse, har din bruker bare blitt midlertidig utestengt. Men hvis du fortsetter å jukse etter at utstengelesen er opphevet, vil kontoen din bli permanent utestengt.",
+			"text_perm": "Siden dette er din andre utestengelse, vil din bruker bli utestengt permanent.",
 			"text_end": "Hvis du mener at denne utestengelsen er en feil, kan du lage en ticket på spillets _LINK_ Discord _LINK_ i #open-a-ticket kanalen.",
 			"suspended_until": "Utestengt til"
 		}
@@ -164,7 +164,7 @@
 			"leaderboard": "Toppliste"
 		},
 		"carousel": {
-			"social_promo": "Få Gratis Tickets ved å følge AMQ på Discord og Patreon!",
+			"social_promo": "Få gratis tickets ved å følge AMQ på Discord og Patreon!",
 			"patreon_promo": "Støtt Spillet og Lås opp Eksklusive Belønninger",
 			"sale_names": {
 				"fall": "Høstsalg!",
@@ -183,7 +183,7 @@
 				"spring": "Vårskins",
 				"summer": "Sommerskins",
 				"fall": "Høstskins",
-				"winter": "Winterskins",
+				"winter": "Vinterskins",
 				"halloween": "Halloweenskins",
 				"christmas": "Juleskins",
 				"lunar": "Månefestivalskins",
@@ -199,7 +199,7 @@
 			"weekly_schedule": "Ukeplan",
 			"current_week": "Denne Uken",
 			"what_is": "Hva er \"Dagens Quiz\"?",
-			"what_is_description": "\"Dagens Quiz\" er en daglig quiz med ubegrenset mange deltakere, hvor spillere kan teste sine ferdigheter mot andre i fellesskapet. Det er for øyeblikket delt mellom ranked quizer, en svært konkurransepreget modus, og temaquizer laget av fellesskapet designet for å gi en unik og morsom opplevelse.",
+			"what_is_description": "\"Dagens Quiz\" er en daglig quiz med ubegrenset mange spillere. Hvor spillere kan teste sine ferdigheter mot andre i fellesskapet. Det er for øyeblikket delt mellom ranked quizer, en svært konkurransepreget modus, og temaquizer laget av fellesskapet designet for å gi en unik og morsom opplevelse.",
 			"ranked_description": "Ranked Beskrivelse",
 			"week": "Uke _NUMBER_",
 			"week_year": "Uke _NUMBER_ av _NUMBER_",
@@ -266,12 +266,12 @@
 		"ranked_description": {
 			"title": "Ranked-modus",
 			"description": "Utfordre deg selv mot dine venner og AMQ fellesskapet ved å bli med i ranked games. Hvert ranked game vil gi deg rangeringspoeng, og låser opp nye eksklusive belønninger og bringer deg nærmere å bli med de beste av de beste i regionens masterskap hold i slutten av hver måned._BREAK_ Vær oppmerksom på at brukeren din må være level 10 eller høyere for å spille ranked matcher.",
-			"how_it_works": "Hvordan Det Funker",
+			"how_it_works": "Hvordan Det Fungerer",
 			"regions": "Regioner",
 			"region_description": "Ranked-modusen er delt tre separate regioner (vest, sentral, øst), hver med sin egen toppliste, starttid og mesterskap. Du vil kunne delta i alle regioner, men rangeringspoengene teller bare for regionen de er opptjent i.",
 			"ranked_game": "Ranked Game",
 			"ranked_game_description_one": "30 minutter før starttid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen._BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid",
-			"ranked_game_description_two": "På slutten av hver ranked game, vil du får rangeringspoeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise games, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert games, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 4 poeng hver, de neste fem gir 5 poeng hver, deretter 6 poeng for hver av de neste 5 og så videre.",
+			"ranked_game_description_two": "På slutten av hver ranked game, vil du får rangeringspoeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise games, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert games, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 5 poeng hver, de neste fem gir 6 poeng hver, deretter 7 poeng for hver av de neste fem og så videre.",
 			"end_of_season": "Slutten av Sesongen",
 			"end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, hvor vinneren får tittelen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle rangeringspoengene bli tilbakestilt og en ny sesong starter.",
 			"rules": "Regler",
@@ -284,15 +284,15 @@
 			"weekly_short": "U",
 			"monthly": "Månedlig",
 			"monthly_short": "M",
-			"all_time": "All Tid",
-			"all_time_short": "AT",
+			"all_time": "Alltid",
+			"all_time_short": "A",
 			"donate": "Doner",
 			"faq": "FAQ",
 			"amount": "Beløp",
 			"description": "Doner for hva den neste avataren skal være! Når kampanjen er over, vil avataren som leder bli lagt til spillet! Vær oppmerksom på at kampanjen vil fortsette et par dager etter målet er nådd.",
 			"faq_what_is": {
-				"title": "Hva er en Avatar-kampanje?",
-				"text": "Avatar-kampanjen er din måte å støtte spillet, mens du samtidig påvirker hva fremtidige avatarer vil være. Systemet er ganske enkelt, når du donerer kan du velge hvilken som helst avatar i Avatar-kampanjen eller nominere en ny avatar. Verdien som doneres legges deretter til avatarens totale score, og når målet for kampanjen er oppnådd, vil avataren med høyest score bli lagt til spillet som en fremtidig avatar."
+				"title": "Hva er en avatar-kampanje?",
+				"text": "Avatar-kampanjen er din måte å støtte spillet, mens du samtidig påvirker hva fremtidige avatarer vil være. Systemet er ganske enkelt, når du donerer kan du velge hvilken som helst avatar i avatar-kampanjen eller nominere en ny avatar. Verdien som doneres legges deretter til avatarens totale score, og når målet for kampanjen er oppnådd, vil avataren med høyest score bli lagt til spillet som en fremtidig avatar."
 			},
 			"faq_nomination_type": {
 				"title": "Hvilken type avatarer kan jeg nominere?",
@@ -300,10 +300,10 @@
 			},
 			"faq_existing_avatar": {
 				"title": "Kan jeg nomenere en eksisterende karakter?",
-				"text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for Avatar-kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skin bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\""
+				"text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for avatar-kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skin bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\""
 			},
 			"donate_towards": "Doner for",
-			"nominated_avatar": "Nominasjon Avatar",
+			"nominated_avatar": "Nominert Avatar",
 			"new_avatar": "Ny Avatar",
 			"none": "Ingen",
 			"avatar_description": "Avatar Beskrivelse",
@@ -346,7 +346,7 @@
 				"description": "Spill unike quizer med venner og andre anime-fans"
 			},
 			"community": {
-				"title": "fellesskapet",
+				"title": "Fellesskapet",
 				"description": "Spill tilpassede quizer laget av fellesskapet eller lag dine egne"
 			},
 			"jam": {
