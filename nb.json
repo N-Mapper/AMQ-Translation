@@ -149,7 +149,7 @@
 			"text_one": "Din bruker har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets Tjenestevilkår.",
 			"text_two": "Din bruker har blitt flagget for brudd på tjenestevilkårene av en moderator, og har derfor blitt utestengt. Du skal ha mottatt en e-post med informasjon om hvorfor du ble utestengt.",
 			"text_three": "Din bruker har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets Tjenestevilkår.",
-			"text_temp": "Siden dette er din første forseelse, har din bruker bare blitt midlertidig utestengt. Men hvis du forsetter å jukse etter at utstengelesen er opphevet, vil kontoen din bli permanent utestengt.",
+			"text_temp": "Siden dette er din første forseelse, har din bruker bare blitt midlertidig utestengt. Men hvis du fortsetter å jukse etter at utstengelesen er opphevet, vil kontoen din bli permanent utestengt.",
 			"text_perm": "Siden dette er din andre forseelse, vil din bruker bli utestengt permanent.",
 			"text_end": "Hvis du mener at denne utestengelsen er en feil, kan du lage en ticket på spillets _LINK_ Discord _LINK_ i #open-a-ticket kanalen.",
 			"suspended_until": "Utestengt til"
@@ -199,14 +199,14 @@
 			"weekly_schedule": "Ukeplan",
 			"current_week": "Denne Uken",
 			"what_is": "Hva er \"Dagens Quiz\"?",
-			"what_is_description": "\"Dagens Quiz\" er en daglig ubegrenset størrelse quiz hvor spillerer kan teste sine ferdigheter more andre i felleskapet. Det er for øyeblikket delt mellon ranked quizer, en svært konkurransepreget modus, og temaquizer laget av felleskapet designet for å gi en unik og morsom opplevelse.",
+			"what_is_description": "\"Dagens Quiz\" er en daglig quiz med ubegrenset mange deltakere, hvor spillere kan teste sine ferdigheter mot andre i fellesskapet. Det er for øyeblikket delt mellom ranked quizer, en svært konkurransepreget modus, og temaquizer laget av fellesskapet designet for å gi en unik og morsom opplevelse.",
 			"ranked_description": "Ranked Beskrivelse",
 			"week": "Uke _NUMBER_",
 			"week_year": "Uke _NUMBER_ av _NUMBER_",
 			"championship": "Mesterskap",
-			"championship_description": "Månedens 150 topprangerte spiller kjemper om sjansen om å bli månedens mester!",
+			"championship_description": "Månedens 150 topprangerte spillere kjemper om sjansen om å bli månedens mester!",
 			"rest_day": "Hviledag",
-			"rest_day_description": "Ingen quizer dagen etter masterskapet.",
+			"rest_day_description": "Ingen quizer dagen etter mesterskapet.",
 			"ranked": "Ranked",
 			"ranked_finished": "Ferdig",
 			"ranked_types": {
@@ -265,17 +265,17 @@
 		},
 		"ranked_description": {
 			"title": "Ranked-modus",
-			"description": "Utfordre deg selv mot dine venner og AMQ felleskapet ved å bli med i ranked games. Hvert ranked game vil gi deg rangeringspoeng, og låser opp nye eksklusive belønninger og bringer deg nærmere å bli med de beste av de beste i regionens masterskap hold i slutten av hver måned._BREAK_ Vær oppmerksom på at brukeren din må være level 10 eller høyere for å spille ranked matcher.",
+			"description": "Utfordre deg selv mot dine venner og AMQ fellesskapet ved å bli med i ranked games. Hvert ranked game vil gi deg rangeringspoeng, og låser opp nye eksklusive belønninger og bringer deg nærmere å bli med de beste av de beste i regionens masterskap hold i slutten av hver måned._BREAK_ Vær oppmerksom på at brukeren din må være level 10 eller høyere for å spille ranked matcher.",
 			"how_it_works": "Hvordan Det Funker",
 			"regions": "Regioner",
 			"region_description": "Ranked-modusen er delt tre separate regioner (vest, sentral, øst), hver med sin egen toppliste, starttid og mesterskap. Du vil kunne delta i alle regioner, men rangeringspoengene teller bare for regionen de er opptjent i.",
 			"ranked_game": "Ranked Game",
 			"ranked_game_description_one": "30 minutter før starttid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen._BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid",
-			"ranked_game_description_two": "På slutten av hver ranked game, vil du får rangeringspoeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise games, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert games, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 4 poeng hver, de neste fem gir 5 peong hver, deretter 6 poeng for hver av de neste 5 og så videre.",
+			"ranked_game_description_two": "På slutten av hver ranked game, vil du får rangeringspoeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise games, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert games, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 4 poeng hver, de neste fem gir 5 poeng hver, deretter 6 poeng for hver av de neste 5 og så videre.",
 			"end_of_season": "Slutten av Sesongen",
-			"end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, hvor vinneren får tittlen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle rangeringspoengene bli tilbakestilt og en ny sesong starter.",
+			"end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, hvor vinneren får tittelen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle rangeringspoengene bli tilbakestilt og en ny sesong starter.",
 			"rules": "Regler",
-			"rules_description": "Ranked-modusen er en test av individuelle ferdigeter, så det er viktig at du ikke deler hint eller svar med andre spillere. Alle verktøy, metoder og programvarer som gir deg en urettferdig fordel er ikke tillatt (som er det er for alle modusene). _BREAK_ Brudd på reglene ovenfor kan føre til at brukeren din blir utestengt og alle ranked belønninger blir fjernet."
+			"rules_description": "Ranked-modusen er en test av individuelle ferdigheter, så det er viktig at du ikke deler hint eller svar med andre spillere. Alle verktøy, metoder og programvarer som gir deg en urettferdig fordel er ikke tillatt (som er det er for alle modusene). _BREAK_ Brudd på reglene ovenfor kan føre til at brukeren din blir utestengt og alle ranked belønninger blir fjernet."
 		},
 		"avatar_drive": {
 			"standings": "Stillingen",
@@ -289,7 +289,7 @@
 			"donate": "Doner",
 			"faq": "FAQ",
 			"amount": "Beløp",
-			"description": "Doner for hva den neste avataren skal være! Når kampanjen er over, vil avataren som leder bli lagt til spillet! Vær oppmerkson på at kampanjen vil fortsette et par dager etter målet er nådd.",
+			"description": "Doner for hva den neste avataren skal være! Når kampanjen er over, vil avataren som leder bli lagt til spillet! Vær oppmerksom på at kampanjen vil fortsette et par dager etter målet er nådd.",
 			"faq_what_is": {
 				"title": "Hva er en Avatar-kampanje?",
 				"text": "Avatar-kampanjen er din måte å støtte spillet, mens du samtidig påvirker hva fremtidige avatarer vil være. Systemet er ganske enkelt, når du donerer kan du velge hvilken som helst avatar i Avatar-kampanjen eller nominere en ny avatar. Verdien som doneres legges deretter til avatarens totale score, og når målet for kampanjen er oppnådd, vil avataren med høyest score bli lagt til spillet som en fremtidig avatar."
@@ -300,7 +300,7 @@
 			},
 			"faq_existing_avatar": {
 				"title": "Kan jeg nomenere en eksisterende karakter?",
-				"text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for Avatar-kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skin bli lagg til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\""
+				"text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for Avatar-kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skin bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\""
 			},
 			"donate_towards": "Doner for",
 			"nominated_avatar": "Nominasjon Avatar",
@@ -322,7 +322,7 @@
 				},
 				"donation_error": { "title": "Donasjonsfeil" },
 				"donation_received": {
-					"title": "Donasjon Mottat",
+					"title": "Donasjon Mottatt",
 					"text": "Takk for at du støtter spillet!"
 				},
 				"use_free_donation": {
@@ -346,12 +346,12 @@
 				"description": "Spill unike quizer med venner og andre anime-fans"
 			},
 			"community": {
-				"title": "Felleskapet",
-				"description": "Spill tilpassede quizer laget av felleskapet eller lag dine egne"
+				"title": "fellesskapet",
+				"description": "Spill tilpassede quizer laget av fellesskapet eller lag dine egne"
 			},
 			"jam": {
 				"title": "Jam Quiz",
-				"description": "En uendelig quiz hvor spiller kan hoppe inn og ut når som helst"
+				"description": "En uendelig quiz hvor spillere kan hoppe inn og ut når som helst"
 			},
 			"nexus": {
 				"title": "Nexus",
@@ -369,11 +369,11 @@
 				"custom_alert_description": "Legg til en URL til din oversettelsesfil",
 				"custom_failed_to_load": {
 					"title": "Kunne ikke laste inn valgt språk",
-					"text": "Kunne ikke last den valgte oversettelsesfilen fra den oppgitte URL-en."
+					"text": "Kunne ikke laste den valgte oversettelsesfilen fra den oppgitte URL-en."
 				},
 				"custom_wrong_format": {
 					"title": "Oversettelesesfil Format Feil",
-					"text": "Den oppgitte oversettelesefilen er ikke i riktig format. Se nettleserkonsollen for mer informasjon."
+					"text": "Den oppgitte oversettelsesfilen er ikke i riktig format. Se nettleserkonsollen for mer informasjon."
 				}
 			}
 		}
