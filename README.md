@@ -3,7 +3,7 @@ This is a translation of [AMQ](https://animemusicquiz.com/) into Norwegian.
 
 Currently all the translation has been done by [NMapper](https://github.com/N-Mapper) so most decisions have been by them, with some community input. Generally it has been attempted to use as many Norwegian word as possible, unless there is a reasonable usage of an English word or phrase either in common Norwegian usage or is common Norwegian gamer vocabulary. 
 
-**Currently none of Guidelines are final.** Due to the size of the current translation group pretty much exclusively consisting of NMapper, and may change at a later date.
+**Currently none of Guidelines are NOT final.** Due to the size of the current translation group pretty much exclusively consisting of NMapper, and may change at a later date.
 
 ## Deliberate Word choices
 - Community - Felleskap
