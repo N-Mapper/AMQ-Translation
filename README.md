@@ -1,2 +1,2 @@
 Link to most recent version:
-https://files.catbox.moe/mik473.json
+https://files.catbox.moe/vdnwvs.json
