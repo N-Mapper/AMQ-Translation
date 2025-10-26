@@ -86,7 +86,7 @@
 		},
 		"popout_messages": {
 			"create_guest_account": {
-				"title": "Lag Gjestebruker",
+				"title": "Lag gjestebruker",
 				"text": "Ved å lage en gjestebruker godtar du _LINK_ tjenestevilkårene _LINK_ og _LINK_ personvernerklæringen _LINK_.",
 				"error_title": "Feil ved oppretting av gjestebruker",
 				"error_disabled": "Gjestebrukere er deaktivert"
@@ -165,7 +165,7 @@
 		},
 		"carousel": {
 			"social_promo": "Få gratis tickets ved å følge AMQ på Discord og Patreon!",
-			"patreon_promo": "Støtt Spillet og Lås opp Eksklusive Belønninger",
+			"patreon_promo": "Støtt spillet og lås opp eksklusive belønninger",
 			"sale_names": {
 				"fall": "Høstsalg!",
 				"summer": "Sommersalg!",
@@ -191,7 +191,7 @@
 				"summer_games": "Sommerlekerskins"
 			},
 			"skin_text": "Få eksklusive skins for å støtte AMQ!",
-			"skin_footer": "Tilgjengelig Nå"
+			"skin_footer": "Tilgjengelig nå"
 		},
 		"quiz_of_the_day": {
 			"title": "Dagens quiz",
@@ -251,14 +251,14 @@
 			},
 			"popout_messages": {
 				"weekly_quiz": {
-					"title": "Quiz Ukeplan",
+					"title": "Quiz ukeplan",
 					"text": "Se quiz ukeplanen og finn mer informasjon om modusen"
 				},
 				"region_time": { "text": "Region og tid til neste quiz" }
 			},
 			"alerts": {
 				"ranked_rules": {
-					"title": "Ranked Regler",
+					"title": "Ranked regler",
 					"text": "Ved å spille ranked samtykker du til at du ikke vil hinte eller dele svar med andre spillere, eller bruke verktøy, metoder eller programvare som gir deg en urettferdig fordel."
 				}
 			}
@@ -306,7 +306,7 @@
 			"nominated_avatar": "Nominert avatar",
 			"new_avatar": "Ny avatar",
 			"none": "Ingen",
-			"avatar_description": "Avatar Beskrivelse",
+			"avatar_description": "Avatar beskrivelse",
 			"Mavatar_description_placeholder": "Kort beskrivelse av avatar",
 			"nomination": "Nominasjon",
 			"anonymous_donation": "Anonym donasjon",
