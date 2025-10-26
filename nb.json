@@ -364,15 +364,15 @@
 			"language": {
 				"custom": "Bruk egen",
 				"custom_description": "Legg til en oversettelsesfil for å teste den i spillet",
-				"custom_title": "Velg Oversettelsesfil",
+				"custom_title": "Velg oversettelsesfil",
 				"custom_placeholder": "URL til oversettelsesfilen",
 				"custom_alert_description": "Legg til en URL til din oversettelsesfil",
 				"custom_failed_to_load": {
-					"title": "Språkinnlastingsfeil",
+					"title": "Filinnlastingsfeil",
 					"text": "Kunne ikke laste den valgte oversettelsesfilen fra den oppgitte URL-en."
 				},
 				"custom_wrong_format": {
-					"title": "Oversettelesesfil Format Feil",
+					"title": "Oversettelesesfil format feil",
 					"text": "Den oppgitte oversettelsesfilen er ikke i riktig format. Se nettleserkonsollen for mer informasjon."
 				}
 			}
