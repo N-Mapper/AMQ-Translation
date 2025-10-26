@@ -21,4 +21,4 @@ Currently all the translation has been done by [NMapper](https://github.com/N-Ma
 - Skin - Currently not translated
 
 # Test Link
-https://raw.githubusercontent.com/N-Mapper/AMQ-Translation/refs/heads/main/nb.json
+https://raw.githack.com/N-Mapper/AMQ-Translation/refs/heads/main/nb.json
