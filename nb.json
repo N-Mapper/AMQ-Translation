@@ -107,7 +107,7 @@
 			"forgot_password_text": "Skriv inn e-postadressen som ble brukt for å registrere brukeren din, for å få tilsendt en lenke for å tilbakestille passordet ditt.",
 			"reset_password_title": "Tilbakestill passord",
 			"missing_information": "Mangler brukerinfo",
-			"missing_country": "Brukeren din mangler bostedsland, vennligst velg det nedenfor",
+			"missing_country": "Brukeren din mangler bostedsland, vennligst velg det nedenfor.",
 			"promo_title": "#1 anime musikk quiz!",
 			"promo_one": {
 				"title": "Uendlige antall quizer",
@@ -270,7 +270,7 @@
 			"regions": "Regioner",
 			"region_description": "Ranked-modusen er delt tre separate regioner (vest, sentral, øst), hver med sin egen ledertavle, starttid og mesterskap. Du vil kunne delta i alle regioner, men rangeringspoengene teller bare for regionen de er opptjent i.",
 			"ranked_game": "Ranked game",
-			"ranked_game_description_one": "30 minutter før starttid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen._BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid",
+			"ranked_game_description_one": "30 minutter før starttid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen._BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid.",
 			"ranked_game_description_two": "På slutten av hver ranked game, vil du får rangeringspoeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise games, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert games, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 5 poeng hver, de neste fem gir 6 poeng hver, deretter 7 poeng for hver av de neste fem og så videre.",
 			"end_of_season": "Slutten av sesongen",
 			"end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, hvor vinneren får tittelen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle rangeringspoengene bli tilbakestilt og en ny sesong starter.",
@@ -300,7 +300,7 @@
 			},
 			"faq_existing_avatar": {
 				"title": "Kan jeg nomenere en eksisterende karakter?",
-				"text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for avatar-kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skin bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\""
+				"text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for avatar-kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skin bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\"."
 			},
 			"donate_towards": "Doner for",
 			"nominated_avatar": "Nominert avatar",
@@ -363,7 +363,7 @@
 		"settings": {
 			"language": {
 				"custom": "Bruk egen",
-				"custom_description": "Legg til en oversettelsesfil for å teste den i spillet",
+				"custom_description": "Legg til en oversettelsesfil for å teste den i spillet.",
 				"custom_title": "Velg oversettelsesfil",
 				"custom_placeholder": "URL til oversettelsesfilen",
 				"custom_alert_description": "Legg til en URL til din oversettelsesfil",
