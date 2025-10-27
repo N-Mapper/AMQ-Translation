@@ -18,7 +18,7 @@ Currently all the translation has been done by [NMapper](https://github.com/N-Ma
 - **Skin** - While some games translate the "skin" into some Norwegian word, we have decided to stick with the original English word.
 
 ## Words Needing Deliberation
-- **Ranked** - Slightly inconsistently translated. Where the gamemode is not translated, but the points of the game is translated, as rangeringspoeng
+- **Ranked** - Currently not translated.
 - **Novice** - Currently translated "Novise". 
 
 
