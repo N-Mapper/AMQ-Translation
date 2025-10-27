@@ -216,7 +216,7 @@
 				},
 				"expert": {
 					"title": "Ekspert",
-					"description": "85 sanger målrettet mot erfarne spillere. Belønner med ekstra rangeringspoeng"
+					"description": "85 sanger målrettet mot erfarne spillere. Belønner med ekstra ranked-poeng"
 				}
 			},
 			"states": {
@@ -265,15 +265,15 @@
 		},
 		"ranked_description": {
 			"title": "Ranked-modus",
-			"description": "Utfordre deg selv mot dine venner og AMQ fellesskapet ved å bli med i ranked games. Hvert ranked game vil gi deg rangeringspoeng, og låser opp nye eksklusive belønninger og bringer deg nærmere å bli med de beste av de beste i regionens masterskap hold i slutten av hver måned._BREAK_ Vær oppmerksom på at brukeren din må være level 10 eller høyere for å spille ranked matcher.",
+			"description": "Utfordre deg selv mot dine venner og AMQ fellesskapet ved å bli med i ranked games. Hvert ranked game vil gi deg ranked-poeng, og låser opp nye eksklusive belønninger og bringer deg nærmere å bli med de beste av de beste i regionens masterskap hold i slutten av hver måned._BREAK_ Vær oppmerksom på at brukeren din må være level 10 eller høyere for å spille ranked matcher.",
 			"how_it_works": "Hvordan det fungerer",
 			"regions": "Regioner",
-			"region_description": "Ranked-modusen er delt tre separate regioner (vest, sentral, øst), hver med sin egen ledertavle, starttid og mesterskap. Du vil kunne delta i alle regioner, men rangeringspoengene teller bare for regionen de er opptjent i.",
+			"region_description": "Ranked-modusen er delt tre separate regioner (vest, sentral, øst), hver med sin egen ledertavle, starttid og mesterskap. Du vil kunne delta i alle regioner, men ranked-poengene teller bare for regionen de er opptjent i.",
 			"ranked_game": "Ranked game",
 			"ranked_game_description_one": "30 minutter før starttid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen._BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid.",
-			"ranked_game_description_two": "På slutten av hver ranked game, vil du får rangeringspoeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise games, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert games, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 5 poeng hver, de neste fem gir 6 poeng hver, deretter 7 poeng for hver av de neste fem og så videre.",
+			"ranked_game_description_two": "På slutten av hver ranked game, vil du får ranked-poeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise games, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert games, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 5 poeng hver, de neste fem gir 6 poeng hver, deretter 7 poeng for hver av de neste fem og så videre.",
 			"end_of_season": "Slutten av sesongen",
-			"end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, hvor vinneren får tittelen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle rangeringspoengene bli tilbakestilt og en ny sesong starter.",
+			"end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, hvor vinneren får tittelen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle ranked-poengene bli tilbakestilt og en ny sesong starter.",
 			"rules": "Regler",
 			"rules_description": "Ranked-modusen er en test av individuelle ferdigheter, så det er viktig at du ikke deler hint eller svar med andre spillere. Alle verktøy, metoder og programvarer som gir deg en urettferdig fordel er ikke tillatt (som er det er for alle modusene). _BREAK_ Brudd på reglene ovenfor kan føre til at brukeren din blir utestengt og alle ranked-belønninger blir fjernet."
 		},
