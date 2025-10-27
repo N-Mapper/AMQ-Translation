@@ -1,9 +1,9 @@
 # Translation Guidelines
 This is a translation of [AMQ](https://animemusicquiz.com/) into Norwegian. 
 
-Currently all the translation has been done by [NMapper](https://github.com/N-Mapper) so most decisions have been by them, with some community input. Generally it has been attempted to use as many Norwegian word as possible, unless there is a reasonable usage of an English word or phrase either in common Norwegian usage or is common Norwegian gamer vocabulary. 
+Generally it has been attempted to use as many Norwegian word as possible, and only use English words when it relating to gaming terms (i.e., offline, ranked, skin),  things that can be seen as proper nouns (i.e. Nexus, in-game currencies), when there English terminology has been used in other circumstances (i.e. game and match in tennis) or when the Norwegian translation has little to no usage (i.e. FAQ).
 
-**Currently none of Guidelines are final.** Due to the size of the current translation group pretty much exclusively consisting of NMapper, and may change at a later date.
+**Currently guidelines are NOT final.** Due to the size of the current translation group there has been few lenghty discussions about translation guideline, and therefore they may change at a later date when more deiscussions are done.
 
 ## Deliberate Word choices
 - Community - Felleskap
