@@ -36,7 +36,7 @@
 		},
 		
 		"popout_messages": {
-			"unexpected_error": "Uforventet feil",
+			"unexpected_error": "Uventet feil",
 			"please_try_again": "Prøv igjen",
 			"error_contacting_server": "Servertilkoblingsfeil",
 			"internal_server_error": "Intern serverfeil",
@@ -132,7 +132,7 @@
 		"messages": {
 			"account_verified": "Bruker er verifisert, du kan nå logge inn",
 			"account_verified_guest": "Bruker er verifisert, du kan nå lukke denne fanen",
-			"verification_error": "Brukerverifiseringsfeil: En uforventet feil oppstod",
+			"verification_error": "Brukerverifiseringsfeil: En uventet feil oppstod",
 			"unknown_reset_code": "Ukjent tilbakestillingskode",
 			"wrong_username_password": "Feil brukernavn eller passord",
 			"email_sent": "E-post sendt",
