@@ -19,7 +19,7 @@ Currently all the translation has been done by [NMapper](https://github.com/N-Ma
 
 ## Words Needing Deliberation
 - **Ranked** - Currently not translated.
-- **Novice** - Currently translated "Novise". 
+- **Novice** - Currently translated as "Novise". 
 
 
 # Test Link
