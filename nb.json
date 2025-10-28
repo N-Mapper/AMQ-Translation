@@ -32,7 +32,7 @@
 			"loading": "Laster inn",
 			"play": "Spill",
 			"use_button": "Bruk",
-			"claim_button": "Hevd"
+			"claim_button": "Motta"
 		},
 		
 		"popout_messages": {
@@ -333,7 +333,7 @@
 		},
 		"social_rewards": {
 			"title": "Sosiale media belønning",
-			"description": "Som en takk for at du følger spillets Discord og Patreon, så vil du motta 8 ticket som belønning for å følge hver av dem. _BREAK_ Sørg for å bli med i _LINK_ Discord-en _LINK_ før du hevder Discord-belønningen. _BREAK_ Sørg for å bli med (gratis) eller støtt _LINK_ Patreon-en _LINK_ før du hevder Patreon-belønnigen."
+			"description": "Som en takk for at du følger spillets Discord og Patreon, så vil du motta 8 ticket som belønning for å følge hver av dem. _BREAK_ Sørg for å bli med i _LINK_ Discord-en _LINK_ før du kan motta Discord-belønningen. _BREAK_ Sørg for å bli med (gratis) eller støtt _LINK_ Patreon-en _LINK_ før du kan motta Patreon-belønnigen."
 		},
 		"game_mode": {
 			"title": "Modus",
