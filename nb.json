@@ -19,7 +19,7 @@
 			"change_button": "Endre",
 			"logout_button": "Logg ut",
 			"confirm_button": "Bekreft",
-			"continue_button": "Forsett",
+			"continue_button": "Fortsett",
 			"ok_button": "OK",
 			"cancel_button": "Avbryt",
 			"load_button": "Last inn",
@@ -144,7 +144,7 @@
 			"text_two": "Mottok du ikke en e-post? Vent opptil ett minutt for at e-posten skal komme og sjekk søppelposten din. Hvis du fortsatt ikke mottar e-posten, kan du sende den på nytt eller endre e-postadressen din ved å bruke feltet nedenfor."
 		},
 		"banned_messages": {
-			"title_temp": "Konto midlertidlig utestengt",
+			"title_temp": "Konto midlertidig utestengt",
 			"title_ban": "Konto utestengt",
 			"text_one": "Din konto har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets tjenestevilkår.",
 			"text_two": "Din konto har blitt flagget for brudd på tjenestevilkårene av en moderator, og har derfor blitt utestengt. Du skal ha mottatt en e-post med informasjon om hvorfor du ble utestengt.",
@@ -195,7 +195,7 @@
 		},
 		"quiz_of_the_day": {
 			"title": "Dagens quiz",
-			"time_slots": "Quiz tidspunkt",
+			"time_slots": "Quiz tidspunkter",
 			"weekly_schedule": "Ukeplan",
 			"current_week": "Denne uken",
 			"what_is": "Hva er \"dagens quiz\"?",
@@ -333,7 +333,7 @@
 		},
 		"social_rewards": {
 			"title": "Sosiale media belønning",
-			"description": "Som en takk for at du følger spillets Discord og Patreon, så vil du motta 8 ticket som belønning for å følge hver av dem. _BREAK_ Sørg for å bli med i _LINK_ Discord-en _LINK_ før du kan motta Discord-belønningen. _BREAK_ Sørg for å bli med (gratis) eller støtt _LINK_ Patreon-en _LINK_ før du kan motta Patreon-belønnigen."
+			"description": "Som en takk for at du følger spillets Discord og Patreon, så vil du motta 8 tickets som belønning for å følge hver av dem. _BREAK_ Sørg for å bli med i _LINK_ Discord-en _LINK_ før du kan motta Discord-belønningen. _BREAK_ Sørg for å bli med (gratis) eller støtt _LINK_ Patreon-en _LINK_ før du kan motta Patreon-belønnigen."
 		},
 		"game_mode": {
 			"title": "Modus",
