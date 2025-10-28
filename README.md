@@ -16,9 +16,10 @@ Generally it has been attempted to use as many Norwegian word as possible, and o
 - **Ticket**, **Rhythm**, **Avatar Token** - These are seen as in-game currency and decided therefore not to translate them into Norwegian similar to real life currencies
 - **Match**, **Game** - Decided to translate this like if they where tennis terms
 - **Skin** - While some games translate the "skin" into some Norwegian word, we have decided to stick with the original English word.
+- **Ranked** - Decided to not to translate.
 
 ## Words Needing Deliberation
-- **Ranked** - Currently not translated.
+
 - **Novice** - Currently translated as "Novise". 
 
 
