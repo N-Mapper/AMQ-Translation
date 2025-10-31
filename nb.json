@@ -61,7 +61,7 @@
 			"terms_of_service": "Du må godta tjenestevilkårene for å registrere",
 			"no_username": "Brukernavn ikke oppgitt",
 			"username_length": "Brukernavn kan ikke være lengre enn 16 tegn",
-			"invalid_username": "Brukernavn kan bare inneholde bokstaver utenom ÆØÅ, tall og understreker",
+			"invalid_username": "Brukernavn kan bare inneholde bokstaver (utenom ÆØÅ), tall og understreker",
 			"amq_username": "Brukernavnet \"AMQ\" er reservert og kan ikke brukes",
 			"password_too_short": "Passordet må være på minst 5 tegn",
 			"password_too_long": "Passordet må være på maksimalt 9999 tegn",
@@ -576,81 +576,81 @@
 	},
 	"patreon_window": {
 		"title": "Patreon",
-		"MISSING-description": "Help support the operation and development of AMQ by backing the game on Patreon. Working on and sharing AMQ with you all has been and is an amazing experience, and I have so much more I want to do with the game. By backing the Patreon you'll help me not only cover the costs of running the game, but also continue its development! As a special thanks, you'll get several exclusive rewards!",
+		"MISSING-description": "Støtt driften og utviklingen av AMQ ved å støtte spillet på Patreon. Å jobbe med og dele AMQ med alle dere har vært og er en utrolig opplevelse, og jeg har så mye mer jeg ønsker å gjøre med spillet. Ved å støtte Patreon-en vil du ikke bare hjelpe meg dekke utgiftene til spillet, men fortsette utviklingen av det! Som en spesiell takk får du flere eksklusive belønninger!",
 		"reward_examples": {
-			"MISSING-title": "Some of the Patreon Rewards",
-			"MISSING-sneak_peeks": "Sneak Peeks",
-			"MISSING-patreon_badge": "Patreon Badges",
-			"MISSING-custom_emotes": "Custom Emotes",
-			"MISSING-monthly_tickets": "Monthly Tickets"
+			"title": "Noen Patreon-belønninger",
+			"sneak_peeks": "Sniktitter",
+			"patreon_badge": "Patreon-merker",
+			"custom_emotes": "Egene emojier",
+			"monthly_tickets": "Månedlige tickets"
 		},
-		"MISSING-already_a_backer": "Already a Backer?",
-		"MISSING-link_account": "Link Patreon Account",
-		"MISSING-become_a_backer": "Become a Backer",
-		"MISSING-patreon_linked": "Patreon Linked!",
+		"already_a_backer": "Allerede medlem?",
+		"link_account": "Koble til Patreon-konto",
+		"become_a_backer": "Bli medlem",
+		"patreon_linked": "Patreon koblet til!",
 		"backer_level": {
-			"MISSING-title": "Backer Level",
-			"MISSING-tier": "Level _NUMBER_",
-			"rewards": { "MISSING-emotes": "_NUMBER_ Emotes", "MISSING-tickets": "_NUMBER_ Tickets" }
+			"title": "Medlemsnivå",
+			"tier": "Nivå _NUMBER_",
+			"rewards": { "emotes": "_NUMBER_ emoji", "tickets": "_NUMBER_ tickets" }
 		},
-		"MISSING-badge_level": "Badge Level",
-		"MISSING-badge_level_info": "Your badge level is equal to the concurrent months you've been a level 2 or higher backer of the Patreon",
-		"MISSING-patreon_page": "Patreon Page",
-		"MISSING-relink": "Relink",
-		"MISSING-update_info": "Update Info",
-		"MISSING-unlink_account": "Unlink Account",
-		"MISSING-linked_account": "Linked Account",
+		"badge_level": "Merkenivå",
+		"badge_level_info": "Ditt merke nivå tilsvarer antall måneder du har vært medlem på nivå 2 eller høyere på Patreon",
+		"patreon_page": "Patreon Page",
+		"relink": "Koble til på nytt",
+		"update_info": "Oppdater info",
+		"unlink_account": "Koble fra bruker",
+		"linked_account": "Tilkoblet bruker",
 		"emotes": {
-			"MISSING-title": "Emotes",
-			"MISSING-upload": "Upload",
-			"MISSING-close": "Close",
-			"MISSING-manage": "Manage",
-			"MISSING-empty": "Empty",
+			"title": "Emoji",
+			"upload": "Last opp",
+			"close": "Lukk",
+			"manage": "Administrer",
+			"empty": "Tom",
 			"states": {
-				"waiting_approval": { "MISSING-name": "Waiting Approval", "MISSING-shorthand": "W" },
-				"active": { "MISSING-name": "Active", "MISSING-shorthand": "A" },
-				"disabled": { "MISSING-name": "Disabled", "MISSING-shorthand": "D" }
+				"waiting_approval": { "name": "Venter på godkjenning", "shorthand": "V" },
+				"active": { "name": "Aktiv", "shorthand": "A" },
+				"disabled": { "name": "Deaktivert", "shorthand": "D" }
 			},
-			"MISSING-error_deleting": "Error Deleting Emote",
+			"error_deleting": "Emojislettingsfeil",
 			"upload_emote": {
-				"MISSING-title": "Upload Emote",
+				"MISSING-title": "Last opp emoji",
 				"description": {
-					"MISSING-line_one": "_BOLD_ Slots Left _BOLD_",
-					"MISSING-line_two": "Standard: _NUMBER_",
-					"MISSING-line_three": "Animated: _NUMBER_"
+					"line_one": "_BOLD_ Plasser igjen _BOLD_",
+					"line_two": "Standard: _NUMBER_",
+					"line_three": "Animerte: _NUMBER_"
 				},
-				"MISSING-confirm_button": "Select File",
-				"MISSING-footer": "Accepted File Formats: png (Standard), gif (Animated). Max Filesize: 256kb",
+				"confirm_button": "Velg fil",
+				"footer": "Aksepterte filformater: .png (Standard), gif (Animert). Maksimal filstørrelse: 256kb",
 				"file_too_large": {
-					"MISSING-title": "File Too Big",
-					"MISSING-description": "Max filesize is 256kb. Provided file is _NUMBER_kb"
+					"title": "Fil for stor",
+					"description": "Maksimale filstørrelse er 256kb. DEn oppgitte filen er _NUMBER_kb"
 				},
 				"no_standard_slot": {
-					"MISSING-title": "No Standard Slot Available",
-					"MISSING-description": "You don't have any empty standard emote slots available"
+					"title": "Ingen standard plasser igjen",
+					"description": "Du har ingen ledige standard emoji plasser igjen"
 				},
 				"no_animated_slot": {
-					"MISSING-title": "No Animated Slot Available",
-					"MISSING-description": "You don't have any empty animated emote slots available"
+					"title": "Ingen animerte plasser igjen",
+					"description": "Du har ingen ledige standard emoji plasser igjen"
 				},
 				"selected_image": {
-					"MISSING-title": "Selected Image",
-					"MISSING-image": "Image",
-					"MISSING-resulting_emote": "Resulting Emote",
-					"MISSING-placeholder": "Emote Name",
+					"title": "Valgt Bilde",
+					"image": "Bilde",
+					"resulting_emote": "Resulterende emoji",
+					"placeholder": "Emojinavn",
 					"errors": {
-						"MISSING-no_name": "You must provide an emote name",
-						"MISSING-name_format": "Emote names can only contain letters and numbers",
-						"MISSING-name_length": "Emote names must be at most _NUMBER_ characters"
+						"no_name": "Du må oppgi et navn på emojien",
+						"name_format": "Emojinavnet kan bare inneholde bokstaver (utenom ÆØÅ) og tall",
+						"name_length": "Emojinavnet må være på maksimalt _NUMBER_ tegn."
 					}
 				},
 				"server_rejected": {
-					"MISSING-title": "Error Uploading Emote",
-					"MISSING-description": "The server rejected the emote upload."
+					"title": "Emojiopplastningsfeil",
+					"description": "Servern avviste opplastingen av emojien."
 				},
 				"emote_uploaded": {
-					"MISSING-title": "Emote Uploaded",
-					"MISSING-description": "Your emote has been successfully uploaded and is pending approval"
+					"title": "Emoji opplastet",
+					"description": "Din Emoji ble lastet opp og venter på godkjenning"
 				}
 			}
 		}
