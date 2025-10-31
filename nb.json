@@ -233,20 +233,20 @@
 			},
 			"states": {
 				"ranked": {
-					"offline": "Ranked - Offline",
+					"offline": "Ranked - Frakoblet",
 					"lobby": "Ranked - Lobby åpen",
 					"playing": "Ranked - Spilles",
 					"completed": "Ranked - Ferdig",
 					"rest_day": "Ranked - Hviledag"
 				},
 				"themed": {
-					"offline": "Temaquiz - Offline",
+					"offline": "Temaquiz - Frakoblet",
 					"playing": "Temaquiz - Spilles",
 					"completed": "Temaquiz - Ferdig",
 					"lobby": "Temaquiz - Lobby åpen"
 				},
 				"championship": {
-					"offline": "Mesterskap - Offline",
+					"offline": "Mesterskap - Frakoblet",
 					"playing": "Mesterskap - Spilles",
 					"completed": "Mesterskap - Ferdig",
 					"lobby": "Mesterskap - Lobby åpen"
@@ -361,7 +361,7 @@
 		"game_mode": {
 			"title": "Modus",
 			"solo": {
-				"title": "Enkeltspiller",
+				"title": "Solo",
 				"description": "Utfordre deg selv med et ubegrenset antall personlige unike quizer"
 			},
 			"multiplayer": {
@@ -401,61 +401,61 @@
 			}
 		},
 		"friend_list": {
-			"MISSING-friends": "Friends",
-			"MISSING-total": "Total",
-			"MISSING-all": "All",
+			"friends": "Venner",
+			"total": "Totall",
+			"all": "Alle",
 			"statuses": {
-				"MISSING-online": "Online",
-				"MISSING-offline": "Offline",
-				"MISSING-away": "Away",
-				"MISSING-do_not_disturb": "Do Not Disturb",
-				"MISSING-invisible": "Invisible",
-				"MISSING-playing_nexus": "Playing _NAME_ Nexus",
-				"MISSING-in_nexus_lobby": "In _NAME_ Nexus Lobby",
-				"MISSING-in_lobby": "In _NAME_ Lobby",
-				"MISSING-spectating_quiz": "Spectating _NAME_ Quiz",
-				"MISSING-in_quiz": "In _NAME_ Quiz",
+				"online": "Frakoblet",
+				"offline": "Pålogget",
+				"away": "Borte",
+				"do_not_disturb": "Ikke forstyrr",
+				"invisible": "Usynlig",
+				"playing_nexus": "Spiller _NAME_ Nexus",
+				"in_nexus_lobby": "I _NAME_ Nexus Lobby",
+				"in_lobby": "I _NAME_ Lobby",
+				"spectating_quiz": "Tilskuere til en _NAME_ Quiz",
+				"in_quiz": "I _NAME_ Quiz",
 				"mode_names": {
-					"MISSING-co-op": "Co-Op",
-					"MISSING-private": "Private",
-					"MISSING-jam": "Jam",
-					"MISSING-event": "Event",
-					"MISSING-solo": "Solo"
+					"co-op": "Co-Op",
+					"private": "Privat",
+					"jam": "Jam",
+					"event": "Event",
+					"solo": "Solo"
 				}
 			},
 			"options": {
-				"MISSING-report": "Report",
-				"MISSING-remove_friend": "Remove Friend",
-				"MISSING-join_game": "Join Game"
+				"report": "Rapporter",
+				"remove_friend": "Fjern venn",
+				"join_game": "Bli med i game"
 			},
 			"popout_messages": {
-				"MISSING-not_in_game": "You are not in a game",
-				"MISSING-solo_game_invite": "Can't invite players to solo games"
+				"not_in_game": "Du er ikke i et game",
+				"solo_game_invite": "Kan ikke invitere spiller til et sologame"
 			}
 		},
 		"menu": {
-			"MISSING-patreon": "Patreon",
-			"MISSING-donate": "Donate",
-			"MISSING-song_history": "Song History",
-			"MISSING-settings": "Settings",
-			"MISSING-blocked_players": "Blocked Players",
-			"MISSING-change_password": "Change Password",
-			"MISSING-leaderboard": "Leaderboard",
-			"MISSING-tutorial": "Tutorial",
-			"MISSING-guidelines": "Guidelines",
-			"MISSING-about": "About",
-			"MISSING-logout": "Logout"
+			"patreon": "Patreon",
+			"donate": "Doner",
+			"song_history": "Sanghistorie",
+			"settings": "Innstillinger",
+			"blocked_players": "Blokkerte spillere",
+			"change_password": "Byttoassord",
+			"leaderboard": "Ledertavle",
+			"tutorial": "Veiledning",
+			"guidelines": "Retningslinjer",
+			"about": "Om",
+			"logout": "Logg ut"
 		},
 		"video_host": {
-			"MISSING-title": "Video Host Connections",
-			"MISSING-description": "Connection status to the different video servers",
-			"MISSING-click_to_retest": "Click to retest connection",
-			"MISSING-speed": "Speed: _SPANC_ _NUMBER_  _SPANC_",
+			"title": "Videoverttilkoblinger",
+			"description": "Tilkoblingsstatus til de forskjellige videoserverne",
+			"click_to_retest": "Klikk for å teste tilkoblingen på nytt",
+			"speed": "Hastighet: _SPANC_ _NUMBER_  _SPANC_",
 			"connection_status": {
-				"MISSING-good": "Good",
-				"MISSING-okay": "Okay",
-				"MISSING-poor": "Poor",
-				"MISSING-bad": "Bad"
+				"good": "Bra",
+				"okay": "Okay",
+				"poor": "Dårlig",
+				"bad": "Forferdelig"
 			}
 		}
 	},
