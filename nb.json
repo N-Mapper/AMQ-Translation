@@ -587,7 +587,7 @@
 		"already_a_backer": "Allerede medlem?",
 		"link_account": "Tilkoble Patreon-konto",
 		"become_a_backer": "Bli medlem",
-		"patreon_linked": "Patreon tilkoblet!",
+		"patreon_linked": "Patreon tilkoblet",
 		"backer_level": {
 			"title": "Medlemsnivå",
 			"tier": "Nivå _NUMBER_",
@@ -596,7 +596,7 @@
 		"badge_level": "Merkenivå",
 		"badge_level_info": "Ditt merkenivå tilsvarer antall måneder du har vært medlem på nivå 2 eller høyere på Patreon",
 		"patreon_page": "Patreon-side",
-		"relink": "tilkoble på nytt",
+		"relink": "Tilkoble på nytt",
 		"update_info": "Oppdater info",
 		"unlink_account": "Frakoble bruker",
 		"linked_account": "Tilkoblet bruker",
@@ -713,7 +713,7 @@
 		},
 		"max_volume": {
 			"title": "Maks Volum",
-			"description": "Det maksvolumet for lydutjevningen. Ved å øke dette volumet øker det totale volumet, men det kan føre til at roligere sanger ikke blir fullstendig utjevnet"
+			"description": "Det maks volumet for lydutjevningen. Ved å øke dette volumet øker det totale volumet, men det kan føre til at roligere sanger ikke blir fullstendig utjevnet"
 		},
 		"auto_hide_video": {
 			"title": "Auto-skjul video",
@@ -728,7 +728,7 @@
 			}
 		},
 		"anime_list": {
-			"description": "Tilkoble din Anilist-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med \"Sett\" innstilligen. _BREAK_ Liser er oppdater ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
+			"description": "Tilkoble din Anilist-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med \"Sett\" innstilligen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
 			"share_entries": {
 				"title": "Del oppføringen",
 				"description": "Vis når et program er fra din liste"
@@ -766,7 +766,7 @@
 		"graphics": {
 			"particle_effects": {
 				"title": "Partikkeleffekter",
-				"description": "Kontrollerer antall partikler som bruker i effekter, for eksemple XP-animasjonen.",
+				"description": "Kontrollerer antall partikler som bruker i effekter, for eksempel XP-animasjonen.",
 				"levels": { "off": "Av", "low": "Lav", "high": "Høy" }
 			},
 			"disable_floating_text": {
