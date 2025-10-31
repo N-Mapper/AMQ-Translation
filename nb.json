@@ -291,13 +291,13 @@
 		},
 		"ranked_description": {
 			"title": "Ranked-modus",
-			"description": "Utfordre deg selv mot dine venner og AMQ fellesskapet ved å bli med i ranked games. Hvert ranked game vil gi deg ranked-poeng, og låser opp nye eksklusive belønninger og bringer deg nærmere å bli med de beste av de beste i regionens masterskap hold i slutten av hver måned._BREAK_ Vær oppmerksom på at kontoen din må være level 10 eller høyere for å spille ranked matcher.",
+			"description": "Utfordre deg selv mot dine venner og AMQ fellesskapet ved å bli med i ranked game. Hvert ranked game vil gi deg ranked-poeng, og låser opp nye eksklusive belønninger og bringer deg nærmere å bli med de beste av de beste i regionens masterskap hold i slutten av hver måned._BREAK_ Vær oppmerksom på at kontoen din må være level 10 eller høyere for å spille ranked matcher.",
 			"how_it_works": "Hvordan det fungerer",
 			"regions": "Regioner",
 			"region_description": "Ranked-modusen er delt tre separate regioner (vest, sentral, øst), hver med sin egen ledertavle, starttid og mesterskap. Du vil kunne delta i alle regioner, men ranked-poengene teller bare for regionen de er opptjent i.",
 			"ranked_game": "Ranked game",
 			"ranked_game_description_one": "30 minutter før starttid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen._BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid.",
-			"ranked_game_description_two": "På slutten av hver ranked game, vil du får ranked-poeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise games, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert games, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 5 poeng hver, de neste fem gir 6 poeng hver, deretter 7 poeng for hver av de neste fem og så videre.",
+			"ranked_game_description_two": "På slutten av hver ranked game, vil du får ranked-poeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise game, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert game, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 5 poeng hver, de neste fem gir 6 poeng hver, deretter 7 poeng for hver av de neste fem og så videre.",
 			"end_of_season": "Slutten av sesongen",
 			"end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, hvor vinneren får tittelen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle ranked-poengene bli tilbakestilt og en ny sesong starter.",
 			"rules": "Regler",
@@ -477,7 +477,7 @@
 		"edit": "Rediger",
 		"change_nickname": "Bytt brukernavn",
 		"change_nickname_modal": {
-			"description": "Du kan endre brukernavnet ditt (navnet som vises i spillet) ved å bruke én navneendringstoken. Kontoen din får én navneendringstoken hvert år og en ekstra token hver måned hvis du er en Patreon-medlem på nivå 4 eller høyere. _BREAK_ Hvis du bytter brukernavn, vil ditt gamle brukernavn bli tilgjengelig for alle å bruke (selv hvis det er ditt originale navn). _BREAK_ Ditt originale navn vil fortsatt være synlig på profilen din.",
+			"description": "Du kan endre kallenavne ditt (navnet som vises i spillet) ved å bruke én navneendringstoken. Kontoen din får én navneendringstoken hvert år og en ekstra token hver måned hvis du er en Patreon-medlem på nivå 4 eller høyere. _BREAK_ Hvis du bytter brukernavn, vil ditt gamle brukernavn bli tilgjengelig for alle å bruke (selv hvis det er ditt originale navn). _BREAK_ Ditt originale navn vil fortsatt være synlig på profilen din.",
 			"current_tokens": "Nåværende navneendringstokens _SPAN_ _NUMBER_ _SPAN_",
 			"check_availability": "Sjekk tilgjengelighet"
 		},
@@ -540,8 +540,8 @@
 				"qualified": "Ranked utfordrer _YEAR_ _NUMBER_"
 			},
 			"description": {
-				"MISSING-qualified": "Kvalifisert til mesterskapet i _YEAR_ sesong _NUMBER_",
-				"MISSING-top": "Got top _TOP_ in the _YEAR_ season _NUMBER_ ranked championship"
+				"qualified": "Kvalifisert til mesterskapet i _YEAR_ sesong _NUMBER_",
+				"top": "Got top _TOP_ in the _YEAR_ season _NUMBER_ ranked championship"
 			}
 		},
 		"patreon": {
@@ -576,7 +576,7 @@
 	},
 	"patreon_window": {
 		"title": "Patreon",
-		"MISSING-description": "Støtt driften og utviklingen av AMQ ved å støtte spillet på Patreon. Å jobbe med og dele AMQ med alle dere har vært og er en utrolig opplevelse, og jeg har så mye mer jeg ønsker å gjøre med spillet. Ved å støtte Patreon-en vil du ikke bare hjelpe meg dekke utgiftene til spillet, men fortsette utviklingen av det! Som en spesiell takk får du flere eksklusive belønninger!",
+		"description": "Støtt driften og utviklingen av AMQ ved å støtte spillet på Patreon. Å jobbe med og dele AMQ med alle dere har vært og er en utrolig opplevelse, og jeg har så mye mer jeg ønsker å gjøre med spillet. Ved å støtte Patreon-en vil du ikke bare hjelpe meg dekke utgiftene til spillet, men fortsette utviklingen av det! Som en spesiell takk får du flere eksklusive belønninger!",
 		"reward_examples": {
 			"title": "Noen Patreon-belønninger",
 			"sneak_peeks": "Sniktitter",
@@ -613,7 +613,7 @@
 			},
 			"error_deleting": "Emojislettingsfeil",
 			"upload_emote": {
-				"MISSING-title": "Last opp emoji",
+				"title": "Last opp emoji",
 				"description": {
 					"line_one": "_BOLD_ Plasser igjen _BOLD_",
 					"line_two": "Standard: _NUMBER_",
@@ -656,75 +656,75 @@
 		}
 	},
 	"setting_window": {
-		"MISSING-title": "Settings",
+		"title": "Innstillinger",
 		"tabs": {
-			"MISSING-game": "Game",
-			"MISSING-anime_list": "Anime List",
-			"MISSING-graphics": "Graphics",
-			"MISSING-audio": "Audio"
+			"game": "Spillet",
+			"anime_list": "Animeliste",
+			"graphics": "Grafikk",
+			"audio": "Lyd"
 		},
-		"MISSING-language": "Language",
+		"language": "Språk",
 		"auto_submit": {
-			"MISSING-title": "Auto Submit",
-			"MISSING-description": "Automatically submit your answer when the guess time runs out"
+			"title": "Automatisk innsending",
+			"description": "Send inn svaret ditt automatsik når gjettetiden er ute"
 		},
 		"list_numbering": {
-			"MISSING-title": "List Numbering",
-			"MISSING-description": "Show number of songs played from each players anime list on the scoreboard"
+			"title": "Listenummerering",
+			"description": "Vis antall sanger spilt fra hver spillers animeliste på restultattavlen"
 		},
 		"disable_emotes": {
-			"MISSING-title": "Disable Emotes",
-			"MISSING-description": "Disable emotes from being shown in chats"
+			"title": "Deaktiver emoji",
+			"description": "Deaktiver emojier fra å vises i chatter"
 		},
 		"answer_time": {
-			"MISSING-title": "Answer Time",
-			"MISSING-description": "Display players answer time on their avatars"
+			"title": "Svarstid",
+			"description": "Vis spillernes svarstid på avataren deres"
 		},
-		"anime_link": { "MISSING-title": "Anime Link", "MISSING-description": "The anime site that's linked in song info" },
+		"anime_link": { "title": "Animelenke", "description": "Animesiden som er lenket i sanginformasjonen" },
 		"auto_skip_vote": {
-			"MISSING-title": "Auto Skip Vote",
-			"MISSING-description": "Automatically vote to skip after answering and/or after 2 seconds in the replay phase",
-			"MISSING-guessing_phase": "Guessing Phase",
-			"MISSING-replay_phase": "Replay Phase"
+			"title": "Auto-hopp over avstemning",
+			"description": "Stem automatisk for å hoppe åver etter svaret og/eller etter 2 sekunder i avspillingsfasen",
+			"guessing_phase": "Gjetningsfasen",
+			"replay_phase": "Avspillingsfasen"
 		},
 		"block_non_friend_actions": {
-			"MISSING-title": "Block Non-Friend Actions",
-			"MISSING-description": "Block social actions from players not on your friends list",
-			"MISSING-direct_messages": "Direct Messages",
-			"MISSING-friend_requests": "Friend Requests",
-			"MISSING-game_invites": "Game Invites"
+			"title": "Blokk ikke-venners handlinger",
+			"description": "Blokker sosiale handliger fra spiller som ikke er på vennelisten din",
+			"direct_messages": "Direktemeldinger",
+			"friend_requests": "Venneforespørseler",
+			"game_invites": "Gameinvitasjoner"
 		},
 		"anime_names": {
-			"MISSING-title": "Anime Names",
-			"MISSING-description": "Default anime name shown in quizzes",
-			"MISSING-english": "English",
-			"MISSING-romaji": "Romaji"
+			"title": "Animenavn",
+			"description": "Standard animenavn vist i quizer",
+			"english": "Engelsk",
+			"romaji": "Romaji"
 		},
 		"team_answer": {
-			"MISSING-title": "Team Answers in Chat",
-			"MISSING-description": "Show your team answers in the chat during team games",
-			"MISSING-never": "Never",
-			"MISSING-out_of_focus": "Out of Focus",
-			"MISSING-always": "Always"
+			"title": "Team Answers in Chat",
+			"description": "Vis lagets svar i chatten under laggame",
+			"never": "Aldri",
+			"out_of_focus": "Ute av fokus",
+			"always": "Alltid"
 		},
 		"sound_equalizing": {
-			"MISSING-title": "Sound Equalizing",
-			"MISSING-description": "Equalize volume levels between different songs"
+			"title": "Lydutjevning",
+			"description": "Utjevener volumnivåene mellom forskjellige sanger"
 		},
 		"max_volume": {
-			"MISSING-title": "Max Volume",
-			"MISSING-description": "The maximum volume for sound equalizing, increasing this will increase the overall volume, but may cause quieter songs to not be fully equalized"
+			"title": "Maks Volum",
+			"description": "Det maksvolumet for lydutjevningen. Ved å øke dette volumet øker det totale volumet, men det kan føre til at roligere sanger ikke blir fullstendig utjevnet"
 		},
 		"auto_hide_video": {
-			"MISSING-title": "Auto Hide Video",
-			"MISSING-description": "Automatically hide the video for the selected categories, it can still be unhidden by clicking the video during the replay phase",
-			"MISSING-openings": "Openings",
-			"MISSING-endings": "Endings",
-			"MISSING-inserts": "Inserts",
-			"unwatched": { "MISSING-title": "Unwatched", "MISSING-description": "Videos from anime you haven't watched" },
+			"title": "Auto-skjul video",
+			"description": "Skjul videoen automatisk for de valgte kategoriene. Den kan fortatt vises ved å klikke på videoen under avspillingsfasen",
+			"openings": "Introer",
+			"endings": "Slutter",
+			"inserts": "Innsatser",
+			"unwatched": { "title": "Usett", "description": "Videoer fra anime du ikke har sett" },
 			"high_risk": {
-				"MISSING-title": "High Risk",
-				"MISSING-description": "Videos that are likely to cause spoilers or are nsfw. Based on player statistics"
+				"MISSING-title": "Høy risiko",
+				"MISSING-description": "Videoer som sannsynligvis vil forårsake spoilere eller er upassende. Basert på spillerstatistikk"
 			}
 		},
 		"anime_list": {
