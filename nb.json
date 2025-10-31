@@ -194,14 +194,14 @@
 			"skin_header": "Eksklusivt",
 			"skin_seasons": {
 				"spring": "Vårskins",
-				"summer": "Sommerskins",
-				"fall": "Høstskins",
-				"winter": "Vinterskins",
-				"halloween": "Halloweenskins",
-				"christmas": "Juleskins",
-				"lunar": "Månefestivalskins",
-				"valentine": "Valentinsdagsskins",
-				"summer_games": "Sommerlekerskins"
+				"summer": "Sommerskinns",
+				"fall": "Høstskinns",
+				"winter": "Vinterskinns",
+				"halloween": "Halloweenskinns",
+				"christmas": "Juleskinns",
+				"lunar": "Månefestivalskinns",
+				"valentine": "Valentinsdagsskinns",
+				"summer_games": "Sommerlekerskinns"
 			},
 			"skin_footer": "Tilgjengelig nå"
 		},
@@ -325,7 +325,7 @@
 			},
 			"faq_existing_avatar": {
 				"title": "Kan jeg nomenere en eksisterende karakter?",
-				"text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for avatar-kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skin bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\"."
+				"text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for avatar-kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skinn bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinnet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\"."
 			},
 			"donate_towards": "Doner for",
 			"nominated_avatar": "Nominert avatar",
@@ -418,7 +418,7 @@
 				"mode_names": {
 					"co-op": "co-op",
 					"private": "privat",
-					"jam": "jam",
+					"jam": "Jam",
 					"event": "event",
 					"solo": "solo"
 				}
@@ -509,68 +509,68 @@
 	},
 	"badges": {
 		"ranked": {
-			"MISSING-name": "Ranked _TIER_ _YEAR_ _NUMBER_",
-			"MISSING-name_result": "Ranked _TIER_ _YEAR_",
-			"MISSING-description": "Got _TIER_ tier in the _YEAR_ ranked season _NUMBER_",
-			"MISSING-description_result": "Got _TIER_ tier for the _YEAR_ ranked seasons",
+			"name": "Ranked _TIER_ _YEAR_ _NUMBER_",
+			"name_result": "Ranked _TIER_ _YEAR_",
+			"description": "Fikk _TIER_ rang i _YEAR_ ranked sesong _NUMBER_",
+			"description_result": "Fikk _TIER_ rang for _YEAR_ ranked sesonger",
 			"tiers": {
-				"MISSING-bronze": "Bronze",
-				"MISSING-silver": "Silver",
-				"MISSING-gold": "Gold",
-				"MISSING-platinum": "Platinum",
-				"MISSING-diamond": "Diamond"
+				"bronze": "Bronse",
+				"silver": "Sølv",
+				"gold": "Gull",
+				"platinum": "Platina",
+				"diamond": "Diamant"
 			}
 		},
 		"champion": {
 			"name": {
-				"MISSING-first": "Ranked Champion _YEAR_ _NUMBER_",
-				"MISSING-second": "Ranked Second Place _YEAR_ _NUMBER_",
-				"MISSING-third": "Ranked Third Place _YEAR_ _NUMBER_"
+				"first": "Ranked vinner _YEAR_ _NUMBER_",
+				"second": "Ranked andreplass _YEAR_ _NUMBER_",
+				"third": "Ranked tredjeplass _YEAR_ _NUMBER_"
 			},
 			"description": {
-				"MISSING-first": "Won the _YEAR_ season _NUMBER_ championship",
-				"MISSING-second": "Ranked Second Place in the _YEAR_ season _NUMBER_ championship",
-				"MISSING-third": "Ranked Third Place in the _YEAR_ season _NUMBER_ championship"
+				"first": "Vant mesterskapet i _YEAR_ sesong _NUMBER_",
+				"second": "Andreplass i mesterskapet i _YEAR_ sesong _NUMBER_",
+				"third": "Tredjeplass i mesterskapet i _YEAR_ sesong _NUMBER_"
 			}
 		},
 		"challenger": {
 			"name": {
-				"MISSING-top": "Ranked Expert _YEAR_ _NUMBER_",
-				"MISSING-mid": "Ranked Up-and-Coming _YEAR_ _NUMBER_",
-				"MISSING-qualified": "Ranked Challenger _YEAR_ _NUMBER_"
+				"top": "Ranked ekspert _YEAR_ _NUMBER_",
+				"mid": "Ranked fremadstormende _YEAR_ _NUMBER_",
+				"qualified": "Ranked utfordrer _YEAR_ _NUMBER_"
 			},
 			"description": {
-				"MISSING-qualified": "Qualified for the _YEAR_ season _NUMBER_ championship",
+				"MISSING-qualified": "Kvalifisert til mesterskapet i _YEAR_ sesong _NUMBER_",
 				"MISSING-top": "Got top _TOP_ in the _YEAR_ season _NUMBER_ ranked championship"
 			}
 		},
 		"patreon": {
 			"name": {
-				"MISSING-start": "Patreon Backer",
-				"MISSING-month": "_NUMBER_ Months Patreon Backer",
-				"MISSING-one_year": "1 Year Patreon Backer",
-				"MISSING-multiple_years": "_NUMBER_ Years Patreon Backer"
+				"start": "Patreon-medlem",
+				"month": "_NUMBER_ måneder Patreon-medlem",
+				"one_year": "1 år Patreon-medlem",
+				"multiple_years": "_NUMBER_ år Patreon-medlem"
 			},
-			"MISSING-description": "AMQ Patreon Backer"
+			"description": "AMQ Patreon-medlem"
 		},
-		"avatar": { "MISSING-name": "_NAME_ Badge", "MISSING-description": "Unlock 10 skins/recolors for _NAME_" },
+		"avatar": { "name": "_NAME_ Merke", "description": "Lås opp 10 skinn/antrekk for _NAME_" },
 		"mod": {
-			"name": { "MISSING-game": "AMQ Moderator", "MISSING-jam": "AMQ Jam Mode Moderator" },
+			"name": { "game": "AMQ moderator", "jam": "AMQ Jamquiz moderator" },
 			"description": {
-				"MISSING-game": "Part of the AMQ Moderator team",
-				"MISSING-jam": "Part of the AMQ Jam Mode Moderator team"
+				"game": "En del av AMQ-moderatorteamer",
+				"am": "En del av AMQ-Jamquiz-moderatorteamer"
 			}
 		},
 		"aragaimu": {
 			"name": {
-				"MISSING-participant": "Aragaimu _YEAR_ Participant",
-				"MISSING-top32": "Aragaimu _YEAR_ Top 32",
-				"MISSING-top4": "Aragaimu _YEAR_ Top 4"
+				"participant": "Aragaimu _YEAR_ deltager",
+				"top32": "Aragaimu _YEAR_ Topp 32",
+				"top4": "Aragaimu _YEAR_ Topp 4"
 			},
 			"description": {
-				"MISSING-participant": "Participated in the Aragaimu _YEAR_ tournament",
-				"MISSING-top32": "Got Top 32 in the Aragaimu _YEAR_ tournament",
-				"MISSING-top4": "Got Top 4 in the Aragaimu _YEAR_ tournament"
+				"participant": "Deltok i Aragaimu-turneringen _YEAR_ ",
+				"top32": "Fikk top 32 i Aragaimu-turneringen _YEAR_ ",
+				"top4": "Fikk top 4 i Aragaimu-turneringen _YEAR_ "
 			}
 		}
 	},
