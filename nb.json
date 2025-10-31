@@ -585,20 +585,20 @@
 			"monthly_tickets": "Månedlige tickets"
 		},
 		"already_a_backer": "Allerede medlem?",
-		"link_account": "Koble til Patreon-konto",
+		"link_account": "Tilkoble Patreon-konto",
 		"become_a_backer": "Bli medlem",
-		"patreon_linked": "Patreon koblet til!",
+		"patreon_linked": "Patreon tilkoblet!",
 		"backer_level": {
 			"title": "Medlemsnivå",
 			"tier": "Nivå _NUMBER_",
 			"rewards": { "emotes": "_NUMBER_ emoji", "tickets": "_NUMBER_ tickets" }
 		},
 		"badge_level": "Merkenivå",
-		"badge_level_info": "Ditt merke nivå tilsvarer antall måneder du har vært medlem på nivå 2 eller høyere på Patreon",
-		"patreon_page": "Patreon Page",
-		"relink": "Koble til på nytt",
+		"badge_level_info": "Ditt merkenivå tilsvarer antall måneder du har vært medlem på nivå 2 eller høyere på Patreon",
+		"patreon_page": "Patreon-side",
+		"relink": "tilkoble på nytt",
 		"update_info": "Oppdater info",
-		"unlink_account": "Koble fra bruker",
+		"unlink_account": "Frakoble bruker",
 		"linked_account": "Tilkoblet bruker",
 		"emotes": {
 			"title": "Emoji",
@@ -620,18 +620,18 @@
 					"line_three": "Animerte: _NUMBER_"
 				},
 				"confirm_button": "Velg fil",
-				"footer": "Aksepterte filformater: .png (Standard), gif (Animert). Maksimal filstørrelse: 256kb",
+				"footer": "Aksepterte filformater: .png (Standard), .gif (Animert). Maksimal filstørrelse: 256kb",
 				"file_too_large": {
 					"title": "Fil for stor",
-					"description": "Maksimale filstørrelse er 256kb. DEn oppgitte filen er _NUMBER_kb"
+					"description": "Maksimale filstørrelse er 256kb. Den oppgitte filen er _NUMBER_kb"
 				},
 				"no_standard_slot": {
-					"title": "Ingen standard plasser igjen",
-					"description": "Du har ingen ledige standard emoji plasser igjen"
+					"title": "Ingen standardplasser igjen",
+					"description": "Du har ingen ledige standard emojiplasser igjen"
 				},
 				"no_animated_slot": {
-					"title": "Ingen animerte plasser igjen",
-					"description": "Du har ingen ledige standard emoji plasser igjen"
+					"title": "Ingen animerteplasser igjen",
+					"description": "Du har ingen ledige animerte emojiplasser igjen"
 				},
 				"selected_image": {
 					"title": "Valgt Bilde",
@@ -650,7 +650,7 @@
 				},
 				"emote_uploaded": {
 					"title": "Emoji opplastet",
-					"description": "Din Emoji ble lastet opp og venter på godkjenning"
+					"description": "Din emoji ble lastet opp og venter på godkjenning"
 				}
 			}
 		}
