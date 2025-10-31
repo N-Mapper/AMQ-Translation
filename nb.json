@@ -402,7 +402,7 @@
 		},
 		"friend_list": {
 			"friends": "Venner",
-			"total": "Totall",
+			"total": "Totalt",
 			"all": "Alle",
 			"statuses": {
 				"online": "Pålogget",
@@ -439,7 +439,7 @@
 			"song_history": "Sanghistorie",
 			"settings": "Innstillinger",
 			"blocked_players": "Blokkerte spillere",
-			"change_password": "Byttpassord",
+			"change_password": "Bytt passord",
 			"leaderboard": "Ledertavle",
 			"tutorial": "Veiledning",
 			"guidelines": "Retningslinjer",
