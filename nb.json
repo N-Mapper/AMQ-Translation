@@ -203,7 +203,7 @@
 				"valentine": "Valentinsdagsskins",
 				"summer_games": "Sommerlekerskins"
 			},
-			"skin_footer": "Tilgjengelig nå",
+			"skin_footer": "Tilgjengelig nå"
 		},
 		"quiz_of_the_day": {
 			"title": "Dagens quiz",
@@ -243,13 +243,13 @@
 					"offline": "Temaquiz - Offline",
 					"playing": "Temaquiz - Spilles",
 					"completed": "Temaquiz - Ferdig",
-					"MISSING-lobby": "Temaquiz - Lobby åpen",
+					"lobby": "Temaquiz - Lobby åpen"
 				},
 				"championship": {
 					"offline": "Mesterskap - Offline",
 					"playing": "Mesterskap - Spilles",
 					"completed": "Mesterskap - Ferdig",
-					"MISSING-lobby": "Mesterskap - Lobby åpen",
+					"lobby": "Mesterskap - Lobby åpen"
 				}
 			},
 			"week_days": {
@@ -343,7 +343,7 @@
 			},
 			"MISSING-faq_button": "FAQ",
 			"MISSING-faq_header": "FAQ",
-			"MISSING-avatar_description_placeholder": "Kort beskrivelse av avatar",
+			"MISSING-avatar_description_placeholder": "Kort beskrivelse av avatar"
 		},
 		"social_rewards": {
 			"title": "Sosiale media belønning",
