@@ -51,10 +51,10 @@
 			"guest_account": "Utilgjengelig for gjestekontoer",
 			"guest_account_text": "Denne funksjonen er utilgjengelig for gjestekontoer.",
 			"block_player": {
-				"MISSING-title": "Block _NAME_",
-				"MISSING-text": "You won't see messages or get friend/game invites from blocked players",
-				"MISSING-confirm": "Block",
-				"MISSING-cancel": "Cancel"
+				"title": "Blokk _NAME_",
+				"text": "Du vil ikke se meldinger eller få venne-/gameforespørseler fra blokkerte spillere",
+				"confirm": "Blokk",
+				"cancel": "Avbryt"
 			}
 		},
 		"registration": {
@@ -275,9 +275,18 @@
 				}
 			},
 			"regions": {
-				"west": { "MISSING-name": "West", "MISSING-shorthand": "W" },
-				"east": { "MISSING-name": "East", "MISSING-shorthand": "E" },
-				"central": { "MISSING-name": "Central", "MISSING-shorthand": "C" }
+				"west": {
+					"name": "Vest",
+					"shorthand": "V"
+					},
+				"east": {
+					"name": "Øst",
+					"shorthand": "Ø"
+					},
+				"central": {
+					"name": "Sentral",
+					"shorthand": "S"
+					}
 			}
 		},
 		"ranked_description": {
@@ -333,17 +342,17 @@
 				"invalid_amount": {
 					"title": "Ugyldig donasjonsbeløp",
 					"text": {
-						"MISSING-illegal": "You must enter a donation amount",
-						"MISSING-minimum": "The minimum donation amount is 1€"
+						"illegal": "Du må angi et donasjonsbeløp",
+						"minimum": "Minimumsbeløp for donasjon er på 1€"
 					}
 				},
 				"donation_error": { "title": "Donasjonsfeil" },
 				"donation_received": { "title": "Donasjon mottatt", "text": "Takk for at du støtter spillet!" },
 				"use_free_donation": { "title": "Bruk gratis donasjon", "text": "Du får én gratis donasjon i måned" }
 			},
-			"MISSING-faq_button": "FAQ",
-			"MISSING-faq_header": "FAQ",
-			"MISSING-avatar_description_placeholder": "Kort beskrivelse av avatar"
+			"faq_button": "FAQ",
+			"faq_header": "FAQ",
+			"avatar_description_placeholder": "Kort beskrivelse av avatar"
 		},
 		"social_rewards": {
 			"title": "Sosiale media belønning",
