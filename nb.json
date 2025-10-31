@@ -405,22 +405,22 @@
 			"total": "Totall",
 			"all": "Alle",
 			"statuses": {
-				"online": "Frakoblet",
-				"offline": "Pålogget",
-				"away": "Borte",
+				"online": "Pålogget",
+				"offline": "Frakoblet",
+				"away": "Inaktiv",
 				"do_not_disturb": "Ikke forstyrr",
 				"invisible": "Usynlig",
 				"playing_nexus": "Spiller _NAME_ Nexus",
-				"in_nexus_lobby": "I _NAME_ Nexus Lobby",
-				"in_lobby": "I _NAME_ Lobby",
-				"spectating_quiz": "Tilskuere til en _NAME_ Quiz",
-				"in_quiz": "I _NAME_ Quiz",
+				"in_nexus_lobby": "I _NAME_ Nexus lobby",
+				"in_lobby": "I _NAME_ lobby",
+				"spectating_quiz": "Tilskuere til en _NAME_ quiz",
+				"in_quiz": "I _NAME_ quiz",
 				"mode_names": {
-					"co-op": "Co-Op",
-					"private": "Privat",
-					"jam": "Jam",
-					"event": "Event",
-					"solo": "Solo"
+					"co-op": "co-op",
+					"private": "privat",
+					"jam": "jam",
+					"event": "event",
+					"solo": "solo"
 				}
 			},
 			"options": {
@@ -439,7 +439,7 @@
 			"song_history": "Sanghistorie",
 			"settings": "Innstillinger",
 			"blocked_players": "Blokkerte spillere",
-			"change_password": "Byttoassord",
+			"change_password": "Byttpassord",
 			"leaderboard": "Ledertavle",
 			"tutorial": "Veiledning",
 			"guidelines": "Retningslinjer",
@@ -455,7 +455,7 @@
 				"good": "Bra",
 				"okay": "Okay",
 				"poor": "Dårlig",
-				"bad": "Forferdelig"
+				"bad": "Fæl"
 			}
 		}
 	},
