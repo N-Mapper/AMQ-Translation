@@ -33,14 +33,14 @@
 			"play": "Spill",
 			"use_button": "Bruk",
 			"claim_button": "Motta",
-			"MISSING-update_button": "Update",
-			"MISSING-chat": "Chat",
-			"MISSING-block": "Block",
-			"MISSING-send_friend_request": "Send Friend Request",
-			"MISSING-invite_to_game": "Invite to Game",
-			"MISSING-none": "None",
-			"MISSING-default": "Default",
-			"MISSING-delete": "Delete"
+			"update_button": "Oppdater",
+			"chat": "Chat",
+			"block": "Blokk",
+			"send_friend_request": "Send venneforespørsel",
+			"invite_to_game": "Inviter til Game",
+			"none": "Ingen",
+			"default": "Standard",
+			"delete": "Slett"
 		},
 		"popout_messages": {
 			"unexpected_error": "Uventet feil",
