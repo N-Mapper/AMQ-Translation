@@ -9,6 +9,7 @@ Generally it has been attempted to use as many Norwegian word as possible, and o
 - Community - Felleskap
 - Themed Quiz - Temaquiz
 - Email - E-post / E-postadresse (Context depentent)
+- Novice - Novise 
 
 ## Don't Translate
 - **Nexus** - Nexus is seen as a proper noun
@@ -20,7 +21,7 @@ Generally it has been attempted to use as many Norwegian word as possible, and o
 
 ## Words Needing Deliberation
 
-- **Novice** - Currently translated as "Novise". 
+- 
 
 
 # Test Link
