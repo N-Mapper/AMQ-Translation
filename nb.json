@@ -728,68 +728,68 @@
 			}
 		},
 		"anime_list": {
-			"MISSING-description": "Connect your AniList, MyAnimeList or Kitsu list, and the game will use your anime list when picking songs with the “watched” setting. _BREAK_ Lists are updated weekly or when clicking update. To remove a list, update it without a username.",
+			"description": "Tilkoble din Anilist-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med \"Sett\" innstilligen. _BREAK_ Liser er oppdater ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
 			"share_entries": {
-				"MISSING-title": "Share Entries",
-				"MISSING-description": "Show when a show is from your list"
+				"title": "Del oppføringen",
+				"description": "Vis når et program er fra din liste"
 			},
 			"show_scores": {
-				"MISSING-title": "Show Scores",
-				"MISSING-description": "Show your anime score for shows on your list"
+				"title": "Del skåre",
+				"description": "Vis animeskåren din for programmer på din liste"
 			},
-			"MISSING-anilist_username": "AniList Username",
-			"MISSING-mal_username": "MyAnimeList Username",
-			"MISSING-mal_username_short": "MAL Username",
-			"MISSING-kitsu_username": "Kitsu Username",
-			"MISSING-last_updated": "_BOLD_ Last Updated: _BOLD_ _SPAN_ _DATE_ _SPAN_",
+			"anilist_username": "AniList brukernavn",
+			"mal_username": "MyAnimeList brukernavn",
+			"mal_username_short": "MAL brukernavn",
+			"kitsu_username": "Kitsu brukernavn",
+			"last_updated": "_BOLD_ Sist oppdater: _BOLD_ _SPAN_ _DATE_ _SPAN_",
 			"update_messages": {
-				"MISSING-update_successful": "Update Successful",
-				"MISSING-update_failed": "Update Failed",
-				"MISSING-list_updated": "List Updated",
-				"MISSING-list_removed": "List Removed",
-				"MISSING-unknown_username": "Unknown Username",
-				"MISSING-mal_private": "MAL List set to private, only public lists can be synced to the game",
-				"MISSING-mal_error": "Error from MAL, please try again later",
-				"MISSING-anilist_error": "Unable to Retrieve List from AniList"
+				"update_successful": "Oppdatering vellykket",
+				"update_failed": "Oppdatering mislykket",
+				"list_updated": "Liste oppdatert",
+				"list_removed": "Liste fjernet",
+				"unknown_username": "Ukjent brukernavn",
+				"mal_private": "MAL liste er satt til privat, bare offentlige lister kan synkroniseres med spillet",
+				"mal_error": "Feil fra MAL, prøv igjen senere",
+				"anilist_error": "Kan ikke hente liste fra AniList"
 			},
 			"included_entries": {
-				"MISSING-title": "Included Entries",
+				"title": "Inkludere oppføringen",
 				"types": {
-					"MISSING-watching": "Watching",
-					"MISSING-completed": "Completed",
-					"MISSING-on_hold": "On Hold",
-					"MISSING-dropped": "Dropped",
-					"MISSING-planning": "Planning"
+					"watching": "Ser på",
+					"completed": "Fullført",
+					"on_hold": "På vent",
+					"dropped": "Droppet",
+					"planning": "Planlagt"
 				}
 			}
 		},
 		"graphics": {
 			"particle_effects": {
-				"MISSING-title": "Particle Effects",
-				"MISSING-description": "Controls the number of particles used in effects, such as the XP animation.",
-				"levels": { "MISSING-off": "Off", "MISSING-low": "Low", "MISSING-high": "High" }
+				"title": "Partikkeleffekter",
+				"description": "Kontrollerer antall partikler som bruker i effekter, for eksemple XP-animasjonen.",
+				"levels": { "off": "Av", "low": "Lav", "high": "Høy" }
 			},
 			"disable_floating_text": {
-				"MISSING-title": "Disable Floating Text",
-				"MISSING-description": "Floating text won't appear when gaining xp and notes"
+				"title": "Deaktiver flytende tekst",
+				"description": "Flytende tekst vises ikke når du får xp og notes"
 			},
-			"MISSING-name_effects_friend_list": "Name Effects in Friend List"
+			"name_effects_friend_list": "Navneffekter i vennelisten"
 		},
 		"audio": {
-			"MISSING-nexus": "Nexus",
-			"MISSING-master": "Master",
-			"MISSING-music": "Music",
-			"MISSING-effects": "Effects"
+			"nexus": "Nexus",
+			"master": "Hoved",
+			"music": "Musikk",
+			"effects": "Effekter"
 		}
 	},
-	"blocked_player_window": { "MISSING-title": "Blocked Player List", "MISSING-remove_button": "Remove" },
+	"blocked_player_window": { "title": "Blokkertespillerliste", "remove_button": "Fjern" },
 	"change_password_window": {
-		"MISSING-title": "Change Password",
-		"MISSING-current_password": "Current Password",
-		"MISSING-no_current_password": "You must provide your current password",
-		"MISSING-unexpected_error": "Unexpected error, please try again",
-		"MISSING-error_contacting_server": "Error contacting server, please try again later",
-		"MISSING-password_updated": "Password updated successfully",
-		"MISSING-wrong_password": "Current password is incorrect"
+		"title": "Bytt passord",
+		"current_password": "Nåværende passord",
+		"no_current_password": "Du må oppgi ditt nåværende passord",
+		"unexpected_error": "Uventet feil,  prøv på nytt",
+		"error_contacting_server": "Servertilkoblingsfeil, prøv på nytt senere",
+		"password_updated": "Passord er oppdatert",
+		"wrong_password": "Nåværende passord er feil"
 	}
 }
