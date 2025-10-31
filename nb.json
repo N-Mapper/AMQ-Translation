@@ -504,7 +504,7 @@
 			},
 			"month_patreon_current": "Tilgjengelig for nivå 5 Patreon-medlemer som ble med denne måned, og nivå 6 medlemer",
 			"month_patreon_previous": "Tilgjengelig for nivå 5 Patreon-medlemer som ble med i utgivelsesmåneden, og nivå 6 medlemer",
-			"month_patreon_previous_unlocked": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers. You backed during the release month."
+			"month_patreon_previous_unlocked": "Tilgjengelig for nivå 5 Patreon-medlemer som ble med i utgivelsesmåneden, og nivå 6 medlemer. Du ble med i løpet av utgivelsesmåneden."
 		}
 	},
 	"badges": {
@@ -568,14 +568,14 @@
 				"top4": "Aragaimu _YEAR_ Topp 4"
 			},
 			"description": {
-				"participant": "Deltok i Aragaimu-turneringen _YEAR_ ",
-				"top32": "Fikk top 32 i Aragaimu-turneringen _YEAR_ ",
-				"top4": "Fikk top 4 i Aragaimu-turneringen _YEAR_ "
+				"participant": "Deltok i Aragaimu _YEAR_ turneringen",
+				"top32": "Fikk top 32 i Aragaimu _YEAR_ turneringen",
+				"top4": "Fikk top 4 i Aragaimu _YEAR_ turneringen"
 			}
 		}
 	},
 	"patreon_window": {
-		"MISSING-title": "Patreon",
+		"title": "Patreon",
 		"MISSING-description": "Help support the operation and development of AMQ by backing the game on Patreon. Working on and sharing AMQ with you all has been and is an amazing experience, and I have so much more I want to do with the game. By backing the Patreon you'll help me not only cover the costs of running the game, but also continue its development! As a special thanks, you'll get several exclusive rewards!",
 		"reward_examples": {
 			"MISSING-title": "Some of the Patreon Rewards",
