@@ -204,7 +204,6 @@
 				"summer_games": "Sommerlekerskins"
 			},
 			"skin_footer": "Tilgjengelig nå",
-			"DELETED-skin_text": "Få eksklusive skins for å støtte AMQ!"
 		},
 		"quiz_of_the_day": {
 			"title": "Dagens quiz",
@@ -244,15 +243,13 @@
 					"offline": "Temaquiz - Offline",
 					"playing": "Temaquiz - Spilles",
 					"completed": "Temaquiz - Ferdig",
-					"MISSING-lobby": "Themed - Lobby Up",
-					"DELETED-lobby_up": "Temaquiz - Lobby åpen"
+					"MISSING-lobby": "Temaquiz - Lobby åpen",
 				},
 				"championship": {
 					"offline": "Mesterskap - Offline",
 					"playing": "Mesterskap - Spilles",
 					"completed": "Mesterskap - Ferdig",
-					"MISSING-lobby": "Championship - Lobby Up",
-					"DELETED-lobby_up": "Mesterskap - Lobby åpen"
+					"MISSING-lobby": "Mesterskap - Lobby åpen",
 				}
 			},
 			"week_days": {
@@ -346,10 +343,7 @@
 			},
 			"MISSING-faq_button": "FAQ",
 			"MISSING-faq_header": "FAQ",
-			"MISSING-avatar_description_placeholder": "Short Description of the Avatar",
-			"DELETED-faq": "FAQ",
-			"DELETED-none": "Ingen",
-			"DELETED-Mavatar_description_placeholder": "Kort beskrivelse av avatar"
+			"MISSING-avatar_description_placeholder": "Kort beskrivelse av avatar",
 		},
 		"social_rewards": {
 			"title": "Sosiale media belønning",
