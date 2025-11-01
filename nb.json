@@ -553,7 +553,7 @@
 			},
 			"description": "AMQ Patreon-medlem"
 		},
-		"avatar": { "name": "_NAME_ Merke", "description": "Lås opp 10 skinn/antrekk for _NAME_" },
+		"avatar": { "name": "_NAME_ merke", "description": "Lås opp 10 skinn/antrekk for _NAME_" },
 		"mod": {
 			"name": { "game": "AMQ moderator", "jam": "AMQ Jamquiz moderator" },
 			"description": {
