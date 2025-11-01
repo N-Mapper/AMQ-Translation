@@ -666,7 +666,7 @@
 		"language": "Språk",
 		"auto_submit": {
 			"title": "Autoinnsending",
-			"description": "Send inn svaret ditt automatsik når gjettetiden er ute"
+			"description": "Send inn svaret ditt automatisk når gjettetiden er ute"
 		},
 		"list_numbering": {
 			"title": "Listenummerering",
@@ -683,7 +683,7 @@
 		"anime_link": { "title": "Animelenke", "description": "Animesiden som er lenket i sanginformasjonen" },
 		"auto_skip_vote": {
 			"title": "Auto-hopp over avstemning",
-			"description": "Stem automatisk for å hoppe åver etter svaret og/eller etter 2 sekunder i avspillingsfasen",
+			"description": "Stem automatisk for å hoppe over etter svaret og/eller etter 2 sekunder i avspillingsfasen",
 			"guessing_phase": "Gjetningsfasen",
 			"replay_phase": "Avspillingsfasen"
 		},
@@ -771,7 +771,7 @@
 			},
 			"disable_floating_text": {
 				"title": "Deaktiver flytende tekst",
-				"description": "Flytende tekst vises ikke når du får xp og notes"
+				"description": "Flytende tekst vises ikke når du får XP og notes"
 			},
 			"name_effects_friend_list": "Navneffekter i vennelisten"
 		},
