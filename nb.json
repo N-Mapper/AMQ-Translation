@@ -426,7 +426,7 @@
 			"options": {
 				"report": "Rapporter",
 				"remove_friend": "Fjern venn",
-				"join_game": "Bli med i game"
+				"join_game": "Bli med i et game"
 			},
 			"popout_messages": {
 				"not_in_game": "Du er ikke i et game",
@@ -447,10 +447,10 @@
 			"logout": "Logg ut"
 		},
 		"video_host": {
-			"title": "Videoverttilkoblinger",
+			"title": "Videoservere",
 			"description": "Tilkoblingsstatus til de forskjellige videoserverne",
 			"click_to_retest": "Klikk for å teste tilkoblingen på nytt",
-			"speed": "Hastighet: _SPANC_ _NUMBER_  _SPANC_",
+			"speed": "Latens: _SPANC_ _NUMBER_  _SPANC_",
 			"connection_status": {
 				"good": "Bra",
 				"okay": "Okay",
@@ -514,11 +514,11 @@
 			"description": "Fikk _TIER_ rang i _YEAR_ ranked sesong _NUMBER_",
 			"description_result": "Fikk _TIER_ rang for _YEAR_ ranked sesonger",
 			"tiers": {
-				"bronze": "Bronse",
-				"silver": "Sølv",
-				"gold": "Gull",
-				"platinum": "Platina",
-				"diamond": "Diamant"
+				"bronze": "bronse",
+				"silver": "sølv",
+				"gold": "gull",
+				"platinum": "platina",
+				"diamond": "diamant"
 			}
 		},
 		"champion": {
@@ -589,7 +589,7 @@
 		"become_a_backer": "Bli medlem",
 		"patreon_linked": "Patreon tilkoblet!",
 		"backer_level": {
-			"title": "Medlemsnivå",
+			"title": "Patreon-nivå",
 			"tier": "Nivå _NUMBER_",
 			"rewards": { "emotes": "_NUMBER_ emoji", "tickets": "_NUMBER_ tickets" }
 		},
@@ -634,7 +634,7 @@
 					"description": "Du har ingen ledige animerte emojiplasser igjen"
 				},
 				"selected_image": {
-					"title": "Valgt Bilde",
+					"title": "Valgt bilde",
 					"image": "Bilde",
 					"resulting_emote": "Resulterende emoji",
 					"placeholder": "Emojinavn",
