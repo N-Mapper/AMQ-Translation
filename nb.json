@@ -728,7 +728,7 @@
 			}
 		},
 		"anime_list": {
-			"description": "Tilkoble din Anilist-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med \"Sett\" innstillingen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
+			"description": "Tilkoble din Anilist-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med “Sett” innstillingen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
 			"share_entries": {
 				"title": "Del oppføringen",
 				"description": "Vis når et program er fra din liste"
