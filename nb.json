@@ -430,7 +430,7 @@
 			},
 			"popout_messages": {
 				"not_in_game": "Du er ikke i et game",
-				"solo_game_invite": "Kan ikke invitere spillerer til et sologame"
+				"solo_game_invite": "Kan ikke invitere spillere til et sologame"
 			}
 		},
 		"menu": {
@@ -677,7 +677,7 @@
 			"description": "Deaktiver emojier fra å vises i chatter"
 		},
 		"answer_time": {
-			"title": "Svarstid",
+			"title": "Svartid",
 			"description": "Vis spillernes svartid på avataren deres"
 		},
 		"anime_link": { "title": "Animelenke", "description": "Animesiden som er lenket i sanginformasjonen" },
