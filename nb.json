@@ -291,12 +291,12 @@
 		},
 		"ranked_description": {
 			"title": "Ranked-modus",
-			"description": "Utfordre deg selv mot dine venner og AMQ fellesskapet ved å bli med i ranked game. Hvert ranked game vil gi deg ranked-poeng, og låser opp nye eksklusive belønninger og bringer deg nærmere å bli med de beste av de beste i regionens masterskap hold i slutten av hver måned._BREAK_ Vær oppmerksom på at kontoen din må være level 10 eller høyere for å spille ranked matcher.",
+			"description": "Utfordre deg selv mot dine venner og AMQ fellesskapet ved å bli med i ranked game. Hvert ranked game vil gi deg ranked-poeng, og låser opp nye eksklusive belønninger og bringer deg nærmere å bli med de beste av de beste i regionens masterskap hold i slutten av hver måned. _BREAK_ Vær oppmerksom på at kontoen din må være level 10 eller høyere for å spille ranked matcher.",
 			"how_it_works": "Hvordan det fungerer",
 			"regions": "Regioner",
 			"region_description": "Ranked-modusen er delt tre separate regioner (vest, sentral, øst), hver med sin egen ledertavle, starttid og mesterskap. Du vil kunne delta i alle regioner, men ranked-poengene teller bare for regionen de er opptjent i.",
 			"ranked_game": "Ranked game",
-			"ranked_game_description_one": "30 minutter før starttid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen._BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid.",
+			"ranked_game_description_one": "30 minutter før starttid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen. _BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid.",
 			"ranked_game_description_two": "På slutten av hver ranked game, vil du får ranked-poeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise game, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert game, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 5 poeng hver, de neste fem gir 6 poeng hver, deretter 7 poeng for hver av de neste fem og så videre.",
 			"end_of_season": "Slutten av sesongen",
 			"end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, hvor vinneren får tittelen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle ranked-poengene bli tilbakestilt og en ny sesong starter.",
@@ -477,7 +477,7 @@
 		"edit": "Rediger",
 		"change_nickname": "Bytt brukernavn",
 		"change_nickname_modal": {
-			"description": "Du kan endre kallenavnet ditt (navnet som vises i spillet) ved å bruke én navneendringstoken. Kontoen din får én navneendringstoken hvert år og en ekstra token hver måned hvis du er et Patreon-medlem på nivå 4 eller høyere. _BREAK_ Hvis du bytter brukernavn, vil ditt gamle brukernavn bli tilgjengelig for alle å bruke (selv hvis det er ditt originale navn). _BREAK_ Ditt originale navn vil fortsatt være synlig på profilen din.",
+			"description": "Du kan endre kallenavnet ditt (navnet som vises i spillet) ved å bruke én navneendringstoken. Kontoen din får én navneendringstoken hvert år og en ekstra token hver måned hvis du er et Patreon-medlem på nivå 4 eller høyere. _BREAK_ Hvis du bytter kallenavn, vil ditt gamle kallenavn bli tilgjengelig for alle å bruke (selv hvis det er ditt originale navn). _BREAK_ Ditt originale navn vil fortsatt være synlig på profilen din.",
 			"current_tokens": "Nåværende navneendringstokens _SPAN_ _NUMBER_ _SPAN_",
 			"check_availability": "Sjekk tilgjengelighet"
 		},
