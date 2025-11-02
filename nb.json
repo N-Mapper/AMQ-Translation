@@ -430,7 +430,7 @@
 			},
 			"popout_messages": {
 				"not_in_game": "Du er ikke i et game",
-				"solo_game_invite": "Kan ikke invitere spiller til et sologame"
+				"solo_game_invite": "Kan ikke invitere spillerer til et sologame"
 			}
 		},
 		"menu": {
@@ -477,7 +477,7 @@
 		"edit": "Rediger",
 		"change_nickname": "Bytt brukernavn",
 		"change_nickname_modal": {
-			"description": "Du kan endre kallenavne ditt (navnet som vises i spillet) ved å bruke én navneendringstoken. Kontoen din får én navneendringstoken hvert år og en ekstra token hver måned hvis du er en Patreon-medlem på nivå 4 eller høyere. _BREAK_ Hvis du bytter brukernavn, vil ditt gamle brukernavn bli tilgjengelig for alle å bruke (selv hvis det er ditt originale navn). _BREAK_ Ditt originale navn vil fortsatt være synlig på profilen din.",
+			"description": "Du kan endre kallenavnet ditt (navnet som vises i spillet) ved å bruke én navneendringstoken. Kontoen din får én navneendringstoken hvert år og en ekstra token hver måned hvis du er et Patreon-medlem på nivå 4 eller høyere. _BREAK_ Hvis du bytter brukernavn, vil ditt gamle brukernavn bli tilgjengelig for alle å bruke (selv hvis det er ditt originale navn). _BREAK_ Ditt originale navn vil fortsatt være synlig på profilen din.",
 			"current_tokens": "Nåværende navneendringstokens _SPAN_ _NUMBER_ _SPAN_",
 			"check_availability": "Sjekk tilgjengelighet"
 		},
@@ -488,23 +488,23 @@
 		"name_effects_entries": {
 			"challenger_color": {
 				"name": "Utfordrer",
-				"description": "Tilgjengelig for spiller som kvalifiserte seg til forrige måneds ranked mesterskap"
+				"description": "Tilgjengelig for spillere som kvalifiserte seg til forrige måneds ranked mesterskap"
 			},
 			"challenger_glow": {
 				"name": "Utfordrer",
-				"description": "Tilgjengelig for spiller som kom blant de 50 beste i forrige måneds ranked mesterskap"
+				"description": "Tilgjengelig for spillere som kom blant de 50 beste i forrige måneds ranked mesterskap"
 			},
 			"patreon_color": {
 				"name": "Patreon",
-				"description": "Tilgjengelig for nivå 3 eller høyere Patreon-medlemer"
+				"description": "Tilgjengelig for nivå 3 eller høyere Patreon-medlemmer"
 			},
 			"patreon_glow": {
 				"name": "Patreon",
-				"description": "Tilgjengelig for nivå 4 eller høyere Patreon-medlemer"
+				"description": "Tilgjengelig for nivå 4 eller høyere Patreon-medlemmer"
 			},
-			"month_patreon_current": "Tilgjengelig for nivå 5 Patreon-medlemer som ble med denne måned, og nivå 6 medlemer",
-			"month_patreon_previous": "Tilgjengelig for nivå 5 Patreon-medlemer som ble med i utgivelsesmåneden, og nivå 6 medlemer",
-			"month_patreon_previous_unlocked": "Tilgjengelig for nivå 5 Patreon-medlemer som ble med i utgivelsesmåneden, og nivå 6 medlemer. Du ble med i løpet av utgivelsesmåneden."
+			"month_patreon_current": "Tilgjengelig for nivå 5 Patreon-medlemmer som ble med denne måned, og nivå 6 medlemmer",
+			"month_patreon_previous": "Tilgjengelig for nivå 5 Patreon-medlemmer som ble med i utgivelsesmåneden, og nivå 6 medlemmer",
+			"month_patreon_previous_unlocked": "Tilgjengelig for nivå 5 Patreon-medlemmer som ble med i utgivelsesmåneden, og nivå 6 medlemmer. Du ble med i løpet av utgivelsesmåneden."
 		}
 	},
 	"badges": {
@@ -670,7 +670,7 @@
 		},
 		"list_numbering": {
 			"title": "Listenummerering",
-			"description": "Vis antall sanger spilt fra hver spillers animeliste på restultattavlen"
+			"description": "Vis antall sanger spilt fra hver spillers animeliste på resultattavlen"
 		},
 		"disable_emotes": {
 			"title": "Deaktiver emoji",
@@ -678,7 +678,7 @@
 		},
 		"answer_time": {
 			"title": "Svarstid",
-			"description": "Vis spillernes svarstid på avataren deres"
+			"description": "Vis spillernes svartid på avataren deres"
 		},
 		"anime_link": { "title": "Animelenke", "description": "Animesiden som er lenket i sanginformasjonen" },
 		"auto_skip_vote": {
@@ -689,7 +689,7 @@
 		},
 		"block_non_friend_actions": {
 			"title": "Blokk ikke-venners handlinger",
-			"description": "Blokker sosiale handliger fra spiller som ikke er på vennelisten din",
+			"description": "Blokker sosiale handlinger fra spillere som ikke er på vennelisten din",
 			"direct_messages": "Direktemeldinger",
 			"friend_requests": "Venneforespørseler",
 			"game_invites": "Gameinvitasjoner"
@@ -717,9 +717,9 @@
 		},
 		"auto_hide_video": {
 			"title": "Auto-skjul video",
-			"description": "Skjul videoen automatisk for de valgte kategoriene. Den kan fortatt vises ved å klikke på videoen under avspillingsfasen",
+			"description": "Skjul videoen automatisk for de valgte kategoriene. Den kan fortsatt vises ved å klikke på videoen under avspillingsfasen",
 			"openings": "Introer",
-			"endings": "Slutter",
+			"endings": "Avsluttinger",
 			"inserts": "Innsatser",
 			"unwatched": { "title": "Usett", "description": "Videoer fra anime du ikke har sett" },
 			"high_risk": {
@@ -728,13 +728,13 @@
 			}
 		},
 		"anime_list": {
-			"description": "Tilkoble din Anilist-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med \"Sett\" innstilligen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
+			"description": "Tilkoble din Anilist-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med \"Sett\" innstillingen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
 			"share_entries": {
 				"title": "Del oppføringen",
 				"description": "Vis når et program er fra din liste"
 			},
 			"show_scores": {
-				"title": "Del skåre",
+				"title": "Del score",
 				"description": "Vis animeskåren din for programmer på din liste"
 			},
 			"anilist_username": "AniList brukernavn",
