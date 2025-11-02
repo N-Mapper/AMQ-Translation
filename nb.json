@@ -735,7 +735,7 @@
 			},
 			"show_scores": {
 				"title": "Del score",
-				"description": "Vis animeskåren din for programmer på din liste"
+				"description": "Vis animescoren din for programmer på din liste"
 			},
 			"anilist_username": "AniList brukernavn",
 			"mal_username": "MyAnimeList brukernavn",
