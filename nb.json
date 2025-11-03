@@ -557,8 +557,8 @@
 		"mod": {
 			"name": { "game": "AMQ moderator", "jam": "AMQ Jamquiz moderator" },
 			"description": {
-				"game": "En del av AMQ-moderatorteamer",
-				"am": "En del av AMQ-Jamquiz-moderatorteamer"
+				"game": "En del av AMQ-moderatorteamet",
+				"am": "En del av AMQ-Jamquiz-moderatorteamet"
 			}
 		},
 		"aragaimu": {
