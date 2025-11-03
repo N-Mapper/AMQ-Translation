@@ -509,7 +509,7 @@
 	},
 	"badges": {
 		"ranked": {
-			"name": "Ranked _TIER_ _YEAR_ _NUMBER_",
+			"name": "Ranked _TIER_ _YEAR_ sesong _NUMBER_",
 			"name_result": "Ranked _TIER_ _YEAR_",
 			"description": "Fikk _TIER_ rang i _YEAR_ ranked sesong _NUMBER_",
 			"description_result": "Fikk _TIER_ rang for _YEAR_ ranked sesonger",
@@ -523,9 +523,9 @@
 		},
 		"champion": {
 			"name": {
-				"first": "Ranked vinner _YEAR_ _NUMBER_",
-				"second": "Ranked andreplass _YEAR_ _NUMBER_",
-				"third": "Ranked tredjeplass _YEAR_ _NUMBER_"
+				"first": "Ranked vinner _YEAR_ sesong _NUMBER_",
+				"second": "Ranked andreplass _YEAR_ sesong _NUMBER_",
+				"third": "Ranked tredjeplass _YEAR_ sesong _NUMBER_"
 			},
 			"description": {
 				"first": "Vant mesterskapet i _YEAR_ sesong _NUMBER_",
