@@ -684,8 +684,8 @@
 		"auto_skip_vote": {
 			"title": "Auto-hopp over avstemning",
 			"description": "Stem automatisk for å hoppe over etter svaret og/eller etter 2 sekunder i avspillingsfasen",
-			"guessing_phase": "Gjetningsfasen",
-			"replay_phase": "Avspillingsfasen"
+			"guessing_phase": "Gjetnings-_BREAK_fasen",
+			"replay_phase": "Avspillings-_BREAK_fasen"
 		},
 		"block_non_friend_actions": {
 			"title": "Blokk ikke-venners handlinger",
