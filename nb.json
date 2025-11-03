@@ -475,7 +475,7 @@
 		"guess_rate": "Gjettingsrate",
 		"options": "Valg",
 		"edit": "Rediger",
-		"change_nickname": "Bytt brukernavn",
+		"change_nickname": "Bytt kallenavnet",
 		"change_nickname_modal": {
 			"description": "Du kan endre kallenavnet ditt (navnet som vises i spillet) ved å bruke én navneendringstoken. Kontoen din får én navneendringstoken hvert år og en ekstra token hver måned hvis du er et Patreon-medlem på nivå 4 eller høyere. _BREAK_ Hvis du bytter kallenavn, vil ditt gamle kallenavn bli tilgjengelig for alle å bruke (selv hvis det er ditt originale navn). _BREAK_ Ditt originale navn vil fortsatt være synlig på profilen din.",
 			"current_tokens": "Nåværende navneendringstokens _SPAN_ _NUMBER_ _SPAN_",
@@ -541,7 +541,7 @@
 			},
 			"description": {
 				"qualified": "Kvalifisert til mesterskapet i _YEAR_ sesong _NUMBER_",
-				"top": "Got top _TOP_ in the _YEAR_ season _NUMBER_ ranked championship"
+				"top": "Fikk top _TOP_ i _YEAR_ sesong _NUMBER_ ranked mesterskap"
 			}
 		},
 		"patreon": {
@@ -558,7 +558,7 @@
 			"name": { "game": "AMQ moderator", "jam": "AMQ Jamquiz moderator" },
 			"description": {
 				"game": "En del av AMQ-moderatorteamet",
-				"am": "En del av AMQ-Jamquiz-moderatorteamet"
+				"jam": "En del av AMQ-Jamquiz-moderatorteamet"
 			}
 		},
 		"aragaimu": {
@@ -701,8 +701,8 @@
 			"romaji": "Romaji"
 		},
 		"team_answer": {
-			"title": "Laget svar i chatten",
-			"description": "Vis lagets svar i chatten under laggame",
+			"title": "Lagets svar i chatten",
+			"description": "Vis lagets svar i chatten under lag-game",
 			"never": "Aldri",
 			"out_of_focus": "Ute av fokus",
 			"always": "Alltid"
@@ -735,13 +735,13 @@
 			},
 			"show_scores": {
 				"title": "Del score",
-				"description": "Vis animescoren din for programmer på din liste"
+				"description": "Vis animescoren din for serier på din liste"
 			},
 			"anilist_username": "AniList brukernavn",
 			"mal_username": "MyAnimeList brukernavn",
 			"mal_username_short": "MAL brukernavn",
 			"kitsu_username": "Kitsu brukernavn",
-			"last_updated": "_BOLD_ Sist oppdater: _BOLD_ _SPAN_ _DATE_ _SPAN_",
+			"last_updated": "_BOLD_ Sist oppdatert: _BOLD_ _SPAN_ _DATE_ _SPAN_",
 			"update_messages": {
 				"update_successful": "Oppdatering vellykket",
 				"update_failed": "Oppdatering mislykket",
