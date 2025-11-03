@@ -453,9 +453,9 @@
 			"speed": "Latens: _SPANC_ _NUMBER_  _SPANC_",
 			"connection_status": {
 				"good": "Bra",
-				"okay": "Okay",
+				"okay": "OK",
 				"poor": "Dårlig",
-				"bad": "Fæl"
+				"bad": "Elendig"
 			}
 		}
 	},
