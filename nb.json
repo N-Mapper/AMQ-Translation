@@ -478,7 +478,7 @@
 		"change_nickname": "Bytt kallenavnet",
 		"change_nickname_modal": {
 			"description": "Du kan endre kallenavnet ditt (navnet som vises i spillet) ved å bruke én navneendringstoken. Kontoen din får én navneendringstoken hvert år og en ekstra token hver måned hvis du er et Patreon-medlem på nivå 4 eller høyere. _BREAK_ Hvis du bytter kallenavn, vil ditt gamle kallenavn bli tilgjengelig for alle å bruke (selv hvis det er ditt originale navn). _BREAK_ Ditt originale navn vil fortsatt være synlig på profilen din.",
-			"current_tokens": "Nåværende navneendringstokens _SPAN_ _NUMBER_ _SPAN_",
+			"current_tokens": "Nåværende navneendringstokens: _SPAN_ _NUMBER_ _SPAN_",
 			"check_availability": "Sjekk tilgjengelighet"
 		},
 		"alerts": {
@@ -535,9 +535,9 @@
 		},
 		"challenger": {
 			"name": {
-				"top": "Ranked ekspert _YEAR_ _NUMBER_",
-				"mid": "Ranked fremadstormende _YEAR_ _NUMBER_",
-				"qualified": "Ranked utfordrer _YEAR_ _NUMBER_"
+				"top": "Ranked ekspert _YEAR_ sesong _NUMBER_",
+				"mid": "Ranked fremadstormende _YEAR_ sesong _NUMBER_",
+				"qualified": "Ranked utfordrer _YEAR_ sesong _NUMBER_"
 			},
 			"description": {
 				"qualified": "Kvalifisert til mesterskapet i _YEAR_ sesong _NUMBER_",
@@ -730,12 +730,12 @@
 		"anime_list": {
 			"description": "Tilkoble din Anilist-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med \"Sett\" innstillingen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
 			"share_entries": {
-				"title": "Del oppføringen",
+				"title": "Del oppføringer",
 				"description": "Vis når et program er fra din liste"
 			},
 			"show_scores": {
 				"title": "Del score",
-				"description": "Vis animescoren din for serier på din liste"
+				"description": "Vis animescoren din for program på din liste"
 			},
 			"anilist_username": "AniList brukernavn",
 			"mal_username": "MyAnimeList brukernavn",
