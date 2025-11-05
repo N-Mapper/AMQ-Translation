@@ -1,795 +1,838 @@
 {
-	"meta": {
-		"language_name": "Norwegian Bokmål",
-		"language_name_native": "Norsk Bokmål",
-		"language_code": "nb",
-		"creators": "NMapper, Zolhungaj"
-	},
-	"common": {
-		"ui": {
-			"translation_coverage": "Oversettelsedekning",
-			"translation_by": "Oversatt av",
-			"username": "Brukernavn",
-			"password": "Passord",
-			"email": "E-post",
-			"repeat_password": "Gjenta passord",
-			"back_button": "Tilbake",
-			"resend_button": "Send på nytt",
-			"register_button": "Registrer",
-			"change_button": "Endre",
-			"logout_button": "Logg ut",
-			"confirm_button": "Bekreft",
-			"continue_button": "Fortsett",
-			"ok_button": "OK",
-			"cancel_button": "Avbryt",
-			"load_button": "Last inn",
-			"new_password": "Nytt passord",
-			"repeat_new_password": "Gjenta nytt passord",
-			"contact": "Kontakt",
-			"socials": "Sosialt",
-			"legal": "Juridisk",
-			"community_translations": "Fellesskapsoversettelser",
-			"loading": "Laster inn",
-			"play": "Spill",
-			"use_button": "Bruk",
-			"claim_button": "Motta",
-			"update_button": "Oppdater",
-			"chat": "Chat",
-			"block": "Blokk",
-			"send_friend_request": "Send venneforespørsel",
-			"invite_to_game": "Inviter til game",
-			"none": "Ingen",
-			"default": "Standard",
-			"delete": "Slett"
-		},
-		"popout_messages": {
-			"unexpected_error": "Uventet feil",
-			"please_try_again": "Prøv igjen",
-			"error_contacting_server": "Servertilkoblingsfeil",
-			"internal_server_error": "Intern serverfeil",
-			"down_for_maintenance": "Server nede for vedlikehold",
-			"guest_account": "Utilgjengelig for gjestekontoer",
-			"guest_account_text": "Denne funksjonen er utilgjengelig for gjestekontoer.",
-			"block_player": {
-				"title": "Blokk _NAME_",
-				"text": "Du vil ikke se meldinger eller få venne-/gameforespørseler fra blokkerte spillere",
-				"confirm": "Blokk",
-				"cancel": "Avbryt"
-			}
-		},
-		"registration": {
-			"terms_of_service": "Du må godta tjenestevilkårene for å registrere",
-			"no_username": "Brukernavn ikke oppgitt",
-			"username_length": "Brukernavn kan ikke være lengre enn 16 tegn",
-			"invalid_username": "Brukernavn kan bare inneholde bokstaver (utenom ÆØÅ), tall og understreker",
-			"amq_username": "Brukernavnet \"AMQ\" er reservert og kan ikke brukes",
-			"password_too_short": "Passordet må være på minst 5 tegn",
-			"password_too_long": "Passordet må være på maksimalt 9999 tegn",
-			"passwords_not_matching": "Passordene stemmer ikke overens",
-			"no_email": "Ingen e-postadresse oppgitt",
-			"invalid_email": "Ugyldig e-postadresse",
-			"no_country": "Bostedsland ikke oppgitt",
-			"disabled": "Registrering er deaktivert",
-			"unknown_country": "Ukjent bostedsland",
-			"username_taken": "Brukernavnet er allerede tatt",
-			"email_taken": "E-postadressen er allerede registrert",
-			"email_sent": "Bekreftelses-e-posten er sendt til _EMAIL_",
-			"email_length": "E-postadresse kan maksimalt være på 255 tegn",
-			"account_created": "Konto _NAME_ ble opprettet"
-		},
-		"guest_account": {
-			"title": "Gjestekontoer",
-			"click_to_register": "Klikk her for å fullføre registreringen",
-			"complete_registration": "Fullfør registreringen",
-			"complete_registration_message": "For å fullføre registreringen, bekreft e-postadressen din ved å klikke på lenken som er sendt til _BOLD_ _EMAIL_ _BOLD_"
-		}
-	},
-	"login_page": {
-		"ui": {
-			"play_now": "Spill nå",
-			"login": "Logg inn",
-			"send_button": "Send",
-			"return_to_login": "Gå tilbake til innlogging",
-			"stay_signed_in": "Forbli innlogget",
-			"forgot_password": "Glemt passord?",
-			"forgot_username": "Glemt brukernavn?",
-			"country_of_residence": "Bostedsland",
-			"agree_terms_of_service": "Jeg godtar _LINK_ tjenestevilkårene _LINK_",
-			"start_playing_now": "Start å spille nå"
-		},
-		"popout_messages": {
-			"create_guest_account": {
-				"title": "Lag gjestekonto",
-				"text": "Ved å lage en gjestekonto godtar du _LINK_ tjenestevilkårene _LINK_ og _LINK_ personvernerklæringen _LINK_.",
-				"error_title": "Feil ved oppretting av gjestekonto",
-				"error_disabled": "gjestekonto er deaktivert"
-			},
-			"select_country": "Vennligst velg ditt bostedsland",
-			"country_error": "Feil ved registering av bostedsland",
-			"already_online": {
-				"title": "Konto er allerede pålogget",
-				"text": "Fortsett innlogging, og logg ut de andre øktene?"
-			},
-			"guest_timeout": "Gjestekonto har blitt tidsavbrutt, vennligst opprett en ny"
-		},
-		"text": {
-			"create_account": "Lag konto",
-			"recover_username_title": "Gjennopprett brukernavn",
-			"recover_username_text": "Skriv inn e-postadressen som ble brukt for å registrere kontoen din, for å få brukernavnet ditt tilsendt.",
-			"forgot_password_title": "Glemt Passord",
-			"forgot_password_text": "Skriv inn e-postadressen som ble brukt for å registrere kontoen din, for å få tilsendt en lenke for å tilbakestille passordet ditt.",
-			"reset_password_title": "Tilbakestill passord",
-			"missing_information": "Mangler kontoinfo",
-			"missing_country": "Kontoen din mangler bostedsland, vennligst velg det nedenfor.",
-			"promo_title": "#1 anime musikk quiz!",
-			"promo_one": {
-				"title": "Uendlige mange quizer",
-				"line_one": "35 000+ sanger fra 8 000+ anime",
-				"line_two": "Hver quiz er unikt generert",
-				"line_three": "Tilpassede quizer for din MyAnimeList, AniList eller Kitsu",
-				"line_four": "Spill gratis"
-			},
-			"promo_two": {
-				"title": "Spill på din måte",
-				"line_one": "Med venner",
-				"line_two": "Utfordre deg selv",
-				"line_three": "Klatre opp ranked stigen",
-				"line_four": "Utforsk dungeon crawler-en"
-			},
-			"login_queue": {
-				"title": "Innloggingskø",
-				"text": "Innloggingsserveren opplever stor belastning, du vil bli logget inn om ett øyeblikk",
-				"position": "Plass i køen: _SPAN_ 0 _SPAN_"
-			}
-		},
-		"messages": {
-			"account_verified": "Kontoen er verifisert, du kan nå logge inn",
-			"account_verified_guest": "Kontoen er verifisert, du kan nå lukke denne fanen",
-			"verification_error": "Kontoverifiseringsfeil: En uventet feil oppstod",
-			"unknown_reset_code": "Ukjent tilbakestillingskode",
-			"wrong_username_password": "Feil brukernavn eller passord",
-			"email_sent": "E-post sendt",
-			"password_updated": "Passord oppdatert"
-		},
-		"account_verification": {
-			"title": "Kontoverifisering",
-			"text_one": "_SPAN_ Konto ikke verifisert _SPAN_, vennligst verifiser e-postadressen din ved å klikke på lenken sendt til _BOLD_ _EMAIL_ _BOLD_.",
-			"text_two": "Mottok du ikke en e-post? Vent opptil ett minutt for at e-posten skal komme og sjekk søppelposten din. Hvis du fortsatt ikke mottar e-posten, kan du sende den på nytt eller endre e-postadressen din ved å bruke feltet nedenfor."
-		},
-		"banned_messages": {
-			"title_temp": "Konto midlertidig utestengt",
-			"title_ban": "Konto utestengt",
-			"text_one": "Din konto har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets tjenestevilkår.",
-			"text_two": "Din konto har blitt flagget for brudd på tjenestevilkårene av en moderator, og har derfor blitt utestengt. Du skal ha mottatt en e-post med informasjon om hvorfor du ble utestengt.",
-			"text_three": "Din konto har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets tjenestevilkår.",
-			"text_temp": "Siden dette er din første utestengelse, har din konto bare blitt midlertidig utestengt. Men hvis du fortsetter å jukse etter at utstengelesen er opphevet, vil kontoen din bli permanent utestengt.",
-			"text_perm": "Siden dette er din andre utestengelse, vil din konto bli utestengt permanent.",
-			"text_end": "Hvis du mener at denne utestengelsen er en feil, kan du lage en ticket på spillets _LINK_ Discord _LINK_ i #open-a-ticket kanalen.",
-			"suspended_until": "Utestengt til"
-		}
-	},
-	"main_menu": {
-		"ui": {
-			"news": "Nyheter",
-			"stay_connected": "Hold kontakten",
-			"merch_store": "Merchbutikk",
-			"song_library": "Sangbibliotek",
-			"leaderboard": "Ledertavle"
-		},
-		"carousel": {
-			"social_promo": "Få gratis tickets ved å følge AMQ på Discord og Patreon!",
-			"patreon_promo": "Støtt spillet og lås opp eksklusive belønninger",
-			"sale_names": {
-				"fall": "Høstsalg!",
-				"summer": "Sommersalg!",
-				"winter": "Vintersalg!",
-				"spring": "Vårsalg!",
-				"halloween": "Halloweensalg!",
-				"christmas": "Julesalg!",
-				"lunar": "Månefestivalsalg!",
-				"valentine": "Valentinsdagssalg!",
-				"summer_games": "Sommerlekersalg!"
-			},
-			"sale_text": "Få den beste ticket verdien!",
-			"skin_header": "Eksklusivt",
-			"skin_seasons": {
-				"spring": "Vårskins",
-				"summer": "Sommerskinns",
-				"fall": "Høstskinns",
-				"winter": "Vinterskinns",
-				"halloween": "Halloweenskinns",
-				"christmas": "Juleskinns",
-				"lunar": "Månefestivalskinns",
-				"valentine": "Valentinsdagsskinns",
-				"summer_games": "Sommerlekerskinns"
-			},
-			"skin_footer": "Tilgjengelig nå"
-		},
-		"quiz_of_the_day": {
-			"title": "Dagens quiz",
-			"time_slots": "Quiz tidspunkter",
-			"weekly_schedule": "Ukeplan",
-			"current_week": "Denne uken",
-			"what_is": "Hva er \"dagens quiz\"?",
-			"what_is_description": "\"Dagens quiz\" er en daglig quiz med ubegrenset mange spillere. Hvor spillere kan teste sine ferdigheter mot andre i fellesskapet. Det er for øyeblikket delt mellom ranked quizer, en svært konkurransepreget modus, og temaquizer laget av fellesskapet designet for å gi en unik og morsom opplevelse.",
-			"ranked_description": "Ranked beskrivelse",
-			"week": "Uke _NUMBER_",
-			"week_year": "Uke _NUMBER_ av _NUMBER_",
-			"championship": "Mesterskap",
-			"championship_description": "Månedens 150 topprangerte spillere kjemper om sjansen om å bli månedens mester!",
-			"rest_day": "Hviledag",
-			"rest_day_description": "Ingen quizer dagen etter mesterskapet.",
-			"ranked": "Ranked",
-			"ranked_finished": "Ferdig",
-			"ranked_types": {
-				"novice": {
-					"title": "Novise",
-					"description": "45 sanger målrettet mot nye og oppkommende spillere"
-				},
-				"expert": {
-					"title": "Ekspert",
-					"description": "85 sanger målrettet mot erfarne spillere. Belønner med ekstra ranked-poeng"
-				}
-			},
-			"states": {
-				"ranked": {
-					"offline": "Ranked - Frakoblet",
-					"lobby": "Ranked - Lobby åpen",
-					"playing": "Ranked - Spilles",
-					"completed": "Ranked - Ferdig",
-					"rest_day": "Ranked - Hviledag"
-				},
-				"themed": {
-					"offline": "Temaquiz - Frakoblet",
-					"playing": "Temaquiz - Spilles",
-					"completed": "Temaquiz - Ferdig",
-					"lobby": "Temaquiz - Lobby åpen"
-				},
-				"championship": {
-					"offline": "Mesterskap - Frakoblet",
-					"playing": "Mesterskap - Spilles",
-					"completed": "Mesterskap - Ferdig",
-					"lobby": "Mesterskap - Lobby åpen"
-				}
-			},
-			"week_days": {
-				"monday": "Mandag",
-				"tuesday": "Tirsdag",
-				"wednesday": "Onsdag",
-				"thursday": "Torsdag",
-				"friday": "Fredag",
-				"saturday": "Lørdag",
-				"sunday": "Søndag"
-			},
-			"popout_messages": {
-				"weekly_quiz": {
-					"title": "Quiz ukeplan",
-					"text": "Se quiz ukeplanen og finn mer informasjon om modusen"
-				},
-				"region_time": { "text": "Region og tid til neste quiz" }
-			},
-			"alerts": {
-				"ranked_rules": {
-					"title": "Ranked regler",
-					"text": "Ved å spille ranked samtykker du til at du ikke vil hinte eller dele svar med andre spillere, eller bruke verktøy, metoder eller programvare som gir deg en urettferdig fordel."
-				}
-			},
-			"regions": {
-				"west": {
-					"name": "Vest",
-					"shorthand": "V"
-					},
-				"east": {
-					"name": "Øst",
-					"shorthand": "Ø"
-					},
-				"central": {
-					"name": "Sentral",
-					"shorthand": "S"
-					}
-			}
-		},
-		"ranked_description": {
-			"title": "Ranked-modus",
-			"description": "Utfordre deg selv mot dine venner og AMQ fellesskapet ved å bli med i ranked game. Hvert ranked game vil gi deg ranked-poeng, og låser opp nye eksklusive belønninger og bringer deg nærmere å bli med de beste av de beste i regionens mesterskap holdt i slutten av hver måned. _BREAK_ Vær oppmerksom på at kontoen din må være level 10 eller høyere for å spille ranked matcher.",
-			"how_it_works": "Hvordan det fungerer",
-			"regions": "Regioner",
-			"region_description": "Ranked-modusen er delt tre separate regioner (vest, sentral, øst), hver med sin egen ledertavle, starttid og mesterskap. Du vil kunne delta i alle regioner, men ranked-poengene teller bare for regionen de er opptjent i.",
-			"ranked_game": "Ranked game",
-			"ranked_game_description_one": "30 minutter før starttid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen. _BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid.",
-			"ranked_game_description_two": "På slutten av hver ranked game, vil du får ranked-poeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise game, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert game, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 5 poeng hver, de neste fem gir 6 poeng hver, deretter 7 poeng for hver av de neste fem og så videre.",
-			"end_of_season": "Slutten av sesongen",
-			"end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, hvor vinneren får tittelen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle ranked-poengene bli tilbakestilt og en ny sesong starter.",
-			"rules": "Regler",
-			"rules_description": "Ranked-modusen er en test av individuelle ferdigheter, så det er viktig at du ikke deler hint eller svar med andre spillere. Alle verktøy, metoder og programvarer som gir deg en urettferdig fordel er ikke tillatt (som er det er for alle modusene). _BREAK_ Brudd på reglene ovenfor kan føre til at kontoen din blir utestengt og alle ranked-belønninger blir fjernet."
-		},
-		"avatar_drive": {
-			"standings": "Toppliste",
-			"recent": "Nyeste",
-			"weekly": "Ukentlig",
-			"weekly_short": "U",
-			"monthly": "Månedlig",
-			"monthly_short": "M",
-			"all_time": "Alltid",
-			"all_time_short": "A",
-			"donate": "Doner",
-			"amount": "Beløp",
-			"description": "Doner for hva den neste avataren skal være! Når kampanjen er over, vil avataren som leder bli lagt til spillet! Vær oppmerksom på at kampanjen vil fortsette et par dager etter målet er nådd.",
-			"faq_what_is": {
-				"title": "Hva er en avatar-kampanje?",
-				"text": "Avatar-kampanjen er din måte å støtte spillet, mens du samtidig påvirker hva fremtidige avatarer vil være. Systemet er ganske enkelt, når du donerer kan du velge hvilken som helst avatar i avatar-kampanjen eller nominere en ny avatar. Verdien som doneres legges deretter til avatarens totale score, og når målet for kampanjen er oppnådd, vil avataren med høyest score bli lagt til spillet som en fremtidig avatar."
-			},
-			"faq_nomination_type": {
-				"title": "Hvilken type avatarer kan jeg nominere?",
-				"text": "Du kan nominere hvilken som helst type avatar du kan tenke på, så lenge de ikke er støtende, lovlig kan legges til spillet og passer inn i spillets design. Alle nominasjoner blir gjennomgått, og kan bli avvist hvis de ikke følger retningslinjene nevnt ovenfor."
-			},
-			"faq_existing_avatar": {
-				"title": "Kan jeg nomenere en eksisterende karakter?",
-				"text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for avatar-kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skinn bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinnet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\"."
-			},
-			"donate_towards": "Doner for",
-			"nominated_avatar": "Nominert avatar",
-			"new_avatar": "Ny avatar",
-			"avatar_description": "Avatar beskrivelse",
-			"nomination": "Nominasjon",
-			"anonymous_donation": "Anonym donasjon",
-			"free_donation": "Bruk gratis donasjon",
-			"free_donation_amount": "Beløp: _NUMBER_€",
-			"approx_dollars": "Omtrent. $",
-			"checkout": "Betal",
-			"popover": { "no_free_donation": "Gratis donasjonen allerede brukt denne måneden" },
-			"alerts": {
-				"invalid_amount": {
-					"title": "Ugyldig donasjonsbeløp",
-					"text": {
-						"illegal": "Du må angi et donasjonsbeløp",
-						"minimum": "Minimumsbeløp for donasjon er på 1€"
-					}
-				},
-				"donation_error": { "title": "Donasjonsfeil" },
-				"donation_received": { "title": "Donasjon mottatt", "text": "Takk for at du støtter spillet!" },
-				"use_free_donation": { "title": "Bruk gratis donasjon", "text": "Du får én gratis donasjon i måned" }
-			},
-			"faq_button": "FAQ",
-			"faq_header": "FAQ",
-			"avatar_description_placeholder": "Kort beskrivelse av avatar"
-		},
-		"social_rewards": {
-			"title": "Sosiale media belønning",
-			"description": "Som en takk for at du følger spillets Discord og Patreon, så vil du motta 8 tickets som belønning for å følge hver av dem. _BREAK_ Sørg for å bli med i _LINK_ Discord-en _LINK_ før du kan motta Discord-belønningen. _BREAK_ Sørg for å bli med (gratis) eller støtt _LINK_ Patreon-en _LINK_ før du kan motta Patreon-belønningen."
-		},
-		"game_mode": {
-			"title": "Modus",
-			"solo": {
-				"title": "Solo",
-				"description": "Utfordre deg selv med et ubegrenset antall personlige unike quizer"
-			},
-			"multiplayer": {
-				"title": "Flerspiller",
-				"description": "Spill unike quizer med venner og andre anime-fans"
-			},
-			"community": {
-				"title": "Fellesskapet",
-				"description": "Spill tilpassede quizer laget av fellesskapet eller lag dine egne"
-			},
-			"jam": {
-				"title": "Jamquiz",
-				"description": "En uendelig quiz hvor spillere kan hoppe inn og ut når som helst"
-			},
-			"nexus": {
-				"title": "Nexus",
-				"description": "Utfordre Nexus-krypten, en unike roguelike-quizmodus, som kan spilles alene eller med venner"
-			}
-		}
-	},
-	"menu_bar": {
-		"settings": {
-			"language": {
-				"custom": "Bruk egen",
-				"custom_description": "Legg til en oversettelsesfil for å teste den i spillet.",
-				"custom_title": "Velg oversettelsesfil",
-				"custom_placeholder": "URL til oversettelsesfilen",
-				"custom_alert_description": "Legg til en URL til din oversettelsesfil",
-				"custom_failed_to_load": {
-					"title": "Filinnlastingsfeil",
-					"text": "Kunne ikke laste den valgte oversettelsesfilen fra den oppgitte URL-en."
-				},
-				"custom_wrong_format": {
-					"title": "Oversettelesesfil format feil",
-					"text": "Den oppgitte oversettelsesfilen er ikke i riktig format. Se nettleserkonsollen for mer informasjon."
-				}
-			}
-		},
-		"friend_list": {
-			"friends": "Venner",
-			"total": "Totalt",
-			"all": "Alle",
-			"statuses": {
-				"online": "Pålogget",
-				"offline": "Frakoblet",
-				"away": "Inaktiv",
-				"do_not_disturb": "Ikke forstyrr",
-				"invisible": "Usynlig",
-				"playing_nexus": "Spiller _NAME_ Nexus",
-				"in_nexus_lobby": "I _NAME_ Nexus lobby",
-				"in_lobby": "I _NAME_ lobby",
-				"spectating_quiz": "Tilskuere til en _NAME_ quiz",
-				"in_quiz": "I _NAME_ quiz",
-				"mode_names": {
-					"co-op": "co-op",
-					"private": "privat",
-					"jam": "Jam",
-					"event": "event",
-					"solo": "solo"
-				}
-			},
-			"options": {
-				"report": "Rapporter",
-				"remove_friend": "Fjern venn",
-				"join_game": "Bli med i et game"
-			},
-			"popout_messages": {
-				"not_in_game": "Du er ikke i et game",
-				"solo_game_invite": "Kan ikke invitere spillere til et sologame"
-			}
-		},
-		"menu": {
-			"patreon": "Patreon",
-			"donate": "Doner",
-			"song_history": "Sanghistorie",
-			"settings": "Innstillinger",
-			"blocked_players": "Blokkerte spillere",
-			"change_password": "Bytt passord",
-			"leaderboard": "Ledertavle",
-			"tutorial": "Veiledning",
-			"guidelines": "Retningslinjer",
-			"about": "Om",
-			"logout": "Logg ut"
-		},
-		"video_host": {
-			"title": "Videoservere",
-			"description": "Tilkoblingsstatus til de forskjellige videoserverne",
-			"click_to_retest": "Klikk for å teste tilkoblingen på nytt",
-			"speed": "Latens: _SPANC_ _NUMBER_  _SPANC_",
-			"connection_status": {
-				"good": "Bra",
-				"okay": "OK",
-				"poor": "Dårlig",
-				"bad": "Elendig"
-			}
-		}
-	},
-	"player_profile": {
-		"profile_image": "Profilbilde",
-		"avatar": "Avatar",
-		"no_badges": "Ingen merker",
-		"profile": "Profil",
-		"special_badges": "Spesialmerker",
-		"standard_badges": "Standardmerker",
-		"name_effects": "Navneeffekter",
-		"name_color": "Navnefarge",
-		"name_glow": "Naveglød",
-		"hidden": "Skjult",
-		"account_creation": "Kontoopprettelse",
-		"songs_played": "Sanger spilt",
-		"guess_rate": "Gjettingsrate",
-		"options": "Valg",
-		"edit": "Rediger",
-		"change_nickname": "Bytt kallenavnet",
-		"change_nickname_modal": {
-			"description": "Du kan endre kallenavnet ditt (navnet som vises i spillet) ved å bruke én navneendringstoken. Kontoen din får én navneendringstoken hvert år og en ekstra token hver måned hvis du er et Patreon-medlem på nivå 4 eller høyere. _BREAK_ Hvis du bytter kallenavn, vil ditt gamle kallenavn bli tilgjengelig for alle å bruke (selv hvis det er ditt originale navn). _BREAK_ Ditt originale navn vil fortsatt være synlig på profilen din.",
-			"current_tokens": "Nåværende navneendringstokens: _SPAN_ _NUMBER_ _SPAN_",
-			"check_availability": "Sjekk tilgjengelighet"
-		},
-		"alerts": {
-			"error_getting_profile": "Feil ved henting av spillerprofil",
-			"unknown_player": "Ukjent spiller"
-		},
-		"name_effects_entries": {
-			"challenger_color": {
-				"name": "Utfordrer",
-				"description": "Tilgjengelig for spillere som kvalifiserte seg til forrige måneds ranked mesterskap"
-			},
-			"challenger_glow": {
-				"name": "Utfordrer",
-				"description": "Tilgjengelig for spillere som kom blant de 50 beste i forrige måneds ranked mesterskap"
-			},
-			"patreon_color": {
-				"name": "Patreon",
-				"description": "Tilgjengelig for nivå 3 eller høyere Patreon-medlemmer"
-			},
-			"patreon_glow": {
-				"name": "Patreon",
-				"description": "Tilgjengelig for nivå 4 eller høyere Patreon-medlemmer"
-			},
-			"month_patreon_current": "Tilgjengelig for nivå 5 Patreon-medlemmer som ble med denne måned, og nivå 6 medlemmer",
-			"month_patreon_previous": "Tilgjengelig for nivå 5 Patreon-medlemmer som ble med i utgivelsesmåneden, og nivå 6 medlemmer",
-			"month_patreon_previous_unlocked": "Tilgjengelig for nivå 5 Patreon-medlemmer som ble med i utgivelsesmåneden, og nivå 6 medlemmer. Du ble med i løpet av utgivelsesmåneden."
-		}
-	},
-	"badges": {
-		"ranked": {
-			"name": "Ranked _TIER_ _YEAR_ sesong _NUMBER_",
-			"name_result": "Ranked _TIER_ _YEAR_",
-			"description": "Fikk _TIER_ rang i _YEAR_ ranked sesong _NUMBER_",
-			"description_result": "Fikk _TIER_ rang for _YEAR_ ranked sesonger",
-			"tiers": {
-				"bronze": "bronse",
-				"silver": "sølv",
-				"gold": "gull",
-				"platinum": "platina",
-				"diamond": "diamant"
-			}
-		},
-		"champion": {
-			"name": {
-				"first": "Ranked vinner _YEAR_ sesong _NUMBER_",
-				"second": "Ranked andreplass _YEAR_ sesong _NUMBER_",
-				"third": "Ranked tredjeplass _YEAR_ sesong _NUMBER_"
-			},
-			"description": {
-				"first": "Vant mesterskapet i _YEAR_ sesong _NUMBER_",
-				"second": "Andreplass i mesterskapet i _YEAR_ sesong _NUMBER_",
-				"third": "Tredjeplass i mesterskapet i _YEAR_ sesong _NUMBER_"
-			}
-		},
-		"challenger": {
-			"name": {
-				"top": "Ranked ekspert _YEAR_ sesong _NUMBER_",
-				"mid": "Ranked fremadstormende _YEAR_ sesong _NUMBER_",
-				"qualified": "Ranked utfordrer _YEAR_ sesong _NUMBER_"
-			},
-			"description": {
-				"qualified": "Kvalifisert til mesterskapet i _YEAR_ sesong _NUMBER_",
-				"top": "Fikk top _TOP_ i _YEAR_ sesong _NUMBER_ ranked mesterskap"
-			}
-		},
-		"patreon": {
-			"name": {
-				"start": "Patreon-medlem",
-				"month": "_NUMBER_ måneder Patreon-medlem",
-				"one_year": "1 år Patreon-medlem",
-				"multiple_years": "_NUMBER_ år Patreon-medlem"
-			},
-			"description": "AMQ Patreon-medlem"
-		},
-		"avatar": { "name": "_NAME_ merke", "description": "Lås opp 10 skinn/antrekk for _NAME_" },
-		"mod": {
-			"name": { "game": "AMQ moderator", "jam": "AMQ Jamquiz moderator" },
-			"description": {
-				"game": "En del av AMQ-moderatorteamet",
-				"jam": "En del av AMQ-Jamquiz-moderatorteamet"
-			}
-		},
-		"aragaimu": {
-			"name": {
-				"participant": "Aragaimu _YEAR_ deltager",
-				"top32": "Aragaimu _YEAR_ Topp 32",
-				"top4": "Aragaimu _YEAR_ Topp 4"
-			},
-			"description": {
-				"participant": "Deltok i Aragaimu _YEAR_ turneringen",
-				"top32": "Fikk top 32 i Aragaimu _YEAR_ turneringen",
-				"top4": "Fikk top 4 i Aragaimu _YEAR_ turneringen"
-			}
-		}
-	},
-	"patreon_window": {
-		"title": "Patreon",
-		"description": "Støtt driften og utviklingen av AMQ ved å støtte spillet på Patreon. Å jobbe med og dele AMQ med alle dere har vært og er en utrolig opplevelse, og jeg har så mye mer jeg ønsker å gjøre med spillet. Ved å støtte Patreon-en vil du ikke bare hjelpe meg dekke utgiftene til spillet, men fortsette utviklingen av det! Som en spesiell takk får du flere eksklusive belønninger!",
-		"reward_examples": {
-			"title": "Noen Patreon-belønninger",
-			"sneak_peeks": "Sniktitter",
-			"patreon_badge": "Patreon-merker",
-			"custom_emotes": "Egene emojier",
-			"monthly_tickets": "Månedlige tickets"
-		},
-		"already_a_backer": "Allerede medlem?",
-		"link_account": "Tilkoble Patreon-konto",
-		"become_a_backer": "Bli medlem",
-		"patreon_linked": "Patreon tilkoblet!",
-		"backer_level": {
-			"title": "Patreon-nivå",
-			"tier": "Nivå _NUMBER_",
-			"rewards": { "emotes": "_NUMBER_ emoji", "tickets": "_NUMBER_ tickets" }
-		},
-		"badge_level": "Merkenivå",
-		"badge_level_info": "Ditt merkenivå tilsvarer antall måneder du har vært medlem på nivå 2 eller høyere på Patreon",
-		"patreon_page": "Patreon-side",
-		"relink": "Tilkoble på nytt",
-		"update_info": "Oppdater info",
-		"unlink_account": "Frakoble bruker",
-		"linked_account": "Tilkoblet bruker",
-		"emotes": {
-			"title": "Emoji",
-			"upload": "Last opp",
-			"close": "Lukk",
-			"manage": "Kontroller",
-			"empty": "Tom",
-			"states": {
-				"waiting_approval": { "name": "Venter på godkjenning", "shorthand": "V" },
-				"active": { "name": "Aktiv", "shorthand": "A" },
-				"disabled": { "name": "Deaktivert", "shorthand": "D" }
-			},
-			"error_deleting": "Emojislettingsfeil",
-			"upload_emote": {
-				"title": "Last opp emoji",
-				"description": {
-					"line_one": "_BOLD_ Plasser igjen _BOLD_",
-					"line_two": "Standard: _NUMBER_",
-					"line_three": "Animerte: _NUMBER_"
-				},
-				"confirm_button": "Velg fil",
-				"footer": "Aksepterte filformater: .png (Standard), .gif (Animert). Maksimal filstørrelse: 256kb",
-				"file_too_large": {
-					"title": "Fil for stor",
-					"description": "Maksimale filstørrelse er 256kb. Den oppgitte filen er _NUMBER_kb"
-				},
-				"no_standard_slot": {
-					"title": "Ingen standardplasser igjen",
-					"description": "Du har ingen ledige standard emojiplasser igjen"
-				},
-				"no_animated_slot": {
-					"title": "Ingen animerteplasser igjen",
-					"description": "Du har ingen ledige animerte emojiplasser igjen"
-				},
-				"selected_image": {
-					"title": "Valgt bilde",
-					"image": "Bilde",
-					"resulting_emote": "Resulterende emoji",
-					"placeholder": "Emojinavn",
-					"errors": {
-						"no_name": "Du må oppgi et navn på emojien",
-						"name_format": "Emojinavnet kan bare inneholde bokstaver (utenom ÆØÅ) og tall",
-						"name_length": "Emojinavnet må være på maksimalt _NUMBER_ tegn."
-					}
-				},
-				"server_rejected": {
-					"title": "Emojiopplastningsfeil",
-					"description": "Servern avviste opplastingen av emojien."
-				},
-				"emote_uploaded": {
-					"title": "Emoji opplastet",
-					"description": "Din emoji ble lastet opp og venter på godkjenning"
-				}
-			}
-		}
-	},
-	"setting_window": {
-		"title": "Innstillinger",
-		"tabs": {
-			"game": "Spillet",
-			"anime_list": "Animeliste",
-			"graphics": "Grafikk",
-			"audio": "Lyd"
-		},
-		"language": "Språk",
-		"auto_submit": {
-			"title": "Autoinnsending",
-			"description": "Send inn svaret ditt automatisk når gjettetiden er ute"
-		},
-		"list_numbering": {
-			"title": "Listenummerering",
-			"description": "Vis antall sanger spilt fra hver spillers animeliste på resultattavlen"
-		},
-		"disable_emotes": {
-			"title": "Deaktiver emoji",
-			"description": "Deaktiver emojier fra å vises i chatter"
-		},
-		"answer_time": {
-			"title": "Svartid",
-			"description": "Vis spillernes svartid på avataren deres"
-		},
-		"anime_link": { "title": "Animelenke", "description": "Animesiden som er lenket i sanginformasjonen" },
-		"auto_skip_vote": {
-			"title": "Auto-hopp over avstemning",
-			"description": "Stem automatisk for å hoppe over etter svaret og/eller etter 2 sekunder i avspillingsfasen",
-			"guessing_phase": "Gjetnings-_BREAK_fasen",
-			"replay_phase": "Avspillings-_BREAK_fasen"
-		},
-		"block_non_friend_actions": {
-			"title": "Blokk ikke-venners handlinger",
-			"description": "Blokker sosiale handlinger fra spillere som ikke er på vennelisten din",
-			"direct_messages": "Direkt-_BREAK_emeldinger",
-			"friend_requests": "Venne-_BREAK_forespørseler",
-			"game_invites": "Game-_BREAK_invitasjoner"
-		},
-		"anime_names": {
-			"title": "Animenavn",
-			"description": "Standard animenavn vist i quizer",
-			"english": "Engelsk",
-			"romaji": "Romaji"
-		},
-		"team_answer": {
-			"title": "Lagets svar i chatten",
-			"description": "Vis lagets svar i chatten under lag-game",
-			"never": "Aldri",
-			"out_of_focus": "Ute av fokus",
-			"always": "Alltid"
-		},
-		"sound_equalizing": {
-			"title": "Lydutjevning",
-			"description": "Utjevener volumnivåene mellom forskjellige sanger"
-		},
-		"max_volume": {
-			"title": "Maks Volum",
-			"description": "Det maks volumet for lydutjevningen. Ved å øke dette volumet øker det totale volumet, men det kan føre til at roligere sanger ikke blir fullstendig utjevnet"
-		},
-		"auto_hide_video": {
-			"title": "Auto-skjul video",
-			"description": "Skjul videoen automatisk for de valgte kategoriene. Den kan fortsatt vises ved å klikke på videoen under avspillingsfasen",
-			"openings": "Introer",
-			"endings": "Avsluttinger",
-			"inserts": "Innsatser",
-			"unwatched": { "title": "Usett", "description": "Videoer fra anime du ikke har sett" },
-			"high_risk": {
-				"title": "Høy risiko",
-				"description": "Videoer som sannsynligvis vil forårsake spoilere eller er upassende. Basert på spillerstatistikk"
-			}
-		},
-		"anime_list": {
-			"description": "Tilkoble din Anilist-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med \"Sett\" innstillingen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
-			"share_entries": {
-				"title": "Del oppføringer",
-				"description": "Vis når et program er fra din liste"
-			},
-			"show_scores": {
-				"title": "Del score",
-				"description": "Vis animescoren din for program på din liste"
-			},
-			"anilist_username": "AniList brukernavn",
-			"mal_username": "MyAnimeList brukernavn",
-			"mal_username_short": "MAL brukernavn",
-			"kitsu_username": "Kitsu brukernavn",
-			"last_updated": "_BOLD_ Sist oppdatert: _BOLD_ _SPAN_ _DATE_ _SPAN_",
-			"update_messages": {
-				"update_successful": "Oppdatering vellykket",
-				"update_failed": "Oppdatering mislykket",
-				"list_updated": "Liste oppdatert",
-				"list_removed": "Liste fjernet",
-				"unknown_username": "Ukjent brukernavn",
-				"mal_private": "MAL liste er satt til privat, bare offentlige lister kan synkroniseres med spillet",
-				"mal_error": "Feil fra MAL, prøv igjen senere",
-				"anilist_error": "Kan ikke hente liste fra AniList"
-			},
-			"included_entries": {
-				"title": "Inkludere oppføringen",
-				"types": {
-					"watching": "Ser på",
-					"completed": "Fullført",
-					"on_hold": "På vent",
-					"dropped": "Droppet",
-					"planning": "Planlagt"
-				}
-			}
-		},
-		"graphics": {
-			"particle_effects": {
-				"title": "Partikkeleffekter",
-				"description": "Kontrollerer antall partikler som bruker i effekter, for eksempel XP-animasjonen.",
-				"levels": { "off": "Av", "low": "Lav", "high": "Høy" }
-			},
-			"disable_floating_text": {
-				"title": "Deaktiver flytende tekst",
-				"description": "Flytende tekst vises ikke når du får XP og notes"
-			},
-			"name_effects_friend_list": "Navneffekter i vennelisten"
-		},
-		"audio": {
-			"nexus": "Nexus",
-			"master": "Hoved",
-			"music": "Musikk",
-			"effects": "Effekter"
-		}
-	},
-	"blocked_player_window": { "title": "Blokkertespillerliste", "remove_button": "Fjern" },
-	"change_password_window": {
-		"title": "Bytt passord",
-		"current_password": "Nåværende passord",
-		"no_current_password": "Du må oppgi ditt nåværende passord",
-		"unexpected_error": "Uventet feil,  prøv på nytt",
-		"error_contacting_server": "Servertilkoblingsfeil, prøv på nytt senere",
-		"password_updated": "Passord er oppdatert",
-		"wrong_password": "Nåværende passord er feil"
-	}
+    "meta": {
+        "language_name": "Norwegian Bokmål",
+        "language_name_native": "Norsk Bokmål",
+        "language_code": "nb",
+        "creators": "NMapper, Zolhungaj"
+    },
+    "common": {
+        "ui": {
+            "translation_coverage": "Oversettelsedekning",
+            "translation_by": "Oversatt av",
+            "username": "Brukernavn",
+            "password": "Passord",
+            "email": "E-post",
+            "repeat_password": "Gjenta passord",
+            "back_button": "Tilbake",
+            "resend_button": "Send på nytt",
+            "register_button": "Registrer",
+            "change_button": "Endre",
+            "logout_button": "Logg ut",
+            "confirm_button": "Bekreft",
+            "continue_button": "Fortsett",
+            "ok_button": "OK",
+            "cancel_button": "Avbryt",
+            "load_button": "Last inn",
+            "new_password": "Nytt passord",
+            "repeat_new_password": "Gjenta nytt passord",
+            "contact": "Kontakt",
+            "socials": "Sosialt",
+            "legal": "Juridisk",
+            "community_translations": "Fellesskapsoversettelser",
+            "loading": "Laster inn",
+            "play": "Spill",
+            "use_button": "Bruk",
+            "claim_button": "Motta",
+            "update_button": "Oppdater",
+            "chat": "Chat",
+            "block": "Blokk",
+            "send_friend_request": "Send venneforespørsel",
+            "invite_to_game": "Inviter til game",
+            "none": "Ingen",
+            "default": "Standard",
+            "delete": "Slett"
+        },
+        "popout_messages": {
+            "unexpected_error": "Uventet feil",
+            "please_try_again": "Prøv igjen",
+            "error_contacting_server": "Servertilkoblingsfeil",
+            "internal_server_error": "Intern serverfeil",
+            "down_for_maintenance": "Server nede for vedlikehold",
+            "guest_account": "Utilgjengelig for gjestekontoer",
+            "guest_account_text": "Denne funksjonen er utilgjengelig for gjestekontoer.",
+            "block_player": {
+                "title": "Blokk _NAME_",
+                "text": "Du vil ikke se meldinger eller få venne-/gameforespørseler fra blokkerte spillere",
+                "confirm": "Blokk",
+                "cancel": "Avbryt"
+            }
+        },
+        "registration": {
+            "terms_of_service": "Du må godta tjenestevilkårene for å registrere",
+            "no_username": "Brukernavn ikke oppgitt",
+            "username_length": "Brukernavn kan ikke være lengre enn 16 tegn",
+            "invalid_username": "Brukernavn kan bare inneholde bokstaver (utenom ÆØÅ), tall og understreker",
+            "amq_username": "Brukernavnet \"AMQ\" er reservert og kan ikke brukes",
+            "password_too_short": "Passordet må være på minst 5 tegn",
+            "password_too_long": "Passordet må være på maksimalt 9999 tegn",
+            "passwords_not_matching": "Passordene stemmer ikke overens",
+            "no_email": "Ingen e-postadresse oppgitt",
+            "invalid_email": "Ugyldig e-postadresse",
+            "no_country": "Bostedsland ikke oppgitt",
+            "disabled": "Registrering er deaktivert",
+            "unknown_country": "Ukjent bostedsland",
+            "username_taken": "Brukernavnet er allerede tatt",
+            "email_taken": "E-postadressen er allerede registrert",
+            "email_sent": "Bekreftelses-e-posten er sendt til _EMAIL_",
+            "email_length": "E-postadresse kan maksimalt være på 255 tegn",
+            "account_created": "Konto _NAME_ ble opprettet"
+        },
+        "guest_account": {
+            "title": "Gjestekontoer",
+            "click_to_register": "Klikk her for å fullføre registreringen",
+            "complete_registration": "Fullfør registreringen",
+            "complete_registration_message": "For å fullføre registreringen, bekreft e-postadressen din ved å klikke på lenken som er sendt til _BOLD_ _EMAIL_ _BOLD_"
+        }
+    },
+    "login_page": {
+        "ui": {
+            "play_now": "Spill nå",
+            "login": "Logg inn",
+            "send_button": "Send",
+            "return_to_login": "Gå tilbake til innlogging",
+            "stay_signed_in": "Forbli innlogget",
+            "forgot_password": "Glemt passord?",
+            "forgot_username": "Glemt brukernavn?",
+            "country_of_residence": "Bostedsland",
+            "agree_terms_of_service": "Jeg godtar _LINK_ tjenestevilkårene _LINK_",
+            "start_playing_now": "Start å spille nå"
+        },
+        "popout_messages": {
+            "create_guest_account": {
+                "title": "Lag gjestekonto",
+                "text": "Ved å lage en gjestekonto godtar du _LINK_ tjenestevilkårene _LINK_ og _LINK_ personvernerklæringen _LINK_.",
+                "error_title": "Feil ved oppretting av gjestekonto",
+                "error_disabled": "gjestekonto er deaktivert"
+            },
+            "select_country": "Vennligst velg ditt bostedsland",
+            "country_error": "Feil ved registering av bostedsland",
+            "already_online": {
+                "title": "Konto er allerede pålogget",
+                "text": "Fortsett innlogging, og logg ut de andre øktene?"
+            },
+            "guest_timeout": "Gjestekonto har blitt tidsavbrutt, vennligst opprett en ny"
+        },
+        "text": {
+            "create_account": "Lag konto",
+            "recover_username_title": "Gjennopprett brukernavn",
+            "recover_username_text": "Skriv inn e-postadressen som ble brukt for å registrere kontoen din, for å få brukernavnet ditt tilsendt.",
+            "forgot_password_title": "Glemt Passord",
+            "forgot_password_text": "Skriv inn e-postadressen som ble brukt for å registrere kontoen din, for å få tilsendt en lenke for å tilbakestille passordet ditt.",
+            "reset_password_title": "Tilbakestill passord",
+            "missing_information": "Mangler kontoinfo",
+            "missing_country": "Kontoen din mangler bostedsland, vennligst velg det nedenfor.",
+            "promo_title": "#1 anime musikk quiz!",
+            "promo_one": {
+                "title": "Uendlige mange quizer",
+                "line_one": "35 000+ sanger fra 8 000+ anime",
+                "line_two": "Hver quiz er unikt generert",
+                "line_three": "Tilpassede quizer for din MyAnimeList, AniList eller Kitsu",
+                "line_four": "Spill gratis"
+            },
+            "promo_two": {
+                "title": "Spill på din måte",
+                "line_one": "Med venner",
+                "line_two": "Utfordre deg selv",
+                "line_three": "Klatre opp ranked stigen",
+                "line_four": "Utforsk dungeon crawler-en"
+            },
+            "login_queue": {
+                "title": "Innloggingskø",
+                "text": "Innloggingsserveren opplever stor belastning, du vil bli logget inn om ett øyeblikk",
+                "position": "Plass i køen: _SPAN_ 0 _SPAN_"
+            }
+        },
+        "messages": {
+            "account_verified": "Kontoen er verifisert, du kan nå logge inn",
+            "account_verified_guest": "Kontoen er verifisert, du kan nå lukke denne fanen",
+            "verification_error": "Kontoverifiseringsfeil: En uventet feil oppstod",
+            "unknown_reset_code": "Ukjent tilbakestillingskode",
+            "wrong_username_password": "Feil brukernavn eller passord",
+            "email_sent": "E-post sendt",
+            "password_updated": "Passord oppdatert"
+        },
+        "account_verification": {
+            "title": "Kontoverifisering",
+            "text_one": "_SPAN_ Konto ikke verifisert _SPAN_, vennligst verifiser e-postadressen din ved å klikke på lenken sendt til _BOLD_ _EMAIL_ _BOLD_.",
+            "text_two": "Mottok du ikke en e-post? Vent opptil ett minutt for at e-posten skal komme og sjekk søppelposten din. Hvis du fortsatt ikke mottar e-posten, kan du sende den på nytt eller endre e-postadressen din ved å bruke feltet nedenfor."
+        },
+        "banned_messages": {
+            "title_temp": "Konto midlertidig utestengt",
+            "title_ban": "Konto utestengt",
+            "text_one": "Din konto har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets tjenestevilkår.",
+            "text_two": "Din konto har blitt flagget for brudd på tjenestevilkårene av en moderator, og har derfor blitt utestengt. Du skal ha mottatt en e-post med informasjon om hvorfor du ble utestengt.",
+            "text_three": "Din konto har blitt flagget for juks. Bruk av programtillegg, kodebiter, endring av nettstedets utformelse eller andre metoder for å få en urettsferdig fordel er i strid med spillets tjenestevilkår.",
+            "text_temp": "Siden dette er din første utestengelse, har din konto bare blitt midlertidig utestengt. Men hvis du fortsetter å jukse etter at utstengelesen er opphevet, vil kontoen din bli permanent utestengt.",
+            "text_perm": "Siden dette er din andre utestengelse, vil din konto bli utestengt permanent.",
+            "text_end": "Hvis du mener at denne utestengelsen er en feil, kan du lage en ticket på spillets _LINK_ Discord _LINK_ i #open-a-ticket kanalen.",
+            "suspended_until": "Utestengt til"
+        }
+    },
+    "main_menu": {
+        "ui": {
+            "news": "Nyheter",
+            "stay_connected": "Hold kontakten",
+            "merch_store": "Merchbutikk",
+            "song_library": "Sangbibliotek",
+            "leaderboard": "Ledertavle"
+        },
+        "carousel": {
+            "social_promo": "Få gratis tickets ved å følge AMQ på Discord og Patreon!",
+            "patreon_promo": "Støtt spillet og lås opp eksklusive belønninger",
+            "sale_names": {
+                "fall": "Høstsalg!",
+                "summer": "Sommersalg!",
+                "winter": "Vintersalg!",
+                "spring": "Vårsalg!",
+                "halloween": "Halloweensalg!",
+                "christmas": "Julesalg!",
+                "lunar": "Månefestivalsalg!",
+                "valentine": "Valentinsdagssalg!",
+                "summer_games": "Sommerlekersalg!"
+            },
+            "sale_text": "Få den beste ticket verdien!",
+            "skin_header": "Eksklusivt",
+            "skin_seasons": {
+                "spring": "Vårskins",
+                "summer": "Sommerskinns",
+                "fall": "Høstskinns",
+                "winter": "Vinterskinns",
+                "halloween": "Halloweenskinns",
+                "christmas": "Juleskinns",
+                "lunar": "Månefestivalskinns",
+                "valentine": "Valentinsdagsskinns",
+                "summer_games": "Sommerlekerskinns"
+            },
+            "skin_footer": "Tilgjengelig nå"
+        },
+        "quiz_of_the_day": {
+            "title": "Dagens quiz",
+            "time_slots": "Quiz tidspunkter",
+            "weekly_schedule": "Ukeplan",
+            "current_week": "Denne uken",
+            "what_is": "Hva er \"dagens quiz\"?",
+            "what_is_description": "\"Dagens quiz\" er en daglig quiz med ubegrenset mange spillere. Hvor spillere kan teste sine ferdigheter mot andre i fellesskapet. Det er for øyeblikket delt mellom ranked quizer, en svært konkurransepreget modus, og temaquizer laget av fellesskapet designet for å gi en unik og morsom opplevelse.",
+            "ranked_description": "Ranked beskrivelse",
+            "week": "Uke _NUMBER_",
+            "week_year": "Uke _NUMBER_ av _NUMBER_",
+            "championship": "Mesterskap",
+            "championship_description": "Månedens 150 topprangerte spillere kjemper om sjansen om å bli månedens mester!",
+            "rest_day": "Hviledag",
+            "rest_day_description": "Ingen quizer dagen etter mesterskapet.",
+            "ranked": "Ranked",
+            "ranked_finished": "Ferdig",
+            "ranked_types": {
+                "novice": {
+                    "title": "Novise",
+                    "description": "45 sanger målrettet mot nye og oppkommende spillere"
+                },
+                "expert": {
+                    "title": "Ekspert",
+                    "description": "85 sanger målrettet mot erfarne spillere. Belønner med ekstra ranked-poeng"
+                }
+            },
+            "states": {
+                "ranked": {
+                    "offline": "Ranked - Frakoblet",
+                    "lobby": "Ranked - Lobby åpen",
+                    "playing": "Ranked - Spilles",
+                    "completed": "Ranked - Ferdig",
+                    "rest_day": "Ranked - Hviledag"
+                },
+                "themed": {
+                    "offline": "Temaquiz - Frakoblet",
+                    "playing": "Temaquiz - Spilles",
+                    "completed": "Temaquiz - Ferdig",
+                    "lobby": "Temaquiz - Lobby åpen"
+                },
+                "championship": {
+                    "offline": "Mesterskap - Frakoblet",
+                    "playing": "Mesterskap - Spilles",
+                    "completed": "Mesterskap - Ferdig",
+                    "lobby": "Mesterskap - Lobby åpen"
+                }
+            },
+            "week_days": {
+                "monday": "Mandag",
+                "tuesday": "Tirsdag",
+                "wednesday": "Onsdag",
+                "thursday": "Torsdag",
+                "friday": "Fredag",
+                "saturday": "Lørdag",
+                "sunday": "Søndag"
+            },
+            "popout_messages": {
+                "weekly_quiz": {
+                    "title": "Quiz ukeplan",
+                    "text": "Se quiz ukeplanen og finn mer informasjon om modusen"
+                },
+                "region_time": {
+                    "text": "Region og tid til neste quiz"
+                }
+            },
+            "alerts": {
+                "ranked_rules": {
+                    "title": "Ranked regler",
+                    "text": "Ved å spille ranked samtykker du til at du ikke vil hinte eller dele svar med andre spillere, eller bruke verktøy, metoder eller programvare som gir deg en urettferdig fordel."
+                }
+            },
+            "regions": {
+                "west": {
+                    "name": "Vest",
+                    "shorthand": "V"
+                },
+                "east": {
+                    "name": "Øst",
+                    "shorthand": "Ø"
+                },
+                "central": {
+                    "name": "Sentral",
+                    "shorthand": "S"
+                }
+            }
+        },
+        "ranked_description": {
+            "title": "Ranked-modus",
+            "description": "Utfordre deg selv mot dine venner og AMQ fellesskapet ved å bli med i ranked game. Hvert ranked game vil gi deg ranked-poeng, og låser opp nye eksklusive belønninger og bringer deg nærmere å bli med de beste av de beste i regionens mesterskap holdt i slutten av hver måned. _BREAK_ Vær oppmerksom på at kontoen din må være level 10 eller høyere for å spille ranked matcher.",
+            "how_it_works": "Hvordan det fungerer",
+            "regions": "Regioner",
+            "region_description": "Ranked-modusen er delt tre separate regioner (vest, sentral, øst), hver med sin egen ledertavle, starttid og mesterskap. Du vil kunne delta i alle regioner, men ranked-poengene teller bare for regionen de er opptjent i.",
+            "ranked_game": "Ranked game",
+            "ranked_game_description_one": "30 minutter før starttid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen. _BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid.",
+            "ranked_game_description_two": "På slutten av hver ranked game, vil du får ranked-poeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise game, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert game, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 5 poeng hver, de neste fem gir 6 poeng hver, deretter 7 poeng for hver av de neste fem og så videre.",
+            "end_of_season": "Slutten av sesongen",
+            "end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, hvor vinneren får tittelen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle ranked-poengene bli tilbakestilt og en ny sesong starter.",
+            "rules": "Regler",
+            "rules_description": "Ranked-modusen er en test av individuelle ferdigheter, så det er viktig at du ikke deler hint eller svar med andre spillere. Alle verktøy, metoder og programvarer som gir deg en urettferdig fordel er ikke tillatt (som er det er for alle modusene). _BREAK_ Brudd på reglene ovenfor kan føre til at kontoen din blir utestengt og alle ranked-belønninger blir fjernet."
+        },
+        "avatar_drive": {
+            "standings": "Toppliste",
+            "recent": "Nyeste",
+            "weekly": "Ukentlig",
+            "weekly_short": "U",
+            "monthly": "Månedlig",
+            "monthly_short": "M",
+            "all_time": "Alltid",
+            "all_time_short": "A",
+            "donate": "Doner",
+            "amount": "Beløp",
+            "description": "Doner for hva den neste avataren skal være! Når kampanjen er over, vil avataren som leder bli lagt til spillet! Vær oppmerksom på at kampanjen vil fortsette et par dager etter målet er nådd.",
+            "faq_what_is": {
+                "title": "Hva er en avatar-kampanje?",
+                "text": "Avatar-kampanjen er din måte å støtte spillet, mens du samtidig påvirker hva fremtidige avatarer vil være. Systemet er ganske enkelt, når du donerer kan du velge hvilken som helst avatar i avatar-kampanjen eller nominere en ny avatar. Verdien som doneres legges deretter til avatarens totale score, og når målet for kampanjen er oppnådd, vil avataren med høyest score bli lagt til spillet som en fremtidig avatar."
+            },
+            "faq_nomination_type": {
+                "title": "Hvilken type avatarer kan jeg nominere?",
+                "text": "Du kan nominere hvilken som helst type avatar du kan tenke på, så lenge de ikke er støtende, lovlig kan legges til spillet og passer inn i spillets design. Alle nominasjoner blir gjennomgått, og kan bli avvist hvis de ikke følger retningslinjene nevnt ovenfor."
+            },
+            "faq_existing_avatar": {
+                "title": "Kan jeg nomenere en eksisterende karakter?",
+                "text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for avatar-kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skinn bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinnet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\"."
+            },
+            "donate_towards": "Doner for",
+            "nominated_avatar": "Nominert avatar",
+            "new_avatar": "Ny avatar",
+            "avatar_description": "Avatar beskrivelse",
+            "nomination": "Nominasjon",
+            "anonymous_donation": "Anonym donasjon",
+            "free_donation": "Bruk gratis donasjon",
+            "free_donation_amount": "Beløp: _NUMBER_€",
+            "approx_dollars": "Omtrent. $",
+            "checkout": "Betal",
+            "popover": {
+                "no_free_donation": "Gratis donasjonen allerede brukt denne måneden"
+            },
+            "alerts": {
+                "invalid_amount": {
+                    "title": "Ugyldig donasjonsbeløp",
+                    "text": {
+                        "illegal": "Du må angi et donasjonsbeløp",
+                        "minimum": "Minimumsbeløp for donasjon er på 1€"
+                    }
+                },
+                "donation_error": {
+                    "title": "Donasjonsfeil"
+                },
+                "donation_received": {
+                    "title": "Donasjon mottatt",
+                    "text": "Takk for at du støtter spillet!"
+                },
+                "use_free_donation": {
+                    "title": "Bruk gratis donasjon",
+                    "text": "Du får én gratis donasjon i måned"
+                }
+            },
+            "faq_button": "FAQ",
+            "faq_header": "FAQ",
+            "avatar_description_placeholder": "Kort beskrivelse av avatar"
+        },
+        "social_rewards": {
+            "title": "Sosiale media belønning",
+            "description": "Som en takk for at du følger spillets Discord og Patreon, så vil du motta 8 tickets som belønning for å følge hver av dem. _BREAK_ Sørg for å bli med i _LINK_ Discord-en _LINK_ før du kan motta Discord-belønningen. _BREAK_ Sørg for å bli med (gratis) eller støtt _LINK_ Patreon-en _LINK_ før du kan motta Patreon-belønningen."
+        },
+        "game_mode": {
+            "title": "Modus",
+            "solo": {
+                "title": "Solo",
+                "description": "Utfordre deg selv med et ubegrenset antall personlige unike quizer"
+            },
+            "multiplayer": {
+                "title": "Flerspiller",
+                "description": "Spill unike quizer med venner og andre anime-fans"
+            },
+            "community": {
+                "title": "Fellesskapet",
+                "description": "Spill tilpassede quizer laget av fellesskapet eller lag dine egne"
+            },
+            "jam": {
+                "title": "Jamquiz",
+                "description": "En uendelig quiz hvor spillere kan hoppe inn og ut når som helst"
+            },
+            "nexus": {
+                "title": "Nexus",
+                "description": "Utfordre Nexus-krypten, en unike roguelike-quizmodus, som kan spilles alene eller med venner"
+            }
+        }
+    },
+    "menu_bar": {
+        "settings": {
+            "language": {
+                "custom": "Bruk egen",
+                "custom_description": "Legg til en oversettelsesfil for å teste den i spillet.",
+                "custom_title": "Velg oversettelsesfil",
+                "custom_placeholder": "URL til oversettelsesfilen",
+                "custom_alert_description": "Legg til en URL til din oversettelsesfil",
+                "custom_failed_to_load": {
+                    "title": "Filinnlastingsfeil",
+                    "text": "Kunne ikke laste den valgte oversettelsesfilen fra den oppgitte URL-en."
+                },
+                "custom_wrong_format": {
+                    "title": "Oversettelesesfil format feil",
+                    "text": "Den oppgitte oversettelsesfilen er ikke i riktig format. Se nettleserkonsollen for mer informasjon."
+                }
+            }
+        },
+        "friend_list": {
+            "friends": "Venner",
+            "total": "Totalt",
+            "all": "Alle",
+            "statuses": {
+                "online": "Pålogget",
+                "offline": "Frakoblet",
+                "away": "Inaktiv",
+                "do_not_disturb": "Ikke forstyrr",
+                "invisible": "Usynlig",
+                "playing_nexus": "Spiller _NAME_ Nexus",
+                "in_nexus_lobby": "I _NAME_ Nexus lobby",
+                "in_lobby": "I _NAME_ lobby",
+                "spectating_quiz": "Tilskuere til en _NAME_ quiz",
+                "in_quiz": "I _NAME_ quiz",
+                "mode_names": {
+                    "co-op": "co-op",
+                    "private": "privat",
+                    "jam": "Jam",
+                    "event": "event",
+                    "solo": "solo"
+                }
+            },
+            "options": {
+                "report": "Rapporter",
+                "remove_friend": "Fjern venn",
+                "join_game": "Bli med i et game"
+            },
+            "popout_messages": {
+                "not_in_game": "Du er ikke i et game",
+                "solo_game_invite": "Kan ikke invitere spillere til et sologame"
+            }
+        },
+        "menu": {
+            "patreon": "Patreon",
+            "donate": "Doner",
+            "song_history": "Sanghistorie",
+            "settings": "Innstillinger",
+            "blocked_players": "Blokkerte spillere",
+            "change_password": "Bytt passord",
+            "leaderboard": "Ledertavle",
+            "tutorial": "Veiledning",
+            "guidelines": "Retningslinjer",
+            "about": "Om",
+            "logout": "Logg ut"
+        },
+        "video_host": {
+            "title": "Videoservere",
+            "description": "Tilkoblingsstatus til de forskjellige videoserverne",
+            "click_to_retest": "Klikk for å teste tilkoblingen på nytt",
+            "speed": "Latens: _SPANC_ _NUMBER_  _SPANC_",
+            "connection_status": {
+                "good": "Bra",
+                "okay": "OK",
+                "poor": "Dårlig",
+                "bad": "Elendig"
+            }
+        }
+    },
+    "player_profile": {
+        "profile_image": "Profilbilde",
+        "avatar": "Avatar",
+        "no_badges": "Ingen merker",
+        "profile": "Profil",
+        "special_badges": "Spesialmerker",
+        "standard_badges": "Standardmerker",
+        "name_effects": "Navneeffekter",
+        "name_color": "Navnefarge",
+        "name_glow": "Naveglød",
+        "hidden": "Skjult",
+        "account_creation": "Kontoopprettelse",
+        "songs_played": "Sanger spilt",
+        "guess_rate": "Gjettingsrate",
+        "options": "Valg",
+        "edit": "Rediger",
+        "change_nickname": "Bytt kallenavnet",
+        "change_nickname_modal": {
+            "description": "Du kan endre kallenavnet ditt (navnet som vises i spillet) ved å bruke én navneendringstoken. Kontoen din får én navneendringstoken hvert år og en ekstra token hver måned hvis du er et Patreon-medlem på nivå 4 eller høyere. _BREAK_ Hvis du bytter kallenavn, vil ditt gamle kallenavn bli tilgjengelig for alle å bruke (selv hvis det er ditt originale navn). _BREAK_ Ditt originale navn vil fortsatt være synlig på profilen din.",
+            "current_tokens": "Nåværende navneendringstokens: _SPAN_ _NUMBER_ _SPAN_",
+            "check_availability": "Sjekk tilgjengelighet"
+        },
+        "alerts": {
+            "error_getting_profile": "Feil ved henting av spillerprofil",
+            "unknown_player": "Ukjent spiller"
+        },
+        "name_effects_entries": {
+            "challenger_color": {
+                "name": "Utfordrer",
+                "description": "Tilgjengelig for spillere som kvalifiserte seg til forrige måneds ranked mesterskap"
+            },
+            "challenger_glow": {
+                "name": "Utfordrer",
+                "description": "Tilgjengelig for spillere som kom blant de 50 beste i forrige måneds ranked mesterskap"
+            },
+            "patreon_color": {
+                "name": "Patreon",
+                "description": "Tilgjengelig for nivå 3 eller høyere Patreon-medlemmer"
+            },
+            "patreon_glow": {
+                "name": "Patreon",
+                "description": "Tilgjengelig for nivå 4 eller høyere Patreon-medlemmer"
+            },
+            "month_patreon_current": "Tilgjengelig for nivå 5 Patreon-medlemmer som ble med denne måned, og nivå 6 medlemmer",
+            "month_patreon_previous": "Tilgjengelig for nivå 5 Patreon-medlemmer som ble med i utgivelsesmåneden, og nivå 6 medlemmer",
+            "month_patreon_previous_unlocked": "Tilgjengelig for nivå 5 Patreon-medlemmer som ble med i utgivelsesmåneden, og nivå 6 medlemmer. Du ble med i løpet av utgivelsesmåneden."
+        }
+    },
+    "badges": {
+        "ranked": {
+            "name": "Ranked _TIER_ _YEAR_ sesong _NUMBER_",
+            "name_result": "Ranked _TIER_ _YEAR_",
+            "description": "Fikk _TIER_ rang i _YEAR_ ranked sesong _NUMBER_",
+            "description_result": "Fikk _TIER_ rang for _YEAR_ ranked sesonger",
+            "tiers": {
+                "bronze": "bronse",
+                "silver": "sølv",
+                "gold": "gull",
+                "platinum": "platina",
+                "diamond": "diamant"
+            }
+        },
+        "champion": {
+            "name": {
+                "first": "Ranked vinner _YEAR_ sesong _NUMBER_",
+                "second": "Ranked andreplass _YEAR_ sesong _NUMBER_",
+                "third": "Ranked tredjeplass _YEAR_ sesong _NUMBER_"
+            },
+            "description": {
+                "first": "Vant mesterskapet i _YEAR_ sesong _NUMBER_",
+                "second": "Andreplass i mesterskapet i _YEAR_ sesong _NUMBER_",
+                "third": "Tredjeplass i mesterskapet i _YEAR_ sesong _NUMBER_"
+            }
+        },
+        "challenger": {
+            "name": {
+                "top": "Ranked ekspert _YEAR_ sesong _NUMBER_",
+                "mid": "Ranked fremadstormende _YEAR_ sesong _NUMBER_",
+                "qualified": "Ranked utfordrer _YEAR_ sesong _NUMBER_"
+            },
+            "description": {
+                "qualified": "Kvalifisert til mesterskapet i _YEAR_ sesong _NUMBER_",
+                "top": "Fikk top _TOP_ i _YEAR_ sesong _NUMBER_ ranked mesterskap"
+            }
+        },
+        "patreon": {
+            "name": {
+                "start": "Patreon-medlem",
+                "month": "_NUMBER_ måneder Patreon-medlem",
+                "one_year": "1 år Patreon-medlem",
+                "multiple_years": "_NUMBER_ år Patreon-medlem"
+            },
+            "description": "AMQ Patreon-medlem"
+        },
+        "avatar": {
+            "name": "_NAME_ merke",
+            "description": "Lås opp 10 skinn/antrekk for _NAME_"
+        },
+        "mod": {
+            "name": {
+                "game": "AMQ moderator",
+                "jam": "AMQ Jamquiz moderator"
+            },
+            "description": {
+                "game": "En del av AMQ-moderatorteamet",
+                "jam": "En del av AMQ-Jamquiz-moderatorteamet"
+            }
+        },
+        "aragaimu": {
+            "name": {
+                "participant": "Aragaimu _YEAR_ deltager",
+                "top32": "Aragaimu _YEAR_ Topp 32",
+                "top4": "Aragaimu _YEAR_ Topp 4"
+            },
+            "description": {
+                "participant": "Deltok i Aragaimu _YEAR_ turneringen",
+                "top32": "Fikk top 32 i Aragaimu _YEAR_ turneringen",
+                "top4": "Fikk top 4 i Aragaimu _YEAR_ turneringen"
+            }
+        }
+    },
+    "patreon_window": {
+        "title": "Patreon",
+        "description": "Støtt driften og utviklingen av AMQ ved å støtte spillet på Patreon. Å jobbe med og dele AMQ med alle dere har vært og er en utrolig opplevelse, og jeg har så mye mer jeg ønsker å gjøre med spillet. Ved å støtte Patreon-en vil du ikke bare hjelpe meg dekke utgiftene til spillet, men fortsette utviklingen av det! Som en spesiell takk får du flere eksklusive belønninger!",
+        "reward_examples": {
+            "title": "Noen Patreon-belønninger",
+            "sneak_peeks": "Sniktitter",
+            "patreon_badge": "Patreon-merker",
+            "custom_emotes": "Egene emojier",
+            "monthly_tickets": "Månedlige tickets"
+        },
+        "already_a_backer": "Allerede medlem?",
+        "link_account": "Tilkoble Patreon-konto",
+        "become_a_backer": "Bli medlem",
+        "patreon_linked": "Patreon tilkoblet!",
+        "backer_level": {
+            "title": "Patreon-nivå",
+            "tier": "Nivå _NUMBER_",
+            "rewards": {
+                "emotes": "_NUMBER_ emoji",
+                "tickets": "_NUMBER_ tickets"
+            }
+        },
+        "badge_level": "Merkenivå",
+        "badge_level_info": "Ditt merkenivå tilsvarer antall måneder du har vært medlem på nivå 2 eller høyere på Patreon",
+        "patreon_page": "Patreon-side",
+        "relink": "Tilkoble på nytt",
+        "update_info": "Oppdater info",
+        "unlink_account": "Frakoble bruker",
+        "linked_account": "Tilkoblet bruker",
+        "emotes": {
+            "title": "Emoji",
+            "upload": "Last opp",
+            "close": "Lukk",
+            "manage": "Kontroller",
+            "empty": "Tom",
+            "states": {
+                "waiting_approval": {
+                    "name": "Venter på godkjenning",
+                    "shorthand": "V"
+                },
+                "active": {
+                    "name": "Aktiv",
+                    "shorthand": "A"
+                },
+                "disabled": {
+                    "name": "Deaktivert",
+                    "shorthand": "D"
+                }
+            },
+            "error_deleting": "Emojislettingsfeil",
+            "upload_emote": {
+                "title": "Last opp emoji",
+                "description": {
+                    "line_one": "_BOLD_ Plasser igjen _BOLD_",
+                    "line_two": "Standard: _NUMBER_",
+                    "line_three": "Animerte: _NUMBER_"
+                },
+                "confirm_button": "Velg fil",
+                "footer": "Aksepterte filformater: .png (Standard), .gif (Animert). Maksimal filstørrelse: 256kb",
+                "file_too_large": {
+                    "title": "Fil for stor",
+                    "description": "Maksimale filstørrelse er 256kb. Den oppgitte filen er _NUMBER_kb"
+                },
+                "no_standard_slot": {
+                    "title": "Ingen standardplasser igjen",
+                    "description": "Du har ingen ledige standard emojiplasser igjen"
+                },
+                "no_animated_slot": {
+                    "title": "Ingen animerteplasser igjen",
+                    "description": "Du har ingen ledige animerte emojiplasser igjen"
+                },
+                "selected_image": {
+                    "title": "Valgt bilde",
+                    "image": "Bilde",
+                    "resulting_emote": "Resulterende emoji",
+                    "placeholder": "Emojinavn",
+                    "errors": {
+                        "no_name": "Du må oppgi et navn på emojien",
+                        "name_format": "Emojinavnet kan bare inneholde bokstaver (utenom ÆØÅ) og tall",
+                        "name_length": "Emojinavnet må være på maksimalt _NUMBER_ tegn."
+                    }
+                },
+                "server_rejected": {
+                    "title": "Emojiopplastningsfeil",
+                    "description": "Servern avviste opplastingen av emojien."
+                },
+                "emote_uploaded": {
+                    "title": "Emoji opplastet",
+                    "description": "Din emoji ble lastet opp og venter på godkjenning"
+                }
+            }
+        }
+    },
+    "setting_window": {
+        "title": "Innstillinger",
+        "tabs": {
+            "game": "Spillet",
+            "anime_list": "Animeliste",
+            "graphics": "Grafikk",
+            "audio": "Lyd"
+        },
+        "language": "Språk",
+        "auto_submit": {
+            "title": "Autoinnsending",
+            "description": "Send inn svaret ditt automatisk når gjettetiden er ute"
+        },
+        "list_numbering": {
+            "title": "Listenummerering",
+            "description": "Vis antall sanger spilt fra hver spillers animeliste på resultattavlen"
+        },
+        "disable_emotes": {
+            "title": "Deaktiver emoji",
+            "description": "Deaktiver emojier fra å vises i chatter"
+        },
+        "answer_time": {
+            "title": "Svartid",
+            "description": "Vis spillernes svartid på avataren deres"
+        },
+        "anime_link": {
+            "title": "Animelenke",
+            "description": "Animesiden som er lenket i sanginformasjonen"
+        },
+        "auto_skip_vote": {
+            "title": "Auto-hopp over avstemning",
+            "description": "Stem automatisk for å hoppe over etter svaret og/eller etter 2 sekunder i avspillingsfasen",
+            "guessing_phase": "Gjetnings-_BREAK_fasen",
+            "replay_phase": "Avspillings-_BREAK_fasen"
+        },
+        "block_non_friend_actions": {
+            "title": "Blokk ikke-venners handlinger",
+            "description": "Blokker sosiale handlinger fra spillere som ikke er på vennelisten din",
+            "direct_messages": "Direkt-_BREAK_emeldinger",
+            "friend_requests": "Venne-_BREAK_forespørseler",
+            "game_invites": "Game-_BREAK_invitasjoner"
+        },
+        "anime_names": {
+            "title": "Animenavn",
+            "description": "Standard animenavn vist i quizer",
+            "english": "Engelsk",
+            "romaji": "Romaji"
+        },
+        "team_answer": {
+            "title": "Lagets svar i chatten",
+            "description": "Vis lagets svar i chatten under lag-game",
+            "never": "Aldri",
+            "out_of_focus": "Ute av fokus",
+            "always": "Alltid"
+        },
+        "sound_equalizing": {
+            "title": "Lydutjevning",
+            "description": "Utjevener volumnivåene mellom forskjellige sanger"
+        },
+        "max_volume": {
+            "title": "Maks Volum",
+            "description": "Det maks volumet for lydutjevningen. Ved å øke dette volumet øker det totale volumet, men det kan føre til at roligere sanger ikke blir fullstendig utjevnet"
+        },
+        "auto_hide_video": {
+            "title": "Auto-skjul video",
+            "description": "Skjul videoen automatisk for de valgte kategoriene. Den kan fortsatt vises ved å klikke på videoen under avspillingsfasen",
+            "openings": "Introer",
+            "endings": "Avsluttinger",
+            "inserts": "Innsatser",
+            "unwatched": {
+                "title": "Usett",
+                "description": "Videoer fra anime du ikke har sett"
+            },
+            "high_risk": {
+                "title": "Høy risiko",
+                "description": "Videoer som sannsynligvis vil forårsake spoilere eller er upassende. Basert på spillerstatistikk"
+            }
+        },
+        "anime_list": {
+            "description": "Tilkoble din Anilist-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med \"Sett\" innstillingen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
+            "share_entries": {
+                "title": "Del oppføringer",
+                "description": "Vis når et program er fra din liste"
+            },
+            "show_scores": {
+                "title": "Del score",
+                "description": "Vis animescoren din for program på din liste"
+            },
+            "anilist_username": "AniList brukernavn",
+            "mal_username": "MyAnimeList brukernavn",
+            "mal_username_short": "MAL brukernavn",
+            "kitsu_username": "Kitsu brukernavn",
+            "last_updated": "_BOLD_ Sist oppdatert: _BOLD_ _SPAN_ _DATE_ _SPAN_",
+            "update_messages": {
+                "update_successful": "Oppdatering vellykket",
+                "update_failed": "Oppdatering mislykket",
+                "list_updated": "Liste oppdatert",
+                "list_removed": "Liste fjernet",
+                "unknown_username": "Ukjent brukernavn",
+                "mal_private": "MAL liste er satt til privat, bare offentlige lister kan synkroniseres med spillet",
+                "mal_error": "Feil fra MAL, prøv igjen senere",
+                "anilist_error": "Kan ikke hente liste fra AniList"
+            },
+            "included_entries": {
+                "title": "Inkludere oppføringen",
+                "types": {
+                    "watching": "Ser på",
+                    "completed": "Fullført",
+                    "on_hold": "På vent",
+                    "dropped": "Droppet",
+                    "planning": "Planlagt"
+                }
+            }
+        },
+        "graphics": {
+            "particle_effects": {
+                "title": "Partikkeleffekter",
+                "description": "Kontrollerer antall partikler som bruker i effekter, for eksempel XP-animasjonen.",
+                "levels": {
+                    "off": "Av",
+                    "low": "Lav",
+                    "high": "Høy"
+                }
+            },
+            "disable_floating_text": {
+                "title": "Deaktiver flytende tekst",
+                "description": "Flytende tekst vises ikke når du får XP og notes"
+            },
+            "name_effects_friend_list": "Navneffekter i vennelisten"
+        },
+        "audio": {
+            "nexus": "Nexus",
+            "master": "Hoved",
+            "music": "Musikk",
+            "effects": "Effekter"
+        }
+    },
+    "blocked_player_window": {
+        "title": "Blokkertespillerliste",
+        "remove_button": "Fjern"
+    },
+    "change_password_window": {
+        "title": "Bytt passord",
+        "current_password": "Nåværende passord",
+        "no_current_password": "Du må oppgi ditt nåværende passord",
+        "unexpected_error": "Uventet feil,  prøv på nytt",
+        "error_contacting_server": "Servertilkoblingsfeil, prøv på nytt senere",
+        "password_updated": "Passord er oppdatert",
+        "wrong_password": "Nåværende passord er feil"
+    }
 }
