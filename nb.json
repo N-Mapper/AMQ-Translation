@@ -789,7 +789,7 @@
                 "anilist_error": "Kan ikke hente liste fra AniList"
             },
             "included_entries": {
-                "title": "Inkludere oppføringen",
+                "title": "Inkluderte oppføringer",
                 "types": {
                     "watching": "Ser på",
                     "completed": "Fullført",
