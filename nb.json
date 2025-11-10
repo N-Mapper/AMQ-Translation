@@ -920,11 +920,11 @@
                 "rare_common": "Sjeldne/Vanlige skinn kan ikke målrettes"
             },
             "no_target": "Mål ikke valgt",
-            "no_target_description": "Målrett deg mot et skinn/avatar ved å målrette den fra butikken i ticketsystemet. Doble poeng hvis du bruker avatar token for målet. _BREAK_ Når du har fått nok poeng (200 for episk, 500 for legendarisk), låses målet opp! _BREAK_ Du kan bytte mål når som helst, men da halverers peongene dine. _BREAK_ Du kan målsette deg mot sesongbaserte/tidsbegrensede avatarer, men du kan bare få poeng mot dem mens de er i rotasjon.",
+            "no_target_description": "Målrett et skinn/avatar bed å målsette det fra butikken",
             "target_set": "Resonansmållsetting",
             "how_it_works": {
                 "title": "Hvordan det fungerer",
-                "description": "Målsett en episk eller legendarisk avatar/skinn i butikken, og få poeng mot den hver gang du spinner"
+                "description": "Målrett deg mot et skinn/avatar ved å målrette den fra butikken i ticketsystemet. Doble poeng hvis du bruker avatar token for målet. _BREAK_ Når du har fått nok poeng (200 for episk, 500 for legendarisk), låses målet opp! _BREAK_ Du kan bytte mål når som helst, men da halverers peongene dine. _BREAK_ Du kan målsette deg mot sesongbaserte/tidsbegrensede avatarer, men du kan bare få poeng mot dem mens de er i rotasjon."
             },
             "set_target_prompt": {
                 "title": "Angi skinn som resonansmål?",
@@ -1009,7 +1009,7 @@
         "pose_names": {
             "base": "Base",
             "thinking": "Tenker",
-            "Mwaiting": "Venter",
+            "waiting": "Venter",
             "no_answer": "Ikke noe svar",
             "correct": "Riktig",
             "wrong": "Feil"
@@ -1079,63 +1079,63 @@
                 "title": "Ingen venner i vennelisten",
                 "description": "Du kan vare gi ticket til venner i vennelisten din."
             },
-            "MISSING-no_past_rolls": "No Past _BREAK_ Ticket Rolls",
-            "MISSING-one_roll": "1 Roll",
+            "no_past_rolls": "Ingen tidligere _BREAK_ Ticketspinn",
+            "one_roll": "1 spinn",
             "ten_roll": {
-                "MISSING-title": "10 Rolls",
-                "MISSING-description": "Rare or Higher Item Guaranteed!"
+                "title": "10 spinn",
+                "description": "Garantert sjelden eller høyere!"
             },
-            "MISSING-token_description": "Select an avatar for _BREAK_ 50% chance for it _BREAK_ on all rolls",
-            "MISSING-token_description_dropdown": "Select an avatar above and all rolls will have a 50% chance of being of that avatar",
-            "MISSING-roll": "Roll",
+            "token_description": "Velg en avatar for _BREAK_ 50% sjanse for den _BREAK_ på alle spinn",
+            "token_description_dropdown": "Velg en avatar ovenfor, og alle kast vil ha 50% sjanse for å være av den avataren",
+            "roll": "Spinn",
             "animated_promo": {
-                "MISSING-title": "Animated Promo",
-                "MISSING-description": "Rollable without base skin",
-                "MISSING-ends_in": "Ends in _NUMBER_ days",
-                "MISSING-extended_description": "Promo event that allows you to roll the animated _NAME_ alt. version in the ticket system without first unlocking the base _NAME2_ legendary skin."
+                "title": "Animert kampanje",
+                "description": "Spinnbar uten baseskinn",
+                "ends_in": "Slutter om _NUMBER_ dager",
+                "extended_description": "Kampanjearrangement som lar deg rulle den animerte alternative versjonen av _NAME_ i ticketsystemet uten å først låse opp det legendariske baseskinnet til _NAME2_."
             },
             "info": {
-                "MISSING-title": "Ticket System",
-                "MISSING-description": "The Ticket System allows players to spend tickets to unlock exclusive skins, skin versions, emotes, avatar backgrounds and decorations.",
+                "title": "Ticketsystemet",
+                "description": "Ticketsystemet lar spiller bruke tickets på å låse opp eksklusive skinns, skinn versjoner, emojier, avatar bakgrunner og dekorasjoner.",
                 "how_to_earn": {
-                    "MISSING-title": "How to Earn Tickets",
-                    "MISSING-text": "Players receive one ticket each time they level up, with a bonus 5 tickets every 10th level. Tickets can also be bought directly or be earned by backing the games Patreon."
+                    "title": "Hvordan tjene tickets",
+                    "text": "Spillere mottar én ticket hver gang de går opp i level, med 5 bonustickets hvert 10. level. Toickets kan også kjøpes eller tjenes ved å støtte spillet på Patreon."
                 },
                 "how_do_rolls_work": {
-                    "MISSING-title": "How Do Rolls Work?",
-                    "MISSING-text": "You can spend tickets to roll for exclusive rewards in the ticket system. Each roll costs 2 tickets. Rewards are split into 4 rarities, with different chances of being rolled:",
-                    "MISSING-common": "(Common) 85% chance: Simple skin recolors and Emotes.",
-                    "MISSING-rare": "(Rare) 10% chance: Advanced skin versions and decorations.",
-                    "MISSING-epic": "(Epic) 4.5% chance: Major skin version, seasonal skins and unique backgrounds.",
-                    "MISSING-legendary": "(Legendary) 0.5% chance: Unique skins and animated versions.",
-                    "MISSING-info_footer": "Skin versions for a ticket reward skin can’t be rolled until the skin has been unlocked."
+                    "title": "Hvordan fungerer spinning?",
+                    "text": "Du kan bruke tickets for å spinne for eksklusive belønninger i ticketsystemet. Hver spinn koster 2 tickets. Belønningene er delt inn i 4 sjeldenheter, med ulike sjanse for å bli spinnet",
+                    "common": "(Vanglig) 85% sjanse: Simple skinn antrekk og emojier.",
+                    "rare": "(Sjelden) 10% sjanse: Avanserte skinn versjoner og dekorasjoner.",
+                    "epic": "(Episk) 4,5% sjanse: Store skinn versjoner, sesonbaserte skinn og unike bakgrunner.",
+                    "legendary": "(Legendarisk) 0,5% sjanse: Unike skinns og animerte versjoner.",
+                    "info_footer": "Skinnversjoner for ticketbelønningerskinn kan ikke bli spinnet før skinnet er låst opp"
                 },
                 "how_does_rhythm_work": {
-                    "MISSING-title": "How Does Rhythm Work?",
-                    "MISSING-text": "If you roll a reward you have already unlocked, you earn an amount of rhythm based on the reward's rarity. Rhythm can be spent to unlock any specific reward item once enough of it has been collected."
+                    "MISSING-title": "Hvordan fungerer rhythm?",
+                    "text": "Hvis du spinner en belønning du allerede har låst opp, tjener du opp en mengde rhythm basert på belønningens sjeldenhet. Rhythm kan brukes til å låse opp hvilken som helst spesifikk belønnigsgjenstand når nok av den er oppsamlet"
                 },
                 "how_does_avatar_tokens_work": {
-                    "MISSING-title": "How Do Avatar Tokens Work?",
-                    "MISSING-text": "When buying tickets or backing the Patron, you’ll receive avatar tokens. These tokens can be used to focus ticket rolls towards specific avatars or seasonal skins, by selecting a target before doing a roll. When an avatar/season is focused, each individual roll will have a 50% chance of being a non duplicate (if any available) of that avatar/season. _BREAK_ The rarity pull ratio remains the same when using avatar tokens."
+                    "title": "Hvordan fungerer avatar tokens?",
+                    "text": "Når du kjøper tickets eller støtter Patreon-en, vil du motta avatar tokens. Disee tokensene kan bli brukt for å fokusere ticketspinnene mot én bestemt avatar eller sesongbaserte skinn, ved å velge et mål før du utfører et spinn. Når en avatar/sesong er fokuset, vil hvert enkelt spinn ha 50% sjanse for å være en ikke-duplikat (hvis noen tilgjengelig) av den avataren/sesongen. _BREAK_ Sjeldenhetstrekkforholdet forblir det samme når du bruker avatar tokens."
                 }
             },
             "sale_text": {
-                "MISSING-unlocks_remaining": "_SPANC_ _NUMBER_ _SPANC_ Unlock(s) Remaining",
-                "MISSING-days_remaining": "_SPANC_ _NUMBER_ _SPANC_ Days Remaining",
-                "MISSING-getting_started_pack": "Getting Started Pack"
+                "unlocks_remaining": "_SPANC_ _NUMBER_ _SPANC_ opplåsning(er) igjen",
+                "days_remaining": "_SPANC_ _NUMBER_ _SPANC_ dag(er) igjen",
+                "getting_started_pack": "Komme i gang-pakken"
             },
-            "MISSING-subtotal": "Subtotal",
-            "MISSING-sales_tax": "Sales Tax",
-            "MISSING-total": "Total"
+            "subtotal": "Delsum",
+            "sales_tax": "moms.",
+            "total": "Sum"
         },
         "avatar_tokens": {
-            "MISSING-title": "Avatar Tokens",
-            "MISSING-description": "Tokens used to roll for specific avatars, gained by purchasing tickets or being a Patreon backer.",
+            "title": "Avatar tokens",
+            "description": "Tokens som brukes til å spinne for spesifikke avatarer, oppnådd ved å kjøpe tickets eller være et Patreon-medlem.",
             "not_enough_tokens": {
-                "MISSING-title": "Not Enough Avatar Tokens",
-                "MISSING-description": "You're missing _NUMBER_ avatar token(s) to be able to perform the roll with an avatar target. Avatar tokens are obtained by buying tickets or supporting the Patreon"
+                "title": "Ikke nok avatar tokens",
+                "description": "Du mangler _NUMBER_ avatar token(s) for å kunne utføre spinnen med avatarmålet. Avatar tokens fås ved å kjøpe tickets eller støtte på Patreon."
             },
-            "MISSING-not_enough_tickets": "Not Enough Tickets"
+            "not_enough_tickets": "Ikke nok tickets"
         },
         "unlock_checkout": {
             "MISSING-title": "Unlock",
