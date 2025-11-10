@@ -841,14 +841,14 @@
         "wrong_password": "Nåværende passord er feil"
     },
     "leaderboard_window": {
-        "MISSING-title": "Leaderboard",
-        "MISSING-levels": "Levels",
-        "MISSING-self": "Self",
-        "MISSING-friends": "Friends",
-        "MISSING-top": "Top",
-        "MISSING-ranked": "Ranked",
-        "MISSING-all": "All",
-        "MISSING-champs": "Champs"
+        "title": "Ledertavle",
+        "levels": "Leveler",
+        "self": "Selv",
+        "friends": "Venner",
+        "top": "Topp",
+        "ranked": "Ranked",
+        "all": "Alle",
+        "champs": "Mesters."
     },
     "tutorial_window": {
         "MISSING-title": "Tutorials",
