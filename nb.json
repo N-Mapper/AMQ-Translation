@@ -1111,7 +1111,7 @@
                     "info_footer": "Skinnversjoner for ticketbelønningerskinn kan ikke bli spinnet før skinnet er låst opp"
                 },
                 "how_does_rhythm_work": {
-                    "MISSING-title": "Hvordan fungerer rhythm?",
+                    "title": "Hvordan fungerer rhythm?",
                     "text": "Hvis du spinner en belønning du allerede har låst opp, tjener du opp en mengde rhythm basert på belønningens sjeldenhet. Rhythm kan brukes til å låse opp hvilken som helst spesifikk belønnigsgjenstand når nok av den er oppsamlet"
                 },
                 "how_does_avatar_tokens_work": {
@@ -1177,7 +1177,7 @@
         },
         "ticket_reward_tier": "Ticketbelønningsnivå _TIER_",
         "rhythm_price": "Rhythm pris",
-        "MISSING-silver_hibike_description": "Unik lanseringsantrekk låses ioo ved å ha blitt med i spillet i løpet av lanseringsuken eller ved å låse opp alle ikke-unike antrekk for alle avatarer.",
+        "silver_hibike_description": "Unik lanseringsantrekk låses ioo ved å ha blitt med i spillet i løpet av lanseringsuken eller ved å låse opp alle ikke-unike antrekk for alle avatarer.",
         "emote_previews": {
             "chat": "Chat",
             "profile": "Profil"
@@ -1185,9 +1185,9 @@
     },
     "avatar_lore": {
         "hibiki": {
-            "MISSING-thief": "Hibiki is a well known happy go lucky adventurer, with a knack for getting in where she isn’t supposed to be and out with more than she entered with. A skill she’s often found boasting about at local taverns.",
-            "MISSING-monster_trainer": "Never being one to settle down for long, it didn’t surprise anyone when Hibiki set out to explore the world once she met her partner Hineko. Together the two of them make a powerhouse of a team, and are quickly making a name for themselves.",
-            "MISSING-fast_food_employee": "Finding herself in a new city, Hibiki had to quickly find a new job. Luckily, she ended up landing a great job up a local fast food joint, where she now spends her days working with great colleagues, while preparing for the next leg of her journey."
+            "thief": "Hibiki er en velkjent, lykkelig eventyrer, med et talent for å komme seg in der hun ikke skal være og ut med mer enn hun kom inn med. En ferdighet hun ofte skryter om på lokale taverner.",
+            "monster_trainer": "Siden Hibiki aldri har vært en som slår seg til ro lenge, overrasket det ingen da hun dro ut for å utforske verden etter å ha møtt partneren sin, Hineko. Sammen utgjør de to dynamisk duo, og de skaper seg raskt et navn.",
+            "fast_food_employee": "Hibiki måtte raskt finne en ny jobb i en ny by. Heldigvis endte hun opp med å få en flott jobb på en lokal hurtigmatrestaurant, hvor hun nå tilbringer dagene sine med å jobbe med fantastiske kolleger, mens hun forbereder seg til neste etappe av reisen sin."
         },
         "honoka": {
             "MISSING-standard": "Being weak of health, Honoka spent most of her life at her family's estate, only kept company by her books and personal maid Kyouko, until recently when she by chance ran into Ritsu and the two became friends.",
