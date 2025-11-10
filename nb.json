@@ -1190,13 +1190,13 @@
             "fast_food_employee": "Hibiki måtte raskt finne en ny jobb i en ny by. Heldigvis endte hun opp med å få en flott jobb på en lokal hurtigmatrestaurant, hvor hun nå tilbringer dagene sine med å jobbe med fantastiske kolleger, mens hun forbereder seg til neste etappe av reisen sin."
         },
         "honoka": {
-            "MISSING-standard": "Being weak of health, Honoka spent most of her life at her family's estate, only kept company by her books and personal maid Kyouko, until recently when she by chance ran into Ritsu and the two became friends.",
-            "MISSING-druid": "Honoka hails from a nation of druids, but is now traveling the world in search of new knowledge, the final test given to novice scholars of her people. Her travels are currently shared with Kyouko, a local knight, assigned to be her guide in this kingdom."
+            "standard": "Grunnet svak helse tilbrakte Honoka mesteparten av livet sitt på familiens eiendom, kun med selskap av bøkene sine og hennes personlige hushjelpen Kyouko, helt til nylig da hun tilfeldigvis møtte Ritsu og de to ble venner.",
+            "druid": "Honoka kommer fra en nasjon av druider, men reiser nå verden rundt på jakt etter ny kunnskap, den siste testen som gis til nybegynnere blant hennes folk. Reisene hennes deles for tiden med Kyouko, en lokal ridder som er utpekt til å være hennes guide i dette riket."
         },
         "kyouko": {
-            "MISSING-standard": "Kyouko has been working as Honoka’s personal maid for several years. Her energetic nature and natural clumsiness have resulted in several accidents that would have gotten her fired if not for her friendship with Honoka.",
-            "MISSING-knight": "As the newest member of the royal guard, Kyouko was tasked with assisting Honoka, a scholar from an allied tribe of druids, in her travels around the country. Her days are therefore spent on the road, serving as Honoka's guard and guide.",
-            "MISSING-bodyguard": "Kyouko was dismissed as Honoka’s maid, due to security changes. Still wanting to help Honoka, Kyouko studied to become a bodyguard, though her clumsiness often causes issues, Honoka let it slide as she likes spending time with Kyouko."
+            "standard": "Kyouko har jobbet som Honoka's hushjelp i flere år. Hennes energiske natur og naturlige kløntete oppførsel har ført til flere ulykker som ville ha ført til at hun ble sparket hvis det ikke var for vennskapet hennes med Honoka.",
+            "knight": "Som den nyest medlemmet av den kongelige garde fikk Kyoukoi oppgave å hjelpe Honoka, en lærd fra en alliert druidestamme, på hennes reise rundt i landet. Hun tilbringer derfor dagene sine på veien, hvor hun tjener som Honokas vakt og guide.",
+            "bodyguard": "Kyouko var avskjediget som Honokas hushjelp, på grunn av sikkerhetsenderinger. Kyouko ønsket forsatt å hjelpe Honoka, og studerte derfor å bli livvakt. Selv om klønetheten hennes ofte forårsaker problemer, lot Honoka det gå siden hun liker å tilbringe tid med Kyouko."
         },
         "ritsu": {
             "MISSING-standard": "An energetic high school student with a passion for music, and club president of her school's music club. Ritsu is often found attending live concerts around the city, and it was at one of these she met and befriended an out of place Honoka.",
