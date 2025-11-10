@@ -870,27 +870,27 @@
         }
     },
     "guidelines_window": {
-        "MISSING-title": "Guidelines",
-        "MISSING-description": "Anime Music Quiz is meant to be fair and enjoyable for everyone. To ensure this it’s important you follow the below guidelines, as well as any instructions from moderators. Failure to follow these guidelines will result in chat or game bans depending on the case.",
+        "title": "Retningslinjer",
+        "description": "Anime Music Quiz er ment å være rettferdig og underholdende for all. For å forsikre dette er det viktig at du følger reningslinjene nedenfor, samt eventuelle instruksjoner fra moderatorer. Brudd på disse retningslinjene vil føre til utestengelse fra chat eller spillet, avhengig av tilfellet.",
         "dont_cheat": {
-            "MISSING-title": "Don't Cheat",
-            "MISSING-text": "Using any type of external software or tool that gives an unfair advantage is considered cheating. This in general covers, but is not limited to tools that reveal extra information about the song, video or show."
+            "title": "Ikke juks",
+            "text": "Bruk av alle typer ekstern programvare eller verktøy som gir en urettferdig fordel anses som juks. Dette dekker generelt, men ikke begrenset til, verktøy som avslører ekstra informasjon om sangen, videoen eller programmet."
         },
         "no_teaming": {
-            "MISSING-title": "No Teaming in Ranked",
-            "MISSING-text": "Ranked is meant to be a test of individual skill, teaming or sharing answers with other players is therefore strictly prohibited. Outside of ranked (and jam mode) you are more than welcome to share answers with friends if the hosts of the room are okay with it, but keep the sharing out of ranked."
+            "title": "Ikke samarbeid under ranked",
+            "text": "Ranked er ment å være en test av individuelle ferdighet, og defor er det strengt forbudt å samarbeide eller dele svar med andre. Utenom ranked (og Jam-modusen) er du mer enn velkommen til å dele svar med venner hvis verten av rommet er ok med det, men hold delingen utenfor ranked."
         },
         "no_automated_grind": {
-            "MISSING-title": "No (Semi-)Automated Grind",
-            "MISSING-text": "It’s okay to grind for notes and tickets, as long as you put in the work for it. But using any tools or method to automate or semi automate the grind is strictly against the rules, and will resolve in a perma ban. This includes AFK grinding in team lobbies."
+            "title": "Ikke (halv-) automatisk grind",
+            "text": "Det er greit å grinde for notes og tickets, så lenge du legger inn innsats for det. Men bruk av verktøy eller metoder for å automatisere eller automatisere grindingen er imot reglene, og vil resultere i en permanent utestengelse. Dette inkludere AFK-grinding i laglobbyer."
         },
         "dont_harass": {
-            "MISSING-title": "Don't Harass Other Players",
-            "MISSING-text": "The game is for everyone, so harassment of others is not tolerated. It’s of course okay to banter between friends, but make sure everyone is in on it."
+            "title": "Ikke trakasser andre spillere",
+            "text": "Spiller er for alle, så trakassering av andre tolereres ikke. Det er selvfølgelig greit å tulle med venner, men sørg for at alle er med på det."
         },
         "no_hate_speech": {
-            "MISSING-title": "No Hate Speech or Racism",
-            "MISSING-text": "This goes without saying, be nice to each other and don’t go throwing around racial slurs."
+            "title": "Ikke send hatefulle meldinger eller rasisme",
+            "text": "Dette sier seg selv, vær hyggelige mot hverandre og ikke sleng ut rasistiske bemerkninger."
         }
     },
     "about_window": {
