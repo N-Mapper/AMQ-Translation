@@ -903,55 +903,55 @@
         "credits": "Kreditt"
     },
     "avatar_window": {
-        "MISSING-nothing_selected": "Nothing Selected _BREAK_ Select Above",
-        "MISSING-collapse_all": "Collapse All",
-        "MISSING-open_all": "Open All",
+        "nothing_selected": "Ingenting valgt _BREAK_ Velg ovenfor",
+        "collapse_all": "Skjul alle",
+        "open_all": "Åpne alle",
         "rhythm": {
-            "MISSING-title": "Rhythm",
-            "MISSING-description": "Currency gained by rolling duplicates in the Ticket System. Can be used to unlock ticket rewards.",
-            "MISSING-duplicate": "Duplicate, rhythm awarded"
+            "title": "Rhythm",
+            "description": "Valuta opptjent ved å spinner duplikater i ticketsystemet. Kan brukes for å låse opp ticketbelønninger.",
+            "duplicate": "Duplikat, rhythm tildelt"
         },
         "resonance_system": {
-            "MISSING-target": "Target",
-            "MISSING-title": "Resonance System",
+            "target": "Mål",
+            "title": "Resonanssystem",
             "target_messages": {
-                "MISSING-target_message": "Target in Resonance System",
-                "MISSING-require_base_skin": "Require Base Skin to Target",
-                "MISSING-rare_common": "Rare/Common skins cannot be targeted"
+                "target_message": "Måø i resonanssystemet",
+                "require_base_skin": "Krever basisskinnet for å målrettes",
+                "rare_common": "Sjeldne/Vanlige skinn kan ikke målrettes"
             },
-            "MISSING-no_target": "No Target Selected",
-            "MISSING-no_target_description": "Target a skin/avatar by targeting it from the shop",
-            "MISSING-target_set": "Resonance Target Set",
+            "no_target": "Mål ikke valgt",
+            "no_target_description": "Målrett deg mot et skinn/avatar ved å målrette den fra butikken i ticketsystemet. Doble poeng hvis du bruker avatar token for målet. _BREAK_ Når du har fått nok poeng (200 for episk, 500 for legendarisk), låses målet opp! _BREAK_ Du kan bytte mål når som helst, men da halverers peongene dine. _BREAK_ Du kan målsette deg mot sesongbaserte/tidsbegrensede avatarer, men du kan bare få poeng mot dem mens de er i rotasjon.",
+            "target_set": "Resonansmållsetting",
             "how_it_works": {
-                "MISSING-title": "How It Works",
-                "MISSING-description": "Target an epic or legendary avatar/skin in the shop, and gain points towards it every time you roll in the Ticket System, double points if you use an avatar token for the target. _BREAK_ Once you’ve gained enough points (200 for epic, 500 for legendary) the target is unlocked! _BREAK_ You can swap your target at any time, but it halves your point. _BREAK_ You can target seasonal/limited-time avatars, but you can only gain points towards them while they are in rotation."
+                "title": "Hvordan det fungerer",
+                "description": "Målsett en episk eller legendarisk avatar/skinn i butikken, og få poeng mot den hver gang du spinner"
             },
             "set_target_prompt": {
-                "MISSING-title": "Set Skin as Resonance Target?",
-                "MISSING-description": "Ticket rolls will earn points towards guaranteeing unlocking this avatar/skin. Targets can be changed, at the cost of 50% of gathered resonance points.",
-                "MISSING-confirm_button": "Set Target"
+                "title": "Angi skinn som resonansmål?",
+                "description": "Ticketspinn vil gi poeng som garanterer opplåsing av denne avataren/skinnet. Målet kan endres, til en kostnad av 50% av de innsamlede resonanspoengene.",
+                "confirm_button": "Sett som mål"
             },
             "seasonal_target_prompt": {
-                "MISSING-title": "Seasonal Target",
-                "MISSING-description": "Resonance points can only be earned towards it while it's in rotation. Target anyway?",
-                "MISSING-confirm_button": "Yes"
+                "title": "Sesongbasert mål",
+                "description": "Resonanspoeng kan vare tjenes mot den mens er i rotasjon, Målsett uansett?",
+                "confirm_button": "Ja"
             },
             "swap_target_prompt": {
-                "MISSING-title": "Swap Resonance Target?",
-                "MISSING-description": "This will cost 50% of your current resonance points.",
-                "MISSING-confirm_button": "Swap Target"
+                "title": "Bytt resonansmål?",
+                "description": "Dette vil koste 50% av dine nåværende resonanspoeng.",
+                "confirm_button": "Bytt mål"
             },
             "target_no_active_warning": {
-                "MISSING-title": "Resonance Target Not Active",
-                "MISSING-description": "Resonance points can’t be earned towards inactive targets, so roll won’t award resonance points."
+                "title": "Resonansmålet er ikke aktivt",
+                "description": "Resonanspoeng kan ikke tjenes mot inaktive mål, så spinnet vil ikke gi resonanspoeng."
             },
             "resonance_limit_warning": {
-                "MISSING-title": "Resonance Limit Reached",
-                "MISSING-description": "Earn points from your rolls towards guaranteeing unlocks, by targeting a roll-able epic or legendary avatar/skin. Points are lost without a target. For details, hover the target tab to the left."
+                "title": "Resonansgrensen er nådd",
+                "description": "Tjen poeng fra spinnene dine for å garantere opplåsinger, ved å målrette deg mot en episk eller legendarisk avatar/skinn. Poeng går tapt uten et mål. For detaljer, hold musepekeren over målfanen til venstre."
             },
             "resonance_different_target_warning": {
-                "MISSING-title": "Target Different From Resonance",
-                "MISSING-description": "Token target different from resonance target, roll won't award extra resonance points."
+                "title": "Målet er forskjellig fra resonans",
+                "description": "Tokenmålet er forskjellig fra resonansmålet, spinnet vil ikke gi ekstra resonanspoeng."
             }
         },
         "favorites": {
