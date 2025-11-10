@@ -1044,7 +1044,7 @@
                 "use": "Bruk",
                 "history": "Historie",
                 "buy": "Kjøp",
-                "gift": "Gi"
+                "gift": "Gave"
             },
             "redeem_code": "Løs inn ticketkode",
             "ticket_code_input": {
@@ -1138,49 +1138,49 @@
             "not_enough_tickets": "Ikke nok tickets"
         },
         "unlock_checkout": {
-            "MISSING-title": "Unlock",
-            "MISSING-buy": "Buy",
-            "MISSING-gift": "Gift",
-            "MISSING-tickets": "Tickets",
-            "MISSING-open_checkout": "Open Checkout",
-            "MISSING-skin_entry": "Skin (Default: _NAME_)",
-            "MISSING-version_entry": "Version: _NAME_",
-            "MISSING-location_background": "Location Background",
-            "MISSING-decorations": "Decorations",
+            "title": "Lås opp",
+            "buy": "Kjøp",
+            "gift": "Gave",
+            "tickets": "Tickets",
+            "open_checkout": "Gå til kassen",
+            "skin_entry": "Skinn (Standard: _NAME_)",
+            "version_entry": "Versjon: _NAME_",
+            "location_background": "Stedsbakgrunn",
+            "decorations": "Dekorasjon",
             "errors": {
-                "MISSING-failed_to_create_payment": "Failed to create payment, please try again.",
-                "MISSING-unlimited_slots_already_unlocked": "Unlimited slots already unlocked",
-                "MISSING-insufficient_notes": "Insufficient Notes",
-                "MISSING-insufficient_notes_message": "You don't have enough notes to unlock this item.",
-                "MISSING-insufficient_rhythm": "Insufficient Rhythm",
-                "MISSING-insufficient_rhythm_message": "You don't have enough rhythm to unlock this item.",
-                "MISSING-error_unlocking": "Error Unlocking"
+                "failed_to_create_payment": "Kunne ikke opprette betallingen, prøv på nytt.",
+                "unlimited_slots_already_unlocked": "Ubegrensede plasser er allerede låst opp",
+                "insufficient_notes": "Utilstrekklige notes",
+                "insufficient_notes_message": "Du har ikke nok notes for å låse opp denne gjenstanden.",
+                "insufficient_rhythm": "Utilstrekklige rhythm",
+                "insufficient_rhythm_message": "Du har ikke nok rhythm for å låse opp denne gjenstanden",
+                "error_unlocking": "Opplåsingsfeil"
             }
         },
-        "MISSING-toggle_favorite": "Toggle Favorite",
+        "toggle_favorite": "Veksle favoritt",
         "avatar_states": {
-            "MISSING-unavailable": "Unavailable",
-            "MISSING-limited": "Limited",
-            "MISSING-exclusive": "Exclusive",
-            "MISSING-standard": "Standard",
-            "MISSING-unique": "Unique"
+            "unavailable": "Utilgjengelig",
+            "limited": "Begrenset",
+            "exclusive": "Eksklusiv",
+            "standard": "Standard",
+            "unique": "Unik"
         },
         "decoration_buttons": {
-            "MISSING-front": "Front",
-            "MISSING-back": "Back"
+            "front": "Front",
+            "back": "Bak"
         },
         "item_types": {
-            "MISSING-emote": "Emote",
-            "MISSING-background": "Background",
-            "MISSING-decoration": "Decoration",
-            "MISSING-skin": "Skin"
+            "emote": "Emoji",
+            "background": "Bakgrunn",
+            "decoration": "Dekorasjon",
+            "skin": "Skinn"
         },
-        "MISSING-ticket_reward_tier": "Ticket Reward Tier _TIER_",
-        "MISSING-rhythm_price": "Rhythm Price",
-        "MISSING-silver_hibike_description": "Unique launch recolor unlocked by having joined the game during the launch week or by unlocking all non unique recolors for all avatars.",
+        "ticket_reward_tier": "ticketbelønningsnivå _TIER_",
+        "rhythm_price": "Rhythm pris",
+        "MISSING-silver_hibike_description": "Unik lanseringsantrekk låses ioo ved å ha blitt med i spillet i løpet av lanseringsuken eller ved å låse opp alle ikke-unike antrekk for alle avatarer.",
         "emote_previews": {
-            "MISSING-chat": "Chat",
-            "MISSING-profile": "Profile"
+            "chat": "Chat",
+            "profile": "Profil"
         }
     },
     "avatar_lore": {
