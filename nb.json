@@ -955,14 +955,14 @@
             }
         },
         "favorites": {
-            "MISSING-no_favorite_selected": "No Favorites Selected _BREAK_ Set Some by Clicking the _BREAK_ _ICON_ on Unlocked Avatars",
+            "no_favorite_selected": "Ingen favoritter valgt _BREAK_ Angi noen ved å klikke på _BREAK_ _ICON_ på ulåste avatarer",
             "auto_switch": {
-                "MISSING-description": "Auto switch between favorited avatars at the end of each game",
-                "MISSING-auto_switch": "Auto Switch",
+                "description": "Automatisk bytt mellom favorittavatarer på slutten av hvert game",
+                "auto_switch": "Auto-bytt",
                 "mode": {
-                    "MISSING-random": "Random",
-                    "MISSING-off": "Off",
-                    "MISSING-cycle": "Cycle"
+                    "random": "Tilfeldig",
+                    "off": "Av",
+                    "cycle": "Syklus"
                 }
             }
         },
