@@ -915,7 +915,7 @@
             "target": "Mål",
             "title": "Resonanssystem",
             "target_messages": {
-                "target_message": "Måø i resonanssystemet",
+                "target_message": "Mål i resonanssystemet",
                 "require_base_skin": "Krever basisskinnet for å målrettes",
                 "rare_common": "Sjeldne/Vanlige skinn kan ikke målrettes"
             },
@@ -973,7 +973,7 @@
             },
             "unlocked": {
                 "title": "Ulåst",
-                "description": "Vis innhold du har låst opp""
+                "description": "Vis innhold du har låst opp"
             },
             "available": {
                 "title": "Tilgjengelig",
