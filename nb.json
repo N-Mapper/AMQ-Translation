@@ -851,10 +851,10 @@
         "champs": "Mesters."
     },
     "tutorial_window": {
-        "title": "Veiledning",
+        "title": "Veiledninger",
         "start": "Start",
         "reset": "Nullstill",
-        "nexus_tutorials": "Nexus Veiledning",
+        "nexus_tutorials": "Nexus Veiledninger",
         "tutorials": {
             "gameplay": "Spilling",
             "avatars": "Avatarer",
@@ -864,8 +864,8 @@
             "rune_setup": "Rune oppsett"
         },
         "status": {
-            "locked": "Låst",
-            "unlocked": "Låst opp",
+            "locked": "Tilgjengelig",
+            "unlocked": "Utilgjengelig",
             "completed": "Fullført"
         }
     },
@@ -882,7 +882,7 @@
         },
         "no_automated_grind": {
             "title": "Ikke (halv-) automatisk grind",
-            "text": "Det er greit å grinde for notes og tickets, så lenge du legger inn innsats for det. Men bruk av verktøy eller metoder for å automatisere eller automatisere grindingen er imot reglene, og vil resultere i en permanent utestengelse. Dette inkludere AFK-grinding i laglobbyer."
+            "text": "Det er greit å grinde for notes og tickets, så lenge du legger inn innsats for det. Men bruk av verktøy eller metoder for å automatisere eller halvautomatisere grindingen er imot reglene, og vil resultere i en permanent utestengelse. Dette inkludere AFK-grinding i laglobbyer."
         },
         "dont_harass": {
             "title": "Ikke trakasser andre spillere",
@@ -894,13 +894,13 @@
         }
     },
     "about_window": {
-        "MISSING-title": "About",
-        "MISSING-developed_by": "Developed by _NAME_",
-        "MISSING-development": "Development",
-        "MISSING-art": "Art",
-        "MISSING-sound_and_audio": "Sound and Audio",
-        "MISSING-special_thanks": "Special Thanks",
-        "MISSING-credits": "Credits"
+        "title": "Om",
+        "developed_by": "Utviklet av _NAME_",
+        "development": "Utvikling",
+        "art": "Kunst",
+        "sound_and_audio": "Lyd",
+        "special_thanks": "Spesiell takk",
+        "credits": "Kreditt"
     },
     "avatar_window": {
         "MISSING-nothing_selected": "Nothing Selected _BREAK_ Select Above",
