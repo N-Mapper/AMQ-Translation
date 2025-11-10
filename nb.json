@@ -1015,69 +1015,69 @@
             "wrong": "Feil"
         },
         "avatar_action_button": {
-            "MISSING-active": "Active",
-            "MISSING-missing_skin": "Missing Skin Bonus",
-            "MISSING-background_locked": "Background Locked",
-            "MISSING-use": "Use",
-            "MISSING-unavailable": "Unavailable",
-            "MISSING-decoration_not_unlocked": "Decoration Not Unlocked",
-            "MISSING-unlock": "Unlock"
+            "active": "Aktiv",
+            "missing_skin": "Manglende bonusskinn",
+            "background_locked": "Bakgrunn låst",
+            "use": "Bruk",
+            "unavailable": "Utilgjengelig",
+            "decoration_not_unlocked": "Dekorasjon ikke opplåst",
+            "unlock": "Lås opp"
         },
         "avatar_bonus": {
-            "MISSING-title": "Avatar Bonus",
-            "MISSING-description": "Unlock 10 different skins/versions for this avatar to earn its badge"
+            "title": "Avatar bonus",
+            "description": "Lås opp 10 forskjellige skinn/versjoner av denne avataren for å få merket"
         },
         "skin_bonus": {
-            "MISSING-title": "Skin Bonus",
-            "MISSING-description": "Unlock 10 different versions of this skin to unlock its backgrounds for other avatars"
+            "title": "Skin bonus",
+            "description": "Lås opp 10 forskjellige versjoner dette skinne for å låse opp bakgrunnene for andre avatarer"
         },
-        "MISSING-world": "World",
-        "MISSING-artist": "Artist",
-        "MISSING-version_artist": "Version Artist",
-        "MISSING-background_story": "Background Story",
+        "world": "Verden",
+        "artist": "Artist",
+        "version_artist": "Versjonsartist",
+        "background_story": "Bakgrunnshistorie",
         "ticket_system": {
-            "MISSING-ticket": "Ticket",
-            "MISSING-tickets": "Tickets",
-            "MISSING-avatar_token": "Avatar Token",
-            "MISSING-avatar_tokens": "Avatar Tokens",
+            "ticket": "Ticket",
+            "tickets": "Tickets",
+            "avatar_token": "Avatar token",
+            "avatar_tokens": "Avatar tokens",
             "menu": {
-                "MISSING-use": "Use",
-                "MISSING-history": "History",
-                "MISSING-buy": "Buy",
-                "MISSING-gift": "Gift"
+                "use": "Bruk",
+                "history": "Historie",
+                "buy": "Kjøp",
+                "gift": "Gi"
             },
-            "MISSING-redeem_code": "Redeem Ticket Code",
+            "redeem_code": "Løs inn ticketkode",
             "ticket_code_input": {
-                "MISSING-title": "Enter Ticket Code",
-                "MISSING-placeholder": "Ticket Code",
-                "MISSING-redeem": "Redeem"
+                "title": "Skriv inn ticketkode",
+                "placeholder": "Ticketkode",
+                "redeem": "Løs inn"
             },
-            "MISSING-invalid_ticket_code": "Invalid Ticket Code",
+            "invalid_ticket_code": "Ugyldig ticketkode",
             "ticket_code_redeemed_message": {
-                "MISSING-title": "Ticket Code Redeemed!",
-                "MISSING-description": "_NUMBER_ tickets and _NUMBER2_ tokens claimed."
+                "title": "Ticketkode løst inn!",
+                "description": "_NUMBER_ tickets og _NUMBER2_ tokens mottatt."
             },
-            "MISSING-approx_dollar": "Approx. $_NUMBER_",
+            "approx_dollar": "Omtrent. $_NUMBER_",
             "patreon_promo": {
-                "MISSING-line_one": "Back the Patreon to get",
-                "MISSING-line_two": "the Most Tickets for Your Money!"
+                "line_one": "Støtt Patreon for å få",
+                "line_two": "mest mulig ticket for pengene!"
             },
-            "MISSING-one_ticket": "1 Ticket",
-            "MISSING-ticket_pack": "_NUMBER_ Pack",
-            "MISSING-gift_target": "Gift Target",
-            "MISSING-gift_no_target_message": "Select Friend to Gift",
-            "MISSING-gift_clear": "Clear",
+            "one_ticket": "1 Ticket",
+            "ticket_pack": "_NUMBER_ pakke",
+            "gift_target": "Gavemål",
+            "gift_no_target_message": "Velg venn å gi i gave",
+            "gift_clear": "Ta bort",
             "gift_message": {
-                "MISSING-title": "Buying Ticket Gift for _NAME_",
-                "MISSING-placeholder": "Gift message: _MESSAGE_"
+                "title": "kjøp ticketgave til _NAME_",
+                "placeholder": "Gave melding: _MESSAGE_"
             },
             "no_gift_target_message": {
-                "MISSING-title": "No Gift Target Selected",
-                "MISSING-description": "Select one below"
+                "title": "Gavemål ikke valgt",
+                "description": "Velg en nedenfor"
             },
             "gift_no_friends": {
-                "MISSING-title": "No Friends in Friend List",
-                "MISSING-description": "You're only able to gift tickets to friends in your friend list."
+                "title": "Ingen venner i vennelisten",
+                "description": "Du kan vare gi ticket til venner i vennelisten din."
             },
             "MISSING-no_past_rolls": "No Past _BREAK_ Ticket Rolls",
             "MISSING-one_roll": "1 Roll",
