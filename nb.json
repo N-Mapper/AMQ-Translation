@@ -955,7 +955,7 @@
             }
         },
         "favorites": {
-            "no_favorite_selected": "Ingen favoritter valgt _BREAK_ Angi noen ved å klikke på _BREAK_ _ICON_ på ulåste avatarer",
+            "no_favorite_selected": "Ingen favoritter valgt _BREAK_ Angi noen ved å klikke på _BREAK_ _ICON_ på opplåste avatarer",
             "auto_switch": {
                 "description": "Automatisk bytt mellom favorittavatarer på slutten av hvert game",
                 "auto_switch": "Auto-bytt",
@@ -968,51 +968,51 @@
         },
         "filters": {
             "locked": {
-                "MISSING-title": "Locked",
-                "MISSING-description": "Show content you haven't unlocked"
+                "title": "Låst",
+                "description": "Vis innhold du ikke har låst opp"
             },
             "unlocked": {
-                "MISSING-title": "Unlocked",
-                "MISSING-description": "Show content you have unlocked"
+                "title": "Ulåst",
+                "description": "Vis innhold du har låst opp""
             },
             "available": {
-                "MISSING-title": "Available",
-                "MISSING-description": "Show content that's available to unlock in the shop"
+                "title": "Tilgjengelig",
+                "description": "Vis innhold som er tilgjengelig for opplåsing i buttiken"
             },
             "unavailable": {
-                "MISSING-title": "Unavailable",
-                "MISSING-description": "Show content that's not currently available to unlock in the shop"
+                "title": "utilgjengelig",
+                "description": "Vis innhold som ikke er tilgjengelig for opplåsing i buttiken"
             },
             "limited": {
-                "MISSING-title": "Limited",
-                "MISSING-description": "Show content that's only available for a limited time"
+                "title": "Begrenset",
+                "description": "Vis innhold som bare er tilgjengelig i en begrenset periode"
             },
             "unlimited": {
-                "MISSING-title": "Unlimited",
-                "MISSING-description": "Show content that's always available to unlock"
+                "title": "Ubegrenset",
+                "description": "Vis innhold som alltid er tilgjengelig i en begrenset periode"
             },
             "exclusive": {
-                "MISSING-title": "Exclusive",
-                "MISSING-description": "Show content unlockable through the ticket systems"
+                "title": "Eksklusiv",
+                "description": "Vis innhold som kan låses opp gjennom ticketsystemet"
             },
             "standard": {
-                "MISSING-title": "Standard",
-                "MISSING-description": "Show content unlockable with notes"
+                "title": "Standard",
+                "description": "Vis innhold osm kan låses opp med notes"
             }
         },
-        "MISSING-background": "Background",
+        "background": "Bakgrunn",
         "toggle": {
-            "MISSING-on": "Toggle On",
-            "MISSING-off": "Toggle Off"
+            "on": "Veksle på",
+            "off": "Veksle av"
         },
-        "MISSING-poses": "Poses",
+        "poses": "Positur",
         "pose_names": {
-            "MISSING-base": "Base",
-            "MISSING-thinking": "Thinking",
-            "MISSING-waiting": "Waiting",
-            "MISSING-no_answer": "No Answer",
-            "MISSING-correct": "Correct",
-            "MISSING-wrong": "Wrong"
+            "base": "Base",
+            "thinking": "Tenker",
+            "Mwaiting": "Venter",
+            "no_answer": "Ikke noe svar",
+            "correct": "Riktig",
+            "wrong": "Feil"
         },
         "avatar_action_button": {
             "MISSING-active": "Active",
