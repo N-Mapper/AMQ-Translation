@@ -41,9 +41,9 @@
             "none": "Ingen",
             "default": "Standard",
             "delete": "Slett",
-            "MISSING-close_button": "Close",
-            "MISSING-report": "Report",
-            "MISSING-not_applicable": "N/A"
+            "close_button": "Lukk",
+            "report": "Rappoter",
+            "not_applicable": "N/A"
         },
         "popout_messages": {
             "unexpected_error": "Uventet feil",
@@ -292,8 +292,7 @@
                     "shorthand": "S"
                 }
             },
-            "MISSING-week_year_2": "Week _NUMBER_ of _YEAR_",
-            "DELETED-week_year": "Uke _NUMBER_ av _NUMBER_"
+            "week_year_2": "Uke _NUMBER_ av _YEAR_"
         },
         "ranked_description": {
             "title": "Ranked-modus",
@@ -369,12 +368,11 @@
             "faq_button": "FAQ",
             "faq_header": "FAQ",
             "avatar_description_placeholder": "Kort beskrivelse av avatar",
-            "MISSING-title": "Avatar Drive"
+            "title": "Avatar-kampanje"
         },
         "social_rewards": {
             "title": "Sosiale media belønning",
-            "MISSING-description_2": "As a thanks for following the game’s Discord and Patreon, you can claim an 8 ticket reward from following each. _BREAK_ Make sure to join the _LINK_ Discord _LINK_ before claiming the Discord reward. _BREAK_ Make sure to join (free) or back the _LINK2_ Patreon _LINK2_ before claiming the Patreon reward.",
-            "DELETED-description": "Som en takk for at du følger spillets Discord og Patreon, så vil du motta 8 tickets som belønning for å følge hver av dem. _BREAK_ Sørg for å bli med i _LINK_ Discord-en _LINK_ før du kan motta Discord-belønningen. _BREAK_ Sørg for å bli med (gratis) eller støtt _LINK_ Patreon-en _LINK_ før du kan motta Patreon-belønningen."
+            "description_2": "Som en takk for at du følger spillets Discord og Patreon, så vil du motta 8 tickets som belønning for å følge hver av dem. _BREAK_ Sørg for å bli med i _LINK_ Discord-en _LINK_ før du kan motta Discord-belønningen. _BREAK_ Sørg for å bli med (gratis) eller støtt _LINK2_ Patreon-en _LINK2_ før du kan motta Patreon-belønningen."
         },
         "game_mode": {
             "title": "Modus",
@@ -439,7 +437,7 @@
                     "jam": "Jam",
                     "event": "event",
                     "solo": "solo",
-                    "MISSING-quiz_of_the_day": "Quiz of the Day"
+                    "quiz_of_the_day": "dagens quiz"
                 }
             },
             "options": {
