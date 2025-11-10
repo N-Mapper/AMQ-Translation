@@ -851,22 +851,22 @@
         "champs": "Mesters."
     },
     "tutorial_window": {
-        "MISSING-title": "Tutorials",
-        "MISSING-start": "Start",
-        "MISSING-reset": "Reset",
-        "MISSING-nexus_tutorials": "Nexus Tutorials",
+        "title": "Veiledning",
+        "start": "Start",
+        "reset": "Nullstill",
+        "nexus_tutorials": "Nexus Veiledning",
         "tutorials": {
-            "MISSING-gameplay": "Gameplay",
-            "MISSING-avatars": "Avatars",
-            "MISSING-social": "Social",
-            "MISSING-dungeon": "Dungeon",
-            "MISSING-workshop": "Workshop",
-            "MISSING-rune_setup": "Rune Setup"
+            "gameplay": "Spilling",
+            "avatars": "Avatarer",
+            "social": "Sosialt",
+            "dungeon": "Dungeon",
+            "workshop": "Verksted",
+            "rune_setup": "Rune oppsett"
         },
         "status": {
-            "MISSING-locked": "Locked",
-            "MISSING-unlocked": "Unlocked",
-            "MISSING-completed": "Completed"
+            "locked": "Låst",
+            "unlocked": "Låst opp",
+            "completed": "Fullført"
         }
     },
     "guidelines_window": {
