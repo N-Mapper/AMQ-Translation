@@ -854,7 +854,7 @@
         "title": "Veiledninger",
         "start": "Start",
         "reset": "Nullstill",
-        "nexus_tutorials": "Nexus Veiledninger",
+        "nexus_tutorials": "Nexus veiledninger",
         "tutorials": {
             "gameplay": "Spilling",
             "avatars": "Avatarer",
@@ -871,14 +871,14 @@
     },
     "guidelines_window": {
         "title": "Retningslinjer",
-        "description": "Anime Music Quiz er ment å være rettferdig og underholdende for all. For å forsikre dette er det viktig at du følger reningslinjene nedenfor, samt eventuelle instruksjoner fra moderatorer. Brudd på disse retningslinjene vil føre til utestengelse fra chat eller spillet, avhengig av tilfellet.",
+        "description": "Anime Music Quiz er ment å være rettferdig og underholdende for alle. For å forsikre dette er det viktig at du følger reningslinjene nedenfor, samt eventuelle instruksjoner fra moderatorer. Brudd på disse retningslinjene vil føre til utestengelse fra chat eller spillet, avhengig av tilfellet.",
         "dont_cheat": {
             "title": "Ikke juks",
             "text": "Bruk av alle typer ekstern programvare eller verktøy som gir en urettferdig fordel anses som juks. Dette dekker generelt, men ikke begrenset til, verktøy som avslører ekstra informasjon om sangen, videoen eller programmet."
         },
         "no_teaming": {
             "title": "Ikke samarbeid under ranked",
-            "text": "Ranked er ment å være en test av individuelle ferdighet, og defor er det strengt forbudt å samarbeide eller dele svar med andre. Utenom ranked (og Jam-modusen) er du mer enn velkommen til å dele svar med venner hvis verten av rommet er ok med det, men hold delingen utenfor ranked."
+            "text": "Ranked er ment å være en test av individuelle ferdigheter, og defor er det strengt forbudt å samarbeide eller dele svar med andre. Utenom ranked (og Jam-modusen) er du mer enn velkommen til å dele svar med venner hvis verten av rommet er ok med det, men hold det utenfor ranked."
         },
         "no_automated_grind": {
             "title": "Ikke (halv-) automatisk grind",
@@ -886,7 +886,7 @@
         },
         "dont_harass": {
             "title": "Ikke trakasser andre spillere",
-            "text": "Spiller er for alle, så trakassering av andre tolereres ikke. Det er selvfølgelig greit å tulle med venner, men sørg for at alle er med på det."
+            "text": "Spillet er for alle, så trakassering av andre tolereres ikke. Det er selvfølgelig greit å tulle med venner, men sørg for at alle er med på det."
         },
         "no_hate_speech": {
             "title": "Ikke send hatefulle meldinger eller rasisme",
@@ -921,10 +921,10 @@
             },
             "no_target": "Mål ikke valgt",
             "no_target_description": "Målrett et skinn/avatar bed å målsette det fra butikken",
-            "target_set": "Resonansmållsetting",
+            "target_set": "Resonansmålsetting",
             "how_it_works": {
                 "title": "Hvordan det fungerer",
-                "description": "Målrett deg mot et skinn/avatar ved å målrette den fra butikken i ticketsystemet. Doble poeng hvis du bruker avatar token for målet. _BREAK_ Når du har fått nok poeng (200 for episk, 500 for legendarisk), låses målet opp! _BREAK_ Du kan bytte mål når som helst, men da halverers peongene dine. _BREAK_ Du kan målsette deg mot sesongbaserte/tidsbegrensede avatarer, men du kan bare få poeng mot dem mens de er i rotasjon."
+                "description": "Målrett deg mot et skinn/avatar ved å målrette den fra butikken i ticketsystemet. Doble poeng hvis du bruker avatar token for målet. _BREAK_ Når du har fått nok poeng (200 for episk, 500 for legendarisk), låses målet opp! _BREAK_ Du kan bytte mål når som helst, men da halverers poengene dine. _BREAK_ Du kan målsette deg mot sesongbaserte/tidsbegrensede avatarer, men du kan bare få poeng mot dem mens de er i rotasjon."
             },
             "set_target_prompt": {
                 "title": "Angi skinn som resonansmål?",
@@ -933,7 +933,7 @@
             },
             "seasonal_target_prompt": {
                 "title": "Sesongbasert mål",
-                "description": "Resonanspoeng kan vare tjenes mot den mens er i rotasjon, Målsett uansett?",
+                "description": "Resonanspoeng kan vare tjenes mot den mens er i rotasjon, målsett uansett?",
                 "confirm_button": "Ja"
             },
             "swap_target_prompt": {
@@ -1175,7 +1175,7 @@
             "decoration": "Dekorasjon",
             "skin": "Skinn"
         },
-        "ticket_reward_tier": "ticketbelønningsnivå _TIER_",
+        "ticket_reward_tier": "Ticketbelønningsnivå _TIER_",
         "rhythm_price": "Rhythm pris",
         "MISSING-silver_hibike_description": "Unik lanseringsantrekk låses ioo ved å ha blitt med i spillet i løpet av lanseringsuken eller ved å låse opp alle ikke-unike antrekk for alle avatarer.",
         "emote_previews": {
@@ -1391,6 +1391,6 @@
         "asahi": {
             "MISSING-standard": "Asahi is the captain of her school's track team, and got a reputation as a tough person who always speak her mind. But she’s actually rather chill, and enjoys her high school days hanging out with her friends without too much drama."
         },
-        "MISSING-unknown": "Unknown"
+        "unknown": "Ukjent"
     }
 }
