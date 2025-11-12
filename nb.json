@@ -429,7 +429,7 @@
                 "playing_nexus": "Spiller _NAME_ Nexus",
                 "in_nexus_lobby": "I _NAME_ Nexus lobby",
                 "in_lobby": "I _NAME_ lobby",
-                "spectating_quiz": "Tilskuere til en _NAME_ quiz",
+                "spectating_quiz": "Tilskuere i _NAME_ quiz",
                 "in_quiz": "I _NAME_ quiz",
                 "mode_names": {
                     "co-op": "co-op",
