@@ -434,7 +434,7 @@
                 "mode_names": {
                     "co-op": "co-op",
                     "private": "privat",
-                    "jam": "Jam",
+                    "jam": "jam",
                     "event": "event",
                     "solo": "solo",
                     "quiz_of_the_day": "dagens quiz"
@@ -577,11 +577,11 @@
         "mod": {
             "name": {
                 "game": "AMQ moderator",
-                "jam": "AMQ Jamquiz moderator"
+                "jam": "AMQ jamquiz moderator"
             },
             "description": {
                 "game": "En del av AMQ-moderatorteamet",
-                "jam": "En del av AMQ-Jamquiz-moderatorteamet"
+                "jam": "En del av AMQ-jamquiz-moderatorteamet"
             }
         },
         "aragaimu": {
@@ -878,7 +878,7 @@
         },
         "no_teaming": {
             "title": "Ikke samarbeid under ranked",
-            "text": "Ranked er ment å være en test av individuelle ferdigheter, og derfor er det strengt forbudt å samarbeide eller dele svar med andre. Utenom ranked (og Jam-modusen) er du mer enn velkommen til å dele svar med venner hvis verten av rommet er ok med det, men hold det utenfor ranked."
+            "text": "Ranked er ment å være en test av individuelle ferdigheter, og derfor er det strengt forbudt å samarbeide eller dele svar med andre. Utenom ranked (og jam-modusen) er du mer enn velkommen til å dele svar med venner hvis verten av rommet er ok med det, men hold det utenfor ranked."
         },
         "no_automated_grind": {
             "title": "Ikke (halv-) automatisk grind",
