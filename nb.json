@@ -871,14 +871,14 @@
     },
     "guidelines_window": {
         "title": "Retningslinjer",
-        "description": "Anime Music Quiz er ment å være rettferdig og underholdende for alle. For å forsikre dette er det viktig at du følger reningslinjene nedenfor, samt eventuelle instruksjoner fra moderatorer. Brudd på disse retningslinjene vil føre til utestengelse fra chat eller spillet, avhengig av tilfellet.",
+        "description": "Anime Music Quiz er ment å være rettferdig og underholdende for alle. For å forsikre dette er det viktig at du følger retningslinjene nedenfor, samt eventuelle instruksjoner fra moderatorer. Brudd på disse retningslinjene vil føre til utestengelse fra chat eller spillet, avhengig av tilfellet.",
         "dont_cheat": {
             "title": "Ikke juks",
-            "text": "Bruk av alle typer ekstern programvare eller verktøy som gir en urettferdig fordel anses som juks. Dette dekker generelt, men ikke begrenset til, verktøy som avslører ekstra informasjon om sangen, videoen eller programmet."
+            "text": "Bruk av alle typer ekstern programvare eller verktøy som gir en urettferdig fordel anses som juks. Dette dekker generelt, men ikke begrenset til verktøy som avslører ekstra informasjon om sangen, videoen eller programmet."
         },
         "no_teaming": {
             "title": "Ikke samarbeid under ranked",
-            "text": "Ranked er ment å være en test av individuelle ferdigheter, og defor er det strengt forbudt å samarbeide eller dele svar med andre. Utenom ranked (og Jam-modusen) er du mer enn velkommen til å dele svar med venner hvis verten av rommet er ok med det, men hold det utenfor ranked."
+            "text": "Ranked er ment å være en test av individuelle ferdigheter, og derfor er det strengt forbudt å samarbeide eller dele svar med andre. Utenom ranked (og Jam-modusen) er du mer enn velkommen til å dele svar med venner hvis verten av rommet er ok med det, men hold det utenfor ranked."
         },
         "no_automated_grind": {
             "title": "Ikke (halv-) automatisk grind",
@@ -920,11 +920,11 @@
                 "rare_common": "Sjeldne/Vanlige skinn kan ikke målrettes"
             },
             "no_target": "Mål ikke valgt",
-            "no_target_description": "Målrett et skinn/avatar bed å målsette det fra butikken",
+            "no_target_description": "Målrett et skinn/avatar ved å målsette det fra butikken",
             "target_set": "Resonansmålsetting",
             "how_it_works": {
                 "title": "Hvordan det fungerer",
-                "description": "Målrett deg mot et skinn/avatar ved å målrette den fra butikken i ticketsystemet. Doble poeng hvis du bruker avatar token for målet. _BREAK_ Når du har fått nok poeng (200 for episk, 500 for legendarisk), låses målet opp! _BREAK_ Du kan bytte mål når som helst, men da halverers poengene dine. _BREAK_ Du kan målsette deg mot sesongbaserte/tidsbegrensede avatarer, men du kan bare få poeng mot dem mens de er i rotasjon."
+                "description": "Målrett deg mot et skinn/avatar ved å målrette den fra butikken i ticketsystemet. Doble poeng hvis du bruker avatar token for målet. _BREAK_ Når du har fått nok poeng (200 for episk, 500 for legendarisk), låses målet opp! _BREAK_ Du kan bytte mål når som helst, men da halveres poengene dine. _BREAK_ Du kan målsette deg mot sesongbaserte/tidsbegrensede avatarer, men du kan bare få poeng mot dem mens de er i rotasjon."
             },
             "set_target_prompt": {
                 "title": "Angi skinn som resonansmål?",
@@ -933,7 +933,7 @@
             },
             "seasonal_target_prompt": {
                 "title": "Sesongbasert mål",
-                "description": "Resonanspoeng kan vare tjenes mot den mens er i rotasjon, målsett uansett?",
+                "description": "Resonanspoeng kan bare tjenes mot den mens er i rotasjon, målsett uansett?",
                 "confirm_button": "Ja"
             },
             "swap_target_prompt": {
@@ -977,11 +977,11 @@
             },
             "available": {
                 "title": "Tilgjengelig",
-                "description": "Vis innhold som er tilgjengelig for opplåsing i buttiken"
+                "description": "Vis innhold som er tilgjengelig for opplåsing i butikken"
             },
             "unavailable": {
                 "title": "utilgjengelig",
-                "description": "Vis innhold som ikke er tilgjengelig for opplåsing i buttiken"
+                "description": "Vis innhold som ikke er tilgjengelig for opplåsing i butikken"
             },
             "limited": {
                 "title": "Begrenset",
@@ -997,13 +997,13 @@
             },
             "standard": {
                 "title": "Standard",
-                "description": "Vis innhold osm kan låses opp med notes"
+                "description": "Vis innhold som kan låses opp med notes"
             }
         },
         "background": "Bakgrunn",
         "toggle": {
-            "on": "Veksle på",
-            "off": "Veksle av"
+            "on": "Skru på",
+            "off": "Skru av"
         },
         "poses": "Positur",
         "pose_names": {
@@ -1073,11 +1073,11 @@
             },
             "no_gift_target_message": {
                 "title": "Gavemål ikke valgt",
-                "description": "Velg en nedenfor"
+                "description": "Velg et nedenfor"
             },
             "gift_no_friends": {
                 "title": "Ingen venner i vennelisten",
-                "description": "Du kan vare gi ticket til venner i vennelisten din."
+                "description": "Du kan bare gi ticket til venner i vennelisten din."
             },
             "no_past_rolls": "Ingen tidligere _BREAK_ Ticketspinn",
             "one_roll": "1 spinn",
@@ -1096,27 +1096,27 @@
             },
             "info": {
                 "title": "Ticketsystemet",
-                "description": "Ticketsystemet lar spiller bruke tickets på å låse opp eksklusive skinns, skinn versjoner, emojier, avatar bakgrunner og dekorasjoner.",
+                "description": "Ticketsystemet lar spillere bruke tickets på å låse opp eksklusive skinns, skinn versjoner, emojier, avatarer, bakgrunner og dekorasjoner.",
                 "how_to_earn": {
                     "title": "Hvordan tjene tickets",
-                    "text": "Spillere mottar én ticket hver gang de går opp i level, med 5 bonustickets hvert 10. level. Toickets kan også kjøpes eller tjenes ved å støtte spillet på Patreon."
+                    "text": "Spillere mottar én ticket hver gang de går opp i level, med 5 bonustickets hvert 10. level. Tickets kan også kjøpes eller tjenes ved å støtte spillet på Patreon."
                 },
                 "how_do_rolls_work": {
                     "title": "Hvordan fungerer spinning?",
                     "text": "Du kan bruke tickets for å spinne for eksklusive belønninger i ticketsystemet. Hver spinn koster 2 tickets. Belønningene er delt inn i 4 sjeldenheter, med ulike sjanse for å bli spinnet",
                     "common": "(Vanglig) 85% sjanse: Simple skinn antrekk og emojier.",
                     "rare": "(Sjelden) 10% sjanse: Avanserte skinn versjoner og dekorasjoner.",
-                    "epic": "(Episk) 4,5% sjanse: Store skinn versjoner, sesonbaserte skinn og unike bakgrunner.",
+                    "epic": "(Episk) 4,5% sjanse: Store skinn versjoner, sesongbaserte skinn og unike bakgrunner.",
                     "legendary": "(Legendarisk) 0,5% sjanse: Unike skinns og animerte versjoner.",
                     "info_footer": "Skinnversjoner for ticketbelønningerskinn kan ikke bli spinnet før skinnet er låst opp"
                 },
                 "how_does_rhythm_work": {
                     "title": "Hvordan fungerer rhythm?",
-                    "text": "Hvis du spinner en belønning du allerede har låst opp, tjener du opp en mengde rhythm basert på belønningens sjeldenhet. Rhythm kan brukes til å låse opp hvilken som helst spesifikk belønnigsgjenstand når nok av den er oppsamlet"
+                    "text": "Hvis du spinner en belønning du allerede har låst opp, tjener du opp en mengde rhythm basert på belønningens sjeldenhet. Rhythm kan brukes til å låse opp hvilken som helst spesifikk belønningsgjenstand når nok av den er oppsamlet."
                 },
                 "how_does_avatar_tokens_work": {
                     "title": "Hvordan fungerer avatar tokens?",
-                    "text": "Når du kjøper tickets eller støtter Patreon-en, vil du motta avatar tokens. Disee tokensene kan bli brukt for å fokusere ticketspinnene mot én bestemt avatar eller sesongbaserte skinn, ved å velge et mål før du utfører et spinn. Når en avatar/sesong er fokuset, vil hvert enkelt spinn ha 50% sjanse for å være en ikke-duplikat (hvis noen tilgjengelig) av den avataren/sesongen. _BREAK_ Sjeldenhetstrekkforholdet forblir det samme når du bruker avatar tokens."
+                    "text": "Når du kjøper tickets eller støtter Patreon-en, vil du motta avatar tokens. Disse tokensene kan bli brukt for å fokusere ticketspinnene mot én bestemt avatar eller sesongbaserte skinn, ved å velge et mål før du utfører et spinn. Når en avatar/sesong er fokuset, vil hvert enkelt spinn ha 50% sjanse for å være en ikke-duplikat (hvis noen tilgjengelig) av den avataren/sesongen. _BREAK_ Sjeldenhetstrekkforholdet forblir det samme når du bruker avatar tokens."
                 }
             },
             "sale_text": {
@@ -1185,9 +1185,9 @@
     },
     "avatar_lore": {
         "hibiki": {
-            "thief": "Hibiki er en velkjent, lykkelig eventyrer, med et talent for å komme seg in der hun ikke skal være og ut med mer enn hun kom inn med. En ferdighet hun ofte skryter om på lokale taverner.",
+            "thief": "Hibiki er en velkjent, lykkelig eventyrer, med et talent for å komme seg inn der hun ikke skal være og ut med mer enn hun kom inn med. En ferdighet hun ofte skryter om på lokale taverner.",
             "monster_trainer": "Siden Hibiki aldri har vært en som slår seg til ro lenge, overrasket det ingen da hun dro ut for å utforske verden etter å ha møtt partneren sin, Hineko. Sammen utgjør de to én dynamisk duo, og de skaper seg raskt et navn.",
-            "fast_food_employee": "Hibiki måtte raskt finne en ny jobb i en ny by. Heldigvis endte hun opp med å få en flott jobb på en lokal fast foodrestaurant, hvor hun nå tilbringer dagene sine med å jobbe med fantastiske kolleger, mens hun forbereder seg til sin neste reise."
+            "fast_food_employee": "Hibiki måtte raskt finne en ny jobb i en ny by. Heldigvis endte hun opp med å få en flott jobb på en lokal fast food kjede, hvor hun nå tilbringer dagene sine med å jobbe med fantastiske kolleger, mens hun forbereder seg til sin neste reise."
         },
         "honoka": {
             "standard": "Grunnet svak helse tilbrakte Honoka mesteparten av livet sitt på familiens eiendom, kun med selskap av bøkene sine og hennes personlige hushjelpen Kyouko, helt til nylig da hun tilfeldigvis møtte Ritsu og de to ble venner.",
@@ -1195,26 +1195,26 @@
         },
         "kyouko": {
             "standard": "Kyouko har jobbet som Honoka's hushjelp i flere år. Hennes energiske natur og naturlige kløntete oppførsel har ført til flere ulykker som ville ha ført til at hun ble sparket hvis det ikke var for vennskapet hennes med Honoka.",
-            "knight": "Som den nyest medlemmet av den kongelige garde fikk Kyoukoi oppgave å hjelpe Honoka, en lærd fra en alliert druidestamme, på hennes reise rundt i landet. Hun tilbringer derfor dagene sine på veien, hvor hun tjener som Honokas vakt og guide.",
-            "bodyguard": "Kyouko var avskjediget som Honokas hushjelp, på grunn av sikkerhetsenderinger. Kyouko ønsket forsatt å hjelpe Honoka, og studerte derfor å bli livvakt. Selv om klønetheten hennes ofte forårsaker problemer, lot Honoka det gå siden hun liker å tilbringe tid med Kyouko."
+            "knight": "Som det nyeste medlemmet av den kongelige garde fikk Kyoukoi oppgave å hjelpe Honoka, en lærd fra en alliert druidestamme, på hennes reise rundt i landet. Hun tilbringer derfor dagene sine på veien, hvor hun tjener som Honokas vakt og guide.",
+            "bodyguard": "Kyouko var avskjediget som Honokas hushjelp, på grunn av sikkerhetsenderinger. Kyouko ønsket fortsatt å hjelpe Honoka, og studerte derfor å bli livvakt. Selv om klønetheten hennes ofte forårsaker problemer, lot Honoka det gå siden hun liker å tilbringe tid med Kyouko."
         },
         "ritsu": {
             "standard": "En energisk videregåendeelev med en lidenskap for musikk, og klubbpresident i skolens musikklubb. Ritsu blir ofte funnet på livekonserter rundt om i byen, og det var på en av disse hvor hun møtte og ble venn med en malplassert Honoka.",
             "bard": "Ritsu var aldri en fan av det stille livet på familiegården, så da hun fikk sjansen, rømte hun med en gruppe reisende underholdere. Nå reiser hun fra by til by, deler musikken sin og utforsker verden.",
-            "park_ranger": "Som en ung jente forelsket Ritsu seg i naturen i nasjonalparkene på en ferie i utlandet. Så etter å ha fullført utdannelsen sin, ble hun med i parkvokterprogrammet, og nå bruker hun dagene sine på å beskyttenaturen i parkene.",
-            "kitsune": "I en bestemt by, er det et rykte om en kitsune som henger rundt i byen og blir med på morsomme arrangementer. Ritsu har hørt ryktet, men er ikke klar over kitsune some er bundet til henne, og som sniker seg ut i kroppen hennes fra tid til annen.",
+            "park_ranger": "Som en ung jente forelsket Ritsu seg i naturen i nasjonalparkene på en ferie i utlandet. Så etter å ha fullført utdannelsen sin, ble hun med i parkvokterprogrammet, og nå bruker hun dagene sine på å beskytte naturen i parkene.",
+            "kitsune": "I en bestemt by, er det et rykte om en kitsune som henger rundt i byen og blir med på morsomme event. Ritsu har hørt ryktet, men er ikke klar over kitsune som er bundet til henne, og som sniker seg ut i kroppen hennes fra tid til annen.",
             "summer_games": "I det som raskt har blitt en årlig tradisjon, møtes idrettsutdøvere fra alle verdener hver sommer for å konkurrere i vennlig konkurranse. I år er Ritsu en av favorittene til å vinne 100 meteren.",
-            "queen": "Ritsu forventet ikke å ende opp som landtes dronning, men etter en plutselig vending endte hun opp på tronen. Selv om alt er veldig nytt for henne, har hun et selvsikkert utseende, dedikert til å ikke gjenta forgjengerens feil."
+            "queen": "Ritsu forventet ikke å ende opp som landets dronning, men etter en plutselig vending endte hun opp på tronen. Selv om alt er veldig nytt for henne, har hun et selvsikkert utseende, dedikert til å ikke gjenta forgjengerens feil."
         },
         "hikari": {
             "standard": "Som en ung, avslappet person nyter Hikari sitt enkle liv som videregående mattelærer. Han har også blitt klubbrådgiver for musikklubben som ledes av Ritsu, siden hennes lederskap lar ham bruke mesteparten av tiden på å slappe av.",
-            "scholar": "Som en ledene lærd ved det kongelige akadami, ville de fleste ha trodd at Hikari tilbrakte dagene sine dypt nedi støvete gamle bøker, og ikke utforsket gamle ruiner på jakt etter tapt, mystisk kunnskap fra tidligere sivilisasjoner.",
-            "fireman": "Som gutt ble Hikari reddet av en brannmann, noe som vekket hans lidenskap for yrket. Han er nå en elsket brannman i lokalsamfunnet sitt, og bruker dagene sine på å hjelpe lokalbefolkningen og redde folk når ulykker skjer."
+            "scholar": "Som en ledende lærd ved det kongelige akadami, ville de fleste ha trodd at Hikari tilbrakte dagene sine dypt nedi støvete gamle bøker, og ikke utforsket gamle ruiner på jakt etter tapt, mystisk kunnskap fra tidligere sivilisasjoner.",
+            "fireman": "Som gutt ble Hikari reddet av en brannmann, noe som vekket hans lidenskap for yrket. Han er nå en beundret brannmann i lokalsamfunnet sitt, og bruker dagene sine på å hjelpe lokalbefolkningen og redde folk når ulykker skjer."
         },
         "komugi": {
-            "standard": "En lokal reveånd fra et nesten glemt helligdom på landsbygda, er kjent for å gjøre rampestreker på lokalbefolkningen. Hellingdommen hennes får sjeldent besøk på grunn av et større helligdom i nærheten, så hun liker besøkene hun får fra Noel.",
-            "tribal_sorcerer": "Komugi som kommer fra en kitsune-stamme, mestret kunsten av ildmagi i en ung alder. Men etter å ha blitt lei av det fredelige landsbyliivet, dro hun på jakt etter eventyr og moro.",
-            "pirate": "Komugi er kjent som en vwnn i havnen og en trussel for alle som møter henne på sjøet. Hun er en svært ettertraktet pirat som kan leies av alle som har nok gull og store nok eventyr til å tilfredsstille henne."
+            "standard": "En lokal reveånd fra en nesten glemt helligdom på landsbygda, er kjent for å gjøre rampestreker på lokalbefolkningen. Hellingdommen hennes får sjeldent besøk på grunn av en større helligdom i nærheten, så hun liker besøkene hun får fra Noel.",
+            "tribal_sorcerer": "Komugi som kommer fra en kitsune-stamme, mestret kunsten av ildmagi i en ung alder. Men etter å ha blitt lei av det fredelige landsbylivet, dro hun på jakt etter eventyr og moro.",
+            "pirate": "Komugi er kjent som en venn i havnen og en trussel for alle som møter henne på sjøet. Hun er en svært ettertraktet pirat som kan leies av alle som har nok gull og store nok eventyr til å tilfredsstille henne."
         },
         "noel": {
             "standard": "Som en selverklært mesterdetektiv finner Noel mysterier og gåter å løse i alt, ingen sak er for stor for detektiv Noel! Etter å ha funnet en gamle bortglemt helligdom, drar hun nå også dens ånd Komugi seg på \"dektivarbeide\" sitt.",
@@ -1222,7 +1222,7 @@
             "catgirl": "Under en sak ble Noel besatt av en bakeneko. Den var ikke kraftig nok til å kontrollere Noel, men den påvirket likevel oppførselen hennes og fikk henne til å få katteører og -hale, til stor forferdelse for Komugi som måtte dekke til alt."
         },
         "kuriko": {
-            "standard": "Selv blant hekser blir Kuriko sett på som spesielt mektig, men hennes bekymmringsløse holdning hindrer henne ofte i å bruke alle sine krefter. Hun kan ofte finnes mens hun har det gøy under konfliktene mellom teknologi og magi som oppstår i hennes verden.",
+            "standard": "Selv blant hekser blir Kuriko sett på som spesielt mektig, men hennes bekymringsløse holdning hindrer henne ofte i å bruke alle sine krefter. Hun kan ofte finnes mens hun har det gøy under konfliktene mellom teknologi og magi som oppstår i hennes verden.",
             "sorceress": "Kuriko kommer fra en nomadisk stamme i de sørlige landene og har reist helt til kongeriket på et oppdrag for å spre folkets budskap, men oftere ender hun opp med å lure folk til å bli med henne på vanvittige eventyr."
         },
         "miyu": {
@@ -1233,10 +1233,10 @@
             "summer_games": "Som en sky jente hadde ikke folk mye tillit til at Miyu kunne bli en profesjonell gymnast. Men talentet og hardt arbeid motbeviste dem,  og hun er nå klar til å vise frem ferdighetene sine i de årlige sommerlekene."
         },
         "shiina": {
-            "standard": "Shiina tilbrakte barndommen sin med å se på idoler på TV, og drømte å bli et selv. Drømmen hennes begynte endelig å gå i oppfyllelse da hun beynte på videregående og klarte å lande jobben som et lokal idol for byen sin."
+            "standard": "Shiina tilbrakte barndommen sin med å se på idoler på TV, og drømte å bli et selv. Drømmen hennes begynte endelig å gå i oppfyllelse da hun begynte på videregående og klarte å lande jobben som et lokalt idol for byen sin."
         },
         "mizuki": {
-            "standard": "Mizuki fungerer som helligdomspiken i sin populære hellidgom, og deler sin velsignelse med de mange besøkende. Belsignelser som ofte ender opp i hennes favør. Hun får ofte besøk av Komugi, som er irritert over at helligdommen hennes blir bortglemt.",
+            "standard": "Mizuki fungerer som helligdomspiken i sin populære helligdom, og deler sin velsignelse med de mange besøkende. velsignelser som ofte ender opp i hennes favør. Hun får ofte besøk av Komugi, som er irritert over at helligdommen hennes blir bortglemt.",
             "high_priest": "Som sin stammes yppersteprest nøt Mizuki livet. Alt dette endret seg da Komugi brøt reglene og forlot stammen, noe som tvang Mizuki til å dra for å hente henne tilbake. Nå reiser hun verden rundt og prøver å fange Komugi."
         },
         "marine": {
@@ -1244,43 +1244,43 @@
             "buccaneer": "De fleste må se to ganger når de møter Marine for første gang, men få av dem kommentere størrelsen hennes lever videre. Enhver tvil om ferdighetene hennes forsvinner raskt etter å ha sett henne hoppe mellom dekk, smilende mens hun svinger lensen sin."
         },
         "akira": {
-            "standard": "Mange av Akiras fans ville ikke forvente at den vanligvis kule og rolige idolet vokste opp som eldst av flere søsken. Han jobbet i flere jobber for å forsørge dem, helt til da han tilferdigvis ble oppdaget av et stort idolbyrå",
+            "standard": "Mange av Akiras fans ville ikke forvente at den vanligvis kule og rolige idolet vokste opp som eldst av flere søsken. Han jobbet i flere jobber for å forsørge dem, helt til da han tilfeldigvis ble oppdaget av et stort idolbyrå",
             "samurai": "Som kronprins i et østlig land ønsket Akira å oppleve før han måtte ta over som hersker. Men som kronprins må han reise i hemmelighet for å unngå å bli oppslukt i lokalpolitikk."
         },
         "rinko": {
-            "standard": "For de fleste klassekameratene hennes fremstår Rink som en vanlig hardtarbbeidende videregåendeelev, de ville ikke forvente at hun skulle være en stor fan av gothic lolita, som som tilbringer de fleste helgene med å pynte seg og delta på events."
+            "standard": "For de fleste klassekameratene hennes fremstår Rinko som en vanlig hardtarbeidende videregåendeelev, de ville ikke forvente at hun skulle være en stor fan av gothic lolita, som som tilbringer de fleste helgene med å pynte seg og delta på events."
         },
         "alisa": {
             "standard": "De fleste kjenner Alisa som en snill og stolt jente, men på grunn av sitt enorme talent med sverd og magi leder hun ofte an i kampen mot de teknologiske nasjonene. Hun er også en av de få som tåler Kurikos påfunn."
         },
         "chika": {
-            "standard": "Som et selverklært geni og mesterforsker lar Chika ingenting stå mellom henne og hennes neste ekspriment! Dette har gitt henne et godt rykte på skolen sin, hvor hun er presidenten av vitenskapsklubben."
+            "standard": "Som et selverklært geni og mesterforsker lar Chika ingenting stå mellom henne og hennes neste eksperiment! Dette har gitt henne et godt rykte på skolen sin, hvor hun er presidenten av vitenskapsklubben."
         },
         "yumemi": {
             "standard": "Yumemi blir vanligvis funnet sovende så snart hun får sjansen. De fleste blir derfor overrasket når de hører at hun er visepresidenten av vitenskapsklubben, selv om hun bare ble med for å hjelpe barndomsvennen Chika med å få nok medlemmer."
         },
         "katsu": {
-            "standard": "Som en fremtredende spiller av Zetto-kortspillet prøver Katsu å samle de gamle forløperkortene, som sies å ha makten til å forandre verden. Dette fører til kamp mot en skyggeful organisasjon som også er ute etter dem."
+            "standard": "Som en fremtredende spiller av Zetto-kortspillet prøver Katsu å samle de gamle forløperkortene, som sies å ha makten til å forandre verden. Dette fører til kamp mot en skyggefylt organisasjon som også er ute etter dem."
         },
         "riku": {
             "standard": "Riku er kjent for de fleste som Rika, en berømt livestreamer og vlogger som er kjent for å få tilgang til steder han ikke burde være. Riku selv liker hovedsakelig spenningen ved å utforske og dele sine påfunn."
         },
         "yuki": {
-            "standard": "Som en ung jente forelsket Yuki seg i den muntre julestemmingen. Derfor blir hun ofte funnet på cosplay-event derhun deler ut gaver til barn og venner. Det var p et av disse eventene hun møtte og ble venn med Rinko."
+            "standard": "Som en ung jente forelsket Yuki seg i den muntre julestemmingen. Derfor blir hun ofte funnet på cosplay-event der hun deler ut gaver til barn og venner. Det var på et av disse eventene hun møtte og ble venn med Rinko."
         },
         "fuwagi": {
             "standard": "De fleste kjenner Fuwagi som en heldig kanin, ettersom flaksen ser ut til å konspirere med henne for å få henne ut av enhver situasjon hun havner i. Selv om hun ser på seg selv som uheldig, ettersom det er uflaks som får henne opp i slike situasjoner.",
-            "traveling_merchant": "Fuwagi, kjent som  den heldige kaninen, reiser land og strand og selger varene sine. Hun fikk kallenavnet fordi uflaks aldri på virker varene hennes,  men hun ser på seg selv som uheldig, ettersom hver permanente butikk hun setter opp blir ødelagt i en eller anne ulykke."
+            "traveling_merchant": "Fuwagi, kjent som  den heldige kaninen, reiser land og strand og selger varene sine. Hun fikk kallenavnet fordi uflaks aldri påvirker varene hennes,  men hun ser på seg selv som uheldig, ettersom hver permanente butikk hun setter opp blir ødelagt i en eller annen ulykke."
         },
         "yuuna": {
-            "standard": "Som barn av en berømt kokk forelsket Yuuna seg i matlagingskunsten i ung alder. Nå reiser hun verden runt på en reise for å finpusse ferdighetene sine og bevise at hun kan leve opp til morens arv.",
+            "standard": "Som barn av en berømt kokk forelsket Yuuna seg i matlagingskunsten i ung alder. Nå reiser hun verden rundt på en reise for å finpusse ferdighetene sine og bevise at hun kan leve opp til morens arv.",
             "painter": "Yuuna elsker å utforske og oppleve verden, og la ut på en reise tvers over kloden for å oppdage dens skjønnhet. Hun reiser bedagelig fra sted til sted og tar seg tid til å fange den omkringliggende skjønnheten på lerretet sitt."
         },
         "haruki": {
-            "standard": "Haruki er nært knyttet naturen og er en av de kraaftigste enhalede kitsuneene, og kan til og med konkurrere med noen nihalede. Han har ofte fått i oppgave å avbryte kampene mellom Komugi og Mizuki, en oppgave han avskyr."
+            "standard": "Haruki er nært knyttet naturen og er en av de kraftigste enhalede kitsuneene, og kan til og med konkurrere med noen nihalede. Han har ofte fått i oppgave å avbryte kampene mellom Komugi og Mizuki, en oppgave han avskyr."
         },
         "asuka": {
-            "standard": "Asukas ferdigheter i luften har gitt henne tittelen flyveress,  og blir derfor ofte kalt inn i kamp mot nabolandene. Personlig brydde Asuka seg ikke det minste om krigen, og er bare glad for å fly fritt gjennom luften."
+            "standard": "Asukas ferdigheter i luften har gitt henne tittelen flyveress, og blir derfor ofte kalt inn i kamp mot nabolandene. Personlig brydde Asuka seg ikke det minste om krigen, og er bare glad for å fly fritt gjennom luften."
         },
         "fira": {
             "standard": "Fira har enorme krefter som arving til den mørke drageklanen. Siden hun hater politikk, rømte hun hjemmefra og bor for tiden i Fuwagis hus. Til Fuwagis store misnøye, som ikke tør å be henne om å dra."
@@ -1289,77 +1289,77 @@
             "standard": "På grunn av sin direkte holding og natur ble Naomi raskt lederen for den kriminelle gruppen på skolen sin. Selv om hun ikke ser etter slåsskamper, ender hun ofte i dem, ettersom hun ikke holder tilbake hvis andre starter dem."
         },
         "kumiko": {
-            "standard": "Kumiko har hjemsøkt den lokale landsbyen sin og gjort rampestreker mot innbyggerne siden hun døde for over hundre år siden. Selv om hun er kjent som en spøkmaker, er hn godt likt av landsbyboerne og en del av de lokale legendene."
+            "standard": "Kumiko har hjemsøkt den lokale landsbyen sin og gjort rampestreker mot innbyggerne siden hun døde for over hundre år siden. Selv om hun er kjent som en spøkmaker, er hun godt likt av landsbyboerne og en del av de lokale legendene."
         },
         "sachiko": {
             "standard": "Takket være Sachikos lederskap har troppen hennes blitt kjent som en elitetropp, som utfører kritiske oppgaver i krigen mot den magiske nasjonen. Hun fikk også en rivalisering med Marine, der hun prøvde å bevise hærens betydning over marinen."
         },
         "kasumi": {
-            "standard": "Kasumi kommer fra en avsondret klan som har jaktet onde youkai siden oldtiden. Hun har nylig fullført terningen sin og ble en kunoichi i klanen, selv om hennes mangelende erfaring fortsatt viser seg når hun er ute på opopdrag."
+            "standard": "Kasumi kommer fra en avsondret klan som har jaktet onde youkai siden oldtiden. Hun har nylig fullført terningen sin og ble en kunoichi i klanen, selv om hennes manglende erfaring fortsatt viser seg når hun er ute på oppdrag."
         },
         "shin": {
             "standard": "Shin er lokalt kjent som en gatekatt, ettersom han liker å bruke tiden sin på å utforske bymiljøet i hjembyen sin og samhandle med de forskjellige folkene der. Nysgjerrigheten hans har fører til at han kommer i trøbbel fra tid til annen.",
-            "maid": "Noen venner ville spøke med Shin, og lurte han til å hjelpe til på en lokal maid cafe. Men til deres store overaskelse og misnøye endte Shin opp med å være en ekstemt dyktig maid, og ble raskt kafeens mest populære."
+            "maid": "Noen venner ville spøke med Shin, og lurte han til å hjelpe til på en lokal maid cafe. Men til deres store overraskelse og misnøye endte Shin opp med å være en ekstremt dyktig maid, og ble raskt kafeens mest populære."
         },
         "lilith": {
-            "standard": "Lilith kommer fra en lang rekke med urgamle vampyrer, men lever for tiden et normalt liv på videregående. Selv om hun ikke skjuler sin vampyropprinneslse, tror ikke folk rundt henne på det, og tror bare det er et personlighetstrekk.",
-            "school_girl": "Lilith lever livet sitt på videregående til det fulleste, og ser nesten ut som en hvilekn som helst annen energisk jente på videregående, bortsett fra at hun er en vampyr. Selv om hun ikke  legger skjuler det, tror alle rundt henne at hun tuller.."
+            "standard": "Lilith kommer fra en lang rekke med urgamle vampyrer, men lever for tiden et normalt liv på videregående. Selv om hun ikke skjuler sin vampyropprinnelse, tror ikke folk rundt henne på det, og tror bare det er et personlighetstrekk.",
+            "school_girl": "Lilith lever livet sitt på videregående til det fulleste, og ser nesten ut som en hvilken som helst annen energisk jente på videregående, bortsett fra at hun er en vampyr. Selv om hun ikke legger skjuler det, tror alle rundt henne at hun tuller."
         },
         "mao": {
             "standard": "Mao var født med den reinkarnerte demonkongens ånd forseglet inni seg, noe som ga henne evnen til å bruke kreftene hans,  en kraft som kan korrumpere henne og frigjøre demonkongen. Eller det er det hun vil si når du spør hva hun driver med.",
             "student_president": "Etter en rekke tilfeldige hendelser endte Mao opp som elevrådsleder på skolen sin. Hun tar på seg ansvaret og er nå klar til å styre skolen med jernhånd og viser alle hvordan en ekte elevrådsleder opptret!",
-            "demon_lord": "Det ville sjokkere mange å plutselig bli tilkalt til en annen verden som en demonherre, men ikke Mao, som nøt å endelig ha kraften hun alltid drømte om. Hun må imidlertid forsatt lære seg å bruke den."
+            "demon_lord": "Det ville sjokkere mange å plutselig bli tilkalt til en annen verden som en demonherre, men ikke Mao, som nøt å endelig ha kraften hun alltid drømte om. Hun må imidlertid fortsatt lære seg å bruke den."
         },
         "kei": {
             "standard": "Kei, som var født uten magisk talent, bestemte seg for å vie seg til å utvikle duppedingser og duppedatter, ved å bruke de magiske gjenstandene som finnes i landet hennes. På grunn av konflikten med de nærliggende teknologiske nasjonene har dette gitt henne både venner og fiender."
         },
         "akane": {
-            "standard": "Som lederen av en lamia-klan bestemte Akane seg for å forbli nøytral i de pågående konfliktene mellom de magiske og vitenskaplige nasjonene. Selv om hun og klanmedlemmene noen ganger låner ut sine forføringevner til de magiske nasjonene."
+            "standard": "Som lederen av en lamia-klan bestemte Akane seg for å forbli nøytral i de pågående konfliktene mellom de magiske og vitenskapelige nasjonene. Selv om hun og klanmedlemmene noen ganger låner ut sine forføringsevner til de magiske nasjonene."
         },
         "umi": {
-            "standard": "Umi besøkte sjøbyen Venity i ung alder, og ble umiddelbart sjarmert av dens rolige skjønnhet. Så  da Umi vokste opp, bestemte hun seg for å flytte til Venity, hvor hun nå nyter livet som gondolier i favorittbyen sin.",
+            "standard": "Umi besøkte sjøbyen Venity i ung alder, og ble umiddelbart sjarmert av dens rolige skjønnhet. Så da Umi vokste opp, bestemte hun seg for å flytte til Venity, hvor hun nå nyter livet som gondolier i favorittbyen sin.",
             "drummer": "De fleste kjenner Umi som en elegant gondolier, så de blir ganske overrasket første gang de ser henne slippes løs som trommis i The Wave, og slipper ut all den energien hun holder under innhyllet under gondolierarbeidet sitt."
         },
         "etsuko": {
             "standard": "Etsuko ble forelsket i friidrett da hun så moren sin, en profesjonell idrettsutøver. Gjennom hardt arbeid og ferdigheter, ser hun nå fram mot å kvalifisere seg til nasjonalmesterskapet som skolens beste løper."
         },
         "yasuko": {
-            "standard": "Yasuko nyter livet sitt i Venity, hvor hun jobber for et av byens største selskap. Mens mange av kollegene hennes stressesr rundt, tar Yasuko livet med ro og sørger for å prøve byens varme kilder ofte, og inviterer ofte Umi med seg."
+            "standard": "Yasuko nyter livet sitt i Venity, hvor hun jobber for et av byens største selskap. Mens mange av kollegene hennes stresser rundt, tar Yasuko livet med ro og sørger for å prøve byens varme kilder ofte, og inviterer ofte Umi med seg."
         },
         "yin_yan": {
-            "standard": "Tvillinger er en sjeldent i kitsune-verden, så Yin og Yan ble sett på som en åndelig velsignelse av klanen deres. De jobber nå som budbringere for klanen, og reiser landet rundt og brunger budskap mellom medlemmene.",
+            "standard": "Tvillinger er en sjeldent i kitsune-verden, så Yin og Yan ble sett på som en åndelig velsignelse av klanen deres. De jobber nå som budbringere for klanen, og reiser landet rundt og bringer budskap mellom medlemmene.",
             "mahou_shoujo": "Etter å ha blitt fanget i av Miyus kamper, fanget tvillingene Yin og Yan en magisk juvel, som lot en av dem forvandle seg til en magisk jente, mens den andre tar form som en rev. Kraften de bruker for å kjempe sammen med Miyu."
         },
         "ayu": {
             "standard": "Ayu var aldri en som fulgte normen eller brydde seg mye om andres forventninger. Som en selverklært livsnyter nyter hun dagene sine med å slappe av med venner og henge ute på byen etter skolen."
         },
         "miku": {
-            "standard": "Miku, kjent av sine medsoldater som deres muntre seiersgudinne, skryter av sin dyktighet som sjefstrateg for de magiske nasjoners luftstyurker, samtidig som hun ikke viker unna for å lede fra frontlinjene. Til de teknologiske nasjonens misnøye."
+            "standard": "Miku, kjent av sine medsoldater som deres muntre seiersgudinne, skryter av sin dyktighet som sjefstrateg for de magiske nasjoners luftstyrker, samtidig som hun ikke viker unna for å lede fra frontlinjene. Til de teknologiske nasjonens misnøye."
         },
         "eksu": {
-            "standard": "Eksu ble skapt i et ekspriment som ble avvist som en fiasko, så da Eksu materialiserte seg, befant hun seg alene i en urban by. Hun lærte raskt å holde seg skjult, men liker å luske rundt i byen og se på lysene og menneskene."
+            "standard": "Eksu ble skapt i et eksperiment som ble avvist som en fiasko, så da Eksu materialiserte seg, befant hun seg alene i en urban by. Hun lærte raskt å holde seg skjult, men liker å luske rundt i byen og se på lysene og menneskene."
         },
         "victoria": {
             "standard": "Victoria gikk på en privatskole for rike damer i England, og selv om hun trivdes der, syntes hun det alltid var for restriktivt. Nå blir hun ofte med familien på forretningsreiser, hvor hun får oppleve andres kultur og dele den med familien."
         },
         "kiki": {
-            "standard": "Kikis familie var ue3nig i at hun skulle ta en musikkutdanning, men Kiku meldte seg likevel på musikkprogrammet ved et stort universitet. En avgjørelse hun ikke har angret på, ettersom hun bruker dagene sine på å studere og spille musikken hun elsker."
+            "standard": "Kikus familie var uenig i at hun skulle ta en musikkutdanning, men Kiku meldte seg likevel på musikkprogrammet ved et stort universitet. En avgjørelse hun ikke har angret på, ettersom hun bruker dagene sine på å studere og spille musikken hun elsker."
         },
         "sera": {
             "standard": "Mange engler, som lever i det himmelske riket, bruker ikke mye tid på å tenke på den dødelige verden, men Sera har alltid vært fascinert av mennesker, elsker å observere dem, og noen ganger snike seg ned til den dødelige verden."
         },
         "ignis": {
-            "standard": "Ignis den Brennende Rettferdigheten er en velkjent helt som forsvarer massene når ondskapen er på ferde. Selv om mange har møtt Ignis, har ingen klart å finne ut hvem som skjuler seg bak masken, og han har ennå ikke delt hemmeligheten med noen.",
-            "adventurer": "Ignis er kjent som en mystisk eventyrer som iler til unnsetning for mennesker i nød, uansett om det er en karavaner som blir overfalt av monstre eller bønder som blir trakassert av korrupte riddere, mens han reiser gjennom kongeriket."
+            "standard": "Ignis den Brennende Rettferdighet er en velkjent helt som forsvarer massene når ondskapen er på ferde. Selv om mange har møtt Ignis, har ingen klart å finne ut hvem som skjuler seg bak masken, og han har ennå ikke delt hemmeligheten med noen.",
+            "adventurer": "Ignis er kjent som en mystisk eventyrer som kommer til unnsetning for mennesker i nød, uansett om det er en karavan som blir overfalt av monstre eller bønder som blir trakassert av korrupte riddere, mens han reiser gjennom kongeriket."
         },
         "rin": {
             "standard": "Rin hadde det vanskelig med mobbere på skolen, og aksepterte raskt da en merkeligskapåning tilbød henne magiske krefter. Full av sine nye krefter begynte Rin å hevne seg på sine tidligere mobbere, noe som ofte førte til at hun kom i konflikt med Miyu."
         },
         "emiri": {
-            "standard": "Emiri gledet seg til drømmelivet sitt på videregående, og ble sjokkert over å finne Chika og Yumemi i klassen sin. De vanvittige påfunnene deres ender ofte opp med å dra henne inn i dem,  og forstyrrer hennes idé om det perfekte livet på videregående."
+            "standard": "Emiri gledet seg til drømmelivet sitt på videregående, og ble sjokkert over å finne Chika og Yumemi i klassen sin. De vanvittige påfunnene deres ender ofte opp med å dra henne inn i dem, og forstyrrer hennes idé om det perfekte livet på videregående."
         },
         "ichika": {
-            "standard": "Ichika ble speidet opp på videregående og viste seg å være et vidunderbarn innen skuespill. Hun vokste raskt til å bli en av Japans mest berømte skuespillere. Ichika elsker selv å bringe karakterer til live og å jobbe med folk i bransjen."
+            "standard": "Ichika ble oppdaget på videregående og viste seg å være et vidunderbarn innen skuespill. Hun vokste raskt til å bli en av Japans mest berømte skuespillere. Ichika elsker selv å bringe karakterer til live og å jobbe med folk i bransjen."
         },
         "neoko": {
             "standard": "Neoko overrasket alle med sin plutselige opptreden på v-tuber-scenen, og fikk raskt et stort publikum som liker hennes særegene og lidenskapelige livestream. Hun streamer nå regelmessig, liker å henge sammen med chat og dele lidenskapene sine."
@@ -1383,10 +1383,10 @@
             "standard": "Siden hun ble født med albinisme, tilbrakte Saki mesteparten av livet sitt innendørs og lese bøker. Dette har gitt henne mye kunnskap for sin unge alder, noe hun elsker å vise fram og kan være ganske arrogant når det gjelder."
         },
         "hanabi": {
-            "standard": "Hanabi er den stolte arvingen til den røde drageklanen, og aksepterer ingen respektløshet overfor den. Hun tåler ikke den rivaliserende mørke drageklanen, bortsett fra Fria, som hun synes er vanvittig søt og gjøre hva som helst for å beskytte."
+            "standard": "Hanabi er den stolte arvingen til den røde drageklanen, og aksepterer ingen respektløshet overfor den. Hun tåler ikke den rivaliserende mørke drageklanen, bortsett fra Fira, som hun synes er vanvittig søt og gjøre hva som helst for å beskytte."
         },
         "fukami": {
-            "standard": "Selv om hennes type vanligvis deltar i konfliktene mellom magi- og teknologinasjonene, bryr ikke Fukami seg så mye om dem. Men til MArines store misnøye eklser hun å snike seg inn i teknologinasjonene for å stjele de morsomme leken deres."
+            "standard": "Selv om hennes type vanligvis deltar i konfliktene mellom magi- og teknologinasjonene, bryr ikke Fukami seg så mye om dem. Men til Marines store misnøye elsker hun å snike seg inn i teknologinasjonene for å stjele de morsomme lekene deres."
         },
         "asahi": {
             "standard": "Asahi er kapteinen på skolens friidrettslag, og har et rykte for å være en tøff person som alltid sier hva hun mener. Men hun er faktisk ganske avslappet, og liker sine videregående skoledager hvor hun henger med vennene sine uten noe drama."
