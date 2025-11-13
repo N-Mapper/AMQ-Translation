@@ -1794,123 +1794,123 @@
         "top_list": "Toppliste"
     },
     "game_settings": {
-        "MISSING-setup_game": "Setup Game",
-        "MISSING-select_settings_to_load": "Select Settings to Load",
-        "MISSING-load_from_code": "Load from Code",
+        "setup_game": "Sett opp game",
+        "select_settings_to_load": "Velg innstillinger som skal lastes inn",
+        "load_from_code": "last inn fra kode",
         "tabs": {
-            "MISSING-quick": "Quick",
-            "MISSING-advanced": "Advanced",
-            "MISSING-save": "Save",
-            "MISSING-load": "Load"
+            "quick": "Raskt",
+            "advanced": "Avansert",
+            "save": "Lagre",
+            "load": "Last inn"
         },
         "categories": {
-            "MISSING-mode": "Mode",
-            "MISSING-general": "General",
-            "MISSING-quiz": "Quiz",
-            "MISSING-anime": "Anime"
+            "mode": "Modus",
+            "general": "",
+            "quiz": "Quiz",
+            "anime": "Anime"
         },
         "quiz_mode": {
-            "MISSING-standard_quiz": "Standard Quiz",
-            "MISSING-community_quiz": "Community Quiz"
+            "standard_quiz": "Standardquiz",
+            "community_quiz": "felleskapetquiz"
         },
         "buttons": {
-            "MISSING-exit": "Exit",
-            "MISSING-host": "Host",
-            "MISSING-create": "Create",
-            "MISSING-update": "Update",
-            "MISSING-change": "Change",
-            "MISSING-join": "Join",
-            "MISSING-spectate": "Spectate",
-            "MISSING-invite_link": "Invite Link",
-            "MISSING-invite_link_copied": "Copied!",
-            "MISSING-reset_to_default": "Reset to Default"
+            "exit": "Gå ut",
+            "host": "Vert",
+            "create": "Lag",
+            "update": "Oppdater",
+            "change": "Bytt",
+            "join": "Bli med",
+            "spectate": "Se på",
+            "invite_link": "Invitasjonslenke",
+            "invite_link_copied": "Kopiert!",
+            "reset_to_default": "Nullstill"
         },
-        "MISSING-room_name": "Room Name",
-        "MISSING-private_room": "Private Room",
+        "room_name": "Romnavn",
+        "private_room": "Privat rom",
         "game_modes": {
-            "MISSING-ranked": "Ranked",
-            "MISSING-event": "Event",
-            "MISSING-jam": "Jam",
-            "MISSING-themed": "Themed",
-            "MISSING-solo": "Solo",
-            "MISSING-multiplayer": "Multiplayer"
+            "ranked": "Ranked",
+            "event": "Event",
+            "jam": "Jam",
+            "themed": "Tema",
+            "solo": "Solo",
+            "multiplayer": "Flerspiller"
         },
-        "MISSING-game_mode_display": "_NAME_ Mode",
-        "MISSING-game_mode_settings_display": "_NAME_ Game Settings",
-        "MISSING-algorithm_block_settings": "Algorithm Block Settings",
-        "MISSING-randomize": "Randomize",
-        "MISSING-custom": "Custom",
-        "MISSING-empty": "Empty",
-        "MISSING-search": "Search",
-        "MISSING-random": "Random",
-        "MISSING-invite_description": "Create an invite link to this room",
-        "MISSING-swap_button_description": "Swap between community and standard quiz",
+        "game_mode_display": "_NAME_ modus",
+        "game_mode_settings_display": "_NAME_ spillinnstillinger",
+        "algorithm_block_settings": "Innstillinger for algoritmeblokk",
+        "randomize": "Tilfeldig",
+        "custom": "Selv valgt",
+        "empty": "Tom",
+        "search": "Søk",
+        "random": "Tilfeldig",
+        "invite_description": "Opprett en invitasjonslenke til dette rommet",
+        "swap_button_description": "Bytt mellom fellesskap- og standardquiz",
         "game_mode": {
-            "MISSING-title": "Game Mode",
+            "title": "Spillmodus",
             "standard": {
-                "MISSING-title": "Standard Quiz",
-                "MISSING-description": "Compete in guessing the most songs"
+                "title": "Standardquiz",
+                "description": "Konkurrer i å gjette flest sanger"
             },
             "hint": {
-                "MISSING-title": "Hint",
-                "MISSING-description": "Get hints for songs, but earn fewer points when hints are used"
+                "title": "Hint",
+                "description": "Få hint til sanger, men tjen færre poeng når hint brukes"
             },
             "quick_draw": {
-                "MISSING-title": "Quick Draw",
-                "MISSING-description": "Earn more points the quicker you guessed the song"
+                "title": "Førstemann",
+                "description": "Tjen flere poeng jo raskere du gjetter sangen"
             },
             "lives": {
-                "MISSING-title": "Lives",
-                "MISSING-description": "Start with lives, losing one each time you miss a show"
+                "title": "Liv",
+                "description": "Start med liv, og du mister ett hver gang du bommer på et program"
             },
             "battle_royale": {
-                "MISSING-title": "Battle Royale",
-                "MISSING-description": "Start in a looting phase, collecting the shows that will appear in the quiz"
+                "title": "Battle royale",
+                "description": "Start i plynddringsfase, og samle programmene som skal spilles i quizen"
             },
             "boss_fight": {
-                "MISSING-title": "Boss Fight",
-                "MISSING-description": "Players take turns being the boss, playing with only their songs and power-ups the boss can use against the other players"
+                "title": "Bosskamp",
+                "description": "Spillere bytter på å være boss, og spiller kun med sangen sine og power-ups som bossen kan bruke mot de andre spillerne"
             }
         },
         "player_score": {
-            "MISSING-title": "Player Score",
-            "MISSING-description": "Limit songs to anime that players have scored on their list within the given range."
+            "title": "Spillerscore",
+            "description": "Begrens sanger til anime som spillerne har scoret på listen sin innenfor det gitte området."
         },
         "anime_score": {
-            "MISSING-title": "Anime Score",
-            "MISSING-description": "Limit songs to anime with a score on Anime News Network within the given range."
+            "title": "Anime Score",
+            "description": "Begrens sanger til anime med en score på AniList innenfor det gitte området."
         },
         "vintage": {
-            "MISSING-title": "Vintage",
-            "MISSING-description": "Year and season the anime was released.",
-            "MISSING-add_to_advanced": "Add to Advanced Filter"
+            "title": "Årgang",
+            "description": "År og sesong animen ble utgitt",
+            "add_to_advanced": "legg til i avasert filter"
         },
         "season_selector": {
             "winter": {
-                "MISSING-title": "Winter",
-                "MISSING-shorthand": "W"
+                "title": "Vinter",
+                "shorthand": "V"
             },
             "spring": {
-                "MISSING-title": "Spring",
-                "MISSING-shorthand": "S"
+                "title": "Vår",
+                "shorthand": "V"
             },
             "summer": {
-                "MISSING-title": "Summer",
-                "MISSING-shorthand": "S"
+                "title": "Sommer",
+                "shorthand": "S"
             },
             "fall": {
-                "MISSING-title": "Fall",
-                "MISSING-shorthand": "F"
+                "title": "Høst",
+                "shorthand": "H"
             }
         },
         "anime_type": {
-            "MISSING-title": "Type",
-            "MISSING-tv": "TV",
-            "MISSING-movie": "Movie",
-            "MISSING-ova": "OVA",
-            "MISSING-ona": "ONA",
-            "MISSING-special": "Special",
-            "MISSING-one_must_be_selected": "At least one anime type must be selected"
+            "title": "Type",
+            "tv": "TV",
+            "movie": "Film",
+            "ova": "OVA",
+            "ona": "ONA",
+            "special": "Spesial",
+            "one_must_be_selected": "Minst én anime-type må velges"
         },
         "genre": {
             "MISSING-title": "Genre",
