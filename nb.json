@@ -429,7 +429,7 @@
                 "playing_nexus": "Spiller _NAME_ Nexus",
                 "in_nexus_lobby": "I _NAME_ Nexus lobby",
                 "in_lobby": "I _NAME_ lobby",
-                "spectating_quiz": "Tilskuere i _NAME_ quiz",
+                "spectating_quiz": "Tilskuer i _NAME_ quiz",
                 "in_quiz": "I _NAME_ quiz",
                 "mode_names": {
                     "co-op": "co-op",
@@ -437,7 +437,7 @@
                     "jam": "jam",
                     "event": "event",
                     "solo": "solo",
-                    "quiz_of_the_day": "dagens quiz"
+                    "quiz_of_the_day": "dagens"
                 }
             },
             "options": {
@@ -1544,7 +1544,7 @@
                 "text": "Nei, alle opplastinger krever at det er en riktig video."
             },
             "what_to_include": {
-                "title": "hHva bør inkluderes i videoen",
+                "title": "Hva bør inkluderes i videoen",
                 "text": "Åpeningen/avsluttingen/scenen sangen spilles av i. _BREAK_ Hvis en sang spilles av med snakking eller andre lyder i løpet av scenen, erstatt lyden med en ren versjon som samsvarer med det som ble brukt i animeen."
             },
             "file_format": {
@@ -1568,16 +1568,16 @@
                 "text": "Etter at sangen din er sendt inn, legges den i køen for å bli skannet av scan bot. Scan bot sjekker om kodingen, oppløsningen og antall nøkkelbilder i filen er riktige. Hvis scan bot ikke automatisk avviser opplastingen din, sender den den videre til moderatorteamet, som vil validere at sangen er riktig, sjekke kvaliteten på videoen og bekrefter at redigeringen din er jevn og samsvarer med det som ble brukt i animeen. _BREAK_ Hvis sangen din blir avvist, vil du motta en servermelding om det."
             },
             "missing_song": {
-                "MISSING-title": "A song is missing from the database, how do I get it added?",
-                "MISSING-text": "First make sure the song isn't already in the database: Make sure that it doesn't appear in the Library when not in expand mode. _BREAK_ If it isn't in the Library or in game, you can request to have it added on the game's Discord. Make sure to read the FAQ channel and the pins in the #database-fixes channel for details on rules and how to request additions."
+                "title": "En sang mangler i databasen, hvordan får jeg den lagt til?",
+                "text": "Først må du sørge for at sangen ikke allerede er i databasen: Sørg for at den ikke vises i biblioteket når den ikke er i utvidet modus. _BREAK_ Hvis den ikke er i biblioteket eller i spiller, kan du be om å få den lagt til på spillets Discord. Sørg for å lese FAQ-knalaen og festede meldinger i #database-fixes-kanalen for detaljer om regler og hvordan du be om tilleggelse."
             },
             "upload_rejected": {
-                "MISSING-title": "My upload was rejected but I didn't get a message?",
-                "MISSING-text": "There's a bug in the update system that causes some rejection messages not to be sent out. If you have any questions about why your upload got rejected, you can ask the database moderators in the game's Discord."
+                "title": "Opplasteingen min ble avvist, men jeg fikk ikke melding?",
+                "text": "Det er en feil i oppdateringssystemet som fører til at noen avvisningsmeldinger ikke sendes ut. Hvis du har spørsmål om hvorfor opplastingen din ble avvist, kan du spørre databasemoderatorene i spillets Discord."
             },
             "what_to_do_approved": {
-                "MISSING-title": "I'm not sure what to do to get my upload approved?",
-                "MISSING-text": "If your upload got rejected, or you're not sure how to get an upload approved, it is recommended to ask on the game's Discord server, where people will be able to help you."
+                "title": "Jeg er usikker på hva jeg skal gjøre for å få opplastingen min godkjent",
+                "text": "If your upload got rejected, or you're not sure how to get an upload approved, it is recommended to ask on the game's Discord server, where people will be able to help you."
             }
         }
     },
