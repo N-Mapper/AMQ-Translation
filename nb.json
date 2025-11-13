@@ -1650,57 +1650,57 @@
             "played": "Spilt",
             "unplayed": "Uspilt"
         },
-        "MISSING-slots_available": "Slots Available",
-        "MISSING-buy_slots": "Buy Slots",
-        "MISSING-buy_quiz_slots": "Buy Quiz Slots",
-        "MISSING-unlimited_slots": "Unlimited",
+        "slots_available": "Plasser tilgjengelige",
+        "buy_slots": "Kjøp plasser",
+        "buy_quiz_slots": "Kjøp quizplasser",
+        "unlimited_slots": "Ubegrenset",
         "one_slot_entry": {
-            "MISSING-title": "1 Slot",
-            "MISSING-description": "Permanently unlock a single quiz slot"
+            "title": "1 plass",
+            "description": "Lås opp en enkel quizplass permanent"
         },
         "unlimited_slot_entry": {
-            "MISSING-title": "Unlimited",
-            "MISSING-description": "Unlock unlimited slots for a one time payment",
-            "MISSING-approx_dollar": "Approx. $_NUMBER_"
+            "title": "Ubegrenset",
+            "description": "Lås opp ubegrensede plasser for en engangsbetalling",
+            "approx_dollar": "Omtrent. $_NUMBER_"
         },
-        "MISSING-patreon_promo": "Become a level 3+ Patreon Backer to _BREAK_ unlock unlimited slots and more perks",
-        "MISSING-creator": "Creator",
-        "MISSING-description": "Description",
-        "MISSING-tags": "Tags",
+        "patreon_promo": "Bli en Patreon-medlem på nivå 3+ for å _BREAK_ låse opp ubegrenset plasser og flere fordeler",
+        "creator": "Skaper",
+        "description": "Beskrivelse",
+        "tags": "Merklapper",
         "quiz_stats": {
-            "MISSING-title": "Quiz Stats",
-            "MISSING-plays": "Plays:",
-            "MISSING-likes": "Likes:",
-            "MISSING-songs": "Songs:",
-            "MISSING-age": "Age:",
-            "MISSING-song_types": "Song Types:",
-            "MISSING-difficulty": "Difficulty:",
-            "MISSING-selection": "Selection:",
+            "title": "Quizstatistikk",
+            "plays": "Spilt:",
+            "likes": "Liker:",
+            "songs": "Sanger:",
+            "age": "Alder:",
+            "song_types": "Sangtyper:",
+            "difficulty": "Vanskelighet:",
+            "selection": "Utvalg:",
             "selection_types": {
-                "MISSING-random": "Random",
-                "MISSING-watched": "Watched"
+                "random": "Tilfeldig",
+                "watched": "Sett"
             }
         },
         "highscores": {
-            "MISSING-title": "Highscores",
-            "MISSING-friends": "Friends",
-            "MISSING-personal": "Personal",
-            "MISSING-no_plays": "No Plays",
-            "MISSING-score": "Score",
-            "MISSING-name": "Name",
-            "MISSING-multiple_choice_toggle": "Toggle Displaying Multiple Choice Entries"
+            "title": "Toppscore",
+            "friends": "Venner",
+            "personal": "Personlig",
+            "no_plays": "Ikke spilt",
+            "score": "Score",
+            "name": "Navn",
+            "multiple_choice_toggle": "Veksle mellom visninger av flervalgsgame"
         },
         "quiz_buttons": {
-            "MISSING-delete": "Delete",
-            "MISSING-edit": "Edit",
-            "MISSING-clone": "Clone",
-            "MISSING-share": "Share",
-            "MISSING-unshare": "Unshare",
-            "MISSING-publish": "Publish",
-            "MISSING-play": "Play",
-            "MISSING-select": "Select"
+            "delete": "Slett",
+            "edit": "Rediger",
+            "clone": "Klon",
+            "share": "Del",
+            "unshare": "Opphev deling",
+            "publish": "Publiser",
+            "play": "Spill",
+            "select": "Velg"
         },
-        "MISSING-no_quiz_selected": "No Quiz Selected",
+        "no_quiz_selected": "Ingen quiz valgt",
         "messages": {
             "error_cloning": {
                 "MISSING-title": "Error Cloning Quiz",
