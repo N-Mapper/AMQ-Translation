@@ -1888,11 +1888,11 @@
         "season_selector": {
             "winter": {
                 "title": "Vinter",
-                "shorthand": "V"
+                "shorthand": "Vi"
             },
             "spring": {
                 "title": "Vår",
-                "shorthand": "V"
+                "shorthand": "Vå"
             },
             "summer": {
                 "title": "Sommer",
