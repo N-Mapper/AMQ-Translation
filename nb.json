@@ -756,7 +756,7 @@
         "auto_hide_video": {
             "title": "Auto-skjul video",
             "description": "Skjul videoen automatisk for de valgte kategoriene. Den kan fortsatt vises ved å klikke på videoen under avspillingsfasen",
-            "openings": "Introer",
+            "openings": "Åpninger",
             "endings": "Avsluttinger",
             "inserts": "Innsatser",
             "unwatched": {
@@ -1394,86 +1394,86 @@
         }
     },
     "song_library": {
-        "MISSING-title": "Song Library",
-        "MISSING-expand": "Expand",
-        "MISSING-expand_count": "Count: _SPAN_ _NUMBER_ _SPAN_",
-        "MISSING-expand_count_description": "The number of songs you have uploaded",
+        "title": "Sangbibliotek",
+        "expand": "Utvid",
+        "expand_count": "Antall: _SPAN_ _NUMBER_ _SPAN_",
+        "expand_count_description": "Antall sanger lastet opp",
         "expand_level_requirement": {
-            "MISSING-title": "Level 5+ required",
-            "MISSING-description": "The Expand feature allows players to help add missing video/mp3 sources for songs, and isn't available for accounts below level 5"
+            "title": "Level 5+ påkrevd",
+            "description": "Utvidelsesfunksjonen lar spiller legge til manglende video-/mp3-kilder for sanger, og er ikke tilgjengelig for kontoer under nivå 5."
         },
         "expand_confirmation": {
-            "MISSING-title": "Expand Video/MP3 Library",
-            "MISSING-description": "Help expanding the library by adding missing mp3 or video links. Songs missing from the library can be requested on the AMQ Discord"
+            "title": "Utvid video/MP3 bibilioteket",
+            "description": "Hjelp med å utvide biblioteket ved å legge til manglende mp3- eller videolenker. Sanger som mangler i bibiloteket kan etterspørres på AMQ Discord."
         },
-        "MISSING-video_preview": "Video Preview",
-        "MISSING-views": "Views:",
-        "MISSING-library": "Library",
-        "MISSING-library_description": "View all songs in the library",
-        "MISSING-new_songs": "New Songs",
-        "MISSING-new_songs_description": "View the newest 200 songs added to the game",
-        "MISSING-recent_wrong": "Recently Wrong",
-        "MISSING-recent_wrong_description": "View the songs you have recently guessed wrong",
-        "MISSING-no_upload_message": "Not in video/mp3 database",
+        "video_preview": "Video Forhåndsvisning",
+        "views": "Visninger:",
+        "library": "Biblioteket",
+        "library_description": "Se alle sangen i bibilioteket",
+        "new_songs": "Nye sanger",
+        "new_songs_description": "Se de 200 nyeste sangen lagt til spillet",
+        "recent_wrong": "Nylig feil",
+        "recent_wrong_description": "Se sanger du nylig fikk feil",
+        "no_upload_message": "Ikke i video-/mp3-databasen",
         "upload_message_success": {
-            "MISSING-title": "URL Added",
-            "MISSING-description": "Video/mp3 will be added to the game after approval by a moderator"
+            "title": "URL lagt til",
+            "description": "Video/mp3 vil bli lagt til spillet etter godkjenning fra en moderator"
         },
         "upload_message_failure": {
-            "MISSING-title": "Unable to Add URL",
-            "MISSING-temp_ban": "You are temporarily banned from the Expand function. _NUMBER_ days left of ban",
-            "MISSING-perma_ban": "You are permanently banned from the Expand function",
-            "MISSING-currently_closed": "Expand Currently Disabled",
-            "MISSING-already_uploading": "Song Already Being Uploaded",
-            "MISSING-unknown_song": "Unknown Song",
-            "MISSING-invalid_resolution": "Invalid Resolution",
-            "MISSING-already_uploaded": "Song Already Uploaded",
-            "MISSING-no_video_approved": "No Video Approved for Song"
+            "title": "Kan ikke legge til URL-adresse",
+            "temp_ban": "Du er midlertidig utestengt fra utvidelsesfunksjonen. _NUMBER_ dager igjen av utestengelsen.",
+            "perma_ban": "Du er permanent utestengt fra utvidfunksjonen",
+            "currently_closed": "Utvidelsesfunksjonen er midlertidig deaktivert",
+            "already_uploading": "Sangen lastes allerede opp",
+            "unknown_song": "Ukjent sang",
+            "invalid_resolution": "Ugyldig oppløsning",
+            "already_uploaded": "Sangen er allerede lastet opp",
+            "no_video_approved": "Ingen video godkjent for sangen"
         },
         "upload_message_alerts": {
-            "MISSING-provide_missing_version": "Provide a link for a missing version",
-            "MISSING-litterbox": "Catbox files must be uploaded to litter.catbox.moe",
-            "MISSING-host_format": "URL must point to a valid host and be in webm/mp3 format",
-            "MISSING-unsupported_resolution": "Unsupported resolution: _NUMBER_. Max resolution: 720p",
-            "MISSING-already_uploaded": "Version already uploaded",
-            "MISSING-loading_video": "Loading video",
-            "MISSING-video_passed_check": "Video passed check",
-            "MISSING-error_loading_video": "Error loading video",
-            "MISSING-submitting_video": "Submitting video",
-            "MISSING-mp3_before_video": "Mp3 must be uploaded after a video version is approved"
+            "provide_missing_version": "Oppgi en lenke til en manglende versjon",
+            "litterbox": "Catbox-filer må lastes op til litter.catbox.moe",
+            "host_format": "URL-en må peke til en gyldig vert og være i webm/mp3-format",
+            "unsupported_resolution": "Ustøttet oppløsning: _NUMBER_. Maksimal oppløsning: 720p",
+            "already_uploaded": "Versjon er allerede lastet opp",
+            "loading_video": "Laster inn video",
+            "video_passed_check": "Videoen bestod kontrollen",
+            "error_loading_video": "Feil med videoinnlasting",
+            "submitting_video": "Sender video",
+            "mp3_before_video": "Mp3-en må lastes opp etter at en videoversjon er godkjent"
         },
         "filters": {
-            "MISSING-watched": "Watched",
-            "MISSING-unwatched": "Unwatched",
-            "MISSING-openings": "Openings",
-            "MISSING-endings": "Endings",
-            "MISSING-inserts": "Inserts",
-            "MISSING-missing_versions": "Missing Versions",
-            "MISSING-player_state": "Player State",
-            "MISSING-liked": "Liked",
-            "MISSING-unrated": "Unrated",
-            "MISSING-disliked": "Disliked",
-            "MISSING-vintage": "Vintage",
+            "watched": "Sett",
+            "unwatched": "Usett",
+            "openings": "Åpninger",
+            "endings": "Avsluttinger",
+            "inserts": "Innsatser",
+            "missing_versions": "Manglende versjoner",
+            "player_state": "Spillervurdering",
+            "liked": "Liker",
+            "unrated": "Ikke vurdert",
+            "disliked": "Misliker",
+            "vintage": "Årgang",
             "song_categories": {
-                "MISSING-title": "Song Categories",
-                "MISSING-standard": "Standard",
-                "MISSING-chanting": "Chanting",
-                "MISSING-instrumental": "Instrumental",
-                "MISSING-character": "Character"
+                "title": "Sangkategorier",
+                "standard": "Standard",
+                "chanting": "Messing",
+                "instrumental": "Instrumental",
+                "character": "Karakter"
             },
             "upload_status": {
-                "MISSING-title": "Upload Status",
-                "MISSING-uploaded": "Uploaded",
-                "MISSING-missing": "Missing"
+                "title": "Opplastingsstatus",
+                "uploaded": "Opplastet",
+                "missing": "Mangler"
             }
         },
         "search_targets": {
-            "MISSING-all": "All",
-            "MISSING-anime": "Anime",
-            "MISSING-song": "Song",
-            "MISSING-artist": "Artist",
-            "MISSING-composer": "Composer",
-            "MISSING-arranger": "Arranger"
+            "all": "Alt",
+            "anime": "Anime",
+            "song": "Sang",
+            "artist": "Artist",
+            "composer": "Komponist",
+            "arranger": "Arrangør"
         },
         "MISSING-strict": "Strict",
         "MISSING-strict_description": "Do not include groups that artists belong to when searching for artists/composers/arrangers.",
