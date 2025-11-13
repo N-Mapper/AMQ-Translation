@@ -1582,73 +1582,73 @@
         }
     },
     "anime_types": {
-        "MISSING-tv": "TV _NUMBER_",
-        "MISSING-season": "Season _NUMBER_",
-        "MISSING-movie": "Movie _NUMBER_",
-        "MISSING-ova": "OVA _NUMBER_",
-        "MISSING-ona": "ONA _NUMBER_",
-        "MISSING-tv_special": "TV Special _NUMBER_",
-        "MISSING-special": "Special _NUMBER_",
-        "MISSING-music_video": "Music Video _NUMBER_",
-        "MISSING-doujin": "Doujin _NUMBER_",
-        "MISSING-game_cutscene_compilation": "Game Cutscene Compilation _NUMBER_"
+        "tv": "TV _NUMBER_",
+        "season": "Sesong _NUMBER_",
+        "movie": "Film _NUMBER_",
+        "ova": "OVA _NUMBER_",
+        "ona": "ONA _NUMBER_",
+        "tv_special": "TV-spesial _NUMBER_",
+        "special": "Spesial _NUMBER_",
+        "music_video": "Musikkvideo _NUMBER_",
+        "doujin": "Doujin _NUMBER_",
+        "game_cutscene_compilation": "Spill-mellomsekvens-samling _NUMBER_"
     },
     "song_catagory": {
-        "MISSING-none": "None",
-        "MISSING-standard": "Standard",
-        "MISSING-chanting": "Chanting",
-        "MISSING-instrumental": "Instrumental",
-        "MISSING-character": "Character"
+        "none": "Ingen",
+        "standard": "Standard",
+        "chanting": "Messing",
+        "instrumental": "Instrumental",
+        "character": "Karakter"
     },
     "artist_hover": {
-        "MISSING-other_names": "Other Names",
-        "MISSING-members": "Members",
-        "MISSING-member_of": "Member of",
+        "other_names": "Andre navn",
+        "members": "Medlemmer",
+        "member_of": "Medlem av",
         "group": {
-            "MISSING-title": "Group",
-            "MISSING-shorthand": "G"
+            "title": "Gruppe",
+            "shorthand": "G"
         },
         "artist": {
-            "MISSING-title": "Artist",
-            "MISSING-shorthand": "A"
+            "title": "Artist",
+            "shorthand": "A"
         }
     },
     "community_quiz_window": {
-        "MISSING-title": "Community Quizzes",
-        "MISSING-build": "Build",
+        "title": "Felletskaps quizer",
+        "build": "Lag",
         "categories": {
-            "MISSING-public": "Public",
-            "MISSING-official": "Official",
-            "MISSING-favorites": "Favorites",
-            "MISSING-friends": "Friends",
-            "MISSING-my_quizzes": "My Quizzes"
+            "public": "Offentlig",
+            "official": "Offisiell",
+            "favorites": "Favoritter",
+            "friends": "Venner",
+            "my_quizzes": "Mine quizer"
         },
         "sorting": {
-            "MISSING-trending": "Trending",
-            "MISSING-newest": "Newest",
-            "MISSING-most_liked": "Most Liked",
-            "MISSING-most_played": "Most Played"
+            "trending": "Trendende",
+            "newest": "Newest",
+            "most_liked": "Mest likte",
+            "most_played": "Mest spilte"
         },
-        "MISSING-search_for_quizzes": "Search for Quizzes",
+        "search_for_quizzes": "Søk etter quizer",
         "song_types": {
-            "MISSING-op": "OP",
-            "MISSING-ed": "ED",
-            "MISSING-in": "IN"
+            "op": "ÅP",
+            "ed": "AS",
+            "in": "IN"
         },
         "difficulties": {
-            "MISSING-easy": "Easy",
-            "MISSING-medium": "Medium",
-            "MISSING-hard": "Hard"
+            "easy": "Lett",
+            "medium": "Middels",
+            "hard": "Vanskelig"
         },
         "upload_time": {
-            "MISSING-last_24_hours": "Last 24 Hours",
-            "MISSING-last_week": "Last Week",
-            "MISSING-last_month": "Last Month",
-            "MISSING-all_time": "All Time"
+            "last_24_hours": "Siste 24 timer",
+            "last_week": "Forrige uke",
+            "last_month": "Forrige måned",
+            "all_time": "Alltid"
         },
         "play_state": {
-            "MISSING-played": "Played",
-            "MISSING-unplayed": "Unplayed"
+            "played": "Spilt",
+            "unplayed": "Uspilt"
         },
         "MISSING-slots_available": "Slots Available",
         "MISSING-buy_slots": "Buy Slots",
