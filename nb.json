@@ -1533,39 +1533,39 @@
             }
         },
         "faq": {
-            "MISSING-shorthand": "FAQ",
-            "MISSING-title": "Expand Library FAQ",
+            "shorthand": "FAQ",
+            "title": "Sangbibliotek FAQ",
             "what_version": {
-                "MISSING-title": "What version of a song should I use?",
-                "MISSING-text": "You should always use the version that was used in the show. For openings and endings, that's usually the 1:30 minute cut version. In the case that different versions are used throughout the show, you should go with the one most commonly used, if they're used equally go with the first one."
+                "title": "Hvilken versjon av en sang bør jeg bruke?",
+                "text": "Du bør alltid bruke den versjonen som ble brukt i programmet. For åpeninger og avslutninger er det vanligvis den 1:30-minutter versjonen. Dersom det brukes forskjellige versjoner gjennom hele programmet, bør du velge den som brukes mest, og hvis de brukes like, bruk den første."
             },
             "still_image": {
-                "MISSING-title": "Can I use a still image instead of the video?",
-                "MISSING-text": "No, all uploads require there to be a correct video."
+                "title": "Kan jeg bruke et stillbilde i stedet for video?",
+                "text": "Nei, alle opplastinger krever at det er en riktig video."
             },
             "what_to_include": {
-                "MISSING-title": "What should be included in the video?",
-                "MISSING-text": "The opening/ending/scene the song plays in. _BREAK_ If a song plays with talking or other sounds during the scene, replace the audio with a clean version that matches with what was used in the anime."
+                "title": "hHva bør inkluderes i videoen",
+                "text": "Åpeningen/avsluttingen/scenen sangen spilles av i. _BREAK_ Hvis en sang spilles av med snakking eller andre lyder i løpet av scenen, erstatt lyden med en ren versjon som samsvarer med det som ble brukt i animeen."
             },
             "file_format": {
-                "MISSING-title": "What file formats are accepted?",
-                "MISSING-text": "Video files should be in webm format, and audio files in mp3. Any other formats will be rejected by the Scan Bot."
+                "title": "Hvilke filformater aksepteres?",
+                "text": "Videofiler bør værer i webm-format, og lyfiler i mp3. Alle andre formater vil bli avvist av Scan Bot."
             },
             "quality_requirements": {
-                "MISSING-title": "What are the quality requirements?",
-                "MISSING-text": "The song must not be pitched, sped up, slowed down or remixed in any way from their original versions. Any silence at the start or end of the song should be cut out. Likewise, extended notes at the end of the song should be cut short. In addition, the bitrate of an upload should not exceed 6.2 kbps. _BREAK_ The video should also be of decent quality and not contain hardsubs, though exceptions can be made for older or rare shows where a better quality isn't available."
+                "title": "Hva er kvalitetskravene?",
+                "text": "Sangen må ikke ha en høyere tonehøyde, økt hastighet, redusert hastighet eller remiks på noen måte fra den originalversjonen. Eventuell stillhet i starten eller slutten av sangen bør klippes ut. På samme måte bør lange toner på slutten av sangen bør kuttes ut. I tilleg bør ikke bithastigheten for en opplasting overstige 6,2 kbps. _BREAK_ Videoen bør også være av bra kvalitet og ikke inneholder hardsubs, men unntak kan gjøres for eldre eller sjeldne programmer der bedre kvalitet ikke er tilgjengelig."
             },
             "volume_requirements": {
-                "MISSING-title": "What are the volume requirements?",
-                "MISSING-text": "Uploads should have a mean volume between -20 and -17db. The max volume ideally should not exceed -.5dB, and if possible should be around -5dB."
+                "title": "Hva er volumkravene?",
+                "text": "Opplastinger bør ha et gjennomsnitt volum på mellom -20 og -17 dB. Maskimalt volum bør ideelt sett ikke overstige -0,5 dB, og bør være rundt -5 db hvis mulig."
             },
             "what_are_keyframes": {
-                "MISSING-title": "What are keyframes?",
-                "MISSING-text": "Keyframes are special frames set when the video is encoded. They allow for skipping in the video without having to load the rest of the video up to the point skipped to. _BREAK_ For AMQ a minimum of 1 keyframe for each 10 seconds of video is required, anything less will get rejected by the bot. It's recommended to have 1 keyframe per 5 seconds."
+                "title": "Hva er nøkkelbilder?",
+                "text": "Nøkkelbilder er spesielle bilder som settes når videoen kodes. De tillater hopping i videoen uten å måtte laste inn resten av videoen frem til punktet det hoppes til. _BREAK_ For AMQ kreves det minst 1 nøkkelbilde for hvert 10. sekund av videoen. Alt mindre vil bli avvist av roboten. Det anbefales å ha 1 nøkkelbilde per 5. sekund."
             },
             "what_happens_file_submit": {
-                "MISSING-title": "What happens once my file has been submitted?",
-                "MISSING-text": "After your song has been submitted, it'll enter the queue to be scanned by the scan bot. The scan bots check if the encoding, resolution and keyframe count of the file are correct. If the scan bot does not automatically reject your upload, it'll pass it to the moderator team, who will validate that the song is correct, check the quality of the video, and confirm that your edit is smooth and matches what was used in the anime. _BREAK_ If your song is rejected, you will receive a server message about it."
+                "title": "Hva skjer når jeg filen min er sendt inn?",
+                "text": "Etter at sangen din er sendt inn, legges den i køen for å bli skannet av scan bot. Scan bot sjekker om kodingen, oppløsningen og antall nøkkelbilder i filen er riktige. Hvis scan bot ikke automatisk avviser opplastingen din, sender den den videre til moderatorteamet, som vil validere at sangen er riktig, sjekke kvaliteten på videoen og bekrefter at redigeringen din er jevn og samsvarer med det som ble brukt i animeen. _BREAK_ Hvis sangen din blir avvist, vil du motta en servermelding om det."
             },
             "missing_song": {
                 "MISSING-title": "A song is missing from the database, how do I get it added?",
