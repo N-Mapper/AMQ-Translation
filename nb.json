@@ -722,7 +722,7 @@
         "auto_skip_vote": {
             "title": "Auto-hopp over avstemning",
             "description": "Stem automatisk for å hoppe over etter svaret og/eller etter 2 sekunder i avspillingsfasen",
-            "guessing_phase": "Gjetnings-_BREAK_fasen",
+            "guessing_phase": "Gjettings-_BREAK_fasen",
             "replay_phase": "Avspillings-_BREAK_fasen"
         },
         "block_non_friend_actions": {
@@ -848,7 +848,7 @@
         "top": "Topp",
         "ranked": "Ranked",
         "all": "Alle",
-        "champs": "Mesters."
+        "champs": "Mestere"
     },
     "tutorial_window": {
         "title": "Veiledninger",
@@ -1190,13 +1190,13 @@
             "fast_food_employee": "Hibiki måtte raskt finne en ny jobb i en ny by. Heldigvis endte hun opp med å få en flott jobb på en lokal fast food kjede, hvor hun nå tilbringer dagene sine med å jobbe med fantastiske kolleger, mens hun forbereder seg til sin neste reise."
         },
         "honoka": {
-            "standard": "Grunnet svak helse tilbrakte Honoka mesteparten av livet sitt på familiens eiendom, kun med selskap av bøkene sine og hennes personlige hushjelp Kyouko, helt til nylig da hun tilfeldigvis møtte Ritsu og de to ble venner.",
+            "standard": "Grunnet svak helse tilbrakte Honoka mesteparten av livet sitt på familiens eiendom, kun med selskap av bøkene sine og hennes personlige tjenestepike Kyouko, helt til nylig da hun tilfeldigvis møtte Ritsu og de to ble venner.",
             "druid": "Honoka kommer fra en nasjon av druider, men reiser nå verden rundt på jakt etter ny kunnskap, den siste testen som gis til nye druider. Reisen hennes deles for tiden med Kyouko, en lokal ridder som er utpekt til å være hennes guide i dette riket."
         },
         "kyouko": {
-            "standard": "Kyouko har jobbet som Honokas hushjelp i flere år. Hennes energiske natur og naturlige kløntete oppførsel har ført til flere ulykker som ville ha ført til at hun ble sparket hvis det ikke var for vennskapet hennes med Honoka.",
+            "standard": "Kyouko har jobbet som Honokas tjenestepike i flere år. Hennes energiske natur og naturlige kløntete oppførsel har ført til flere ulykker som ville ha ført til at hun ble sparket hvis det ikke var for vennskapet hennes med Honoka.",
             "knight": "Som det nyeste medlemmet av den kongelige garde fikk Kyouko i oppgave å hjelpe Honoka, en lærd fra en alliert druidestamme, på hennes reise rundt i landet. Hun tilbringer derfor dagene sine på veien, hvor hun tjener som Honokas vakt og guide.",
-            "bodyguard": "Kyouko var avskjediget som Honokas hushjelp, på grunn av sikkerhetsenderinger. Kyouko ønsket fortsatt å hjelpe Honoka, og studerte defor til å bli livvakt. Selv om klønetheten hennes ofte forårsaker problemer, lot Honoka det gå siden hun liker å tilbringe tid med Kyouko."
+            "bodyguard": "Kyouko var avskjediget som Honokas tjenestepike, på grunn av sikkerhetsenderinger. Kyouko ønsket fortsatt å hjelpe Honoka, og studerte defor til å bli livvakt. Selv om klønetheten hennes ofte forårsaker problemer, lot Honoka det gå siden hun liker å tilbringe tid med Kyouko."
         },
         "ritsu": {
             "standard": "En energisk videregåendeelev med en lidenskap for musikk, og klubbpresident i skolens musikklubb. Ritsu blir ofte funnet på livekonserter rundt om i byen, og det var på en av disse hvor hun møtte og ble venn med en malplassert Honoka.",
@@ -1236,7 +1236,7 @@
             "standard": "Shiina tilbrakte barndommen sin med å se på idoler på TV, og drømte å bli et selv. Drømmen hennes begynte endelig å gå i oppfyllelse da hun begynte på videregående og klarte å lande jobben som et lokalt idol for byen sin."
         },
         "mizuki": {
-            "standard": "Mizuki fungerer som helligdomspiken i sin populære helligdom, og deler sin velsignelse med de mange besøkende. velsignelser som ofte ender opp i hennes favør. Hun får ofte besøk av Komugi, som er irritert over at helligdommen hennes blir bortglemt.",
+            "standard": "Mizuki fungerer som prestinnen i sin populære helligdom, og deler sin velsignelse med de mange besøkende. velsignelser som ofte ender opp i hennes favør. Hun får ofte besøk av Komugi, som er irritert over at helligdommen hennes blir bortglemt.",
             "high_priest": "Som sin stammes yppersteprest nøt Mizuki livet. Alt dette endret seg da Komugi brøt reglene og forlot stammen, noe som tvang Mizuki til å dra for å hente henne tilbake. Nå reiser hun verden rundt og prøver å fange Komugi."
         },
         "marine": {
@@ -1475,61 +1475,61 @@
             "composer": "Komponist",
             "arranger": "Arrangør"
         },
-        "MISSING-strict": "Strict",
-        "MISSING-strict_description": "Do not include groups that artists belong to when searching for artists/composers/arrangers.",
-        "MISSING-search": "Search",
+        "strict": "Strengt",
+        "strict_description": "Ikke inkluder grupper som artister tilhører når du søker etter artister/komponister/arrangører.",
+        "search": "Søk",
         "anime_entry": {
             "song_counts": {
-                "MISSING-op": "OP _NUMBER_",
-                "MISSING-ed": "ED _NUMBER_",
-                "MISSING-insert": "IN _NUMBER_"
+                "op": "ÅP _NUMBER_",
+                "ed": "AS _NUMBER_",
+                "insert": "IN _NUMBER_"
             },
             "vintage": {
-                "MISSING-winter": "Winter _YEAR_",
-                "MISSING-spring": "Spring _YEAR_",
-                "MISSING-summer": "Summer _YEAR_",
-                "MISSING-fall": "Fall _YEAR_"
+                "winter": "Vinter _YEAR_",
+                "spring": "Vår _YEAR_",
+                "summer": "Sommer _YEAR_",
+                "fall": "Høst _YEAR_"
             },
-            "MISSING-genre": "Genre",
-            "MISSING-names": "Names",
-            "MISSING-tags": "Tags",
-            "MISSING-songs": "Songs"
+            "genre": "Sjanger",
+            "names": "Navn",
+            "tags": "Merkelapp",
+            "songs": "Sanger"
         },
         "song_entry": {
             "type": {
-                "MISSING-op": "OP_NUMBER_",
-                "MISSING-ed": "ED_NUMBER_",
-                "MISSING-in": "IN"
+                "Mop": "ÅP_NUMBER_",
+                "ed": "AS_NUMBER_",
+                "in": "IN"
             },
-            "MISSING-dub": "Dub",
-            "MISSING-rebroadcast": "Rebroad",
-            "MISSING-composer": "Composer",
-            "MISSING-arranger": "Arranger",
-            "MISSING-song_category": "Song Category",
+            "dub": "Dubb",
+            "rebroadcast": "Gjensendt",
+            "composer": "Komponist",
+            "arranger": "Arrangør",
+            "song_category": "Sangkategori",
             "guess_percent": {
-                "MISSING-title": "Guess Percent",
-                "MISSING-global": "Global: _SPANC_ X _SPANC_%",
-                "MISSING-recent": "Recent: _SPANC_ X _SPANC_%",
-                "MISSING-description": "The overall correct guess percentage for this song and your own correct guess percentage counting your last 8 answers. Only includes typed answers in quizzes with larger song pools."
+                "title": "Gjett prosent",
+                "global": "Globalt: _SPANC_ X _SPANC_%",
+                "recent": "Nylig: _SPANC_ X _SPANC_%",
+                "description": "Den totale prosentandelen for riktig gjetting for denne sangen og din egen prosentandel for riktig gjetting ut fra de siste 8 svarene. Inkluderer kun skrevne svar i quizer med større sangsamlinger."
             },
-            "MISSING-play_count": "Play Count",
-            "MISSING-play_count_correct": "(_SPANC_ X _SPANC_% Correct)",
-            "MISSING-play_count_description": "The total number of times this song has played for you, and your correct guess percent for it.",
+            "play_count": "Antall avspillinger",
+            "play_count_correct": "(_SPANC_ X _SPANC_% riktig)",
+            "play_count_description": "Totalt antall ganger denne sangen har blitt spilt for deg, og din korrekte gjettingsprosent for den.",
             "play_count_expanded_description": {
-                "MISSING-line_one": "Typed Answers: _NUMBER_ (_NUMBER2_% Correct)",
-                "MISSING-line_two": "Multiple Choice: _NUMBER_ (_NUMBER2_% Correct)"
+                "line_one": "Skrevne svar: _NUMBER_ (_NUMBER2_% riktig)",
+                "line_two": "Flervalg: _NUMBER_ (_NUMBER2_% riktig)"
             },
-            "MISSING-submit": "Submit",
-            "MISSING-insert_litterbox_url": "Insert Litterbox URL",
+            "submit": "Send inn",
+            "insert_litterbox_url": "Sett inn litterbox-lenke",
             "like_options": {
-                "MISSING-like": "Like",
-                "MISSING-dislike": "Dislike",
-                "MISSING-unset": "Unset"
+                "like": "Liker",
+                "dislike": "Misliker",
+                "unset": "Nullstill"
             },
             "upload_state_messages": {
-                "MISSING-missing": "Missing",
-                "MISSING-pending": "Pending Approval",
-                "MISSING-uploaded": "Click to View"
+                "missing": "Mangler",
+                "pending": "Venter på godkjenning",
+                "uploaded": "Klikk for å se"
             }
         },
         "faq": {
