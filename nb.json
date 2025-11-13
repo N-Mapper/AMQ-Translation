@@ -1703,95 +1703,95 @@
         "no_quiz_selected": "Ingen quiz valgt",
         "messages": {
             "error_cloning": {
-                "MISSING-title": "Error Cloning Quiz",
-                "MISSING-description": "An error occurred while trying to clone the quiz. Please try again later."
+                "title": "Quizkloningsfeil",
+                "description": "Det oppsto en feil under kloningen av quizen. Prøv på nytt senere."
             },
             "quiz_cloned": {
-                "MISSING-title": "Quiz Cloned",
-                "MISSING-description": "The quiz has been successfully cloned."
+                "title": "Quiz klonet",
+                "description": "Quizen er klonet."
             },
             "quiz_reported": {
-                "MISSING-title": "Quiz Reported",
-                "MISSING-description": "The quiz has been reported to the moderators for review."
+                "title": "Quiz rapportert",
+                "description": "Quizen er rapportert til moderatorene og vil bli gjennomgått."
             },
             "quiz_deleted": {
-                "MISSING-title": "Quiz Deleted",
-                "MISSING-description": "The quiz has been successfully deleted."
+                "title": "Quiz slettet",
+                "description": "Quizen er slettet."
             },
-            "MISSING-slot_unlocked": "Quiz Slot Unlocked",
-            "MISSING-unlimited_slots_unlocked": "Unlimited Quiz Slots Unlocked",
+            "slot_unlocked": "Quizplasser er låst opp",
+            "unlimited_slots_unlocked": "Ubegrenset antall quizplasser er låst opp",
             "no_slots_available": {
-                "MISSING-title": "No Slots Available",
-                "MISSING-description": "All quiz slots are currently in use. Unlock more slots or delete an old quiz before creating a new one."
+                "title": "Ingen plasser Tilgjengelig",
+                "description": "Alle quizplassene er i bruk. Lås opp flere plasser eller slett en gammel quiz før du oppretter en ny."
             },
             "delete_quiz_confirmation": {
-                "MISSING-title": "Delete Quiz",
-                "MISSING-description": "Are you sure you want to permanently delete this quiz?"
+                "title": "Slett quiz",
+                "description": "Er du sikker på at du vil slette denne quizen for godt?"
             },
             "clone_quiz": {
-                "MISSING-title": "Clone Quiz",
-                "MISSING-input_text": "New Name",
-                "MISSING-confirm_button": "Clone"
+                "title": "Klon quiz",
+                "input_text": "Nytt navn",
+                "confirm_button": "Klon"
             },
             "publish_quiz_confirmation": {
-                "MISSING-title": "Publish Quiz",
-                "MISSING-description": "Public quizzes can be played by anyone, once a quiz is public you can no longer edit or delete it.",
-                "MISSING-confirm_button": "Publish"
+                "title": "Publiser quiz",
+                "description": "Offentlig quizer kan spilles av alle. Når en quiz er offentlig, kan du ikke lenger redigere eller slette den.",
+                "confirm_button": "Publiser"
             },
             "report_quiz": {
-                "MISSING-title": "Report Quiz",
-                "MISSING-input_text": "Please provide a reason for reporting this quiz.",
-                "MISSING-confirm_button": "Report"
+                "title": "Rappoter quiz",
+                "input_text": "Vennligst oppgi en grunn til å rapportere denne quizen.",
+                "confirm_button": "Rappoter"
             },
             "report_failed": {
-                "MISSING-title": "Report Failed",
-                "MISSING-description": "You must provide a reason for reporting the quiz."
+                "title": "Rapportering mislyktes",
+                "description": "Du må oppgi en grunn for rapportering av quizen."
             },
             "error_sharing": {
-                "MISSING-title": "Error Sharing Quiz",
-                "MISSING-description": "An error occurred while trying to share the quiz. Please try again later."
+                "title": "Quizdelingsfeil",
+                "description": "Det oppsto en feil under deling av quizen. Prøv igjen senere."
             },
             "error_publishing": {
-                "MISSING-title": "Error Publishing Quiz",
-                "MISSING-description": "An error occurred while trying to publish the quiz. Please try again later."
+                "title": "Quizpubliseringsfeil",
+                "description": "Det oppsto en feil under publisering av quizen. Prøv igjen senere."
             },
             "not_enough_songs": {
-                "MISSING-title": "Not Enough Songs",
-                "MISSING-description": "The quiz must have at least 5 songs to be published."
+                "title": "Ikke nok sanger",
+                "description": "Quizen må inneholde minst 5 sanger for å bli publisert."
             },
             "publish_limit_reached": {
-                "MISSING-title": "Publish Limit Reached",
-                "MISSING-description": "You have reached the maximum number of 10 published quizzes within 24 hours, please try again later."
+                "title": "Publiseringsgrense er nådd",
+                "description": "Du har nådd det maskimale antall publliserte quizer på 10 innen 24 timer. Prøv igjen senere."
             },
             "quiz_published": {
-                "MISSING-title": "Quiz Published",
-                "MISSING-description": "The quiz has been successfully published."
+                "title": "Quiz publisert",
+                "description": "Quizen er publisert."
             }
         },
         "popovers": {
-            "MISSING-share": "Share this quiz with friends",
-            "MISSING-unshare": "Unshare this quiz with friends",
-            "MISSING-creation_date": "Creation Date",
-            "MISSING-quiz_id": "Quiz ID"
+            "share": "Del denne quizen med venner",
+            "unshare": "Opphev delingen av denne quizen med venner",
+            "creation_date": "Opprettelsesdato",
+            "quiz_id": "Quiz ID"
         },
         "checkout": {
-            "MISSING-unlock": "Unlock Community Quiz Slots",
-            "MISSING-one_slot": "1 Slot",
-            "MISSING-unlimited": "Unlimited Slots"
+            "unlock": "Lås opp plasser for fellesskapsquizer",
+            "one_slot": "1 plass",
+            "unlimited": "Ubegrensede plasser"
         },
         "host_community_quiz": {
-            "MISSING-title": "Host Community Quiz",
-            "MISSING-room_type": "Room Type",
-            "MISSING-room_info": "Room Info",
-            "MISSING-optional_password": "Optional Password"
+            "title": "Vert for felleskapetquiz",
+            "room_type": "Romtype",
+            "room_info": "Rominfo",
+            "optional_password": "Valgfritt passord"
         }
     },
     "community_quiz_tags": {
-        "MISSING-training": "Training",
-        "MISSING-challenge": "Challenge",
-        "MISSING-themed": "Themed",
-        "MISSING-favorites": "Favorites",
-        "MISSING-top_list": "Top List"
+        "training": "Trening",
+        "challenge": "Utfordring",
+        "themed": "Temabasert",
+        "favorites": "Favoritter",
+        "top_list": "Toppliste"
     },
     "game_settings": {
         "MISSING-setup_game": "Setup Game",
