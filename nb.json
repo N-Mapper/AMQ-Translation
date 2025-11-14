@@ -2029,34 +2029,34 @@
             }
         },
         "lives": {
-            "MISSING-title": "Lives",
-            "MISSING-description": "The amount of lives players start with."
+            "title": "Liv",
+            "description": "Antall liv spillerne starter med"
         },
         "boss_lives": {
-            "MISSING-title": "Boss Lives",
-            "MISSING-description": "The amount of lives boss players start with."
+            "title": "Bossliv",
+            "description": "Antall liv bossen starter med"
         },
         "boss_power_ups": {
-            "MISSING-title": "Boss Power-ups",
-            "MISSING-description": "The amount of different power-ups the boss players can use."
+            "title": "Boss Power-ups",
+            "description": "Antall unike power-ups bossen kan bruke"
         },
         "boss_max_song_count": {
-            "MISSING-title": "Boss Max Song Count",
-            "MISSING-description": "The max number of songs a boss player can get. If they survive all songs, they earn bonus points based on the amount of lives they have left."
+            "title": "Boss Max Song Count",
+            "description": "Maksimalt antall sanger bossen kan få. Hvis de overlever alle sangenen, tjener de bonuspoeng basert på antall liv de har igjen"
         },
         "inventory_size": {
-            "MISSING-title": "Inventory Size",
-            "MISSING-description": "Number of shows players can carry during the looting phase"
+            "title": "Inventarstørrelse",
+            "description": "Antall program spillere ha i inventaret deres i innsamlingsfasen"
         },
         "looting_time": {
-            "MISSING-title": "Looting Time",
-            "MISSING-description": "Time players have to spend looting",
-            "MISSING-time_display": "_NUMBER_ seconds",
-            "MISSING-time_range_display": "_NUMBER_-_NUMBER2_ seconds"
+            "title": "Innsamlingstid",
+            "description": "Tid spillerne har på innsamling",
+            "time_display": "_NUMBER_ sekunder",
+            "time_range_display": "_NUMBER_-_NUMBER2_ sekunder"
         },
         "loot_dropping": {
-            "MISSING-title": "Loot Dropping",
-            "MISSING-description": "Allow players to drop collected shows during the looting phase"
+            "title": "Sleppe inventar",
+            "description": "Tillat spillere å sleppe innsamlede program i løpet av innsamlingsfasen"
         },
         "guess_time": {
             "MISSING-title": "Guess Time",
