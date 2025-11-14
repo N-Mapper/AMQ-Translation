@@ -1839,7 +1839,7 @@
         "game_mode_settings_display": "_NAME_ spillinnstillinger",
         "algorithm_block_settings": "Innstillinger for algoritmeblokk",
         "randomize": "Tilfeldig",
-        "custom": "Selv valgt",
+        "custom": "Selvvalgt",
         "empty": "Tom",
         "search": "Søk",
         "random": "Tilfeldig",
@@ -1910,7 +1910,7 @@
             "ova": "OVA",
             "ona": "ONA",
             "special": "Spesial",
-            "one_must_be_selected": "Minst én anime-type må velges"
+            "one_must_be_selected": "Minst én animetype må velges"
         },
         "genre": {
             "title": "Sjanger",
@@ -2084,7 +2084,7 @@
             "description": "Hastigheten sangen blir spilt på"
         },
         "song_difficulty": {
-            "title": "Sangvansklighetgrad",
+            "title": "Sangvansklighet",
             "description": "Vansklighetsgraden på de valgte sangene",
             "easy": "Lett",
             "medium": "Middels",
@@ -2189,110 +2189,110 @@
     "room_browser": {
         "filters": {
             "only": {
-                "MISSING-title": "Only:",
-                "MISSING-public": "Public",
-                "MISSING-in_lobby": "In Lobby",
-                "MISSING-open": "Open",
-                "MISSING-friends": "Friends"
+                "title": "Bare:",
+                "public": "Offentlig",
+                "in_lobby": "I Lobby",
+                "open": "Åpen",
+                "friends": "Venner"
             },
-            "MISSING-search_placeholder": "Search",
+            "search_placeholder": "Søk",
             "show_selection": {
-                "MISSING-title": "Show Selection",
-                "MISSING-auto": "Auto",
-                "MISSING-looting": "Looting"
+                "title": "Programvalg",
+                "auto": "Auto",
+                "looting": "Innsamling"
             },
             "answering_mode": {
-                "MISSING-title": "Answering Mode",
-                "MISSING-typing": "Typing",
-                "MISSING-multiple_choice": "Multiple Choice"
+                "title": "Svarmodus",
+                "typing": "Skriv",
+                "multiple_choice": "Flervalg"
             },
             "song_type": {
-                "MISSING-title": "Song Types",
-                "MISSING-openings": "Openings",
-                "MISSING-endings": "Endings",
-                "MISSING-inserts": "Inserts"
+                "title": "Sangtyper",
+                "openings": "Åpninger",
+                "endings": "Avsluttinger",
+                "inserts": "Innsatser"
             },
             "song_selection": {
-                "MISSING-title": "Song Selection",
-                "MISSING-watched": "Watched",
-                "MISSING-unwatched": "Unwatched",
-                "MISSING-random": "Random"
+                "title": "Sangvalg",
+                "watched": "Sett",
+                "unwatched": "Usett",
+                "random": "Tilfeldig"
             },
             "scoring": {
-                "MISSING-title": "Scoring",
-                "MISSING-count": "Count",
-                "MISSING-hint": "Hint",
-                "MISSING-speed": "Speed",
-                "MISSING-lives": "Lives",
-                "MISSING-boss": "Boss"
+                "title": "Scoring",
+                "count": "Telling",
+                "hint": "Hint",
+                "speed": "Fart",
+                "lives": "Liv",
+                "boss": "Boss"
             },
-            "MISSING-number_of_players": "Number of Players",
-            "MISSING-number_of_songs": "Number of Songs",
-            "MISSING-guess_time": "Guess Time",
-            "MISSING-difficulty": "Difficulty",
+            "number_of_players": "Antall spillere",
+            "number_of_songs": "Antall sanger",
+            "guess_time": "Gjettetid",
+            "difficulty": "Vanskelighet",
             "anime_type": {
-                "MISSING-title": "Anime Type",
-                "MISSING-tv": "TV",
-                "MISSING-movie": "Movie",
-                "MISSING-ova": "OVA",
-                "MISSING-ona": "ONA",
-                "MISSING-special": "Special"
+                "title": "Animetype",
+                "tv": "TV",
+                "movie": "Film",
+                "ova": "OVA",
+                "ona": "ONA",
+                "special": "Spesial"
             },
             "only_non_default": {
-                "MISSING-title": "Only Non-Default Settings",
-                "MISSING-sample_point": "Sample Point",
-                "MISSING-playback_speed": "Playback Speed",
-                "MISSING-anime_score": "Anime Score",
-                "MISSING-vintage": "Vintage",
-                "MISSING-genre": "Genre",
-                "MISSING-tag": "Tag",
-                "MISSING-popularity": "Popularity"
+                "title": "Kun ikke-sandardinnstillinger",
+                "sample_point": "Snuttpunkt",
+                "playback_speed": "Avspillingshastighet",
+                "anime_score": "Animescore",
+                "vintage": "Årgang",
+                "genre": "Sjanger",
+                "tag": "Tagg",
+                "popularity": "Popularitet"
             }
         },
-        "MISSING-host_room": "Host Room",
-        "MISSING-games": " Games",
+        "host_room": "Åpne et rom",
+        "games": " game",
         "room_tile": {
-            "MISSING-host": "Host: _SPANC_ _NAME_ _SPANC_",
+            "host": "Vert: _SPANC_ _NAME_ _SPANC_",
             "popovers": {
-                "MISSING-spectators": "Spectators",
-                "MISSING-songs_left": "Songs Left",
-                "MISSING-players": "Players",
-                "MISSING-game_mode": "Game Mode",
-                "MISSING-guess_time": "Guess Time",
-                "MISSING-number_of_songs": "Number of Songs",
-                "MISSING-song_selection": "Song Selection",
-                "MISSING-all_settings": "All Settings",
-                "MISSING-song_types": "Song Types",
-                "MISSING-friends": "Friends"
+                "spectators": "tilskuere",
+                "songs_left": "Sanger igjen",
+                "players": "Spillere",
+                "game_mode": "Gamemodus",
+                "guess_time": "Gjettetid",
+                "number_of_songs": "Antall sanger",
+                "song_selection": "Sangvalg",
+                "all_settings": "Alle innstilling",
+                "song_types": "Sangtyper",
+                "friends": "Venner"
             },
             "song_types": {
-                "MISSING-opening": "Opening",
-                "MISSING-ending": "Ending",
-                "MISSING-insert": "Insert"
+                "opening": "Åpning",
+                "ending": "Avslutning",
+                "insert": "Innsats"
             },
-            "MISSING-join": "Join",
-            "MISSING-spectate": "Spectate",
+            "join": "Bli med",
+            "spectate": "Tilskue",
             "game_mode": {
-                "MISSING-community": "Community",
-                "MISSING-battle_royale": "Battle Royale",
-                "MISSING-hint": "Hint",
-                "MISSING-last_man_standing": "Last Man Standing",
-                "MISSING-quick_draw": "Quick Draw",
-                "MISSING-boss_fight": "Boss Fight",
-                "MISSING-amq_awards": "AMQ Awards",
-                "MISSING-standard": "Standard"
+                "community": "Felleskap",
+                "battle_royale": "Battle Royale",
+                "hint": "Hint",
+                "last_man_standing": "Sistemann i live",
+                "quick_draw": "Førstemann",
+                "boss_fight": "Bosskamp",
+                "amq_awards": "AMQ-prisene",
+                "standard": "Standard"
             },
             "song_selection": {
-                "MISSING-random": "Random",
-                "MISSING-mix": "Mix",
-                "MISSING-watched": "Watched",
-                "MISSING-custom": "Custom"
+                "random": "Tilfeldig",
+                "mix": "Blandet",
+                "watched": "Sett",
+                "custom": "Selvvalgt"
             },
-            "MISSING-room_closed": "Room Closed",
+            "room_closed": "Stengt rom",
             "password": {
-                "MISSING-title": "Password Required",
-                "MISSING-placeholder": "Enter Password",
-                "MISSING-confirm_button": "Join"
+                "title": "Passord kreves",
+                "placeholder": "Skriv inn passord",
+                "confirm_button": "Bli med"
             }
         }
     }
