@@ -319,10 +319,10 @@
             "all_time_short": "A",
             "donate": "Doner",
             "amount": "Beløp",
-            "description": "Doner for hva den neste avataren skal være! Når kampanjen er over, vil avataren som leder bli lagt til spillet! Vær oppmerksom på at kampanjen vil fortsette et par dager etter målet er nådd.",
+            "description": "Doner for hva den neste avataren skal være! Når aksjonen er over, vil avataren som leder bli lagt til spillet! Vær oppmerksom på at aksjonen vil fortsette et par dager etter målet er nådd.",
             "faq_what_is": {
-                "title": "Hva er en avatar-kampanje?",
-                "text": "Avatar-kampanjen er din måte å støtte spillet, mens du samtidig påvirker hva fremtidige avatarer vil være. Systemet er ganske enkelt, når du donerer kan du velge hvilken som helst avatar i avatar-kampanjen eller nominere en ny avatar. Verdien som doneres legges deretter til avatarens totale score, og når målet for kampanjen er oppnådd, vil avataren med høyest score bli lagt til spillet som en fremtidig avatar."
+                "title": "Hva er en avatar-aksjon?",
+                "text": "Avatar-aksjon er din måte å støtte spillet, mens du samtidig påvirker hva fremtidige avatarer vil være. Systemet er ganske enkelt, når du donerer kan du velge hvilken som helst avatar i avatar-aksjonen eller nominere en ny avatar. Verdien som doneres legges deretter til avatarens totale score, og når målet for aksjonen er oppnådd, vil avataren med høyest score bli lagt til spillet som en fremtidig avatar."
             },
             "faq_nomination_type": {
                 "title": "Hvilken type avatarer kan jeg nominere?",
@@ -330,7 +330,7 @@
             },
             "faq_existing_avatar": {
                 "title": "Kan jeg nomenere en eksisterende karakter?",
-                "text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for avatar-kampanjen. Hvis en eksisterende avatar vinner, vil et nytt skinn bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinnet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\"."
+                "text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for avatar-aksjonen. Hvis en eksisterende avatar vinner, vil et nytt skinn bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinnet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\"."
             },
             "donate_towards": "Doner for",
             "nominated_avatar": "Nominert avatar",
@@ -368,7 +368,7 @@
             "faq_button": "FAQ",
             "faq_header": "FAQ",
             "avatar_description_placeholder": "Kort beskrivelse av avatar",
-            "title": "Avatar-kampanje"
+            "title": "Avatar-aksjon"
         },
         "social_rewards": {
             "title": "Sosiale media belønning",
