@@ -437,7 +437,7 @@
                     "jam": "jam",
                     "event": "event",
                     "solo": "solo",
-                    "quiz_of_the_day": "dagens"
+                    "quiz_of_the_day": "dagens quiz"
                 }
             },
             "options": {
@@ -1196,7 +1196,7 @@
         "kyouko": {
             "standard": "Kyouko har jobbet som Honokas tjenestepike i flere år. Hennes energiske natur og naturlige kløntete oppførsel har ført til flere ulykker som ville ha ført til at hun ble sparket hvis det ikke var for vennskapet hennes med Honoka.",
             "knight": "Som det nyeste medlemmet av den kongelige garde fikk Kyouko i oppgave å hjelpe Honoka, en lærd fra en alliert druidestamme, på hennes reise rundt i landet. Hun tilbringer derfor dagene sine på veien, hvor hun tjener som Honokas vakt og guide.",
-            "bodyguard": "Kyouko var avskjediget som Honokas tjenestepike, på grunn av sikkerhetsenderinger. Kyouko ønsket fortsatt å hjelpe Honoka, og studerte defor til å bli livvakt. Selv om klønetheten hennes ofte forårsaker problemer, lot Honoka det gå siden hun liker å tilbringe tid med Kyouko."
+            "bodyguard": "Kyouko var avskjediget som Honokas tjenestepike, på grunn av sikkerhetsenderinger. Kyouko ønsket fortsatt å hjelpe Honoka, og studerte derfor til å bli livvakt. Selv om klønetheten hennes ofte forårsaker problemer, lot Honoka det gå siden hun liker å tilbringe tid med Kyouko."
         },
         "ritsu": {
             "standard": "En energisk videregåendeelev med en lidenskap for musikk, og klubbpresident i skolens musikklubb. Ritsu blir ofte funnet på livekonserter rundt om i byen, og det var på en av disse hvor hun møtte og ble venn med en malplassert Honoka.",
@@ -1327,7 +1327,7 @@
             "standard": "Yasuko nyter livet sitt i Venity, hvor hun jobber for et av byens største selskap. Mens mange av kollegene hennes stresser rundt, tar Yasuko livet med ro og sørger for å prøve byens varme kilder ofte, og inviterer ofte Umi med seg."
         },
         "yin_yan": {
-            "standard": "Tvillinger er en sjeldent i kitsuneverden, så Yin og Yan ble sett på som en åndelig velsignelse av klanen deres. De jobber nå som budbringere for klanen, og reiser landet rundt og bringer budskap mellom medlemmene.",
+            "standard": "Tvillinger er en sjeldne i kitsuneverden, så Yin og Yan ble sett på som en åndelig velsignelse av klanen deres. De jobber nå som budbringere for klanen, og reiser landet rundt og bringer budskap mellom medlemmene.",
             "mahou_shoujo": "Etter å ha blitt fanget i av Miyus kamper, fanget tvillingene Yin og Yan en magisk juvel, som lot en av dem forvandle seg til en magisk jente, mens den andre tar form som en rev. Kraften de bruker for å kjempe sammen med Miyu."
         },
         "ayu": {
@@ -1400,24 +1400,24 @@
         "expand_count_description": "Antall sanger lastet opp",
         "expand_level_requirement": {
             "title": "Level 5+ påkrevd",
-            "description": "Utvidelsesfunksjonen lar spiller legge til manglende video-/mp3-kilder for sanger, og er ikke tilgjengelig for kontoer under nivå 5."
+            "description": "Utvidelsesfunksjonen lar spillere legge til manglende video-/mp3-kilder for sanger, og er ikke tilgjengelig for kontoer under nivå 5."
         },
         "expand_confirmation": {
             "title": "Utvid video/MP3 bibilioteket",
-            "description": "Hjelp med å utvide biblioteket ved å legge til manglende mp3- eller videolenker. Sanger som mangler i bibiloteket kan etterspørres på AMQ Discord."
+            "description": "Hjelp med å utvide biblioteket ved å legge til manglende mp3- eller videolenker. Sanger som mangler i biblioteket kan etterspørres på AMQ Discord."
         },
         "video_preview": "Video Forhåndsvisning",
         "views": "Visninger:",
         "library": "Bibliotek",
-        "library_description": "Se alle sangen i bibilioteket",
+        "library_description": "Se alle sangen i biblioteket",
         "new_songs": "Nye sanger",
-        "new_songs_description": "Se de 200 nyeste sangen lagt til spillet",
+        "new_songs_description": "Se de 200 nyeste sangene lagt til spillet",
         "recent_wrong": "Nylig feil",
         "recent_wrong_description": "Se sanger du nylig fikk feil",
         "no_upload_message": "Ikke i video-/mp3-databasen",
         "upload_message_success": {
             "title": "URL lagt til",
-            "description": "Video/mp3 vil bli lagt til spillet etter godkjenning fra en moderator"
+            "description": "Video/mp3 vil bli lagt til spillet etter godkjenning av en moderator"
         },
         "upload_message_failure": {
             "title": "Kan ikke legge til URL-adresse",
@@ -1432,13 +1432,13 @@
         },
         "upload_message_alerts": {
             "provide_missing_version": "Oppgi en lenke til en manglende versjon",
-            "litterbox": "Catbox-filer må lastes op til litter.catbox.moe",
+            "litterbox": "Catbox-filer må lastes opp til litter.catbox.moe",
             "host_format": "URL-en må peke til en gyldig vert og være i webm/mp3-format",
             "unsupported_resolution": "Ustøttet oppløsning: _NUMBER_. Maksimal oppløsning: 720p",
             "already_uploaded": "Versjon er allerede lastet opp",
             "loading_video": "Laster inn video",
             "video_passed_check": "Videoen bestod kontrollen",
-            "error_loading_video": "Feil med videoinnlasting",
+            "error_loading_video": "Videoinnlastingsfeil",
             "submitting_video": "Sender video",
             "mp3_before_video": "Mp3-en må lastes opp etter at en videoversjon er godkjent"
         },
@@ -1549,15 +1549,15 @@
             },
             "file_format": {
                 "title": "Hvilke filformater aksepteres?",
-                "text": "Videofiler bør værer i webm-format, og lyfiler i mp3. Alle andre formater vil bli avvist av Scan Bot."
+                "text": "Videofiler bør være i webm-format, og lyfiler i mp3. Alle andre formater vil bli avvist av Scan Bot."
             },
             "quality_requirements": {
                 "title": "Hva er kvalitetskravene?",
-                "text": "Sangen må ikke ha en høyere tonehøyde, økt hastighet, redusert hastighet eller remiks på noen måte fra den originalversjonen. Eventuell stillhet i starten eller slutten av sangen bør klippes ut. På samme måte bør lange toner på slutten av sangen bør kuttes ut. I tilleg bør ikke bithastigheten for en opplasting overstige 6,2 kbps. _BREAK_ Videoen bør også være av bra kvalitet og ikke inneholder hardsubs, men unntak kan gjøres for eldre eller sjeldne programmer der bedre kvalitet ikke er tilgjengelig."
+                "text": "Sangen må ikke ha en høyere tonehøyde, økt hastighet, redusert hastighet eller remiks på noen måte fra den originalversjonen. Eventuell stillhet i starten eller slutten av sangen bør klippes ut. På samme måte bør lange toner på slutten av sangen bør kuttes ut. I tillegg bør ikke bithastigheten for en opplasting overstige 6,2 kbps. _BREAK_ Videoen bør også være av bra kvalitet og ikke inneholder undertekster, men unntak kan gjøres for eldre eller sjeldne programmer der bedre kvalitet ikke er tilgjengelig."
             },
             "volume_requirements": {
                 "title": "Hva er volumkravene?",
-                "text": "Opplastinger bør ha et gjennomsnitt volum på mellom -20 og -17 dB. Maskimalt volum bør ideelt sett ikke overstige -0,5 dB, og bør være rundt -5 db hvis mulig."
+                "text": "Opplastinger bør ha et gjennomsnitt volum på mellom -20 og -17 dB. Maksimalt volum bør ideelt sett ikke overstige -0,5 dB, og bør være rundt -5 db hvis mulig."
             },
             "what_are_keyframes": {
                 "title": "Hva er nøkkelbilder?",
@@ -1569,7 +1569,7 @@
             },
             "missing_song": {
                 "title": "En sang mangler i databasen, hvordan får jeg den lagt til?",
-                "text": "Først må du sørge for at sangen ikke allerede er i databasen: Sørg for at den ikke vises i biblioteket når den ikke er i utvidet modus. _BREAK_ Hvis den ikke er i biblioteket eller i spiller, kan du be om å få den lagt til på spillets Discord. Sørg for å lese FAQ-knalaen og festede meldinger i #database-fixes-kanalen for detaljer om regler og hvordan du be om tilleggelse."
+                "text": "Først må du sørge for at sangen ikke allerede er i databasen: Sørg for at den ikke vises i biblioteket når den ikke er i utvidet modus. _BREAK_ Hvis den ikke er i biblioteket eller i spiller, kan du be om å få den lagt til på spillets Discord. Sørg for å lese FAQ-kanalen og festede meldinger i #database-fixes-kanalen for detaljer om regler og hvordan du kan be om en sangs tilleggelse."
             },
             "upload_rejected": {
                 "title": "Opplasteingen min ble avvist, men jeg fikk ikke melding?",
@@ -1663,7 +1663,7 @@
             "description": "Lås opp ubegrensede plasser for en engangsbetalling",
             "approx_dollar": "Omtrent. $_NUMBER_"
         },
-        "patreon_promo": "Bli en Patreon-medlem på nivå 3+ for å _BREAK_ låse opp ubegrenset plasser og flere fordeler",
+        "patreon_promo": "Bli et Patreon-medlem på nivå 3+ for å _BREAK_ låse opp ubegrenset plasser og flere fordeler",
         "creator": "Skaper",
         "description": "Beskrivelse",
         "tags": "Merklapper",
@@ -1761,7 +1761,7 @@
             },
             "publish_limit_reached": {
                 "title": "Publiseringsgrense er nådd",
-                "description": "Du har nådd det maskimale antall publliserte quizer på 10 innen 24 timer. Prøv igjen senere."
+                "description": "Du har nådd det maksimale antall publiserte quizer på 10 innen 24 timer. Prøv igjen senere."
             },
             "quiz_published": {
                 "title": "Quiz publisert",
@@ -1780,7 +1780,7 @@
             "unlimited": "Ubegrensede plasser"
         },
         "host_community_quiz": {
-            "title": "Vert for felleskapetquiz",
+            "title": "Vert for fellesskapetquiz",
             "room_type": "Romtype",
             "room_info": "Rominfo",
             "optional_password": "Eventuelt passord"
@@ -1918,7 +1918,7 @@
         },
         "tags": {
             "title": "Tagger",
-            "description": "Merkelapper bestemmes ved hjelp av AniList. Hvis valgfri brukes, vil animen kreve minst én valgfri tagg."
+            "description": "Tagger bestemmes ved hjelp av AniList. Hvis valgfri brukes, vil animen kreve minst én valgfri tagg."
         },
         "number_of_players": {
             "title": "Antall spillere",
@@ -1958,7 +1958,7 @@
             "description": "Filtrer hvilken kategori sanger som er valgt for hver sangtype. Hold musepekeren over kategoriene nedenfor for å få en beskrivelse av dem.",
             "standard": {
                 "title": "Standard",
-                "description": "Sanger som ikke er i none av de andre kategoriene"
+                "description": "Sanger som ikke er i noen av de andre kategoriene"
             },
             "chanting": {
                 "title": "Messing",
@@ -1981,7 +1981,7 @@
             "title": "Scoring",
             "count": {
                 "title": "Telling",
-                "description": "Spillere tjenger 1 poeng for hvert program de gjetter riktig"
+                "description": "Spillere tjener 1 poeng for hvert program de gjetter riktig"
             },
             "hint": {
                 "title": "Hint",
@@ -1993,7 +1993,7 @@
             },
             "lives": {
                 "title": "Liv",
-                "description": "Spillere starter med et bestemet antall liv, og mister 1 liv hver gang de får en sang feil og en annen spiller får den riktig"
+                "description": "Spillere starter med et bestemt antall liv, og mister 1 liv hver gang de får en sang feil og en annen spiller får den riktig"
             },
             "boss": {
                 "title": "Boss",
@@ -2009,7 +2009,7 @@
             },
             "looting": {
                 "title": "Innsamling",
-                "description": "Såoøø em innsamlingsfasen før quizen, hvor spillerne beveger seg rundt og samler programmene som blir brukt for quizen"
+                "description": "Spill en innsamlingsfasen før quizen, hvor spillerne beveger seg rundt og samler programmene som blir brukt for quizen"
             }
         },
         "answering": {
@@ -2042,7 +2042,7 @@
         },
         "boss_max_song_count": {
             "title": "Boss Max Song Count",
-            "description": "Maksimalt antall sanger bossen kan få. Hvis de overlever alle sangenen, tjener de bonuspoeng basert på antall liv de har igjen"
+            "description": "Maksimalt antall sanger bossen kan få. Hvis de overlever alle sangene, tjener de bonuspoeng basert på antall liv de har igjen"
         },
         "inventory_size": {
             "title": "Inventarstørrelse",
@@ -2091,7 +2091,7 @@
             "hard": "Vanskelig",
             "percent_guessed_correct": "% gjettet riktig",
             "percent_range_display": "_NUMBER_%-_NUMBER2_% gjettet riktig",
-            "one_difficulty_must_be_selected": "Minst én vansklighetsgrad må velges"
+            "one_difficulty_must_be_selected": "Minst én vanskelighetsgrad må velges"
         },
         "song_popularity": {
             "title": "Sangpopularitet",
@@ -2119,7 +2119,7 @@
             },
             "duplicate_shows": {
                 "title": "Duplikat program",
-                "description": "Tillat at programmer har flere av sangen sine valgt i samme spill"
+                "description": "Tillat at programmer har flere av sangene sine valgt i samme game"
             },
             "rebroadcast_songs": {
                 "title": "Repisesanger",
@@ -2131,7 +2131,7 @@
             },
             "full_song_range": {
                 "title": "Fullt sangregister",
-                "description": "Tillat sanger å spille helt til slutten av sangen, det kan føre til stillhet mens svarene avsløres"
+                "description": "Tillat sanger å spille helt til slutten av sangen, det kan føre til stillhet mens svarene avsløres."
             }
         },
         "filter_types": {
@@ -2239,7 +2239,7 @@
                 "special": "Spesial"
             },
             "only_non_default": {
-                "title": "Kun ikke-sandardinnstillinger",
+                "title": "Kun ikke-standardinnstillinger",
                 "sample_point": "Snuttpunkt",
                 "playback_speed": "Avspillingshastighet",
                 "anime_score": "Animescore",
@@ -2250,7 +2250,7 @@
             }
         },
         "host_room": "Åpne et rom",
-        "games": " game",
+        "games": "Game",
         "room_tile": {
             "host": "Vert: _SPANC_ _NAME_ _SPANC_",
             "popovers": {
@@ -2274,7 +2274,7 @@
             "spectate": "Tilskue",
             "game_mode": {
                 "community": "Felleskap",
-                "battle_royale": "Battle Royale",
+                "battle_royale": "Battle royale",
                 "hint": "Hint",
                 "last_man_standing": "Sistemann i live",
                 "quick_draw": "Førstemann",
