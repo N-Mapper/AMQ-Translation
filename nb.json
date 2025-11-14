@@ -1492,7 +1492,7 @@
             },
             "genre": "Sjanger",
             "names": "Navn",
-            "tags": "Merkelapp",
+            "tags": "Merkelapper",
             "songs": "Sanger"
         },
         "song_entry": {
@@ -1783,7 +1783,7 @@
             "title": "Vert for felleskapetquiz",
             "room_type": "Romtype",
             "room_info": "Rominfo",
-            "optional_password": "Valgfritt passord"
+            "optional_password": "Eventuelt passord"
         }
     },
     "community_quiz_tags": {
@@ -1805,7 +1805,7 @@
         },
         "categories": {
             "mode": "Modus",
-            "general": "",
+            "general": "Generell",
             "quiz": "Quiz",
             "anime": "Anime"
         },
@@ -1865,7 +1865,7 @@
             },
             "battle_royale": {
                 "title": "Battle royale",
-                "description": "Start i plynddringsfase, og samle programmene som skal spilles i quizen"
+                "description": "Start i samlefasen, og samle programmene som skal spilles i quizen"
             },
             "boss_fight": {
                 "title": "Bosskamp",
