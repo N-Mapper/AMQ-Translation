@@ -2131,59 +2131,59 @@
             },
             "full_song_range": {
                 "title": "Fullt sangregister",
-                "description": "La sanger spille helt til slutten av sangen, det kan føre til stillhet mens svarene avsløres"
+                "description": "Tillat sanger å spille helt til slutten av sangen, det kan føre til stillhet mens svarene avsløres"
             }
         },
         "filter_types": {
-            "MISSING-include": "Include",
-            "MISSING-exclude": "Exclude",
-            "MISSING-optional": "Optional"
+            "include": "Inkludere",
+            "exclude": "Ekskludere",
+            "optional": "Valgfri"
         },
         "alerts": {
-            "MISSING-room_name_missing": "Room name is required",
+            "room_name_missing": "Romnavn er obligatorisk",
             "room_name_too_long": {
-                "MISSING-title": "Room Name Too Long",
-                "MISSING-description": "Room name cannot exceed 20 characters"
+                "title": "Romnavnet er for langt",
+                "description": "Romnavnet kan maksimalt værer 20 tegn"
             },
-            "MISSING-password_missing": "Password is required for private rooms",
-            "MISSING-one_player_score_required": "At least one player score must be toggled on",
-            "MISSING-one_anime_score_required": "At least one anime score must be toggled on",
-            "MISSING-one_playback_speed_required": "At least one playback speed must be selected"
+            "password_missing": "Passord kreves for private rom",
+            "one_player_score_required": "Minst én spillers score må være slått på",
+            "one_anime_score_required": "Minst én anime score må være slått på",
+            "one_playback_speed_required": "Minst én avspillingshastighet må velges"
         },
         "errors": {
             "too_many_tag_genre": {
-                "MISSING-title": "Error Saving Settings",
-                "MISSING-description": "Vintage/Tag/Genre limit exceeded"
+                "title": "Innstillingslagringsfeil",
+                "description": "Grensen for årgang/tagg/sjanger er overskredet"
             },
-            "MISSING-value_already_filter": "Value Already in Filter",
-            "MISSING-error_decoding_code": "Error Decoding Code",
-            "MISSING-error_decoding_settings": "Error Decoding Settings",
-            "MISSING-error_deleting_setting": "Error Deleting Setting",
-            "MISSING-error_saving_setting": "Error Saving Setting"
+            "value_already_filter": "Verdien er allerede i filteret",
+            "error_decoding_code": "Kodedekodingsfeil",
+            "error_decoding_settings": "Innstillingsdekodingsfeil",
+            "error_deleting_setting": "Innstillingsslettingsfeil",
+            "error_saving_setting": "Innstillingslagringsfeil"
         },
         "load_setting_from_code": {
-            "MISSING-title": "Load Settings from Code",
-            "MISSING-placeholder": "Setting Code",
-            "MISSING-confirm_button": "Load",
-            "MISSING-must_provide_code": "You must provide a code",
-            "MISSING-loading_disabled": "Loading Disabled"
+            "title": "Last inn innstillinger fra kode",
+            "placeholder": "Innstillingskode",
+            "confirm_button": "Last inn",
+            "must_provide_code": "Du må oppgi en kode",
+            "loading_disabled": "Lasting deaktivert"
         },
         "select_name_for_setting": {
-            "MISSING-title": "Select Name for Setting",
-            "MISSING-placeholder": "Setting Name",
-            "MISSING-confirm_button": "Save",
-            "MISSING-setting_saved": "Setting Saved",
-            "MISSING-must_provide_name": "You must provide a name",
-            "MISSING-name_too_long": "Name must be at most _NUMBER_ characters",
-            "MISSING-max_saved_settings": "Max number of _NUMBER_ saved settings reached"
+            "title": "Velg navn for innstilling",
+            "placeholder": "Innstillingsnavn",
+            "confirm_button": "Lagre",
+            "setting_saved": "Instilling lagret",
+            "must_provide_name": "Du må oppgi et navn",
+            "name_too_long": "Navnet kan maksimalt være_NUMBER_ tegn",
+            "max_saved_settings": "Maksimalt antall _NUMBER_ lagrede innstillinger nådd"
         },
         "delete_saved_setting": {
-            "MISSING-title": "Delete Saved Setting",
-            "MISSING-confirm_button": "Delete"
+            "title": "Slett lagret innstilling",
+            "confirm_button": "Slett"
         },
         "get_code": {
-            "MISSING-title": "Get Code for Settings",
-            "MISSING-setting_code": "Setting Code"
+            "title": "Hent kode for innstillinger",
+            "setting_code": "Innstillingskode"
         }
     },
     "room_browser": {
