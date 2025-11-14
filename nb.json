@@ -769,7 +769,7 @@
             }
         },
         "anime_list": {
-            "description": "Tilkoble din Anilist-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med \"Sett\" innstillingen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
+            "description": "Tilkoble din AniList-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med \"Sett\" innstillingen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
             "share_entries": {
                 "title": "Del oppføringer",
                 "description": "Vis når et program er fra din liste"
@@ -1492,7 +1492,7 @@
             },
             "genre": "Sjanger",
             "names": "Navn",
-            "tags": "Merkelapper",
+            "tags": "Tagger",
             "songs": "Sanger"
         },
         "song_entry": {
@@ -1913,45 +1913,45 @@
             "one_must_be_selected": "Minst én anime-type må velges"
         },
         "genre": {
-            "MISSING-title": "Genre",
-            "MISSING-description": "Genres are determined using AniList. If optional is used, at least one optional genre will be required by the anime."
+            "title": "Sjanger",
+            "description": "Sjangere bestemmes ved hjelp av AniList. Hvis valgfri brukes, vil animen kreve minst én valgfri sjanger."
         },
         "tags": {
-            "MISSING-title": "Tags",
-            "MISSING-description": "Tags are determined using AniList. If optional is used, at least one optional tag will be required by the anime."
+            "title": "Tagger",
+            "description": "Merkelapper bestemmes ved hjelp av AniList. Hvis valgfri brukes, vil animen kreve minst én valgfri tagg."
         },
         "number_of_players": {
-            "MISSING-title": "Number of Players",
-            "MISSING-unlimited": "Unlimited"
+            "title": "Antall spillere",
+            "unlimited": "Ubegrensede"
         },
         "number_of_songs": {
-            "MISSING-title": "Number of Songs"
+            "title": "Antall sanger"
         },
         "team_size": {
-            "MISSING-title": "Team Size",
-            "MISSING-solo": "Solo"
+            "title": "Lag størrelse",
+            "solo": "Solo"
         },
         "song_selection": {
-            "MISSING-title": "Song Selection",
-            "MISSING-description": "How songs are chosen for the quiz. Watched covers all anime watched by any player.",
-            "MISSING-watched": "Watched",
-            "MISSING-unwatched": "Unwatched",
-            "MISSING-random": "Random",
-            "MISSING-mix": "Mix"
+            "title": "Sangvalg",
+            "description": "Hvordan sanger velges for quizen. Sett dekker all anime som er sett av en spiller.",
+            "watched": "Sett",
+            "unwatched": "Usett",
+            "random": "Tilfeldig",
+            "mix": "Blandet"
         },
         "watched_distribution": {
-            "MISSING-title": "Watched Distribution",
-            "MISSING-description": "How watched songs are chosen between players, either at random, weighted where larger lists gets more songs or an equal amount from each list.",
-            "MISSING-random": "Random",
-            "MISSING-weighted": "Weighted",
-            "MISSING-equal": "Equal"
+            "title": "Sett fordeling",
+            "description": "Hvordan sanger som er sett velges mellom spillere, enten tilfelig, vektet der større lister får flere sanger eller et likt antall fra hver liste.",
+            "random": "Tilfeldig",
+            "weighted": "Vektet",
+            "equal": "Likt"
         },
         "song_types": {
-            "MISSING-title": "Song Types",
-            "MISSING-openings": "Openings",
-            "MISSING-endings": "Endings",
-            "MISSING-inserts": "Insert Songs",
-            "MISSING-one_type_must_be_selected": "At least one song type must be selected"
+            "title": "Sangtyper",
+            "openings": "Åpninger",
+            "endings": "Avsluttinger",
+            "inserts": "Innsats sanger",
+            "one_type_must_be_selected": "Minst én sangtype må velges"
         },
         "song_categories": {
             "MISSING-title": "Song Categories",
