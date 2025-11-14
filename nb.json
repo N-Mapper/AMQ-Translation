@@ -728,7 +728,7 @@
         "block_non_friend_actions": {
             "title": "Blokk ikke-venners handlinger",
             "description": "Blokker sosiale handlinger fra spillere som ikke er på vennelisten din",
-            "direct_messages": "Direkt-_BREAK_emeldinger",
+            "direct_messages": "Direkte-_BREAK_meldinger",
             "friend_requests": "Venne-_BREAK_forespørseler",
             "game_invites": "Game-_BREAK_invitasjoner"
         },
@@ -1408,7 +1408,7 @@
         },
         "video_preview": "Video Forhåndsvisning",
         "views": "Visninger:",
-        "library": "Biblioteket",
+        "library": "Bibliotek",
         "library_description": "Se alle sangen i bibilioteket",
         "new_songs": "Nye sanger",
         "new_songs_description": "Se de 200 nyeste sangen lagt til spillet",
