@@ -1865,7 +1865,7 @@
             },
             "battle_royale": {
                 "title": "Battle royale",
-                "description": "Start i samlefasen, og samle programmene som skal spilles i quizen"
+                "description": "Start i innsamlingsfasen, og samle programmene som skal spilles i quizen"
             },
             "boss_fight": {
                 "title": "Bosskamp",
@@ -1954,78 +1954,78 @@
             "one_type_must_be_selected": "Minst én sangtype må velges"
         },
         "song_categories": {
-            "MISSING-title": "Song Categories",
-            "MISSING-description": "Filter what category of songs is selected for each song type. Hover over the categories below to get a description of them.",
+            "title": "Sangkategorier",
+            "description": "Filtrer hvilken kategori sanger som er valgt for hver sangtype. Hold musepekeren over kategoriene nedenfor for å få en beskrivelse av dem.",
             "standard": {
-                "MISSING-title": "Standard",
-                "MISSING-description": "Songs not in any of the other categories"
+                "title": "Standard",
+                "description": "Sanger som ikke er i none av de andre kategoriene"
             },
             "chanting": {
-                "MISSING-title": "Chanting",
-                "MISSING-description": "Songs with chanting as the only main vocals"
+                "title": "Messing",
+                "description": "Sanger med messing som eneste hovedvokal"
             },
             "instrumental": {
-                "MISSING-title": "Instrumental",
-                "MISSING-description": "Songs without any vocals"
+                "title": "Instrumental",
+                "description": "Sanger uten vokal"
             },
             "character": {
-                "MISSING-title": "Character",
-                "MISSING-description": "Songs sung by characters without being part of a musical performance"
+                "title": "Karakter",
+                "description": "Sanger sunget av karakterer uten å være del av en musikalsk opptrend"
             },
-            "MISSING-inserts": "Inserts",
-            "MISSING-one_opening_type_must_be_selected": "At least one opening category must be selected",
-            "MISSING-one_ending_type_must_be_selected": "At least one ending category must be selected",
-            "MISSING-one_insert_type_must_be_selected": "At least one insert category must be selected"
+            "inserts": "Innsats",
+            "one_opening_type_must_be_selected": "Minst én åpeningskategori må velges",
+            "one_ending_type_must_be_selected": "Minst én avsluttingskategori må velges",
+            "one_insert_type_must_be_selected": "Minst én innsatsskategori må velges"
         },
         "scoring": {
-            "MISSING-title": "Scoring",
+            "title": "Scoring",
             "count": {
-                "MISSING-title": "Count",
-                "MISSING-description": "Players earn 1 point for each show they guess correctly"
+                "title": "Telling",
+                "description": "Spillere tjenger 1 poeng for hvert program de gjetter riktig"
             },
             "hint": {
-                "MISSING-title": "Hint",
-                "MISSING-description": "Players can get hints for songs, but earn fewer points when hints are used."
+                "title": "Hint",
+                "description": "Spillere kan få hint til sanger, men tjener færre poeng når hint brukes"
             },
             "speed": {
-                "MISSING-title": "Speed",
-                "MISSING-description": "Players earn more points the quicker they guessed the song"
+                "title": "Fart",
+                "description": "Spillere tjener flere poeng jo raskere de gjettet sangen"
             },
             "lives": {
-                "MISSING-title": "Lives",
-                "MISSING-description": "Players start with a set amount of lives, and lose 1 each time they get a song wrong another player guessed"
+                "title": "Liv",
+                "description": "Spillere starter med et bestemet antall liv, og mister 1 liv hver gang de får en sang feil og en annen spiller får den riktig"
             },
             "boss": {
-                "MISSING-title": "Boss",
-                "MISSING-description": "Players take turns being the boss, playing with only their songs and a set amount of lives. The boss earns points the more songs they guess before they’re outed by the other players."
+                "title": "Boss",
+                "description": "Spillere bytter på å være boss, og spiller kun med sangene sine og et visst antall liv. Bossen tjener poeng jo flere sanger de gjetter før de blir slått ut av de andre spillerne"
             }
         },
         "show_selection": {
-            "MISSING-title": "Show Selection",
-            "MISSING-description": "How shows are selected for the quiz",
+            "title": "Programvalg",
+            "description": "Hvordan programmer velges for quizen",
             "auto": {
-                "MISSING-title": "Auto",
-                "MISSING-description": "Game randomly picks shows from within the settings"
+                "title": "Auto",
+                "description": "Spillet velger tilfeldige programmer utifra innstillingene"
             },
             "looting": {
-                "MISSING-title": "Looting",
-                "MISSING-description": "Play a looting phase before the quiz, where players move around collecting the shows used for the quiz"
+                "title": "Innsamling",
+                "description": "Såoøø em innsamlingsfasen før quizen, hvor spillerne beveger seg rundt og samler programmene som blir brukt for quizen"
             }
         },
         "answering": {
-            "MISSING-title": "Answering",
-            "MISSING-description": "How players submit answers.",
+            "title": "Svar",
+            "description": "Hvordan spillere svarer",
             "typing": {
-                "MISSING-title": "Typing",
-                "MISSING-description": "Players write their answers, with dropdown suggestions to select from"
+                "title": "Skriv",
+                "description": "Spillere skriver svarene sine, med forslag fra rullegardinmenyen"
             },
             "mix": {
-                "MISSING-title": "Mix",
-                "MISSING-description": "All players can choose between typing and multiple choice answering"
+                "title": "Blandet",
+                "description": "Alle spillere kan velge mellom å skrive og svare med flervalg"
             },
             "multiple_choice": {
-                "MISSING-title": "Multiple Choice",
-                "MISSING-description": "Players get possible 4 answers to choose from"
+                "title": "Flervalg",
+                "description": "Spillere kan velge mellom 4 svaralternativ"
             }
         },
         "lives": {
