@@ -1502,7 +1502,7 @@
                 "in": "IN"
             },
             "dub": "Dubb",
-            "rebroadcast": "Gjensendt",
+            "rebroadcast": "Reprise",
             "composer": "Komponist",
             "arranger": "Arrangør",
             "song_category": "Sangkategori",
@@ -2059,79 +2059,79 @@
             "description": "Tillat spillere å sleppe innsamlede program i løpet av innsamlingsfasen"
         },
         "guess_time": {
-            "MISSING-title": "Guess Time",
-            "MISSING-description": "Time players have, with the song playing, to submit their answer",
-            "MISSING-time_display": "_NUMBER_ seconds",
-            "MISSING-time_range_display": "_NUMBER_-_NUMBER2_ seconds"
+            "title": "Gjettetid",
+            "description": "Tid spillerne har, mens sangen spilles, til å svare",
+            "time_display": "_NUMBER_ sekunder",
+            "time_range_display": "_NUMBER_-_NUMBER2_ sekunder"
         },
         "extra_guess_time": {
-            "MISSING-title": "Extra Guess Time",
-            "MISSING-description": "Additional time players have to submit their answer after the song has finished playing",
-            "MISSING-time_display": "_NUMBER_ seconds",
-            "MISSING-time_range_display": "_NUMBER_-_NUMBER2_ seconds"
+            "title": "Ekstra gjettetid",
+            "description": "Ekstra tid spillerne har for å svare etter at sangen er ferdigspilt",
+            "time_display": "_NUMBER_ sekunder",
+            "time_range_display": "_NUMBER_-_NUMBER2_ sekunder"
         },
         "sample_point": {
-            "MISSING-title": "Sample Point",
-            "MISSING-description": "The point songs are played from",
-            "MISSING-percent_into_song": "% Into Song",
-            "MISSING-start": "Start",
-            "MISSING-middle": "Middle",
-            "MISSING-end": "End",
-            "MISSING-percent_range_display": "_NUMBER_%-_NUMBER2_% Into Song"
+            "title": "Snuttpunkt",
+            "description": "Punktet sangene spilles fra",
+            "percent_into_song": "% inni sangen",
+            "start": "Start",
+            "middle": "Middel",
+            "end": "Slutt",
+            "percent_range_display": "_NUMBER_%-_NUMBER2_% inni sangen"
         },
         "playback_speed": {
-            "MISSING-title": "Playback Speed",
-            "MISSING-description": "The speed songs are played at"
+            "title": "Avspillingshastighet",
+            "description": "Hastigheten sangen blir spilt på"
         },
         "song_difficulty": {
-            "MISSING-title": "Song Difficulty",
-            "MISSING-description": "Difficulty of songs selected",
-            "MISSING-easy": "Easy",
-            "MISSING-medium": "Medium",
-            "MISSING-hard": "Hard",
-            "MISSING-percent_guessed_correct": "% Guessed Correct",
-            "MISSING-percent_range_display": "_NUMBER_%-_NUMBER2_% Correct Guesses",
-            "MISSING-one_difficulty_must_be_selected": "At least one difficulty must be selected"
+            "title": "Sangvansklighetgrad",
+            "description": "Vansklighetsgraden på de valgte sangene",
+            "easy": "Lett",
+            "medium": "Middels",
+            "hard": "Vanskelig",
+            "percent_guessed_correct": "% gjettet riktig",
+            "percent_range_display": "_NUMBER_%-_NUMBER2_% gjettet riktig",
+            "one_difficulty_must_be_selected": "Minst én vansklighetsgrad må velges"
         },
         "song_popularity": {
-            "MISSING-title": "Song Popularity",
-            "MISSING-description": "Popularity of songs selected",
-            "MISSING-disliked": "Disliked",
-            "MISSING-mixed": "Mixed",
-            "MISSING-liked": "Liked",
-            "MISSING-percent_liked": "% Liked",
-            "MISSING-percent_range_display": "_NUMBER_%-_NUMBER2_% Liked Songs",
-            "MISSING-one_popularity_must_be_selected": "At least one popularity must be selected"
+            "title": "Sangpopularitet",
+            "description": "Populariteten til de valgte sangene",
+            "disliked": "Mislikt",
+            "mixed": "Blandet",
+            "liked": "Likt",
+            "percent_liked": "% likt",
+            "percent_range_display": "_NUMBER_%-_NUMBER2_% likte sanger",
+            "one_popularity_must_be_selected": "Minst én popularitet må velges"
         },
         "modifiers": {
-            "MISSING-title": "Modifiers",
+            "title": "Modifikatorer",
             "skip_guessing": {
-                "MISSING-title": "Skip Guessing",
-                "MISSING-description": "Allow voting skip during the guessing phase"
+                "title": "Hopp over gjetting",
+                "description": "Tillat at gjettingsfasen kan hoppes over"
             },
             "skip_results": {
-                "MISSING-title": "Skip Results",
-                "MISSING-description": "Allow voting skip during the results phase"
+                "title": "Hopp over resultater",
+                "description": "Tillat at resultatfasen kan hoppes over"
             },
             "queueing": {
-                "MISSING-title": "Queueing",
-                "MISSING-description": "Allow spectators to queue up for joining the game"
+                "title": "Kø",
+                "description": "Tillat tilskuere stille seg i kø for å bli med i game"
             },
             "duplicate_shows": {
-                "MISSING-title": "Duplicate Shows",
-                "MISSING-description": "Allow shows to have multiple of their songs selected in the same game"
+                "title": "Duplikat program",
+                "description": "Tillat at programmer har flere av sangen sine valgt i samme spill"
             },
             "rebroadcast_songs": {
-                "MISSING-title": "Rebroadcast Songs",
-                "MISSING-description": "Allow songs from rebroadcasts to be selected"
+                "title": "Repisesanger",
+                "description": "Tillat at sanger fra repriser kan velges"
             },
             "dub_songs": {
-                "MISSING-title": "Dub Songs",
-                "MISSING-description": "Allow songs from dubbed versions to be selected (legacy setting with limited songs)"
+                "title": "Dubbsangs",
+                "description": "Tillat at sanger fra engelske dubber kan velges (eldre innstilling med begrensede sanger)"
             },
             "full_song_range": {
-                "MISSING-title": "Full Song Range",
-                "MISSING-description": "Allow songs to play up to the very ending of the song, can cause silence while answers are revealed"
+                "title": "Fullt sangregister",
+                "description": "La sanger spille helt til slutten av sangen, det kan føre til stillhet mens svarene avsløres"
             }
         },
         "filter_types": {
