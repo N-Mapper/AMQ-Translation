@@ -2208,9 +2208,9 @@
             },
             "song_type": {
                 "title": "Sangtyper",
-                "openings": "Åpninger",
-                "endings": "Avsluttinger",
-                "inserts": "Innsatser"
+                "openings": "Åpning",
+                "endings": "Avslutting",
+                "inserts": "Innsats"
             },
             "song_selection": {
                 "title": "Sangvalg",
@@ -2240,9 +2240,9 @@
             },
             "only_non_default": {
                 "title": "Kun ikke-standardinnstillinger",
-                "sample_point": "Snuttpunkt",
-                "playback_speed": "Avspillingshastighet",
-                "anime_score": "Animescore",
+                "sample_point": "Snutt-_BREAK_punkt",
+                "playback_speed": "Avspillings-_BREAK_hastighet",
+                "anime_score": "Anime-_BREAK_score",
                 "vintage": "Årgang",
                 "genre": "Sjanger",
                 "tag": "Tagg",
@@ -2254,7 +2254,7 @@
         "room_tile": {
             "host": "Vert: _SPANC_ _NAME_ _SPANC_",
             "popovers": {
-                "spectators": "tilskuere",
+                "spectators": "Tilskuere",
                 "songs_left": "Sanger igjen",
                 "players": "Spillere",
                 "game_mode": "Gamemodus",
