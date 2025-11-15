@@ -756,7 +756,7 @@
         "auto_hide_video": {
             "title": "Auto-skjul video",
             "description": "Skjul videoen automatisk for de valgte kategoriene. Den kan fortsatt vises ved å klikke på videoen under avspillingsfasen",
-            "openings": "Introer",
+            "openings": "Introsanger",
             "endings": "Sluttsanger",
             "inserts": "Innsatser",
             "unwatched": {
@@ -1445,7 +1445,7 @@
         "filters": {
             "watched": "Sett",
             "unwatched": "Usett",
-            "openings": "Introer",
+            "openings": "Introsanger",
             "endings": "Sluttsanger",
             "inserts": "Innsatser",
             "missing_versions": "Manglende versjoner",
@@ -1537,7 +1537,7 @@
             "title": "Sangbibliotek FAQ",
             "what_version": {
                 "title": "Hvilken versjon av en sang bør jeg bruke?",
-                "text": "Du bør alltid bruke den versjonen som ble brukt i programmet. For introer og sluttsanger er det vanligvis den 1:30-minutter versjonen. Dersom det brukes forskjellige versjoner gjennom hele programmet, bør du velge den som brukes mest, og hvis de brukes like, bruk den første."
+                "text": "Du bør alltid bruke den versjonen som ble brukt i programmet. For introsanger og sluttsanger er det vanligvis den 1:30-minutter versjonen. Dersom det brukes forskjellige versjoner gjennom hele programmet, bør du velge den som brukes mest, og hvis de brukes like, bruk den første."
             },
             "still_image": {
                 "title": "Kan jeg bruke et stillbilde i stedet for video?",
@@ -1545,7 +1545,7 @@
             },
             "what_to_include": {
                 "title": "Hva bør inkluderes i videoen",
-                "text": "Introen/sluttsangen/scenen sangen spilles av i. _BREAK_ Hvis en sang spilles av med snakking eller andre lyder i løpet av scenen, erstatt lyden med en ren versjon som samsvarer med det som ble brukt i animeen."
+                "text": "Introsangen/sluttsangen/scenen sangen spilles av i. _BREAK_ Hvis en sang spilles av med snakking eller andre lyder i løpet av scenen, erstatt lyden med en ren versjon som samsvarer med det som ble brukt i animeen."
             },
             "file_format": {
                 "title": "Hvilke filformater aksepteres?",
@@ -1948,7 +1948,7 @@
         },
         "song_types": {
             "title": "Sangtyper",
-            "openings": "Introer",
+            "openings": "Introsanger",
             "endings": "Sluttsanger",
             "inserts": "Innsats sanger",
             "one_type_must_be_selected": "Minst én sangtype må velges"
@@ -1973,7 +1973,7 @@
                 "description": "Sanger sunget av karakterer uten å være del av en musikalsk opptrend"
             },
             "inserts": "Innsats",
-            "one_opening_type_must_be_selected": "Minst én introskategori må velges",
+            "one_opening_type_must_be_selected": "Minst én introsangskategori må velges",
             "one_ending_type_must_be_selected": "Minst én sluttsangskategori må velges",
             "one_insert_type_must_be_selected": "Minst én innsatsskategori må velges"
         },
@@ -2208,7 +2208,7 @@
             },
             "song_type": {
                 "title": "Sangtyper",
-                "openings": "Intro",
+                "openings": "Introsang",
                 "endings": "Sluttsang",
                 "inserts": "Innsats"
             },
@@ -2266,7 +2266,7 @@
                 "friends": "Venner"
             },
             "song_types": {
-                "opening": "Intro",
+                "opening": "Introsang",
                 "ending": "Sluttsang",
                 "insert": "Innsats"
             },
