@@ -758,7 +758,7 @@
             "description": "Skjul videoen automatisk for de valgte kategoriene. Den kan fortsatt vises ved å klikke på videoen under avspillingsfasen",
             "openings": "Introsanger",
             "endings": "Sluttsanger",
-            "inserts": "Innsatser",
+            "inserts": "Innsatssanger",
             "unwatched": {
                 "title": "Usett",
                 "description": "Videoer fra anime du ikke har sett"
@@ -1445,8 +1445,8 @@
         "filters": {
             "watched": "Sett",
             "unwatched": "Usett",
-            "openings": "Introsanger",
-            "endings": "Sluttsanger",
+            "openings": "Introer",
+            "endings": "Slutter",
             "inserts": "Innsatser",
             "missing_versions": "Manglende versjoner",
             "player_state": "Spillervurdering",
@@ -1950,7 +1950,7 @@
             "title": "Sangtyper",
             "openings": "Introsanger",
             "endings": "Sluttsanger",
-            "inserts": "Innsats sanger",
+            "inserts": "Innsatssanger",
             "one_type_must_be_selected": "Minst én sangtype må velges"
         },
         "song_categories": {
@@ -1972,10 +1972,10 @@
                 "title": "Karakter",
                 "description": "Sanger sunget av karakterer uten å være del av en musikalsk opptrend"
             },
-            "inserts": "Innsats",
+            "inserts": "Innsatssanger",
             "one_opening_type_must_be_selected": "Minst én introsangskategori må velges",
             "one_ending_type_must_be_selected": "Minst én sluttsangskategori må velges",
-            "one_insert_type_must_be_selected": "Minst én innsatsskategori må velges"
+            "one_insert_type_must_be_selected": "Minst én innsatssangskategori må velges"
         },
         "scoring": {
             "title": "Scoring",
@@ -2210,7 +2210,7 @@
                 "title": "Sangtyper",
                 "openings": "Introsang",
                 "endings": "Sluttsang",
-                "inserts": "Innsats"
+                "inserts": "Innsatssang"
             },
             "song_selection": {
                 "title": "Sangvalg",
@@ -2266,9 +2266,9 @@
                 "friends": "Venner"
             },
             "song_types": {
-                "opening": "Introsang",
-                "ending": "Sluttsang",
-                "insert": "Innsats"
+                "opening": "Introer",
+                "ending": "Slutter",
+                "insert": "Innsatser"
             },
             "join": "Bli med",
             "spectate": "Se på",
