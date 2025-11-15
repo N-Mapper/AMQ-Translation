@@ -2080,7 +2080,7 @@
             "percent_range_display": "_NUMBER_%-_NUMBER2_% inni sangen"
         },
         "playback_speed": {
-            "title": "Avspillingshastighet",
+            "title": "Sangshastighet",
             "description": "Hastigheten sangen blir spilt på"
         },
         "song_difficulty": {
@@ -2208,9 +2208,9 @@
             },
             "song_type": {
                 "title": "Sangtyper",
-                "openings": "Introsang",
-                "endings": "Sluttsang",
-                "inserts": "Innsatssang"
+                "openings": "Introer",
+                "endings": "Slutter",
+                "inserts": "Innsatser"
             },
             "song_selection": {
                 "title": "Sangvalg",
@@ -2241,7 +2241,7 @@
             "only_non_default": {
                 "title": "Kun ikke-standardinnstillinger",
                 "sample_point": "Snutt-_BREAK_punkt",
-                "playback_speed": "Avspillings-_BREAK_hastighet",
+                "playback_speed": "Sang-_BREAK_hastighet",
                 "anime_score": "Anime-_BREAK_score",
                 "vintage": "Årgang",
                 "genre": "Sjanger",
