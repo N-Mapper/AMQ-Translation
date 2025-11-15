@@ -835,7 +835,7 @@
         "title": "Bytt passord",
         "current_password": "Nåværende passord",
         "no_current_password": "Du må oppgi ditt nåværende passord",
-        "unexpected_error": "Uventet feil,  prøv på nytt",
+        "unexpected_error": "Uventet feil, prøv på nytt",
         "error_contacting_server": "Servertilkoblingsfeil, prøv på nytt senere",
         "password_updated": "Passord er oppdatert",
         "wrong_password": "Nåværende passord er feil"
@@ -917,7 +917,7 @@
             "target_messages": {
                 "target_message": "Mål i resonanssystemet",
                 "require_base_skin": "Krever basisskinnet for å målrettes",
-                "rare_common": "Sjeldne/Vanlige skinn kan ikke målrettes"
+                "rare_common": "Sjeldne/vanlige skinn kan ikke målrettes"
             },
             "no_target": "Mål ikke valgt",
             "no_target_description": "Målrett et skinn/avatar ved å målsette det fra butikken",
@@ -1186,11 +1186,11 @@
     "avatar_lore": {
         "hibiki": {
             "thief": "Hibiki er en velkjent, lykkelig eventyrer, med et talent for å komme seg inn der hun ikke skal være og ut med mer enn hun kom inn med. En ferdighet hun ofte skryter om på lokale taverner.",
-            "monster_trainer": "Siden Hibiki aldri har vært en som slår seg til ro lenge, overrasket det ingen da hun dro ut for å utforske verden etter å ha møtt partneren sin, Hineko. Sammen utgjør de to én dynamisk duo, og de skaper seg raskt et navn.",
+            "monster_trainer": "Siden Hibiki aldri har vært en som slår seg til ro lenge, overrasket det ingen da hun dro ut for å utforske verden etter å ha møtt partneren sin, Hineko. Sammen utgjør de én dynamisk duo, og de skaper seg raskt et navn.",
             "fast_food_employee": "Hibiki måtte raskt finne en ny jobb i en ny by. Heldigvis endte hun opp med å få en flott jobb på en lokal fast food kjede, hvor hun nå tilbringer dagene sine med å jobbe med fantastiske kolleger, mens hun forbereder seg til sin neste reise."
         },
         "honoka": {
-            "standard": "Grunnet svak helse tilbrakte Honoka mesteparten av livet sitt på familiens eiendom, kun med selskap av bøkene sine og hennes personlige tjenestepike Kyouko, helt til nylig da hun tilfeldigvis møtte Ritsu og de to ble venner.",
+            "standard": "Grunnet svak helse tilbrakte Honoka mesteparten av livet sitt på familiens eiendom, kun med selskap av bøkene sine og hennes personlige tjenestepike Kyouko, helt til nylig da hun tilfeldigvis møtte Ritsu og de ble venner.",
             "druid": "Honoka kommer fra en nasjon av druider, men reiser nå verden rundt på jakt etter ny kunnskap, den siste testen som gis til nye druider. Reisen hennes deles for tiden med Kyouko, en lokal ridder som er utpekt til å være hennes guide i dette riket."
         },
         "kyouko": {
@@ -1229,14 +1229,14 @@
             "standard": "Som en lykkelig og munter jente levde Miyu et begivenhetsløst liv frem til sitt siste år på ungdomsskolen, da hun fant en stjerneformet juvel som lot henne materialisere sine underliggende magiske krefter.",
             "valkyrie": "Miyu viste et enormt potensial innen magi i en tidlig alder, og ble rekruttert som en kongelig magisk ridder, hvor kreftene hennes raskt ga henne rangen som høy ridder og kallenavnet \"Valkyrie\".",
             "ice_princess": "Under en av kampene hennes endte opp med å forsvare en stamme med isånder, som, da Miyu var i ferd med å bli beseiret, ga henne kreftene sine. De forvandlet henne til en magisk isprinsesse, noe som ga henne kraften til å beseire fienden.",
-            "idol": "Etter at en mystisk ond organisasjon infiltrerte idolindustrien, måtte Miyu gå undercover som et idol for å finne ut av og sette en stopper for deres onde planer. Så, assistert av magien sin, entret Miyua scenen som et verdenskjent idol.",
-            "summer_games": "Som en sky jente hadde ikke folk mye tillit til at Miyu kunne bli en profesjonell gymnast. Men talentet og hardt arbeid motbeviste dem,  og hun er nå klar til å vise frem ferdighetene sine i de årlige sommerlekene."
+            "idol": "Etter at en mystisk ond organisasjon infiltrerte idolindustrien, måtte Miyu gå undercover som et idol for å finne ut av og sette en stopper for deres onde planer. Så, assistert av magien sin, entret Miyu scenen som et verdenskjent idol.",
+            "summer_games": "Som en sky jente hadde ikke folk mye tillit til at Miyu kunne bli en profesjonell gymnast. Men talentet og hardt arbeid motbeviste dem, og hun er nå klar til å vise frem ferdighetene sine i de årlige sommerlekene."
         },
         "shiina": {
             "standard": "Shiina tilbrakte barndommen sin med å se på idoler på TV, og drømte å bli et selv. Drømmen hennes begynte endelig å gå i oppfyllelse da hun begynte på videregående og klarte å lande jobben som et lokalt idol for byen sin."
         },
         "mizuki": {
-            "standard": "Mizuki fungerer som prestinnen i sin populære helligdom, og deler sin velsignelse med de mange besøkende. velsignelser som ofte ender opp i hennes favør. Hun får ofte besøk av Komugi, som er irritert over at helligdommen hennes blir bortglemt.",
+            "standard": "Mizuki fungerer som prestinnen i sin populære helligdom, og deler sin velsignelse med de mange besøkende. Velsignelser som ofte ender opp i hennes favør. Hun får ofte besøk av Komugi, som er irritert over at helligdommen hennes blir bortglemt.",
             "high_priest": "Som sin stammes yppersteprest nøt Mizuki livet. Alt dette endret seg da Komugi brøt reglene og forlot stammen, noe som tvang Mizuki til å dra for å hente henne tilbake. Nå reiser hun verden rundt og prøver å fange Komugi."
         },
         "marine": {
@@ -1299,15 +1299,15 @@
         },
         "shin": {
             "standard": "Shin er lokalt kjent som en gatekatt, ettersom han liker å bruke tiden sin på å utforske bymiljøet i hjembyen sin og samhandle med de forskjellige folkene der. Nysgjerrigheten hans har fører til at han kommer i trøbbel fra tid til annen.",
-            "maid": "Noen venner ville spøke med Shin, og lurte han til å hjelpe til på en lokal maid cafe. Men til deres store overraskelse og misnøye endte Shin opp med å være en ekstremt dyktig maid, og ble raskt kaféens mest populære."
+            "maid": "Noen venner ville spøke med Shin, og lurte han til å hjelpe til på en lokal maidkafé. Men til deres store overraskelse og misnøye endte Shin opp med å være en ekstremt dyktig maid, og ble raskt kaféens mest populære."
         },
         "lilith": {
             "standard": "Lilith kommer fra en lang rekke med urgamle vampyrer, men lever for tiden et normalt liv på videregående. Selv om hun ikke skjuler sin vampyropprinnelse, tror ikke folk rundt henne på det, og tror bare det er et personlighetstrekk.",
             "school_girl": "Lilith lever livet sitt på videregående til det fulleste, og ser nesten ut som en hvilken som helst annen energisk jente på videregående, bortsett fra at hun er en vampyr. Selv om hun ikke legger skjuler det, tror alle rundt henne at hun tuller."
         },
         "mao": {
-            "standard": "Mao var født med den reinkarnerte demonkongens ånd forseglet inni seg, noe som ga henne evnen til å bruke kreftene hans, en kraft som kan korrumpere henne og frigjøre demonkongen. Eller det er det hun vil si når du spør hva hun driver med.",
-            "student_president": "Etter en rekke tilfeldige hendelser endte Mao opp som elevrådsleder på skolen sin. Hun tar på seg ansvaret og er nå klar til å styre skolen med jernhånd og viser alle hvordan en ekte elevrådsleder opptret!",
+            "standard": "Mao var født med en reinkarnerte demonkongens ånd forseglet inni seg, noe som ga henne evnen til å bruke kreftene hans, en kraft som kan korrumpere henne og frigjøre demonkongen. Eller det er det hun vil si når du spør hva hun driver med.",
+            "student_president": "Etter en rekke tilfeldige hendelser endte Mao opp som elevrådsleder på skolen sin. Hun tar på seg ansvaret og er nå klar til å styre skolen med jernhånd og viser alle hvordan en ekte elevrådsleder opptrer!",
             "demon_lord": "Det ville sjokkere mange å plutselig bli tilkalt til en annen verden som en demonherre, men ikke Mao, som nøt å endelig ha kraften hun alltid drømte om. Hun må imidlertid fortsatt lære seg å bruke den."
         },
         "kei": {
@@ -1350,7 +1350,7 @@
             "adventurer": "Ignis er kjent som en mystisk eventyrer som kommer til unnsetning for mennesker i nød, uansett om det er en karavan som blir overfalt av monstre eller bønder som blir trakassert av korrupte riddere, mens han reiser gjennom kongeriket."
         },
         "rin": {
-            "standard": "Rin hadde det vanskelig med mobbere på skolen, og aksepterte raskt da en merkelig skapaning tilbød henne magiske krefter. Full av sine nye krefter begynte Rin å hevne seg på sine tidligere mobbere, noe som ofte førte til at hun kom i konflikt med Miyu."
+            "standard": "Rin hadde det vanskelig med mobbere på skolen, og aksepterte raskt da en merkelig skapning tilbød henne magiske krefter. Full av sine nye krefter begynte Rin å hevne seg på sine tidligere mobbere, noe som ofte førte til at hun kom i konflikt med Miyu."
         },
         "emiri": {
             "standard": "Emiri gledet seg til drømmelivet sitt på videregående, og ble sjokkert over å finne Chika og Yumemi i klassen sin. De vanvittige påfunnene deres ender ofte opp med å dra henne inn i dem, og forstyrrer hennes idé om det perfekte livet på videregående."
@@ -1368,7 +1368,7 @@
             "standard": "Mofuji driver en liten kafé på landsbygda, men stedet er ofte i midten av kampene mellom de teknologiske og magiske nasjonene. Mofuji har ikke noe imot det, og holder ofte kaféen åpen mens bomber og magi regner ned rundt den."
         },
         "arai": {
-            "standard": "Arai driver sine egene undergrunnsquizturneringer, noe som har gjort henne beryktet i noen kretser og berømt i andre. Til tross for at det er tvilsomt at hun både er vert og deltaker, trekker turneringene hennes enorme folkemengder."
+            "standard": "Arai driver sine egne undergrunnsquizturneringer, noe som har gjort henne beryktet i noen kretser og berømt i andre. Til tross for at det er tvilsomt at hun både er vert og deltaker, trekker turneringene hennes enorme folkemengder."
         },
         "yua": {
             "standard": "Siden videregående har Yua drevet med skreddersøm og klessøm, med en stor lidenskap for brudeskjoler. Hun elsker i hemmelighet å kle seg i dem, og drømmer om å gifte seg en dag, men ville dø av flauhet hvis vennene hennes fant det ut."
@@ -1403,7 +1403,7 @@
             "description": "Utvidelsesfunksjonen lar spillere legge til manglende video-/mp3-kilder for sanger, og er ikke tilgjengelig for kontoer under nivå 5."
         },
         "expand_confirmation": {
-            "title": "Utvid video/MP3 bibilioteket",
+            "title": "Utvid video/mp3 bibilioteket",
             "description": "Hjelp med å utvide biblioteket ved å legge til manglende mp3- eller videolenker. Sanger som mangler i biblioteket kan etterspørres på AMQ Discord."
         },
         "video_preview": "Video Forhåndsvisning",
@@ -1440,7 +1440,7 @@
             "video_passed_check": "Videoen bestod kontrollen",
             "error_loading_video": "Videoinnlastingsfeil",
             "submitting_video": "Sender video",
-            "mp3_before_video": "Mp3-en må lastes opp etter at en videoversjon er godkjent"
+            "mp3_before_video": "MP3-en må lastes opp etter at en videoversjon er godkjent"
         },
         "filters": {
             "watched": "Sett",
@@ -1510,7 +1510,7 @@
                 "title": "Gjett prosent",
                 "global": "Globalt: _SPANC_ X _SPANC_%",
                 "recent": "Nylig: _SPANC_ X _SPANC_%",
-                "description": "Den totale prosentandelen for riktig gjetting for denne sangen og din egen prosentandel for riktig gjetting ut fra de siste 8 svarene. Inkluderer kun skrevne svar i quizer med større sangsamlinger."
+                "description": "Den totale prosentandelen for riktig gjetting for denne sangen og din egen prosentandel for riktig gjetting ut ifra de siste 8 svarene. Inkluderer kun skrevne svar i quizer med større sangsamlinger."
             },
             "play_count": "Antall avspillinger",
             "play_count_correct": "(_SPANC_ X _SPANC_% riktig)",
@@ -1577,7 +1577,7 @@
             },
             "what_to_do_approved": {
                 "title": "Jeg er usikker på hva jeg skal gjøre for å få opplastingen min godkjent",
-                "text": "If your upload got rejected, or you're not sure how to get an upload approved, it is recommended to ask on the game's Discord server, where people will be able to help you."
+                "text": "Hvis opplastingen din ble avvist, eller du er usikker på hvordan du får en opplasting godkjent, anbefales det å spørre i spillets discord-server hvor folk kan hjelpe deg."
             }
         }
     },
@@ -1625,7 +1625,7 @@
         },
         "sorting": {
             "trending": "Trendende",
-            "newest": "Newest",
+            "newest": "Nyeste",
             "most_liked": "Mest likte",
             "most_played": "Mest spilte"
         },
@@ -1666,7 +1666,7 @@
         "patreon_promo": "Bli et Patreon-medlem på nivå 3+ for å _BREAK_ låse opp ubegrenset plasser og flere fordeler",
         "creator": "Skaper",
         "description": "Beskrivelse",
-        "tags": "Merklapper",
+        "tags": "Tagger",
         "quiz_stats": {
             "title": "Quizstatistikk",
             "plays": "Spilt:",
@@ -1780,7 +1780,7 @@
             "unlimited": "Ubegrensede plasser"
         },
         "host_community_quiz": {
-            "title": "Vert for fellesskapetquiz",
+            "title": "Vert for fellesskapquiz",
             "room_type": "Romtype",
             "room_info": "Rominfo",
             "optional_password": "Eventuelt passord"
@@ -1811,7 +1811,7 @@
         },
         "quiz_mode": {
             "standard_quiz": "Standardquiz",
-            "community_quiz": "felleskapetquiz"
+            "community_quiz": "Fellesskapquiz"
         },
         "buttons": {
             "exit": "Gå ut",
@@ -1869,7 +1869,7 @@
             },
             "boss_fight": {
                 "title": "Bosskamp",
-                "description": "Spillere bytter på å være boss, og spiller kun med sangen sine og power-ups som bossen kan bruke mot de andre spillerne"
+                "description": "Spillere bytter på å være boss, og spiller kun med sangene deres og power-ups som bossen kan bruke mot de andre spillerne"
             }
         },
         "player_score": {
@@ -1877,7 +1877,7 @@
             "description": "Begrens sanger til anime som spillerne har scoret på listen sin innenfor det gitte området."
         },
         "anime_score": {
-            "title": "Anime Score",
+            "title": "Animescore",
             "description": "Begrens sanger til anime med en score på AniList innenfor det gitte området."
         },
         "vintage": {
@@ -1928,7 +1928,7 @@
             "title": "Antall sanger"
         },
         "team_size": {
-            "title": "Lag størrelse",
+            "title": "Lagstørrelse",
             "solo": "Solo"
         },
         "song_selection": {
@@ -1941,7 +1941,7 @@
         },
         "watched_distribution": {
             "title": "Sett fordeling",
-            "description": "Hvordan sanger som er sett velges mellom spillere, enten tilfelig, vektet der større lister får flere sanger eller et likt antall fra hver liste.",
+            "description": "Hvordan sanger som er sett velges mellom spillere, enten tilfeldig, vektet der større lister får flere sanger eller et likt antall fra hver liste.",
             "random": "Tilfeldig",
             "weighted": "Vektet",
             "equal": "Likt"
@@ -2122,7 +2122,7 @@
                 "description": "Tillat at programmer har flere av sangene sine valgt i samme game"
             },
             "rebroadcast_songs": {
-                "title": "Repisesanger",
+                "title": "Reprisesanger",
                 "description": "Tillat at sanger fra repriser kan velges"
             },
             "dub_songs": {
@@ -2143,7 +2143,7 @@
             "room_name_missing": "Romnavn er obligatorisk",
             "room_name_too_long": {
                 "title": "Romnavnet er for langt",
-                "description": "Romnavnet kan maksimalt værer 20 tegn"
+                "description": "Romnavnet kan maksimalt være på 20 tegn"
             },
             "password_missing": "Passord kreves for private rom",
             "one_player_score_required": "Minst én spillers score må være slått på",
@@ -2174,8 +2174,8 @@
             "confirm_button": "Lagre",
             "setting_saved": "Instilling lagret",
             "must_provide_name": "Du må oppgi et navn",
-            "name_too_long": "Navnet kan maksimalt være_NUMBER_ tegn",
-            "max_saved_settings": "Maksimalt antall _NUMBER_ lagrede innstillinger nådd"
+            "name_too_long": "Navnet kan maksimalt være på _NUMBER_ tegn",
+            "max_saved_settings": "Maksimalt antall av _NUMBER_ lagrede innstillinger er nådd"
         },
         "delete_saved_setting": {
             "title": "Slett lagret innstilling",
@@ -2267,16 +2267,16 @@
             },
             "song_types": {
                 "opening": "Åpning",
-                "ending": "Avslutning",
+                "ending": "Avslutnin",
                 "insert": "Innsats"
             },
             "join": "Bli med",
-            "spectate": "Tilskue",
+            "spectate": "Se på",
             "game_mode": {
-                "community": "Felleskap",
+                "community": "Fellesskap",
                 "battle_royale": "Battle royale",
                 "hint": "Hint",
-                "last_man_standing": "Sistemann i live",
+                "last_man_standing": "Sistemann ut",
                 "quick_draw": "Førstemann",
                 "boss_fight": "Bosskamp",
                 "amq_awards": "AMQ-prisene",
