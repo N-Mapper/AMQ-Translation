@@ -756,8 +756,8 @@
         "auto_hide_video": {
             "title": "Auto-skjul video",
             "description": "Skjul videoen automatisk for de valgte kategoriene. Den kan fortsatt vises ved å klikke på videoen under avspillingsfasen",
-            "openings": "Åpninger",
-            "endings": "Avsluttinger",
+            "openings": "Introer",
+            "endings": "Sluttsanger",
             "inserts": "Innsatser",
             "unwatched": {
                 "title": "Usett",
@@ -980,7 +980,7 @@
                 "description": "Vis innhold som er tilgjengelig for opplåsing i butikken"
             },
             "unavailable": {
-                "title": "utilgjengelig",
+                "title": "Utilgjengelig",
                 "description": "Vis innhold som ikke er tilgjengelig for opplåsing i butikken"
             },
             "limited": {
@@ -1445,8 +1445,8 @@
         "filters": {
             "watched": "Sett",
             "unwatched": "Usett",
-            "openings": "Åpninger",
-            "endings": "Avsluttinger",
+            "openings": "Introer",
+            "endings": "Sluttsanger",
             "inserts": "Innsatser",
             "missing_versions": "Manglende versjoner",
             "player_state": "Spillervurdering",
@@ -1480,8 +1480,8 @@
         "search": "Søk",
         "anime_entry": {
             "song_counts": {
-                "op": "ÅP _NUMBER_",
-                "ed": "AS _NUMBER_",
+                "op": "OP _NUMBER_",
+                "ed": "ED _NUMBER_",
                 "insert": "IN _NUMBER_"
             },
             "vintage": {
@@ -1497,8 +1497,8 @@
         },
         "song_entry": {
             "type": {
-                "Mop": "ÅP_NUMBER_",
-                "ed": "AS_NUMBER_",
+                "Mop": "OP_NUMBER_",
+                "ed": "ED_NUMBER_",
                 "in": "IN"
             },
             "dub": "Dubb",
@@ -1537,7 +1537,7 @@
             "title": "Sangbibliotek FAQ",
             "what_version": {
                 "title": "Hvilken versjon av en sang bør jeg bruke?",
-                "text": "Du bør alltid bruke den versjonen som ble brukt i programmet. For åpeninger og avslutninger er det vanligvis den 1:30-minutter versjonen. Dersom det brukes forskjellige versjoner gjennom hele programmet, bør du velge den som brukes mest, og hvis de brukes like, bruk den første."
+                "text": "Du bør alltid bruke den versjonen som ble brukt i programmet. For introer og sluttsanger er det vanligvis den 1:30-minutter versjonen. Dersom det brukes forskjellige versjoner gjennom hele programmet, bør du velge den som brukes mest, og hvis de brukes like, bruk den første."
             },
             "still_image": {
                 "title": "Kan jeg bruke et stillbilde i stedet for video?",
@@ -1545,7 +1545,7 @@
             },
             "what_to_include": {
                 "title": "Hva bør inkluderes i videoen",
-                "text": "Åpeningen/avsluttingen/scenen sangen spilles av i. _BREAK_ Hvis en sang spilles av med snakking eller andre lyder i løpet av scenen, erstatt lyden med en ren versjon som samsvarer med det som ble brukt i animeen."
+                "text": "Introen/sluttsangen/scenen sangen spilles av i. _BREAK_ Hvis en sang spilles av med snakking eller andre lyder i løpet av scenen, erstatt lyden med en ren versjon som samsvarer med det som ble brukt i animeen."
             },
             "file_format": {
                 "title": "Hvilke filformater aksepteres?",
@@ -1631,8 +1631,8 @@
         },
         "search_for_quizzes": "Søk etter quizer",
         "song_types": {
-            "op": "ÅP",
-            "ed": "AS",
+            "op": "OP",
+            "ed": "ED",
             "in": "IN"
         },
         "difficulties": {
@@ -1948,8 +1948,8 @@
         },
         "song_types": {
             "title": "Sangtyper",
-            "openings": "Åpninger",
-            "endings": "Avsluttinger",
+            "openings": "Introer",
+            "endings": "Sluttsanger",
             "inserts": "Innsats sanger",
             "one_type_must_be_selected": "Minst én sangtype må velges"
         },
@@ -1973,8 +1973,8 @@
                 "description": "Sanger sunget av karakterer uten å være del av en musikalsk opptrend"
             },
             "inserts": "Innsats",
-            "one_opening_type_must_be_selected": "Minst én åpeningskategori må velges",
-            "one_ending_type_must_be_selected": "Minst én avsluttingskategori må velges",
+            "one_opening_type_must_be_selected": "Minst én introskategori må velges",
+            "one_ending_type_must_be_selected": "Minst én sluttsangskategori må velges",
             "one_insert_type_must_be_selected": "Minst én innsatsskategori må velges"
         },
         "scoring": {
@@ -2208,8 +2208,8 @@
             },
             "song_type": {
                 "title": "Sangtyper",
-                "openings": "Åpning",
-                "endings": "Avslutting",
+                "openings": "Intro",
+                "endings": "Sluttsang",
                 "inserts": "Innsats"
             },
             "song_selection": {
@@ -2266,8 +2266,8 @@
                 "friends": "Venner"
             },
             "song_types": {
-                "opening": "Åpning",
-                "ending": "Avslutnin",
+                "opening": "Intro",
+                "ending": "Sluttsang",
                 "insert": "Innsats"
             },
             "join": "Bli med",
