@@ -1507,7 +1507,7 @@
             "arranger": "Arrangør",
             "song_category": "Sangkategori",
             "guess_percent": {
-                "title": "gjettingsrate",
+                "title": "Gjettingsrate",
                 "global": "Globalt: _SPANC_ X _SPANC_%",
                 "recent": "Nylig: _SPANC_ X _SPANC_%",
                 "description": "Den totale prosentandelen for riktig gjetting for denne sangen og din egen prosentandel for riktig gjetting ut ifra de siste 8 svarene. Inkluderer kun skrevne svar i quizer med større sangsamlinger."
@@ -1721,7 +1721,7 @@
             "slot_unlocked": "Quizplasser er låst opp",
             "unlimited_slots_unlocked": "Ubegrenset antall quizplasser er låst opp",
             "no_slots_available": {
-                "title": "Ingen plasser Tilgjengelig",
+                "title": "Ingen plasser tilgjengelig",
                 "description": "Alle quizplassene er i bruk. Lås opp flere plasser eller slett en gammel quiz før du oppretter en ny."
             },
             "delete_quiz_confirmation": {
@@ -2037,11 +2037,11 @@
             "description": "Antall liv bossen starter med"
         },
         "boss_power_ups": {
-            "title": "Boss Power-ups",
+            "title": "Boss power-ups",
             "description": "Antall unike power-ups bossen kan bruke"
         },
         "boss_max_song_count": {
-            "title": "Boss Max Song Count",
+            "title": "Maks antall boss sanger",
             "description": "Maksimalt antall sanger bossen kan få. Hvis de overlever alle sangene, tjener de bonuspoeng basert på antall liv de har igjen"
         },
         "inventory_size": {
@@ -2055,8 +2055,8 @@
             "time_range_display": "_NUMBER_-_NUMBER2_ sekunder"
         },
         "loot_dropping": {
-            "title": "Sleppe inventar",
-            "description": "Tillat spillere å sleppe innsamlede program i løpet av innsamlingsfasen"
+            "title": "Slippe inventar",
+            "description": "Tillat spillere å slippe innsamlede program i løpet av innsamlingsfasen"
         },
         "guess_time": {
             "title": "Gjettetid",
