@@ -44,7 +44,7 @@
             "close_button": "Lukk",
             "report": "Rappoter",
             "not_applicable": "N/A",
-            "MISSING-claimed_button": "Claimed"
+            "claimed_button": "Mottatt"
         },
         "popout_messages": {
             "unexpected_error": "Uventet feil",
@@ -369,12 +369,11 @@
             "faq_header": "FAQ",
             "avatar_description_placeholder": "Kort beskrivelse av avatar",
             "title": "Avatar-aksjon",
-            "MISSING-approx_dollars_2": "Approx. $_SPAN_ _NUMBER_ _SPAN_",
+            "approx_dollars_2": "Omtrent. $_SPAN_ _NUMBER_ _SPAN_",
             "donation_choice_text": {
-                "MISSING-nomination": "Nomination",
-                "MISSING-secondary_choice": "Secondary Choice"
-            },
-            "DELETED-approx_dollars": "Omtrent. $"
+                "nomination": "Nominasjon",
+                "secondary_choice": "Andre valg"
+            }
         },
         "social_rewards": {
             "title": "Sosiale media belønning",
@@ -503,21 +502,21 @@
             "description": "Du kan endre kallenavnet ditt (navnet som vises i spillet) ved å bruke én navneendringstoken. Kontoen din får én navneendringstoken hvert år og en ekstra token hver måned hvis du er et Patreon-medlem på nivå 4 eller høyere. _BREAK_ Hvis du bytter kallenavn, vil ditt gamle kallenavn bli tilgjengelig for alle å bruke (selv hvis det er ditt originale navn). _BREAK_ Ditt originale navn vil fortsatt være synlig på profilen din.",
             "current_tokens": "Nåværende navneendringstokens: _SPAN_ _NUMBER_ _SPAN_",
             "check_availability": "Sjekk tilgjengelighet",
-            "MISSING-new_nickname": "New Nickname",
+            "new_nickname": "Nytt kallenavn",
             "change_message": {
-                "MISSING-title": "Change Nickname to _NAME_",
-                "MISSING-text": "Ones changed you can't go back to your current name without using a name change token"
+                "title": "Bytt kallenavn til _NAME_",
+                "text": "Når du har byttet navn, kan du ikke gå tilbake til ditt nåværende navn uten å bruke en navneendringstoken"
             },
-            "MISSING-nickname_available": "Nickname Available",
+            "nickname_available": "Kallenavn tilgjengelig",
             "nickname_not_available": {
-                "MISSING-title": "Nickname Not Available",
-                "MISSING-already_in_use": "This nickname is already in use",
-                "MISSING-banned": "This nickname is banned"
+                "title": "Kallenavn ikke tilgjengelig",
+                "already_in_use": "Dette kallenavnet er allerede i bruk",
+                "banned": "Dette kallenavnet er forbudt"
             },
             "change_nickname_messages": {
-                "MISSING-banned": "Your Account is Banned from Changing Nickname",
-                "MISSING-success": "Nickname Changed",
-                "MISSING-no_token": "No Name Change Tokens Available"
+                "banned": "Kontoen din er utestengt fra å endre kallenavn",
+                "success": "Kallenavn byttet",
+                "no_token": "Ingen navneendringstokens tilgjengelig"
             }
         },
         "alerts": {
@@ -1021,7 +1020,7 @@
                 "title": "Standard",
                 "description": "Vis innhold som kan låses opp med notes"
             },
-            "MISSING-title": "Filters"
+            "title": "Filtre"
         },
         "background": "Bakgrunn",
         "toggle": {
@@ -1146,12 +1145,12 @@
                 "unlocks_remaining": "_SPANC_ _NUMBER_ _SPANC_ opplåsning(er) igjen",
                 "days_remaining": "_SPANC_ _NUMBER_ _SPANC_ dag(er) igjen",
                 "getting_started_pack": "Komme i gang-pakken",
-                "MISSING-promo": "Promo"
+                "promo": "Kampanje"
             },
             "subtotal": "Delsum",
             "sales_tax": "moms.",
             "total": "Sum",
-            "MISSING-gift_message_placeholder": "Enter a gift message (optional)"
+            "gift_message_placeholder": "Skriv inn en gavemelding (valgfri)"
         },
         "avatar_tokens": {
             "title": "Avatar tokens",
@@ -1425,7 +1424,7 @@
         "expand_count_description": "Antall sanger lastet opp",
         "expand_level_requirement": {
             "title": "Level 5+ påkrevd",
-            "description": "Utvidelsesfunksjonen lar spillere legge til manglende video-/mp3-kilder for sanger, og er ikke tilgjengelig for kontoer under nivå 5."
+            "description": "Utvidelsesfunksjonen lar spillere legge til manglende video-/mp3-kilder for sanger, og er ikke tilgjengelig for kontoer under level 5."
         },
         "expand_confirmation": {
             "title": "Utvid video/mp3 bibilioteket",
@@ -1491,7 +1490,7 @@
                 "uploaded": "Opplastet",
                 "missing": "Mangler"
             },
-            "MISSING-more_filters": "More Filters"
+            "more_filters": "Flere filtre"
         },
         "search_targets": {
             "all": "Alt",
@@ -1520,14 +1519,13 @@
             "names": "Navn",
             "tags": "Tagger",
             "songs": "Sanger",
-            "MISSING-more_info": "More Info"
+            "more_info": "Mer info"
         },
         "song_entry": {
             "type": {
                 "ed": "ED_NUMBER_",
                 "in": "IN",
-                "MISSING-op": "OP_NUMBER_",
-                "DELETED-Mop": "OP_NUMBER_"
+                "op": "OP_NUMBER_"
             },
             "dub": "Dubb",
             "rebroadcast": "Reprise",
@@ -1558,11 +1556,11 @@
                 "missing": "Mangler",
                 "pending": "Venter på godkjenning",
                 "uploaded": {
-                    "MISSING-title": "Uploaded",
-                    "MISSING-description": "Click to View"
+                    "title": "Opplastet",
+                    "description": "Klikk for å se"
                 }
             },
-            "MISSING-anime_header": "Anime:"
+            "anime_header": "Anime:"
         },
         "faq": {
             "shorthand": "FAQ",
@@ -1817,36 +1815,36 @@
             "room_info": "Rominfo",
             "optional_password": "Eventuelt passord"
         },
-        "MISSING-browse": "Browse",
+        "browse": "Bla igjennom",
         "medal_descriptions": {
             "unearned": {
-                "MISSING-title": "Quiz Medals",
-                "MISSING-description": "Public quizzes awards medals based on your best result, ranging from bronze to diamond medals. Multiple choice are capped at silver medals"
+                "title": "Quiz-medaljer",
+                "description": "Offentlige quizer gir ut medaljer basert på ditt beste resultat, alt fra bronse til diamantmedaljer. Flervalg er begrenset til sølvmedaljer"
             },
             "bronze": {
-                "MISSING-title": "Bronze Medal",
-                "MISSING-description": "Got 40% correct (80% for multiple choice) on this quiz! Next up is silver at 60% (100% for multiple choice)"
+                "title": "Bronsemedalje",
+                "description": "Fikk 40% riktig (80% for flervalg) på denne quizen! Neste er sølv med 60% (100% for flervalg)"
             },
             "silver": {
-                "MISSING-title": "Silver Medal",
-                "MISSING-description": "Got 60% correct (100% for multiple choice) on this quiz! Next up is gold at 80%"
+                "title": "Sølvmedalje",
+                "description": "Fikk 60% riktig (100% for flervalg) på denne quizen! Neste er gull med 80%"
             },
             "gold": {
-                "MISSING-title": "Gold Medal",
-                "MISSING-description": "Got 80% correct on this quiz! Next up is diamond at 100%"
+                "title": "Gullmedalje",
+                "description": "Fikk 80% riktig på denne quizen! Neste er diamant med 100%"
             },
             "diamond": {
-                "MISSING-title": "Diamond Medal",
-                "MISSING-description": "Got 100% correct on this quiz!"
+                "title": "Diamantmedalje",
+                "description": "Fikk 100% riktig på denne quizen!"
             }
         },
         "create_new_quiz_tile": {
-            "MISSING-message": "Create New Quiz",
-            "MISSING-title": "New Quiz"
+            "message": "Lag ny quiz",
+            "title": "Ny quiz"
         },
         "unlock_at_tile": {
-            "MISSING-message": "Unlock at Level _NUMBER_",
-            "MISSING-title": "Locked"
+            "message": "Låses opp på level _NUMBER_",
+            "title": "Låst"
         }
     },
     "community_quiz_tags": {
@@ -2356,8 +2354,8 @@
                 "title": "Passord kreves",
                 "placeholder": "Skriv inn passord",
                 "confirm_button": "Bli med",
-                "MISSING-wrong_password": "Wrong Password",
-                "MISSING-game_closed": "Game Doesn't Exist Anymore"
+                "wrong_password": "Feil passord",
+                "game_closed": "Game eksisterer ikke lenger"
             }
         }
     },
