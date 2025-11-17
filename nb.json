@@ -722,7 +722,7 @@
         "language": "Språk",
         "auto_submit": {
             "title": "Autoinnsending",
-            "description": "Send inn svaret ditt automatisk når gjettetiden er ute"
+            "description": "Send inn svaret ditt automatisk når gjettingstiden er ute"
         },
         "list_numbering": {
             "title": "Listenummerering",
@@ -2120,13 +2120,13 @@
             "description": "Tillat spillere å slippe innsamlede program i løpet av innsamlingsfasen"
         },
         "guess_time": {
-            "title": "Gjettetid",
+            "title": "Gjettingstid",
             "description": "Tid spillerne har, mens sangen spilles, til å svare",
             "time_display": "_NUMBER_ sekunder",
             "time_range_display": "_NUMBER_-_NUMBER2_ sekunder"
         },
         "extra_guess_time": {
-            "title": "Ekstra gjettetid",
+            "title": "Ekstra gjettingstid",
             "description": "Ekstra tid spillerne har for å svare etter at sangen er ferdigspilt",
             "time_display": "_NUMBER_ sekunder",
             "time_range_display": "_NUMBER_-_NUMBER2_ sekunder"
