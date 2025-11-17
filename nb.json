@@ -197,7 +197,7 @@
             "sale_text": "Få den beste ticket verdien!",
             "skin_header": "Eksklusivt",
             "skin_seasons": {
-                "spring": "Vårskins",
+                "spring": "Vårskinns",
                 "summer": "Sommerskinns",
                 "fall": "Høstskinns",
                 "winter": "Vinterskinns",
@@ -1050,7 +1050,7 @@
             "description": "Lås opp 10 forskjellige skinn/versjoner av denne avataren for å få merket"
         },
         "skin_bonus": {
-            "title": "Skin bonus",
+            "title": "Skinn bonus",
             "description": "Lås opp 10 forskjellige versjoner dette skinne for å låse opp bakgrunnene for andre avatarer"
         },
         "world": "Verden",
