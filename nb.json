@@ -856,8 +856,8 @@
         "title": "Bytt passord",
         "current_password": "Nåværende passord",
         "no_current_password": "Du må oppgi ditt nåværende passord",
-        "unexpected_error": "Uventet feil, prøv på nytt",
-        "error_contacting_server": "Servertilkoblingsfeil, prøv på nytt senere",
+        "unexpected_error": "Uventet feil, prøv igjen senere",
+        "error_contacting_server": "Servertilkoblingsfeil, prøv igjen senere",
         "password_updated": "Passord er oppdatert",
         "wrong_password": "Nåværende passord er feil"
     },
@@ -1172,7 +1172,7 @@
             "location_background": "Stedsbakgrunn",
             "decorations": "Dekorasjon",
             "errors": {
-                "failed_to_create_payment": "Kunne ikke opprette betallingen, prøv på nytt.",
+                "failed_to_create_payment": "Kunne ikke opprette betallingen, prøv igjen senere.",
                 "unlimited_slots_already_unlocked": "Ubegrensede plasser er allerede låst opp",
                 "insufficient_notes": "Utilstrekklige notes",
                 "insufficient_notes_message": "Du har ikke nok notes for å låse opp denne gjenstanden.",
@@ -1734,7 +1734,7 @@
         "messages": {
             "error_cloning": {
                 "title": "Quizkloningsfeil",
-                "description": "Det oppsto en feil under kloningen av quizen. Prøv på nytt senere."
+                "description": "Det oppsto en feil under kloningen av quizen, prøv igjen senere."
             },
             "quiz_cloned": {
                 "title": "Quiz klonet",
@@ -1779,11 +1779,11 @@
             },
             "error_sharing": {
                 "title": "Quizdelingsfeil",
-                "description": "Det oppsto en feil under deling av quizen. Prøv igjen senere."
+                "description": "Det oppsto en feil under deling av quizen, prøv igjen senere."
             },
             "error_publishing": {
                 "title": "Quizpubliseringsfeil",
-                "description": "Det oppsto en feil under publisering av quizen. Prøv igjen senere."
+                "description": "Det oppsto en feil under publisering av quizen, prøv igjen senere."
             },
             "not_enough_songs": {
                 "title": "Ikke nok sanger",
@@ -1791,7 +1791,7 @@
             },
             "publish_limit_reached": {
                 "title": "Publiseringsgrense er nådd",
-                "description": "Du har nådd det maksimale antall publiserte quizer på 10 innen 24 timer. Prøv igjen senere."
+                "description": "Du har nådd det maksimale antall publiserte quizer på 10 innen 24 timer, prøv igjen senere."
             },
             "quiz_published": {
                 "title": "Quiz publisert",
@@ -2360,173 +2360,173 @@
         }
     },
     "quiz_builder": {
-        "MISSING-title": "Quiz Builder",
-        "MISSING-save": "Save",
-        "MISSING-name": "Name",
-        "MISSING-quiz_name": "Quiz Name",
+        "title": "Quizbygger",
+        "save": "Lagre",
+        "name": "Navn",
+        "quiz_name": "Quiz navn",
         "rule_button": {
-            "MISSING-title": "Rule Block",
-            "MISSING-description": "Rule blocks are used to containers for other blocks and allow you to set specific quiz settings for songs in it"
+            "title": "Regelblokk",
+            "description": "Regelblokker brukes som konteinere for andre blokker og lar deg angi spesifikke quizinnstillinger for sanger i dem"
         },
         "algorithm_button": {
-            "MISSING-title": "Algorithm Block",
-            "MISSING-description": "Algorithm blocks are used to use the games song selection algorithm to select songs for this quiz"
+            "title": "Algoritmeblokk",
+            "description": "Algoritmeblokker brukes til å bruke spillets sangvalgalgoritme til å velge sanger til denne quizen"
         },
         "message_button": {
-            "MISSING-title": "Message Block",
-            "MISSING-description": "Message blocks adds a message displayed to the players between songs in the quiz"
+            "title": "Meldingblokk",
+            "description": "Meldingblokker legger til en melding som vises til spillerne mellom sangene i quizen"
         },
         "title_button": {
-            "MISSING-title": "Title Block",
-            "MISSING-description": "Title blocks sets a title displayed during the quiz"
+            "title": "Tittelblokk",
+            "description": "Title blocks sets a title displayed during the quiz"
         },
         "sample_selector": {
-            "MISSING-start": "Start",
-            "MISSING-end": "End"
+            "start": "Start",
+            "end": "Slutt"
         },
         "save_window": {
-            "MISSING-title": "Save Quiz",
+            "title": "Lagre quiz",
             "description": {
-                "MISSING-title": "Description",
-                "MISSING-placeholder": "Enter a description for your quiz"
+                "title": "Beskrivelse",
+                "placeholder": "Skriv inn en beskrivelse for quizen din"
             },
-            "MISSING-tags": "Tags",
-            "MISSING-tags_max_warning": "Max 2 tags allowed",
-            "MISSING-save_button": "Save",
-            "MISSING-saving": "Saving"
+            "tags": "Tagger",
+            "tags_max_warning": "Maks 2 tagger tillatt",
+            "save_button": "Lagre",
+            "saving": "Lagrer"
         },
         "algorithm_block": {
             "song_type": {
-                "MISSING-opening": "OP",
-                "MISSING-ending": "ED",
-                "MISSING-insert": "IN"
+                "opening": "OP",
+                "ending": "ED",
+                "insert": "IN"
             },
-            "MISSING-genres": "_SPANC_ _NUMBER_ _SPANC_ Genres",
-            "MISSING-tags": "_SPANC_ _NUMBER_ _SPANC_ Tags",
+            "genres": "_SPANC_ _NUMBER_ _SPANC_ sjanger",
+            "tags": "_SPANC_ _NUMBER_ _SPANC_ Tagger",
             "popovers": {
-                "MISSING-number_of_songs_selected": "Number of songs selected by this block",
-                "MISSING-number_of_songs_matched": "Number of songs matching the settings",
-                "MISSING-watched_matching": "Number depends on playing users list",
-                "MISSING-song_selection": "Song Selection",
-                "MISSING-song_difficulty": "Song Difficulty",
-                "MISSING-vintage": "Vintage",
-                "MISSING-genre_count": "Number of selected genres",
-                "MISSING-tag_count": "Number of selected tags",
-                "MISSING-song_types": "Song Types"
+                "number_of_songs_selected": "Antall sanger valgt av denne blokken",
+                "number_of_songs_matched": "Antall sanger som samsvarer med innstillingene",
+                "watched_matching": "Antallet avhenger av listen over spillere",
+                "song_selection": "Sangvalg",
+                "song_difficulty": "Sangvansklighet",
+                "vintage": "Årgang",
+                "genre_count": "Antall valgte sjangere",
+                "tag_count": "Antall valgte tagger",
+                "song_types": "sangtyper"
             },
             "song_selection": {
-                "MISSING-watched": "Watched",
-                "MISSING-unwatched": "Unwatched",
-                "MISSING-random": "Random",
-                "MISSING-mixed": "Mixed"
+                "watched": "Sett",
+                "unwatched": "Usett",
+                "random": "Tilfeldig",
+                "mixed": "Blandet"
             }
         },
         "anime_block": {
             "song_type": {
-                "MISSING-opening": "OP _NUMBER_",
-                "MISSING-ending": "ED _NUMBER_",
-                "MISSING-insert": "IN _NUMBER_"
+                "opening": "OP _NUMBER_",
+                "ending": "ED _NUMBER_",
+                "insert": "IN _NUMBER_"
             },
             "number_of_songs_selected": {
-                "MISSING-description": "Number of Songs Selected from this Anime Block",
-                "MISSING-label": "Song Count"
+                "description": "Antall sanger valgt fra denne animeblokken",
+                "label": "Antall sanger"
             }
         },
         "rule_block": {
-            "MISSING-title": "Rule Block",
-            "MISSING-tutorial_text": "Double Click or Drag Anime/Song/Algorithm to add to the Rule Block",
+            "title": "Regelblokk",
+            "tutorial_text": "Dobbeltklikk eller dra anime/sang/algoritme for å legge til i regelblokken",
             "popovers": {
-                "MISSING-block_info": "Block Info",
-                "MISSING-block_info_content": "Song Count: _NUMBER_ _BREAK_ Unique Anime: _NUMBER2_ _BREAK_ Unique Songs: _NUMBER3_",
-                "MISSING-allow_duplicates": "Allow duplicate shows to be selected from this block",
-                "MISSING-guess_time_description": "The default guess time for songs in this block",
-                "MISSING-sample_point_description": "The default sample point for songs in this block",
-                "MISSING-playback_speed_description": "The default playback speed for songs in this block"
+                "block_info": "Blokk info",
+                "block_info_content": "Antall sanger: _NUMBER_ _BREAK_ Unik anime: _NUMBER2_ _BREAK_ Unik sanger: _NUMBER3_",
+                "allow_duplicates": "Tillat at dupliserte programmer velges fra denne blokken",
+                "guess_time_description": "Standard gjettingstid for sanger i denne blokken",
+                "sample_point_description": "Standard snuttpunkt for sanger i denne blokken",
+                "playback_speed_description": "Standard avspillingshastighet for sanger i denne blokken"
             },
             "delete_message": {
-                "MISSING-title": "Delete Rule Block",
-                "MISSING-description": "Are you sure you want to delete this rule block?",
-                "MISSING-confirm": "Delete"
+                "title": "Slett regelblokk",
+                "description": "Er du sikker på at du vil slette denne regelblokken?",
+                "confirm": "Slett"
             },
             "cannot_delete_message": {
-                "MISSING-title": "Cannot Delete Rule Block",
-                "MISSING-description": "At least one rule block must exist in the quiz"
+                "title": "Kan ikke slette regelblokk",
+                "description": "Minst én regelblokk må finnes i quizen"
             },
             "order_rule": {
-                "MISSING-description": "The order songs are selected from this block",
-                "MISSING-random": "Random",
-                "MISSING-sequential": "Sequential"
+                "description": "Sangrekkefølgen for sanger i denne blokken",
+                "random": "Tilfeldig",
+                "sequential": "Sekvensielt"
             },
             "song_count": {
-                "MISSING-description": "Number of songs to select from this block",
-                "MISSING-label": "Song Count"
+                "description": "Antall sanger valgt fra denne blokken",
+                "label": "Antall sanger"
             }
         },
         "song_block": {
-            "MISSING-song_by_artist": "_SPANC_ _NAME_ _SPANC_ by _SPANC2_ _NAME2_ _SPANC2_",
+            "song_by_artist": "_SPANC_ _NAME_ _SPANC_ av _SPANC2_ _NAME2_ _SPANC2_",
             "song_types": {
-                "MISSING-opening": "OP_NUMBER_",
-                "MISSING-ending": "ED_NUMBER_",
-                "MISSING-insert": "IN"
+                "opening": "OP_NUMBER_",
+                "ending": "ED_NUMBER_",
+                "insert": "IN"
             }
         },
         "no_songs_warning": {
-            "MISSING-title": "No Songs in Block",
-            "MISSING-description": "No songs found in this block"
+            "title": "Ingen sanger i blokken",
+            "description": "Ingen sanger funnet i denne blokken"
         },
         "rule_labels": {
-            "MISSING-guess_time": "Guess Time",
-            "MISSING-extra_guess_time": "Extra Guess Time",
-            "MISSING-playback_speed": "Playback Speed",
-            "MISSING-sample_point": "Sample Point",
-            "MISSING-override_guess_time": "Override the default guess time for this block",
-            "MISSING-override_sample_point": "Override the default sample point for this block",
-            "MISSING-override_playback_speed": "Override the default playback speed for this block"
+            "guess_time": "Gjettingstid",
+            "extra_guess_time": "Ekstra gjettingstid",
+            "playback_speed": "Avspillingshastighet",
+            "sample_point": "Snuttpunkt",
+            "override_guess_time": "Overstyr standard gjettingstid for denne blokken",
+            "override_sample_point": "Overstyr standard snuttpunkt for denne blokken",
+            "override_playback_speed": "Overstyr standard avspillingshastighet for denne blokken"
         },
         "alerts": {
             "max_rule_block_count": {
-                "MISSING-title": "Max Rule Block Count Reached",
-                "MISSING-description": "You have reached the maximum number of _NUMBER_ rule blocks"
+                "title": "Maskimale antall regelblokker nådd",
+                "description": "Du har nådd det maskimale antall _NUMBER_ regelblokker"
             },
             "max_rule_block_song_count": {
-                "MISSING-title": "Max Rule Block Song Count Reached",
-                "MISSING-description": "All _NUMBER_ songs are already assigned to rule blocks, reduced the song count set on rule blocks before creating a new one"
+                "title": "Maksimale antall sanger i regelblokk nådd",
+                "description": "Alle _NUMBER_ sanger er allerede i regelblokkene. Reduser antall sanger i regelblokkene før du legger til nye"
             },
             "max_algorithm_block_count": {
-                "MISSING-title": "Max Algorithm Block Count Reached",
-                "MISSING-description": "You have reached the maximum number of _NUMBER_ algorithm blocks"
+                "title": "Maksimale antall algoritmeblokker nådd",
+                "description": "Du har nådd det maskimale antallet _NUMBER_ algoritmeblokker"
             },
             "max_message_block_count": {
-                "MISSING-title": "Max Message Block Count Reached",
-                "MISSING-description": "You have reached the maximum number of _NUMBER_ message blocks"
+                "title": "Maksimale antall meldingblokker nådd",
+                "description": "Du har nådd det maskimale antallet _NUMBER_ meldingblokker"
             },
             "max_title_block_count": {
-                "MISSING-title": "Max Title Block Count Reached",
-                "MISSING-description": "You have reached the maximum number of _NUMBER_ title blocks"
+                "title": "Maksimale antall tittelblokker nådd",
+                "description": "Du har nådd det maskimale antallet _NUMBER_ tittelblokker"
             },
             "leave_warning": {
-                "MISSING-title": "Leave Quiz Builder",
-                "MISSING-description": "Are you sure you want to leave the quiz builder? Unsaved changes will be lost.",
-                "MISSING-confirm": "Leave"
+                "title": "Forlat Quizbygger",
+                "description": "Er du sikker på at du vil forlate quizbyggeren? Ulagrede endringer vil gå tapt.",
+                "confirm": "Forlat"
             },
             "no_quiz_name": {
-                "MISSING-title": "No Quiz Name",
-                "MISSING-description": "You must provide a name for your quiz before saving"
+                "title": "Ingen quiznavn",
+                "description": "Du må oppgi et navn for quizen din før du lagrer den"
             },
-            "MISSING-quiz_saved": "Quiz Saved",
+            "quiz_saved": "Quiz lagret",
             "save_failed": {
-                "MISSING-title": "Save Failed",
-                "MISSING-description": "An error occurred while trying to save your quiz. Please try again later."
+                "title": "Lagringsfeil",
+                "description": "Det oppsto en feil under lagring av quizen din, prøv igjen senere."
             },
             "error_loading": {
-                "MISSING-title": "Error Loading Quiz",
-                "MISSING-description": "An error occurred while trying to load the quiz. Please try again later."
+                "title": "Quizinnlastingsfeil",
+                "description": "Det oppsto en feil under innlasting av quizen, prøv igjen senere."
             },
             "block_limit_reached": {
-                "MISSING-title": "Block Limit Reached",
-                "MISSING-description": "You have reached the maximum number of _NUMBER_ blocks allowed in a quiz."
+                "title": "Blokkgrense nådd",
+                "description": "Du har nådd det maskimale antallet _NUMBER_ blokker som er tillat i en quiz"
             }
         },
-        "MISSING-page_close_warning": "Leaving the page will cause you to lose any unsaved progress."
+        "page_close_warning": "Hvis du forlater siden, mister du all ulagret progresjon."
     }
 }
