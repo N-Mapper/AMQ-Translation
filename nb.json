@@ -105,11 +105,11 @@
             "create_guest_account": {
                 "title": "Lag gjestekonto",
                 "text": "Ved å lage en gjestekonto godtar du _LINK_ tjenestevilkårene _LINK_ og _LINK_ personvernerklæringen _LINK_.",
-                "error_title": "Feil ved oppretting av gjestekonto",
-                "error_disabled": "gjestekonto er deaktivert"
+                "error_title": "Gjestekontoopprettingsfeil",
+                "error_disabled": "Gjestekonto er deaktivert"
             },
             "select_country": "Vennligst velg ditt bostedsland",
-            "country_error": "Feil ved registering av bostedsland",
+            "country_error": "Bostedslandsfeil",
             "already_online": {
                 "title": "Konto er allerede pålogget",
                 "text": "Fortsett innlogging, og logg ut de andre øktene?"
@@ -520,7 +520,7 @@
             }
         },
         "alerts": {
-            "error_getting_profile": "Feil ved henting av spillerprofil",
+            "error_getting_profile": "Spillerprofilhentingsfeil",
             "unknown_player": "Ukjent spiller"
         },
         "name_effects_entries": {
@@ -779,7 +779,7 @@
             "description": "Skjul videoen automatisk for de valgte kategoriene. Den kan fortsatt vises ved å klikke på videoen under avspillingsfasen",
             "openings": "Introsanger",
             "endings": "Sluttsanger",
-            "inserts": "Innsatssanger",
+            "inserts": "Innsats",
             "unwatched": {
                 "title": "Usett",
                 "description": "Videoer fra anime du ikke har sett"
@@ -1644,7 +1644,7 @@
         }
     },
     "community_quiz_window": {
-        "title": "Felletskaps quizer",
+        "title": "fellesskapsquizer",
         "build": "Lag",
         "categories": {
             "public": "Offentlig",
@@ -1857,7 +1857,7 @@
     "game_settings": {
         "setup_game": "Sett opp game",
         "select_settings_to_load": "Velg innstillinger som skal lastes inn",
-        "load_from_code": "last inn fra kode",
+        "load_from_code": "Last inn fra kode",
         "tabs": {
             "quick": "Raskt",
             "advanced": "Avansert",
@@ -1943,7 +1943,7 @@
         },
         "vintage": {
             "title": "Årgang",
-            "description": "År og sesong animen ble utgitt",
+            "description": "År og sesong animeen ble utgitt",
             "add_to_advanced": "legg til i avasert filter"
         },
         "season_selector": {
@@ -1975,11 +1975,11 @@
         },
         "genre": {
             "title": "Sjanger",
-            "description": "Sjangere bestemmes ved hjelp av AniList. Hvis valgfri brukes, vil animen kreve minst én valgfri sjanger."
+            "description": "Sjangere bestemmes ved hjelp av AniList. Hvis valgfri brukes, vil animeen kreve minst én valgfri sjanger."
         },
         "tags": {
             "title": "Tagger",
-            "description": "Tagger bestemmes ved hjelp av AniList. Hvis valgfri brukes, vil animen kreve minst én valgfri tagg."
+            "description": "Tagger bestemmes ved hjelp av AniList. Hvis valgfri brukes, vil animeen kreve minst én valgfri tagg."
         },
         "number_of_players": {
             "title": "Antall spillere",
@@ -2183,7 +2183,7 @@
                 "description": "Tillat at programmer har flere av sangene sine valgt i samme game"
             },
             "rebroadcast_songs": {
-                "title": "Reprisesanger",
+                "title": "Reprise-_BREAK_sanger",
                 "description": "Tillat at sanger fra repriser kan velges"
             },
             "dub_songs": {
@@ -2378,7 +2378,7 @@
         },
         "title_button": {
             "title": "Tittelblokk",
-            "description": "Title blocks sets a title displayed during the quiz"
+            "description": "Tittelblokker legger til en tittel som vises under quizen"
         },
         "sample_selector": {
             "start": "Start",
@@ -2402,7 +2402,7 @@
                 "insert": "IN"
             },
             "genres": "_SPANC_ _NUMBER_ _SPANC_ sjanger",
-            "tags": "_SPANC_ _NUMBER_ _SPANC_ Tagger",
+            "tags": "_SPANC_ _NUMBER_ _SPANC_ tagger",
             "popovers": {
                 "number_of_songs_selected": "Antall sanger valgt av denne blokken",
                 "number_of_songs_matched": "Antall sanger som samsvarer med innstillingene",
@@ -2412,7 +2412,7 @@
                 "vintage": "Årgang",
                 "genre_count": "Antall valgte sjangere",
                 "tag_count": "Antall valgte tagger",
-                "song_types": "sangtyper"
+                "song_types": "Sangtyper"
             },
             "song_selection": {
                 "watched": "Sett",
