@@ -779,7 +779,7 @@
             "description": "Skjul videoen automatisk for de valgte kategoriene. Den kan fortsatt vises ved å klikke på videoen under avspillingsfasen",
             "openings": "Introsanger",
             "endings": "Sluttsanger",
-            "inserts": "Innsats",
+            "inserts": "Innsatssanger",
             "unwatched": {
                 "title": "Usett",
                 "description": "Videoer fra anime du ikke har sett"
@@ -2011,7 +2011,7 @@
             "title": "Sangtyper",
             "openings": "Introsanger",
             "endings": "Sluttsanger",
-            "inserts": "Innsatssanger",
+            "inserts": "Innsats",
             "one_type_must_be_selected": "Minst én sangtype må velges"
         },
         "song_categories": {
