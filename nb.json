@@ -82,7 +82,7 @@
             "account_created": "Konto _NAME_ ble opprettet"
         },
         "guest_account": {
-            "title": "Gjestekontoer",
+            "title": "Gjestekonto",
             "click_to_register": "Klikk her for å fullføre registreringen",
             "complete_registration": "Fullfør registreringen",
             "complete_registration_message": "For å fullføre registreringen, bekreft e-postadressen din ved å klikke på lenken som er sendt til _BOLD_ _EMAIL_ _BOLD_"
@@ -104,7 +104,7 @@
         "popout_messages": {
             "create_guest_account": {
                 "title": "Lag gjestekonto",
-                "text": "Ved å lage en gjestekonto godtar du _LINK_ tjenestevilkårene _LINK_ og _LINK_ personvernerklæringen _LINK_.",
+                "text": "Ved å lage en gjestekonto godtar du _LINK_ tjenestevilkårene _LINK_ og _LINK_ personvernerklæringen _LINK_ .",
                 "error_title": "Gjestekontoopprettingsfeil",
                 "error_disabled": "Gjestekonto er deaktivert"
             },
