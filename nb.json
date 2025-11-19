@@ -1084,13 +1084,13 @@
                 "line_one": "Støtt Patreon for å få",
                 "line_two": "mest mulig ticket for pengene!"
             },
-            "one_ticket": "1 Ticket",
+            "one_ticket": "1 ticket",
             "ticket_pack": "_NUMBER_ pakke",
             "gift_target": "Gavemål",
-            "gift_no_target_message": "Velg venn å gi i gave",
+            "gift_no_target_message": "Velg venn å gi gave til",
             "gift_clear": "Ta bort",
             "gift_message": {
-                "title": "kjøp ticketgave til _NAME_",
+                "title": "Kjøp ticketgave til _NAME_",
                 "placeholder": "Gave melding: _MESSAGE_"
             },
             "no_gift_target_message": {
@@ -1644,7 +1644,7 @@
         }
     },
     "community_quiz_window": {
-        "title": "fellesskapsquizer",
+        "title": "Fellesskapsquizer",
         "build": "Lag",
         "categories": {
             "public": "Offentlig",
