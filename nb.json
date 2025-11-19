@@ -1064,7 +1064,7 @@
             "avatar_tokens": "Avatar tokens",
             "menu": {
                 "use": "Bruk",
-                "history": "Historie",
+                "history": "Historikk",
                 "buy": "Kjøp",
                 "gift": "Gave"
             },
@@ -1108,7 +1108,7 @@
                 "description": "Garantert sjelden eller høyere!"
             },
             "token_description": "Velg en avatar for _BREAK_ 50% sjanse for den _BREAK_ på alle spinn",
-            "token_description_dropdown": "Velg en avatar ovenfor, og alle kast vil ha 50% sjanse for å være av den avataren",
+            "token_description_dropdown": "Velg en avatar ovenfor, og alle spinnene vil ha 50% sjanse for å være av den avataren",
             "roll": "Spinn",
             "animated_promo": {
                 "title": "Animert kampanje",
@@ -1138,7 +1138,7 @@
                 },
                 "how_does_avatar_tokens_work": {
                     "title": "Hvordan fungerer avatar tokens?",
-                    "text": "Når du kjøper tickets eller støtter Patreon-en, vil du motta avatar tokens. Disse tokensene kan bli brukt for å fokusere ticketspinnene mot én bestemt avatar eller sesongbaserte skinn, ved å velge et mål før du utfører et spinn. Når en avatar/sesong er fokuset, vil hvert enkelt spinn ha 50% sjanse for å være en ikke-duplikat (hvis noen tilgjengelig) av den avataren/sesongen. _BREAK_ Sjeldenhetstrekkforholdet forblir det samme når du bruker avatar tokens."
+                    "text": "Når du kjøper tickets eller støtter Patreon-en, vil du motta avatar tokens. Disse tokensene kan bli brukt for å fokusere ticketspinnene mot én bestemt avatar eller sesongbaserte skinn, ved å velge et mål før du utfører et spinn. Når en avatar/sesong er fokuset, vil hvert enkelt spinn ha 50% sjanse for å være en ikke-duplikat (hvis noen tilgjengelig) av den avataren/sesongen. _BREAK_ Sjeldenhetsspinnforholdet forblir det samme når du bruker avatar tokens."
                 }
             },
             "sale_text": {
