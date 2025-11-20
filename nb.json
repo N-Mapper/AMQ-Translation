@@ -1181,7 +1181,7 @@
                 "error_unlocking": "Opplåsingsfeil"
             }
         },
-        "toggle_favorite": "Veksle favorittstatus",
+        "toggle_favorite": "Forandre favorittstatus",
         "avatar_states": {
             "unavailable": "Utilgjengelig",
             "limited": "Begrenset",
