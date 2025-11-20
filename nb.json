@@ -302,7 +302,7 @@
             "regions": "Regioner",
             "region_description": "Ranked-modusen er delt tre separate regioner (vest, sentral, øst), hver med sin egen ledertavle, starttid og mesterskap. Du vil kunne delta i alle regioner, men ranked-poengene teller bare for regionen de er opptjent i.",
             "ranked_game": "Ranked game",
-            "ranked_game_description_one": "30 minutter før starttid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen. _BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorientert spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid.",
+            "ranked_game_description_one": "30 minutter før starttid, vil du kunne bli med i enten novise- eller ekspertlobbyen fra hovedmenyen. _BREAK_ Noviserommet er målrettet mot nye og mindre hardbarkede spillere, og består av 45 hovedsakelig middels og lette sanger med 20 gjettingstid. _BREAK_ Ekspertrommet er målrettet mot hardbarkede og konkurranseorienterte spillere, og består av 85 helt tilfeldige sanger med 15 sekunder gjettingstid.",
             "ranked_game_description_two": "På slutten av hver ranked game, vil du får ranked-poeng basert på antall sanger du har gjettet riktig. _BREAK_ I novise game, vil du få 3 poeng per sang du gjettet riktig. _BREAK_ I ekspert game, øker poengene per sang med antall sanger du gjetter riktig. De første fem sangene gir 5 poeng hver, de neste fem gir 6 poeng hver, deretter 7 poeng for hver av de neste fem og så videre.",
             "end_of_season": "Slutten av sesongen",
             "end_of_season_description": "Den siste lørdagen i hver måned, istedenfor et vanlig ranked game, vil mesterskapsgamet bli hold istedenfor. Mesterskapsgamet fungere som et vanlig ranked game, men bare de 150 beste i regionen kan delta, hvor vinneren får tittelen Regionmester. _BREAK_ Mandagen etter mesterskapet, vil alle ranked-poengene bli tilbakestilt og en ny sesong starter.",
@@ -472,7 +472,7 @@
             "title": "Videoservere",
             "description": "Tilkoblingsstatus til de forskjellige videoserverne",
             "click_to_retest": "Klikk for å teste tilkoblingen på nytt",
-            "speed": "Latens: _SPANC_ _NUMBER_  _SPANC_",
+            "speed": "Latens: _SPANC_ _NUMBER_ _SPANC_",
             "connection_status": {
                 "good": "Bra",
                 "okay": "OK",
@@ -505,7 +505,7 @@
             "new_nickname": "Nytt kallenavn",
             "change_message": {
                 "title": "Bytt kallenavn til _NAME_",
-                "text": "Når du har byttet navn, kan du ikke gå tilbake til ditt nåværende navn uten å bruke en navneendringstoken"
+                "text": "Når du har byttet navn, kan du ikke gå tilbake til ditt nåværende navn uten å bruke én navneendringstoken"
             },
             "nickname_available": "Kallenavn tilgjengelig",
             "nickname_not_available": {
@@ -706,7 +706,7 @@
                 },
                 "emote_uploaded": {
                     "title": "Emoji opplastet",
-                    "description": "Din emoji ble lastet opp og venter på godkjenning"
+                    "description": "Din emoji ble lastet opp, og venter på godkjenning"
                 }
             }
         }
@@ -741,7 +741,7 @@
             "description": "Animesiden som er lenket i sanginformasjonen"
         },
         "auto_skip_vote": {
-            "title": "Auto-hopp over avstemning",
+            "title": "Auto-stem for hopp over",
             "description": "Stem automatisk for å hoppe over etter svaret og/eller etter 2 sekunder i avspillingsfasen",
             "guessing_phase": "Gjettings-_BREAK_fasen",
             "replay_phase": "Avspillings-_BREAK_fasen"
@@ -1010,7 +1010,7 @@
             },
             "unlimited": {
                 "title": "Ubegrenset",
-                "description": "Vis innhold som alltid er tilgjengelig i en begrenset periode"
+                "description": "Vis innhold som alltid er tilgjengelig"
             },
             "exclusive": {
                 "title": "Eksklusiv",
@@ -1181,7 +1181,7 @@
                 "error_unlocking": "Opplåsingsfeil"
             }
         },
-        "toggle_favorite": "Veksle favoritt",
+        "toggle_favorite": "Veksle favorittstatus",
         "avatar_states": {
             "unavailable": "Utilgjengelig",
             "limited": "Begrenset",
