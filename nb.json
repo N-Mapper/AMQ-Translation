@@ -104,7 +104,7 @@
         "popout_messages": {
             "create_guest_account": {
                 "title": "Lag gjestekonto",
-                "text": "Ved å lage en gjestekonto godtar du _LINK_ tjenestevilkårene _LINK_ og _LINK_ personvernerklæringen _LINK_ .",
+                "text": "Ved å lage en gjestekonto godtar du _LINK_tjenestevilkårene_LINK_ og _LINK2_personvernerklæringen_LINK2_.",
                 "error_title": "Gjestekontoopprettingsfeil",
                 "error_disabled": "Gjestekonto er deaktivert"
             },
@@ -2486,7 +2486,7 @@
         "alerts": {
             "max_rule_block_count": {
                 "title": "Maskimale antall regelblokker nådd",
-                "description": "Du har nådd det maskimale antall _NUMBER_ regelblokker"
+                "description": "Du har nådd det maksimale antall _NUMBER_ regelblokker"
             },
             "max_rule_block_song_count": {
                 "title": "Maksimale antall sanger i regelblokk nådd",
@@ -2494,15 +2494,15 @@
             },
             "max_algorithm_block_count": {
                 "title": "Maksimale antall algoritmeblokker nådd",
-                "description": "Du har nådd det maskimale antallet _NUMBER_ algoritmeblokker"
+                "description": "Du har nådd det maksimale antallet _NUMBER_ algoritmeblokker"
             },
             "max_message_block_count": {
                 "title": "Maksimale antall meldingblokker nådd",
-                "description": "Du har nådd det maskimale antallet _NUMBER_ meldingblokker"
+                "description": "Du har nådd det maksimale antallet _NUMBER_ meldingblokker"
             },
             "max_title_block_count": {
                 "title": "Maksimale antall tittelblokker nådd",
-                "description": "Du har nådd det maskimale antallet _NUMBER_ tittelblokker"
+                "description": "Du har nådd det maksimale antallet _NUMBER_ tittelblokker"
             },
             "leave_warning": {
                 "title": "Forlat Quizbygger",
@@ -2524,7 +2524,7 @@
             },
             "block_limit_reached": {
                 "title": "Blokkgrense nådd",
-                "description": "Du har nådd det maskimale antallet _NUMBER_ blokker som er tillat i en quiz"
+                "description": "Du har nådd det maksimale antallet _NUMBER_ blokker som er tillatt i en quiz"
             }
         },
         "page_close_warning": "Hvis du forlater siden, mister du all ulagret progresjon."
