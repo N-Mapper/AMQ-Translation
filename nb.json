@@ -1294,7 +1294,7 @@
         },
         "fuwagi": {
             "standard": "De fleste kjenner Fuwagi som en heldig kanin, ettersom flaksen ser ut til å konspirere med henne for å få henne ut av enhver situasjon hun havner i. Selv om hun ser på seg selv som uheldig, ettersom det er uflaks som får henne opp i slike situasjoner.",
-            "traveling_merchant": "Fuwagi, kjent som den heldige kaninen, reiser land og strand og selger varene sine. Hun fikk kallenavnet fordi uflaks aldri påvirker varene hennes,  men hun ser på seg selv som uheldig, ettersom hver permanente butikk hun setter opp blir ødelagt i en eller annen ulykke."
+            "traveling_merchant": "Fuwagi, kjent som den heldige kaninen, reiser land og strand og selger varene sine. Hun fikk kallenavnet fordi uflaks aldri påvirker varene hennes, men hun ser på seg selv som uheldig, ettersom hver permanente butikk hun setter opp blir ødelagt i en eller annen ulykke."
         },
         "yuuna": {
             "standard": "Som barn av en berømt kokk forelsket Yuuna seg i matlagingskunsten i ung alder. Nå reiser hun verden rundt på en reise for å finpusse ferdighetene sine og bevise at hun kan leve opp til morens arv.",
@@ -1370,7 +1370,7 @@
             "standard": "Mange engler, som lever i det himmelske riket, bruker ikke mye tid på å tenke på den dødelige verden, men Sera har alltid vært fascinert av mennesker, elsker å observere dem, og noen ganger snike seg ned til den dødelige verden."
         },
         "ignis": {
-            "standard": "Ignis den Brennende Rettferdighet er en velkjent helt som forsvarer massene når ondskapen er på ferde. Selv om mange har møtt Ignis, ingen har klart å finne ut hvem som skjuler seg bak masken, og han har ennå ikke delt hemmeligheten med noen.",
+            "standard": "Ignis den Brennende Rettviser'n er en velkjent helt som forsvarer massene når ondskapen er på ferde. Selv om mange har møtt Ignis, ingen har klart å finne ut hvem som skjuler seg bak masken, og han har ennå ikke delt hemmeligheten med noen.",
             "adventurer": "Ignis er kjent som en mystisk eventyrer som kommer til unnsetning for mennesker i nød, uansett om det er en karavan som blir overfalt av monstre eller bønder som blir trakassert av korrupte riddere, mens han reiser gjennom kongeriket."
         },
         "rin": {
@@ -1645,7 +1645,7 @@
     },
     "community_quiz_window": {
         "title": "Fellesskapsquizer",
-        "build": "Lag",
+        "build": "Bygg",
         "categories": {
             "public": "Offentlig",
             "official": "Offisiell",
@@ -1752,7 +1752,7 @@
             "unlimited_slots_unlocked": "Ubegrenset antall quizplasser er låst opp",
             "no_slots_available": {
                 "title": "Ingen plasser tilgjengelig",
-                "description": "Alle quizplassene er i bruk. Lås opp flere plasser eller slett en gammel quiz før du oppretter en ny."
+                "description": "Alle quizplassene er i bruk. Lås opp flere plasser eller slett en eksisterende quiz før du oppretter en ny."
             },
             "delete_quiz_confirmation": {
                 "title": "Slett quiz",
