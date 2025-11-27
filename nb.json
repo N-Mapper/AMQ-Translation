@@ -779,7 +779,7 @@
             "description": "Skjul videoen automatisk for de valgte kategoriene. Den kan fortsatt vises ved å klikke på videoen under avspillingsfasen",
             "openings": "Introsanger",
             "endings": "Sluttsanger",
-            "inserts": "Innsatssanger",
+            "inserts": "Innsatser",
             "unwatched": {
                 "title": "Usett",
                 "description": "Videoer fra anime du ikke har sett"
@@ -1680,13 +1680,13 @@
             "played": "Spilt",
             "unplayed": "Uspilt"
         },
-        "slots_available": "Plasser tilgjengelige",
+        "slots_available": "Tilgjengelige plasser",
         "buy_slots": "Kjøp plasser",
         "buy_quiz_slots": "Kjøp quizplasser",
         "unlimited_slots": "Ubegrenset",
         "one_slot_entry": {
             "title": "1 plass",
-            "description": "Lås opp en enkel quizplass permanent"
+            "description": "Lås opp én enkel quizplass permanent"
         },
         "unlimited_slot_entry": {
             "title": "Ubegrenset",
@@ -1725,7 +1725,7 @@
             "edit": "Rediger",
             "clone": "Klon",
             "share": "Del",
-            "unshare": "Opphev deling",
+            "unshare": "Privat",
             "publish": "Publiser",
             "play": "Spill",
             "select": "Velg"
@@ -1815,7 +1815,7 @@
             "room_info": "Rominfo",
             "optional_password": "Eventuelt passord"
         },
-        "browse": "Bla igjennom",
+        "browse": "Bla",
         "medal_descriptions": {
             "unearned": {
                 "title": "Quiz-medaljer",
@@ -2011,7 +2011,7 @@
             "title": "Sangtyper",
             "openings": "Introsanger",
             "endings": "Sluttsanger",
-            "inserts": "Innsats",
+            "inserts": "Innsatser",
             "one_type_must_be_selected": "Minst én sangtype må velges"
         },
         "song_categories": {
@@ -2033,10 +2033,10 @@
                 "title": "Karakter",
                 "description": "Sanger sunget av karakterer uten å være del av en musikalsk opptrend"
             },
-            "inserts": "Innsatssanger",
+            "inserts": "Innsatser",
             "one_opening_type_must_be_selected": "Minst én introsangskategori må velges",
             "one_ending_type_must_be_selected": "Minst én sluttsangskategori må velges",
-            "one_insert_type_must_be_selected": "Minst én innsatssangskategori må velges"
+            "one_insert_type_must_be_selected": "Minst én innsatsskategori må velges"
         },
         "scoring": {
             "title": "Scoring",
@@ -2070,7 +2070,7 @@
             },
             "looting": {
                 "title": "Innsamling",
-                "description": "Spill en innsamlingsfasen før quizen, hvor spillerne beveger seg rundt og samler programmene som blir brukt for quizen"
+                "description": "Spill én innsamlingsfasen før quizen, hvor spillerne beveger seg rundt og samler programmene som blir brukt for quizen"
             }
         },
         "answering": {
@@ -2082,7 +2082,7 @@
             },
             "mix": {
                 "title": "Blandet",
-                "description": "Alle spillere kan velge mellom å skrive og svare med flervalg"
+                "description": "Alle spillere kan velge mellom å svare ved å skrive inn og flervalg"
             },
             "multiple_choice": {
                 "title": "Flervalg",
@@ -2141,8 +2141,8 @@
             "percent_range_display": "_NUMBER_%-_NUMBER2_% inni sangen"
         },
         "playback_speed": {
-            "title": "Sangshastighet",
-            "description": "Hastigheten sangen blir spilt på"
+            "title": "Sanghastighet",
+            "description": "Hastigheten sangen blir spilt i"
         },
         "song_difficulty": {
             "title": "Sangvansklighet",
@@ -2150,8 +2150,8 @@
             "easy": "Lett",
             "medium": "Middels",
             "hard": "Vanskelig",
-            "percent_guessed_correct": "% gjettet riktig",
-            "percent_range_display": "_NUMBER_%-_NUMBER2_% gjettet riktig",
+            "percent_guessed_correct": "% gjettingsrate",
+            "percent_range_display": "_NUMBER_%-_NUMBER2_% gjettingsrate",
             "one_difficulty_must_be_selected": "Minst én vanskelighetsgrad må velges"
         },
         "song_popularity": {
@@ -2187,7 +2187,7 @@
                 "description": "Tillat at sanger fra repriser kan velges"
             },
             "dub_songs": {
-                "title": "Dubbsangs",
+                "title": "Dubbsanger",
                 "description": "Tillat at sanger fra engelske dubber kan velges (eldre innstilling med begrensede sanger)"
             },
             "full_song_range": {
@@ -2209,7 +2209,7 @@
             "password_missing": "Passord kreves for private rom",
             "one_player_score_required": "Minst én spillers score må være slått på",
             "one_anime_score_required": "Minst én anime score må være slått på",
-            "one_playback_speed_required": "Minst én avspillingshastighet må velges"
+            "one_playback_speed_required": "Minst én sanghastighet må velges"
         },
         "errors": {
             "too_many_tag_genre": {
@@ -2289,7 +2289,7 @@
             },
             "number_of_players": "Antall spillere",
             "number_of_songs": "Antall sanger",
-            "guess_time": "Gjettetid",
+            "guess_time": "Gjettingstid",
             "difficulty": "Vanskelighet",
             "anime_type": {
                 "title": "Animetype",
@@ -2319,7 +2319,7 @@
                 "songs_left": "Sanger igjen",
                 "players": "Spillere",
                 "game_mode": "Gamemodus",
-                "guess_time": "Gjettetid",
+                "guess_time": "Gjettingstid",
                 "number_of_songs": "Antall sanger",
                 "song_selection": "Sangvalg",
                 "all_settings": "Alle innstillingene",
@@ -2441,7 +2441,7 @@
                 "allow_duplicates": "Tillat at dupliserte programmer velges fra denne blokken",
                 "guess_time_description": "Standard gjettingstid for sanger i denne blokken",
                 "sample_point_description": "Standard snuttpunkt for sanger i denne blokken",
-                "playback_speed_description": "Standard avspillingshastighet for sanger i denne blokken"
+                "playback_speed_description": "Standard sanghastighet for sanger i denne blokken"
             },
             "delete_message": {
                 "title": "Slett regelblokk",
@@ -2477,11 +2477,11 @@
         "rule_labels": {
             "guess_time": "Gjettingstid",
             "extra_guess_time": "Ekstra gjettingstid",
-            "playback_speed": "Avspillingshastighet",
+            "playback_speed": "Sanghastighet",
             "sample_point": "Snuttpunkt",
             "override_guess_time": "Overstyr standard gjettingstid for denne blokken",
             "override_sample_point": "Overstyr standard snuttpunkt for denne blokken",
-            "override_playback_speed": "Overstyr standard avspillingshastighet for denne blokken"
+            "override_playback_speed": "Overstyr standard sanghastighet for denne blokken"
         },
         "alerts": {
             "max_rule_block_count": {
