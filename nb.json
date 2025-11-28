@@ -406,7 +406,7 @@
     "menu_bar": {
         "settings": {
             "language": {
-                "custom": "Bruk egen",
+                "custom": "Selvvalgt",
                 "custom_description": "Legg til en oversettelsesfil for å teste den i spillet.",
                 "custom_title": "Velg oversettelsesfil",
                 "custom_placeholder": "URL til oversettelsesfilen",
@@ -1680,7 +1680,7 @@
             "played": "Spilt",
             "unplayed": "Uspilt"
         },
-        "slots_available": "Tilgjengelige plasser",
+        "slots_available": "Plasser tilgjenelig",
         "buy_slots": "Kjøp plasser",
         "buy_quiz_slots": "Kjøp quizplasser",
         "unlimited_slots": "Ubegrenset",
