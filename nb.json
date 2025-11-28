@@ -394,7 +394,7 @@
                 "description": "Spill tilpassede quizer laget av fellesskapet eller lag dine egne"
             },
             "jam": {
-                "title": "Jamquiz",
+                "title": "Jam quiz",
                 "description": "En uendelig quiz hvor spillere kan hoppe inn og ut når som helst"
             },
             "nexus": {
@@ -598,11 +598,11 @@
         "mod": {
             "name": {
                 "game": "AMQ moderator",
-                "jam": "AMQ jamquiz moderator"
+                "jam": "AMQ jam quiz moderator"
             },
             "description": {
-                "game": "En del av AMQ-moderatorteamet",
-                "jam": "En del av AMQ-jamquiz-moderatorteamet"
+                "game": "En del av AMQ moderatorteamet",
+                "jam": "En del av AMQ jam quiz moderatorteamet"
             }
         },
         "aragaimu": {
