@@ -2360,7 +2360,7 @@
         }
     },
     "quiz_builder": {
-        "title": "Quizbygger",
+        "title": "Quizbyggeren",
         "save": "Lagre",
         "name": "Navn",
         "quiz_name": "Quiz navn",
@@ -2505,7 +2505,7 @@
                 "description": "Du har nådd det maksimale antallet _NUMBER_ tittelblokker"
             },
             "leave_warning": {
-                "title": "Forlat Quizbygger",
+                "title": "Forlat quizbyggeren",
                 "description": "Er du sikker på at du vil forlate quizbyggeren? Ulagrede endringer vil gå tapt.",
                 "confirm": "Forlat"
             },
