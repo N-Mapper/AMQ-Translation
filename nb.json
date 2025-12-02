@@ -193,7 +193,7 @@
                 "lunar": "Månefestivalsalg!",
                 "valentine": "Valentinsdagssalg!",
                 "summer_games": "Sommerlekersalg!",
-                "MISSING-anniversary": "Anniversary Sale!"
+                "anniversary": "Jubileumssalg!"
             },
             "sale_text": "Få den beste ticket verdien!",
             "skin_header": "Eksklusivt",
@@ -872,9 +872,9 @@
         "all": "Alle",
         "champs": "Mestere",
         "regions": {
-            "MISSING-west": "West Region",
-            "MISSING-central": "Central Region",
-            "MISSING-east": "East Region"
+            "west": "Vestregionen",
+            "central": "Sentralregionen",
+            "east": "Østregionen"
         }
     },
     "tutorial_window": {
@@ -1725,7 +1725,7 @@
             "score": "Score",
             "name": "Navn",
             "multiple_choice_toggle": "Veksle mellom visninger av flervalgsgame",
-            "MISSING-multiple_choice": "Multiple Choice"
+            "multiple_choice": "Flervalg"
         },
         "quiz_buttons": {
             "delete": "Slett",
@@ -1854,8 +1854,8 @@
             "title": "Låst"
         },
         "shared_states": {
-            "MISSING-friends": "Quiz shared with friends",
-            "MISSING-public": "Public Quiz"
+            "friends": "Quiz delt med venner",
+            "public": "Offentlig quiz"
         }
     },
     "community_quiz_tags": {
@@ -1906,7 +1906,7 @@
             "themed": "Tema",
             "solo": "Solo",
             "multiplayer": "Flerspiller",
-            "MISSING-community": "Community"
+            "community": "Fellesskap"
         },
         "game_mode_display": "_NAME_ modus",
         "game_mode_settings_display": "_NAME_ spillinnstillinger",
@@ -2258,7 +2258,7 @@
             "title": "Hent kode for innstillinger",
             "setting_code": "Innstillingskode"
         },
-        "MISSING-loading_disabled": "Loading Disabled"
+        "loading_disabled": "Innlasting deaktivert"
     },
     "room_browser": {
         "filters": {
