@@ -1817,7 +1817,7 @@
             "unlimited": "Ubegrensede plasser"
         },
         "host_community_quiz": {
-            "title": "Vert for fellesskapquiz",
+            "title": "Vert for fellesskapsquiz",
             "room_type": "Romtype",
             "room_info": "Rominfo",
             "optional_password": "Eventuelt passord"
@@ -2596,49 +2596,49 @@
         }
     },
     "lobby": {
-        "MISSING-leave_button": "Leave",
-        "MISSING-room": "Room",
-        "MISSING-quiz_rules": "Quiz Rules",
-        "MISSING-stats_in": "Stats In",
-        "MISSING-room_settings": "Room Settings",
-        "MISSING-shuffle_teams": "Shuffle Teams",
-        "MISSING-team_shuffled_message": "Teams Shuffled",
-        "MISSING-team": "Team",
-        "MISSING-host": "Host",
-        "MISSING-team_unset": "Unset",
-        "MISSING-team_members": "Team Members",
+        "leave_button": "Forlat",
+        "room": "Rom",
+        "quiz_rules": "Quizregler",
+        "stats_in": "Stater om",
+        "room_settings": "Rominnstilliger",
+        "shuffle_teams": "Bland lag",
+        "team_shuffled_message": "Lag blandet",
+        "team": "Lag",
+        "host": "Vert",
+        "team_unset": "Avaktiver",
+        "team_members": "Lagmedlemmer",
         "join_themed_team": {
-            "MISSING-title": "Join Team",
-            "MISSING-placeholder": "Enter a team code",
-            "MISSING-join_button": "Join"
+            "title": "Bli med lag",
+            "placeholder": "Angi lagkode",
+            "join_button": "Bli med"
         },
         "main_button": {
-            "MISSING-start": "Start",
-            "MISSING-join": "Join",
-            "MISSING-ready": "Ready",
-            "MISSING-unready": "Unready",
-            "MISSING-room_is_full": "Room is Full",
-            "MISSING-closing_in": "Closing In",
-            "MISSING-starts_in": "Starts In",
-            "MISSING-starting_soon": "Starting Soon"
+            "start": "Start",
+            "join": "Bli med",
+            "ready": "Klar",
+            "unready": "Ikke klar",
+            "room_is_full": "Rommet er Fullt",
+            "closing_in": "Stenger om",
+            "starts_in": "Starter om",
+            "starting_soon": "Starter snart"
         },
         "blocked_join_messages": {
-            "MISSING-ranked_championship": "Only top 150 players in the region can join"
+            "ranked_championship": "Bare de 150 beste spillerne i regionen kan bli med"
         },
         "community_quiz": {
-            "MISSING-click_to_select": "Click here to Select a Quiz",
-            "MISSING-click_to_change": "Selected Community Quiz _BREAK_ Click to Change",
-            "MISSING-no_quiz_selected": "No Community Quiz Selected",
-            "MISSING-selected_quiz": "Selected Community Quiz:",
-            "MISSING-enabled": "Community Quiz Mode Enabled",
-            "MISSING-disabled": "Community Quiz Mode Disabled"
+            "click_to_select": "Klikk her for å velge en quiz",
+            "click_to_change": "Valgt fellesskapsquiz _BREAK_ Klikk for å endre",
+            "no_quiz_selected": "Ingen fellesskapsquiz",
+            "selected_quiz": "Valgt fellesskapsquiz:",
+            "enabled": "Fellesskapsquizmodus aktivert",
+            "disabled": "Fellesskapsquizmodus deaktivert"
         },
         "ranked_team": {
-            "MISSING-no_team": "No Team",
-            "MISSING-team_code": "Team Code",
-            "MISSING-create": "Create",
-            "MISSING-join": "Join",
-            "MISSING-leave": "Leave"
+            "no_team": "Ikke noe lag",
+            "team_code": "Lagkode",
+            "create": "Skap",
+            "join": "Bli med",
+            "leave": "Forlatt"
         },
         "rule_window": {
             "MISSING-title": "Game Mode Overview",
