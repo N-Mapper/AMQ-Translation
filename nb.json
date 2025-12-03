@@ -2641,96 +2641,96 @@
             "leave": "Forlatt"
         },
         "rule_window": {
-            "MISSING-title": "Game Mode Overview",
-            "MISSING-previous_button": "Previous",
-            "MISSING-next_button": "Next",
+            "title": "Gamemodus oversikt",
+            "previous_button": "Forrige",
+            "next_button": "Neste",
             "categories": {
                 "team_mode": {
-                    "MISSING-title": "Team Mode",
-                    "MISSING-team_selection": "Team Selection",
-                    "MISSING-answering": "Answering",
-                    "MISSING-scoring": "Scoring",
-                    "MISSING-chat": "Chat"
+                    "title": "Lagmodus",
+                    "team_selection": "Lagvalg",
+                    "answering": "Avsvaring",
+                    "scoring": "Scoring",
+                    "-chat": "Chat"
                 },
                 "speed_scoring": {
-                    "MISSING-title": "Speed Scoring",
-                    "MISSING-answer_ranking": "Answer Ranking",
-                    "MISSING-scoring": "Scoring",
-                    "MISSING-correct_answers": "Correct Answers"
+                    "title": "Fart scoring",
+                    "answer_ranking": "Svarrangering",
+                    "scoring": "Scoring",
+                    "correct_answers": "Riktige svar"
                 },
                 "lives": {
-                    "MISSING-title": "Lives",
-                    "MISSING-losing_lives_1": "Losing Lives 1",
-                    "MISSING-losing_lives_2": "Losing Lives 2",
-                    "MISSING-winning": "Winning",
-                    "MISSING-reviving": "Reviving"
+                    "title": "Liv",
+                    "losing_lives_1": "Mister étt liv",
+                    "losing_lives_2": "Mister to liv",
+                    "winning": "Vinner",
+                    "reviving": "Gjenoppliving"
                 },
                 "looting": {
-                    "MISSING-title": "Looting",
-                    "MISSING-dropping": "Dropping",
-                    "MISSING-looting": "Looting",
-                    "MISSING-containers": "Containers",
-                    "MISSING-changing_zones": "Changing Zones",
-                    "MISSING-inventory": "Inventory"
+                    "title": "Innsamling",
+                    "dropping": "Slipping",
+                    "looting": "Innsamling",
+                    "containers": "Konteiner",
+                    "changing_zones": "Endre soner",
+                    "inventory": "Inventar"
                 },
                 "boss_mode": {
-                    "MISSING-title": "Boss Mode",
-                    "MISSING-bosses": "Bosses",
-                    "MISSING-scoring": "Scoring",
-                    "MISSING-power_ups": "Power-Ups",
-                    "MISSING-victory": "Victory",
-                    "MISSING-defeat": "Defeat"
+                    "title": "Bossmodus",
+                    "bosses": "Bosser",
+                    "scoring": "Scoring",
+                    "power_ups": "Power-ups",
+                    "victory": "Seirende",
+                    "defeat": "Beseire"
                 }
             }
         },
         "room_closed": {
-            "MISSING-title": "Room Closed",
-            "MISSING-lobby_closed": "Lobby Closed",
-            "MISSING-mod_left": "Mod Left",
-            "MISSING-host_left": "Host Left",
-            "MISSING-all_players_left": "All Players Left",
-            "MISSING-host_afk": "Host AFK",
-            "MISSING-no_players": "No Players"
+            "title": "Rom stengt",
+            "lobby_closed": "Lobby stengt",
+            "mod_left": "Mod forlot",
+            "host_left": "Vert forlot",
+            "all_players_left": "Alle spiller forlot",
+            "host_afk": "Vert AFK",
+            "no_players": "Ingen spillere"
         },
         "mode_ids": {
-            "MISSING-ranked": "#Ranked",
-            "MISSING-themed": "#Themed",
-            "MISSING-event": "#Event"
+            "ranked": "#Ranked",
+            "themed": "#Tema",
+            "event": "#Event"
         },
         "too_many_custom_settings": {
-            "MISSING-title": "Too Many Custom Settings",
-            "MISSING-description": "Too many custom settings, try removing some tags and/or custom vintages"
+            "title": "For mange egendefinerte innstillinger",
+            "description": "For mange egendefinerte innstillinger. Prøv å fjerne noen tagger og/eller årganger"
         },
         "answering_mode": {
-            "MISSING-title": "Answering Mode",
-            "MISSING-typing": "Typing",
-            "MISSING-multiple_choice": "Multiple Choice",
+            "title": "Svarmodus",
+            "typing": "Skriving",
+            "multiple_choice": "Flervalg",
             "selection": {
-                "MISSING-title": "Select Answer Mode",
-                "MISSING-description": "Select the answer mode you want to use. You can change it later at the top right of the lobby."
+                "itle": "Velg svarmodus",
+                "description": "Velg svarmodus du vil bruke. Du kan endre den senere øverst til høyre i lobbyen."
             }
         },
         "player_options": {
-            "MISSING-profile": "Profile",
-            "MISSING-promote_host": "Promote to Host",
-            "MISSING-change_to_spectator": "Change to Spectator",
-            "MISSING-kick": "Kick from Room"
+            "profile": "Profil",
+            "promote_host": "Forfrem til vert",
+            "change_to_spectator": "Skift til tilskuer",
+            "kick": "Kast fra rommet"
         },
         "errors": {
-            "MISSING-error_changing_to_player": "Error Changing to Player",
+            "error_changing_to_player": "Spillerskiftingsfeil",
             "no_players_ready": {
-                "MISSING-title": "No Players Ready",
-                "MISSING-description": "At least one player must be ready to start the game"
+                "title": "Ingen spillere klare",
+                "description": "Minst én spiller må være klar til å spille"
             },
             "no_community_quiz": {
-                "MISSING-title": "No Community Quiz Selected",
-                "MISSING-description": "You must select a community quiz to start the game"
+                "title": "Felleskapsquiz ikke valgt",
+                "description": "Du må velge fellesskapsquiz for å starte game"
             }
         },
         "all_players_not_ready_warning": {
-            "MISSING-title": "Not All Players Ready",
-            "MISSING-description": "Not all players are ready. All players not ready will be changed to spectators",
-            "MISSING-start_button": "Start"
+            "title": "Ikke alle spillere klare",
+            "description": "Ikke alle spillere er klare. Alle spillere sm ikke er klare vil bli omgjort til tilskuere",
+            "start_button": "Start"
         },
         "game_settings": {
             "MISSING-changed_header": "Game settings have changed",
