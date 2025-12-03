@@ -2878,7 +2878,7 @@
                     "description": "Avslør noe av sanginformansjonen for den nåværende sangen"
                 },
                 "peek_answers": {
-                    "title": "titt på svar",
+                    "title": "Titt på svar",
                     "description": "Titt på svarenen som allerede er sendt inn av andre spillere"
                 },
                 "more_time": {
