@@ -2567,12 +2567,12 @@
         "reconnect_message": "_NAME_ har koblet seg til igjen.",
         "left_room_message": "_NAME_ har forlatt rommet.",
         "joined_room_message": "_NAME_ har blitt med i rommet.",
-        "changed_to_player_message": "_NAME_ har blitt spiller.",
-        "changed_to_spectator_message": "_NAME_ har blitt tilskuer.",
+        "changed_to_player_message": "_NAME_ har blitt til spiller.",
+        "changed_to_spectator_message": "_NAME_ har blitt til tilskuer.",
         "all_players_disconnect_message": "Alle spillere er frakoblet, og venter på at tilkoblingen skal gjenopptas",
         "paused_game_message": "_NAME_ har pauset game.",
         "unpaused_game_message": "_NAME_ har startet game.",
-        "chat_normal_mode_message": "Modeerator ble med, chat i normal modus",
+        "chat_normal_mode_message": "Moderator ble med, chat i normal modus",
         "chat_in_emote_only_mode_message": "Ingen moderator, chat i bare emoji-modus",
         "promoted_host_message": "_NAME_ har blitt forfremmet til vert.",
         "kicked_from_room_alert": "Du har blitt kastet ut av rommet",
@@ -2653,7 +2653,7 @@
                     "-chat": "Chat"
                 },
                 "speed_scoring": {
-                    "title": "Fart scoring",
+                    "title": "Fartscoring",
                     "answer_ranking": "Svarrangering",
                     "scoring": "Scoring",
                     "correct_answers": "Riktige svar"
@@ -2679,7 +2679,7 @@
                     "scoring": "Scoring",
                     "power_ups": "Power-ups",
                     "victory": "Seirende",
-                    "defeat": "Beseire"
+                    "defeat": "Beseiret"
                 }
             }
         },
@@ -2832,66 +2832,66 @@
             }
         },
         "ranked_rules": {
-            "MISSING-title": "Ranked Rules",
-            "MISSING-description": "Ranked matches are a place where players can test their individual skills up against the rest of the community. _BREAK_ In a ranked match, you compete against all the other players in guessing the most songs, which ranges from the easiest to the hardest in the game. _BREAK_ At the end of the match, you’ll get points based on how well you did. Gather points throughout the season to unlock unique badges and earn a spot in the championship match at the end of the season! _BREAK_ To ensure the integrity of ranked matches, it’s important you follow the rules below, as breaking these rules can lead to your account getting banned and/or excluded from playing ranked.",
-            "MISSING-themed_title": "Themed Quiz Rules",
-            "MISSING-themed_description": "Themed quizzes are a place where players can test their skills in specific themes selected for the day against the rest of the community! _BREAK_ Each themed quiz will feature a unique themed song pool, and is meant to be a fun way a and fresh way to challenge yourself against the community in a less competitive and more fun focused environment. _BREAK_ While not as competitive focused as ranked matches, it’s important that you follow the rules, to not ruin the experience of other players. Breaking the rules can lead to your account getting banned and/or excluded from Quiz of the Day.",
+            "title": "Rankedregler",
+            "description": "Rankedmatcher er et sted hvor spillere kan teste sine individuelle ferdigheter mot resten av fellesskapet. _BREAK_ I en ranked match konkurrerer du mot alle de andre spillerne i å gjette flest sanger, som strekker fra den enkleste til den vanskeligste i spillet. _BREAK_ På slutten av matchen får du poeng basert på hvor bra du gjorde det. Samle poeng gjennom hele sesongen for å låse opp unike merker og få en plass i mesterskapsmatchen på slutten av sesongen! _BREAK_ For å sikre integriteten til rankedmatcher er det viktig at du følger reglene nedenfor, hvor brudd på disse reglene kan føre til at kontoen din blir utensteingt og/eller ekskludert fra å spille ranked.",
+            "themed_title": "Temaquizregler",
+            "themed_description": "Temaquizer er et sted hvor spillere kan teste ferdighetene sine i spesifikke temaer valgt for dagen mot resten av fellesskapet! _BREAK_ Hver temaquiz vil ha et unikt temabasert sangutvalg, og er ment å være en morsom og forfriskene måte å utfordre deg selv mot fellesskapet i et mindre konkurransepreget og mer moro fokusert miljø. _BREAK_ Selv om det ikke er like konkurransepreget som ranked matcher, er det viktig at du følger reglene for ikke å øddelegge opplevelsen til andre spillere. Brudd på reglene kan føre til at kontoen din blir utestengt og/eller ekskludert fra dagens quiz.",
             "play_solo": {
-                "MISSING-title": "Play Solo",
-                "MISSING-description": "Ranked is a test of individual skills, so giving hints and/or answer to other players, as well as receiving them, goes against the rules."
+                "title": "Spill solo",
+                "description": "Ranked er en test av individuelle ferdigheter, så det å gi hint og/eller svar til andre spillere, i tillegg til å motta dem, strider mot reglene."
             },
             "themed_team_play": {
-                "MISSING-title": "Team Play",
-                "MISSING-description": "It’s possible to play themed quizzes as a team, to do so set up or join your team from the top right option in the lobby. While in a team, you are allowed to work together to guess the answers, and will share the same score. _BREAK_ It’s not allowed to share any answers or hints with people not on your team."
+                "title": "Spill som et lag",
+                "description": "Det er mulig å spille temabaserte quizer som et lag. For å gjøre dette kan du sette opp eller bli med i et lag ved å klikke på alternativet øverst i venstre i lobbyen. Mens du er i et lag, har dere lov til å samarbeide om å gjette på svarene, og dere deler poengsum. _BREAK_ Det er ikke tillatt å dele svar eller hint med folk som ikke er på laget ditt."
             },
             "no_cheating": {
-                "MISSING-title": "No Cheating",
-                "MISSING-description": "Using any kind of tool that gives an unfair advantage over other players is strictly prohibited. This includes using external tools to get additional information about the song, googling lyrics, and in general any external tool and/or method that gives an unfair advantage over other players."
+                "title": "Ikke juks",
+                "description": "Det er strengt forbudt å bruke verktøy som gir en urettferdig fordel over andre spillere. Dette inkluderer bruk av eksterne verktøy for å få ekstra informasjon om sangen, google teksten og generelt ethvert eksternt verktøy og/eller metode som gir en urettferdig fordel over andre spillere."
             },
             "mod_instructions": {
-                "MISSING-title": "Follow Instructions from Moderators",
-                "MISSING-description": "The games moderators work hard to keep ranked fair for all players, so it’s important you follow any instructions issued by them so that they can ensure this.  _BREAK_ You can recognize moderators by the mod badge next to their name."
+                "title": "Følg instruksjonene fra moderatorene",
+                "description": "Spillets moderatorene jobber hardt for å holde ranked rettferdig for alle spillere, så det er viktig at du følger alle instruksjonene de gir, slik at de kan sikre dette. _BREAK_ Du kan gjenkjenne moderatorer på moderatormerket ved siden av navnet deres."
             },
             "english_chat": {
-                "MISSING-title": "Use English in the Chat",
-                "MISSING-description": "It isn’t possible to moderate every language, so keep messages in the ranked chat to English and emotes."
+                "title": "Bruk engelsk i chatten",
+                "description": "Det er umulig å moderere alle språk, så hold meldinger i rankedchatten til engelsk og emojier."
             }
         }
     },
     "quiz": {
         "boss_mode": {
-            "MISSING-boss": "Boss",
-            "MISSING-defeat": "Defeat",
-            "MISSING-victory": "Victory",
-            "MISSING-correct": "_SPAN_ _NUMBER_ _SPAN_ Correct",
-            "MISSING-lives": "_SPAN_ _NUMBER_ _SPAN_ / _SPAN2_ _NUMBER2_ _SPAN2_ Lives",
-            "MISSING-points": "_SPAN_ _NUMBER_ _SPAN_ Points",
-            "MISSING-players_left": "Boss Players Left",
-            "MISSING-powers_left": "_SPAN_ _NUMBER_ _SPAN_ Powers Left",
+            "boss": "Boss",
+            "defeat": "Beseiret",
+            "victory": "Seirende",
+            "correct": "_SPAN_ _NUMBER_ _SPAN_ riktig",
+            "lives": "_SPAN_ _NUMBER_ _SPAN_ / _SPAN2_ _NUMBER2_ _SPAN2_ liv",
+            "points": "_SPAN_ _NUMBER_ _SPAN_ poeng",
+            "players_left": "Boss spillere igjen",
+            "powers_left": "_SPAN_ _NUMBER_ _SPAN_ powers igjen",
             "powers": {
                 "name_hint": {
-                    "MISSING-title": "Name Hint",
-                    "MISSING-description": "Reveal the length of the answers, and 4 of its characters"
+                    "title": "Navnhint",
+                    "description": "Avslører lengden på svaret og 4 av tegnene "
                 },
                 "song_hint": {
-                    "MISSING-title": "Song Hint",
-                    "MISSING-description": "Reveal some of the song info for the current song"
+                    "title": "Sanghint",
+                    "description": "Avslør noe av sanginformansjonen for den nåværende sangen"
                 },
                 "peek_answers": {
-                    "MISSING-title": "Peek Answers",
-                    "MISSING-description": "Reveal the answers already submitted by other players"
+                    "title": "titt på svar",
+                    "description": "Titt på svarenen som allerede er sendt inn av andre spillere"
                 },
                 "more_time": {
-                    "MISSING-title": "More Time",
-                    "MISSING-description": "Increase guessing time by 10 seconds"
+                    "title": "Mer tid",
+                    "description": "Øk gjettetiden med 10 sekunder"
                 },
                 "end_guessing": {
-                    "MISSING-title": "End Guessing",
-                    "MISSING-description": "End the guessing phase immediately"
+                    "title": "Stopp gjetting",
+                    "description": "Stopper gjettefasen umiddelbart"
                 },
                 "multiple_choice": {
-                    "MISSING-title": "Multiple Choice",
-                    "MISSING-description": "Get multiple choice answers for the current song"
+                    "title": "Flervalg",
+                    "description": "Få flervalgsalternativ for den nåværende sangen"
                 }
             }
         }
