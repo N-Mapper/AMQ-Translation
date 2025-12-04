@@ -2650,7 +2650,7 @@
                     "team_selection": "Lagvalg",
                     "answering": "Avsvaring",
                     "scoring": "Scoring",
-                    "-chat": "Chat"
+                    "chat": "Chat"
                 },
                 "speed_scoring": {
                     "title": "Fartscoring",
@@ -3045,7 +3045,7 @@
         "gangs": "Gjenger",
         "gender_bending": "Kjønnsbøying",
         "ghost": "Spøkelse",
-        "-go": "Go",
+        "go": "Go",
         "goblin": "Goblin",
         "gods": "Guder",
         "golf": "Golf",
@@ -3243,7 +3243,7 @@
         "war": "Krig",
         "werewolf": "Varulv",
         "wilderness": "Villmark",
-        "Mwitch": "Heks",
+        "witch": "Heks",
         "work": "Arbeid",
         "wrestling": "Wrestling",
         "writing": "Skriving",
