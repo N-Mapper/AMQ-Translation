@@ -2586,7 +2586,7 @@
             "description": "Utkastede spillere vil ikke kunne bli med i game igjen",
             "kick_button": "Kast"
         },
-        "page_close_warning": "Hvis du forlater siden, forlater du spillet. Er du sikker på at du vil fortsette?",
+        "page_close_warning": "Hvis du forlater siden, forlater du game. Er du sikker på at du vil fortsette?",
         "error_leaving_queue": "Uventet køforlatelesefeil",
         "error_joining_queue": {
             "title": "Køstillingsfeil",
@@ -2660,7 +2660,7 @@
                 },
                 "lives": {
                     "title": "Liv",
-                    "losing_lives_1": "Mister étt liv",
+                    "losing_lives_1": "Mister ett liv",
                     "losing_lives_2": "Mister to liv",
                     "winning": "Vinner",
                     "reviving": "Gjenoppliving"
@@ -2688,8 +2688,8 @@
             "lobby_closed": "Lobby stengt",
             "mod_left": "Mod forlot",
             "host_left": "Vert forlot",
-            "all_players_left": "Alle spiller forlot",
-            "host_afk": "Vert AFK",
+            "all_players_left": "Alle spillere forlot",
+            "host_afk": "Vert er AFK",
             "no_players": "Ingen spillere"
         },
         "mode_ids": {
@@ -2706,7 +2706,7 @@
             "typing": "Skriving",
             "multiple_choice": "Flervalg",
             "selection": {
-                "itle": "Velg svarmodus",
+                "title": "Velg svarmodus",
                 "description": "Velg svarmodus du vil bruke. Du kan endre den senere øverst til høyre i lobbyen."
             }
         },
@@ -2729,7 +2729,7 @@
         },
         "all_players_not_ready_warning": {
             "title": "Ikke alle spillere klare",
-            "description": "Ikke alle spillere er klare. Alle spillere sm ikke er klare vil bli omgjort til tilskuere",
+            "description": "Ikke alle spillere er klare. Alle spillere som ikke er klare vil bli omgjort til tilskuere",
             "start_button": "Start"
         },
         "game_settings": {
@@ -2833,9 +2833,9 @@
         },
         "ranked_rules": {
             "title": "Rankedregler",
-            "description": "Rankedmatcher er et sted hvor spillere kan teste sine individuelle ferdigheter mot resten av fellesskapet. _BREAK_ I en ranked match konkurrerer du mot alle de andre spillerne i å gjette flest sanger, som strekker fra den enkleste til den vanskeligste i spillet. _BREAK_ På slutten av matchen får du poeng basert på hvor bra du gjorde det. Samle poeng gjennom hele sesongen for å låse opp unike merker og få en plass i mesterskapsmatchen på slutten av sesongen! _BREAK_ For å sikre integriteten til rankedmatcher er det viktig at du følger reglene nedenfor, hvor brudd på disse reglene kan føre til at kontoen din blir utensteingt og/eller ekskludert fra å spille ranked.",
+            "description": "Rankedmatcher er et sted hvor spillere kan teste sine individuelle ferdigheter mot resten av fellesskapet. _BREAK_ I en ranked match konkurrerer du mot alle de andre spillerne i å gjette flest sanger, som strekker fra den enkleste til den vanskeligste i spillet. _BREAK_ På slutten av matchen får du poeng basert på hvor bra du gjorde det. Samle poeng gjennom hele sesongen for å låse opp unike merker og få en plass i mesterskapsmatchen på slutten av sesongen! _BREAK_ For å sikre integriteten til rankedmatcher er det viktig at du følger reglene nedenfor, hvor brudd på disse reglene kan føre til at kontoen din blir utenstengt og/eller ekskludert fra å spille ranked.",
             "themed_title": "Temaquizregler",
-            "themed_description": "Temaquizer er et sted hvor spillere kan teste ferdighetene sine i spesifikke temaer valgt for dagen mot resten av fellesskapet! _BREAK_ Hver temaquiz vil ha et unikt temabasert sangutvalg, og er ment å være en morsom og forfriskene måte å utfordre deg selv mot fellesskapet i et mindre konkurransepreget og mer moro fokusert miljø. _BREAK_ Selv om det ikke er like konkurransepreget som ranked matcher, er det viktig at du følger reglene for ikke å øddelegge opplevelsen til andre spillere. Brudd på reglene kan føre til at kontoen din blir utestengt og/eller ekskludert fra dagens quiz.",
+            "themed_description": "Temaquizer er et sted hvor spillere kan teste ferdighetene sine i spesifikke temaer valgt for dagen mot resten av fellesskapet! _BREAK_ Hver temaquiz vil ha et unikt temabasert sangutvalg, og er ment å være en morsom og forfriskende måte å utfordre deg selv mot fellesskapet i et mindre konkurransepreget og mer moro fokusert miljø. _BREAK_ Selv om det ikke er like konkurransepreget som ranked matcher, er det viktig at du følger reglene for ikke å ødelegge opplevelsen til andre spillere. Brudd på reglene kan føre til at kontoen din blir utestengt og/eller ekskludert fra dagens quiz.",
             "play_solo": {
                 "title": "Spill solo",
                 "description": "Ranked er en test av individuelle ferdigheter, så det å gi hint og/eller svar til andre spillere, i tillegg til å motta dem, strider mot reglene."
@@ -2875,7 +2875,7 @@
                 },
                 "song_hint": {
                     "title": "Sanghint",
-                    "description": "Avslør noe av sanginformansjonen for den nåværende sangen"
+                    "description": "Avslør noe av sanginformasjonen for den nåværende sangen"
                 },
                 "peek_answers": {
                     "title": "Titt på svar",
@@ -2924,10 +2924,10 @@
         "anthropomorphism": "Antropomorfisme",
         "anti-hero": "Antihelt",
         "archery": "Bueskyting",
-        "aromantic": "Aromantikk",
+        "aromantic": "Aromantisk",
         "arranged_marriage": "Arrangert ekteskap",
         "artificial_intelligence": "Kunstig intelligens",
-        "asexual": "Aseksual",
+        "asexual": "Aseksuell",
         "assassins": "Leiemorder",
         "astronomy": "Astronomi",
         "athletics": "Friidrett",
@@ -3145,12 +3145,12 @@
         "post-apocalyptic": "Postapokalyptisk",
         "pov": "POV",
         "pregnancy": "Graviditet",
-        "primarily_adult_cast": "Hovedsaklig voksen rolleliste",
-        "primarily_animal_cast": "Hovedsaklig dyr rolleliste",
-        "primarily_child_cast": "Hovedsaklig barne rolleliste",
-        "primarily_female_cast": "Hovedsaklig kvinnelig rolleliste",
-        "primarily_male_cast": "Hovedsaklig mannlig rolleliste",
-        "primarily_teen_cast": "Hovedsaklig tenårig rolleliste",
+        "primarily_adult_cast": "Hovedsaklig voksen besetning",
+        "primarily_animal_cast": "Hovedsaklig dyr besetning",
+        "primarily_child_cast": "Hovedsaklig barne besetning",
+        "primarily_female_cast": "Hovedsaklig kvinnelig besetning",
+        "primarily_male_cast": "Hovedsaklig mannlig besetning",
+        "primarily_teen_cast": "Hovedsaklig tenårig besetning",
         "prison": "Fengsel",
         "proxy_battle": "Proxy-kamp",
         "psychosexual": "Psykoseksuell",
@@ -3176,7 +3176,7 @@
         "school_club": "Skoleklubb",
         "scuba_diving": "Apparatdykking",
         "seinen": "Seinen",
-        "shapeshifting": "Formskifting",
+        "shapeshifting": "Formskrifting",
         "ships": "Skip",
         "shogi": "Shogi",
         "shoujo": "Shoujo",
@@ -3207,7 +3207,7 @@
         "swimming": "Svømming",
         "swordplay": "Sverdkunst",
         "table_tennis": "Bordtennis",
-        "tada_banri": "Tada Banri",
+        "tada_banri": "Banri Tada",
         "tanks": "Stridsvogner",
         "tanned_skin": "Solbrunt hud",
         "teacher": "Lærer",
