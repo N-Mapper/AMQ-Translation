@@ -2546,9 +2546,9 @@
         "game_chat": "Gamechat",
         "spectators": "Tilskuere",
         "spectate_button": "Se på",
-        "queue": "Kø",
-        "join_queue_button": "Stell deg i kø",
-        "leave_queue_button": "Forlatt køen",
+        "queue": "Køen",
+        "join_queue_button": "Stell deg i køen",
+        "leave_queue_button": "Forlat køen",
         "team_switch": "Lag",
         "player_only_mode": "Kun spillerchat",
         "message": "Melding",
@@ -2608,7 +2608,7 @@
         "team_unset": "Avaktiver",
         "team_members": "Lagmedlemmer",
         "join_themed_team": {
-            "title": "Bli med lag",
+            "title": "Bli med et lag",
             "placeholder": "Angi lagkode",
             "join_button": "Bli med"
         },
@@ -2638,7 +2638,7 @@
             "team_code": "Lagkode",
             "create": "Skap",
             "join": "Bli med",
-            "leave": "Forlatt"
+            "leave": "Forlat"
         },
         "rule_window": {
             "title": "Gamemodus oversikt",
