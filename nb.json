@@ -2562,7 +2562,7 @@
         "emote_locked_in": "Emoji valgt",
         "kicked_message": "_NAME_ ble kastet ut av rommet.",
         "new_host_message": "_NAME_ er nå vert.",
-        "stopped_spectating_message": "_NAME_ har stoppet å se på.",
+        "stopped_spectating_message": "_NAME_ har sluttet å se på.",
         "disconnected_message": "_NAME_ har blitt frakoblet.",
         "reconnect_message": "_NAME_ har koblet seg til igjen.",
         "left_room_message": "_NAME_ har forlatt rommet.",
