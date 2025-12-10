@@ -459,7 +459,7 @@
         "menu": {
             "patreon": "Patreon",
             "donate": "Doner",
-            "song_history": "Sanghistorie",
+            "song_history": "Sanghistorikk",
             "settings": "Innstillinger",
             "blocked_players": "Blokkerte spillere",
             "change_password": "Bytt passord",
@@ -2907,67 +2907,67 @@
                 }
             }
         },
-        "MISSING-leave_button": "Leave",
+        "leave_button": "Forlat",
         "leave_quiz_option": {
-            "MISSING-title": "Leave Quiz?",
-            "MISSING-stay": "Stay"
+            "title": "Forlat quiz?",
+            "stay": "Bli"
         },
         "return_to_lobby": {
-            "MISSING-popover": "Start a vote for returning to the lobby",
-            "MISSING-vote_message": "Return to Lobby?",
-            "MISSING-yes": "Yes",
-            "MISSING-no": "No",
-            "MISSING-start_vote": "Start Return to Lobby Vote?",
-            "MISSING-start_button": "Start"
+            "popover": "Start en avstemming for å returnere til lobbyen",
+            "vote_message": "Returner til lobby?",
+            "yes": "Ja",
+            "no": "Nei",
+            "start_vote": "Start returner til lobbyavstemming?",
+            "start_button": "Start"
         },
-        "MISSING-join_button": "Join",
+        "join_button": "Bli med",
         "video_quality": {
-            "MISSING-720p": "720p",
-            "MISSING-480p": "480p",
-            "MISSING-sound": "Sound"
+            "720p": "720p",
+            "480p": "480p",
+            "sound": "Lyd"
         },
-        "MISSING-settings_popover": "Settings",
-        "MISSING-song_history_popover": "Song History",
-        "MISSING-vote_skip": "Vote Skip",
+        "settings_popover": "Innstillinger",
+        "song_history_popover": "Sanghistorikk",
+        "vote_skip": "Stem hopp over",
         "vote_states": {
-            "MISSING-voted_skip": "Voted _BREAK_ Skip",
-            "MISSING-no_votes": "No _BREAK_ Votes",
-            "MISSING-waiting_answers": "Waiting _BREAK_ Answers",
-            "MISSING-waiting_buffering": "Waiting _BREAK_ Buffering",
-            "MISSING-ending_soon": "Ending _BREAK_ Soon",
-            "MISSING-votes_needed": "_NUMBER_/_NUMBER2_ _BREAK_ Votes"
+            "voted_skip": "Stemt _BREAK_ hopp over",
+            "no_votes": "Ingen _BREAK_ stemmer",
+            "waiting_answers": "Avventer _BREAK_ svar",
+            "waiting_buffering": "Avventer _BREAK_ Bufrer",
+            "ending_soon": "Slutter _BREAK_ snart",
+            "votes_needed": "_NUMBER_/_NUMBER2_ _BREAK_ stemmer"
         },
-        "MISSING-no_songs_matching_settings": "No songs match the quiz settings, returning to lobby",
-        "MISSING-team_answer": "_NAME_ answered: _MESSAGE_",
-        "MISSING-current_answer": "Current Answer",
+        "no_songs_matching_settings": "Ingen sanger passer med quizinnstillingene, returnerer til lobby",
+        "team_answer": "_NAME_ svarte: _MESSAGE_",
+        "current_answer": "Nåværende svar",
         "pause_button_popovers": {
-            "MISSING-pause": "Pause the game at the end of this song. All players can end the pause.",
-            "MISSING-unpause": "Unpause the game"
+            "pause": "Pauser game etter denne sangen. Alle spillere kan avslutte pausen",
+            "unpause": "Starter game"
         },
         "anime_names": {
-            "MISSING-alternative_names": "Alternative Names",
-            "MISSING-alternative_answers": "Alternative Answers"
+            "alternative_names": "Alternative navn",
+            "alternative_answers": "Alternative svar"
         },
         "avatar": {
-            "MISSING-loot": "Loot",
-            "MISSING-host": "Host",
-            "MISSING-hidden": "Hidden",
-            "MISSING-hidden_description": "Hidden from other players",
-            "MISSING-answer_time": "Answer Time",
-            "MISSING-answer_time_number": "_NUMBER_s",
-            "MISSING-answering_mode": "Answering Mode",
-            "MISSING-multiple_choice": "Multiple Choice",
+            "loot": "Innsamling",
+            "host": "Vert",
+            "hidden": "Skjult",
+            "hidden_description": "Skjult fra andre spillere",
+            "answer_time": "Svartid",
+            "answer_time_number": "_NUMBER_s",
+            "answering_mode": "Svarmodus",
+            "multiple_choice": "Flervalg",
             "answer_status": {
-                "MISSING-watching": "W",
-                "MISSING-completed": "C",
-                "MISSING-on_hold": "H",
-                "MISSING-dropped": "D",
-                "MISSING-plan_to_watch": "P"
+                "watching": "S",
+                "completed": "F",
+                "on_hold": "PV",
+                "dropped": "D",
+                "plan_to_watch": "P"
             },
             "hint_used": {
-                "MISSING-name": "Name Hint Used",
-                "MISSING-info": "Info Hint Used",
-                "MISSING-multiple_choice": "Multiple Choice Hint Used"
+                "name": "Navnhint brukt",
+                "info": "Sanghint brukt",
+                "multiple_choice": "Flervalgshint brukt"
             }
         },
         "song_info": {
