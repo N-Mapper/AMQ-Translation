@@ -2960,7 +2960,7 @@
             "answer_status": {
                 "watching": "S",
                 "completed": "F",
-                "on_hold": "P",
+                "on_hold": "V",
                 "dropped": "D",
                 "plan_to_watch": "P"
             },
@@ -3489,88 +3489,88 @@
         "thriller": "Thriller"
     },
     "song_history": {
-        "MISSING-title": "Song History",
-        "MISSING-no_songs": "No Songs",
-        "MISSING-load_songs": "Load Songs",
+        "title": "Sanghistorikk",
+        "no_songs": "Ingen sanger",
+        "load_songs": "Last inn sanger",
         "tabs": {
-            "MISSING-current_game": "Current Game",
-            "MISSING-last_game": "Last Game",
-            "MISSING-games": "Past Games",
-            "MISSING-options": "Options"
+            "current_game": "Nåværende game",
+            "last_game": "Forrige game",
+            "games": "Tidligere game",
+            "options": "Alternativer"
         },
         "columns": {
-            "MISSING-title": "Columns",
-            "MISSING-anime": "Anime",
-            "MISSING-ann_id": "ANN ID",
-            "MISSING-type": "Type",
-            "MISSING-season": "Season",
-            "MISSING-name": "Name",
-            "MISSING-artist": "Artist",
-            "MISSING-answer": "Answer",
-            "MISSING-guesses": "Guesses",
-            "MISSING-difficulty": "Difficulty",
-            "MISSING-sample": "Sample"
+            "title": "Kolonner",
+            "anime": "Anime",
+            "ann_id": "ANN id",
+            "type": "Type",
+            "season": "Sesong",
+            "name": "Navn",
+            "artist": "Artist",
+            "answer": "Svar",
+            "guesses": "Gjettinger",
+            "difficulty": "Vansklighet",
+            "sample": "Snuttpunkt"
         },
         "options": {
-            "MISSING-info": "Info",
+            "info": "Info",
             "show_names": {
-                "MISSING-title": "Show Names",
+                "title": "Vis navn",
                 "ticks": {
-                    "MISSING-english": "English",
-                    "MISSING-default": "Default",
-                    "MISSING-romaji": "Romaji"
+                    "english": "Engelsk",
+                    "default": "Standard",
+                    "romaji": "Romaji"
                 }
             },
             "anime_link": {
-                "MISSING-title": "Anime Link",
+                "title": "Animelenke",
                 "ticks": {
-                    "MISSING-anilist": "Anilist",
-                    "MISSING-kitsu": "Kitsu",
-                    "MISSING-default": "Default",
-                    "MISSING-mal": "MAL",
-                    "MISSING-ann": "ANN"
+                    "anilist": "AniList",
+                    "kitsu": "Kitsu",
+                    "default": "Standard",
+                    "mal": "MAL",
+                    "ann": "ANN"
                 }
             }
         },
         "song_window": {
-            "MISSING-title": "Song Info",
-            "MISSING-anime_english": "Anime English",
-            "MISSING-anime_romaji": "Anime Romaji",
+            "title": "Sanginfo",
+            "anime_english": "Anime engelsk",
+            "anime_romaji": "Anime romaji",
             "columns": {
-                "MISSING-composer": "Composer",
-                "MISSING-arranger": "Arranger",
-                "MISSING-all_working_titles": "All Working Titles",
-                "MISSING-sample_point": "Sample Point",
-                "MISSING-anime_type": "Anime Type",
-                "MISSING-season_info": "Season Info",
-                "MISSING-vintage": "Vintage",
-                "MISSING-anime_rating": "Anime Rating",
-                "MISSING-genres": "Genres",
-                "MISSING-tags": "Tags",
-                "MISSING-video": "Video",
-                "MISSING-list_sites": "List Sites",
-                "MISSING-player_lists": "Player Lists"
+                "composer": "Komponist",
+                "arranger": "Arrangør",
+                "all_working_titles": "Alle fungerende titler",
+                "sample_point": "Snuttpunkt",
+                "anime_type": "Animetype",
+                "season_info": "Sesonginfo",
+                "vintage": "Årgang",
+                "anime_rating": "Animescore",
+                "genres": "Sjangere",
+                "tags": "Tagger",
+                "video": "Video",
+                "list_sites": "Listsider",
+                "player_lists": "Spillerlister"
             },
             "anime_type": {
-                "MISSING-tv": "TV",
-                "MISSING-movie": "Movie",
-                "MISSING-ova": "OVA",
-                "MISSING-ona": "ONA",
-                "MISSING-special": "Special"
+                "tv": "TV",
+                "movie": "Film",
+                "ova": "OVA",
+                "ona": "ONA",
+                "special": "Spesial"
             },
             "list_status": {
-                "MISSING-watching": "Watching",
-                "MISSING-completed": "Completed",
-                "MISSING-on_hold": "On Hold",
-                "MISSING-dropped": "Dropped",
-                "MISSING-planning": "Planning",
-                "MISSING-looted": "Looted"
+                "watching": "Ser på",
+                "completed": "Fullført",
+                "on_hold": "På vent",
+                "dropped": "Droppet",
+                "planning": "Planlagt",
+                "looted": "Innsamlet"
             }
         },
         "popovers": {
-            "MISSING-download_json": "Download as JSON",
-            "MISSING-copy_setting_code": "Copy the setting code for this game",
-            "MISSING-copied": "Copied!"
+            "download_json": "Last ned som JSON",
+            "copy_setting_code": "Kopier innstillingskoden for dette game",
+            "copied": "Kopiert!"
         }
     }
 }
