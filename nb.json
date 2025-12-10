@@ -2917,7 +2917,7 @@
             "vote_message": "Returner til lobby?",
             "yes": "Ja",
             "no": "Nei",
-            "start_vote": "Start returner til lobbyavstemming?",
+            "start_vote": "Start avstemming for å returne til lobby?",
             "start_button": "Start"
         },
         "join_button": "Bli med",
@@ -2933,7 +2933,7 @@
             "voted_skip": "Stemt _BREAK_ hopp over",
             "no_votes": "Ingen _BREAK_ stemmer",
             "waiting_answers": "Avventer _BREAK_ svar",
-            "waiting_buffering": "Avventer _BREAK_ Bufrer",
+            "waiting_buffering": "Venter _BREAK_ bufrer",
             "ending_soon": "Slutter _BREAK_ snart",
             "votes_needed": "_NUMBER_/_NUMBER2_ _BREAK_ stemmer"
         },
@@ -2999,14 +2999,14 @@
             "song_type": {
                 "opening": "Introsang _NUMBER_",
                 "ending": "Sluttsang _NUMBER_",
-                "insert": "Innsats",
+                "insert": "Innsatssang",
                 "rebroadcast": "(Reprise)",
                 "dub": "(Dubb)",
                 "type_text": "_NAME_ _DESCRIPTION_"
             }
         },
         "standings": {
-            "title": "Toppliste",
+            "title": "Tabell",
             "number_of_correct_guesses_popover": "Antall riktige svar",
             "correct_guesses": "Riktige svar",
             "list_number": "Listenummmer",
@@ -3027,7 +3027,7 @@
             "click_to_hide_video": "Klikk for å skjule videoen",
             "loading": "Laster inn",
             "answers": "Svar",
-            "waiting_buffering": "Avventer Bufrer",
+            "waiting_buffering": "Venter bufrer",
             "returning_to_lobby": "Returnerer til lobby",
             "pausing_after_this_song": "Pause etter denne sangen",
             "continuing_in": "Fortsetter om: _SPAN_ _NUMBER_ _SPAN_",
@@ -3036,7 +3036,7 @@
                 "point_value": "Poengverdien til den nåværende sangen",
                 "name": {
                     "title": "Navn",
-                    "description": "Reveal the length of the answer, and 4 of its characters"
+                    "description": "Avslør lengden på svaret og 4 tegn"
                 },
                 "info": {
                     "title": "Info",
@@ -3091,7 +3091,7 @@
             },
             "joining_game": {
                 "title": "Bli med i game",
-                "description": "Du blir med i spillet i løpet av neste resultatfase"
+                "description": "Du blir med i gamet i løpet av neste resultatfase"
             },
             "join_team": {
                 "title": "Bli med i lag?",
