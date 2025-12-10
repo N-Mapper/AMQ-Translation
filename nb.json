@@ -2593,6 +2593,14 @@
             "not_a_spectator": "Du må være tilskuer for å bli med i køen",
             "already_in_queue": "Du er allerede i køen",
             "disabled": "Køfunksjonen er deaktivert i dette rommet"
+        },
+        "kicked_from_jam_game_alert": {
+            "MISSING-title": "Kicked from Jam Quiz",
+            "MISSING-description": "You have been kicked from the jam quiz by a moderator and cannot rejoin the room for an hour"
+        },
+        "jam_quiz_ban_alert": {
+            "MISSING-title": "Banned from Jam Quizzes",
+            "MISSING-description": "Your jam quiz expires in _NUMBER_ minutes"
         }
     },
     "lobby": {
@@ -2828,7 +2836,11 @@
                 "dub_songs": "Dubbsanger",
                 "full_song_range": "Fullt sangregister",
                 "ova": "OVA",
-                "ona": "ONA"
+                "ona": "ONA",
+                "MISSING-queueing": "Queueing",
+                "MISSING-tv": "TV",
+                "MISSING-movie": "Movie",
+                "MISSING-special": "Special"
             }
         },
         "ranked_rules": {
@@ -2893,6 +2905,208 @@
                     "title": "Flervalg",
                     "description": "Få flervalgsalternativ for den nåværende sangen"
                 }
+            }
+        },
+        "MISSING-leave_button": "Leave",
+        "leave_quiz_option": {
+            "MISSING-title": "Leave Quiz?",
+            "MISSING-stay": "Stay"
+        },
+        "return_to_lobby": {
+            "MISSING-popover": "Start a vote for returning to the lobby",
+            "MISSING-vote_message": "Return to Lobby?",
+            "MISSING-yes": "Yes",
+            "MISSING-no": "No",
+            "MISSING-start_vote": "Start Return to Lobby Vote?",
+            "MISSING-start_button": "Start"
+        },
+        "MISSING-join_button": "Join",
+        "video_quality": {
+            "MISSING-720p": "720p",
+            "MISSING-480p": "480p",
+            "MISSING-sound": "Sound"
+        },
+        "MISSING-settings_popover": "Settings",
+        "MISSING-song_history_popover": "Song History",
+        "MISSING-vote_skip": "Vote Skip",
+        "vote_states": {
+            "MISSING-voted_skip": "Voted _BREAK_ Skip",
+            "MISSING-no_votes": "No _BREAK_ Votes",
+            "MISSING-waiting_answers": "Waiting _BREAK_ Answers",
+            "MISSING-waiting_buffering": "Waiting _BREAK_ Buffering",
+            "MISSING-ending_soon": "Ending _BREAK_ Soon",
+            "MISSING-votes_needed": "_NUMBER_/_NUMBER2_ _BREAK_ Votes"
+        },
+        "MISSING-no_songs_matching_settings": "No songs match the quiz settings, returning to lobby",
+        "MISSING-team_answer": "_NAME_ answered: _MESSAGE_",
+        "MISSING-current_answer": "Current Answer",
+        "pause_button_popovers": {
+            "MISSING-pause": "Pause the game at the end of this song. All players can end the pause.",
+            "MISSING-unpause": "Unpause the game"
+        },
+        "anime_names": {
+            "MISSING-alternative_names": "Alternative Names",
+            "MISSING-alternative_answers": "Alternative Answers"
+        },
+        "avatar": {
+            "MISSING-loot": "Loot",
+            "MISSING-host": "Host",
+            "MISSING-hidden": "Hidden",
+            "MISSING-hidden_description": "Hidden from other players",
+            "MISSING-answer_time": "Answer Time",
+            "MISSING-answer_time_number": "_NUMBER_s",
+            "MISSING-answering_mode": "Answering Mode",
+            "MISSING-multiple_choice": "Multiple Choice",
+            "answer_status": {
+                "MISSING-watching": "W",
+                "MISSING-completed": "C",
+                "MISSING-on_hold": "H",
+                "MISSING-dropped": "D",
+                "MISSING-plan_to_watch": "P"
+            },
+            "hint_used": {
+                "MISSING-name": "Name Hint Used",
+                "MISSING-info": "Info Hint Used",
+                "MISSING-multiple_choice": "Multiple Choice Hint Used"
+            }
+        },
+        "song_info": {
+            "MISSING-title": "Song Info",
+            "MISSING-song_name": "Song Name",
+            "MISSING-arranger": "Arranger",
+            "MISSING-artist": "Artist",
+            "MISSING-composer": "Composer",
+            "MISSING-type": "Type",
+            "MISSING-video": "Video",
+            "MISSING-anime": "Anime",
+            "MISSING-report": "Report",
+            "MISSING-report_reason": "Report Reason",
+            "report_reasons": {
+                "MISSING-wrong_song": "Wrong Song",
+                "MISSING-bad_quality": "Bad Quality",
+                "MISSING-background_noise": "Background Noise",
+                "MISSING-broken_video": "Broken Video"
+            },
+            "extra_info": {
+                "MISSING-title": "Extra Info",
+                "MISSING-type": "Type",
+                "MISSING-vintage": "Vintage",
+                "MISSING-anime_rating": "Anime Rating",
+                "MISSING-difficulty": "Difficulty",
+                "MISSING-genre": "Genre",
+                "MISSING-tags": "Tags"
+            },
+            "song_type": {
+                "MISSING-opening": "Opening _NUMBER_",
+                "MISSING-ending": "Ending _NUMBER_",
+                "MISSING-insert": "Insert Song",
+                "MISSING-rebroadcast": "(Rebroadcast)",
+                "MISSING-dub": "(Dub)",
+                "MISSING-type_text": "_NAME_ _DESCRIPTION_"
+            }
+        },
+        "standings": {
+            "MISSING-title": "Standings",
+            "MISSING-number_of_correct_guesses_popover": "Number of Correct Guesses",
+            "MISSING-correct_guesses": "Correct Guesses",
+            "MISSING-list_number": "List Number",
+            "hide_team_messages": {
+                "MISSING-mod": "Mods can't hide teams",
+                "MISSING-in_team": "Can't hide teams while in a team",
+                "MISSING-hide_teams": "Show/hide teams in the quiz"
+            },
+            "MISSING-points": "Points",
+            "MISSING-lives": "Lives"
+        },
+        "video_player": {
+            "MISSING-sound_only": "Sound Only",
+            "video_hidden": {
+                "MISSING-title": "Video Hidden",
+                "MISSING-click_to_reveal": "Click to Reveal"
+            },
+            "MISSING-click_to_hide_video": "Click to Hide Video",
+            "MISSING-loading": "Loading",
+            "MISSING-answers": "Answers",
+            "MISSING-waiting_buffering": "Waiting Buffering",
+            "MISSING-returning_to_lobby": "Returning to Lobby",
+            "MISSING-pausing_after_this_song": "Pausing After This Song",
+            "MISSING-continuing_in": "Continuing in: _SPAN_ _NUMBER_ _SPAN_",
+            "hints": {
+                "MISSING-title": "Hints",
+                "MISSING-point_value": "The point value of the current song",
+                "name": {
+                    "MISSING-title": "Name",
+                    "MISSING-description": "Reveal the length of the answer, and 4 of its characters"
+                },
+                "info": {
+                    "MISSING-title": "Info",
+                    "MISSING-description": "Reveal some of the song info for this song"
+                },
+                "multiple_choice": {
+                    "MISSING-title": "MC",
+                    "MISSING-description": "Get multiple choice options for this song"
+                },
+                "MISSING-hint_popover": "_DESCRIPTION_ - Point cost: _NUMBER_"
+            },
+            "skip_messages": {
+                "MISSING-answers": "Skipping to Answers",
+                "MISSING-lobby": "Skipping to Lobby",
+                "MISSING-next_song": "Skipping to Next Song",
+                "MISSING-final_standings": "Skipping to Final Standings",
+                "MISSING-rewards": "Skipping to Rewards",
+                "MISSING-end": "Skipping to End"
+            }
+        },
+        "jam_mode": {
+            "MISSING-next_round_vote": "Next Round Vote",
+            "MISSING-theme": "Theme",
+            "MISSING-active_theme": "Active Theme",
+            "MISSING-select_one": "Select One",
+            "MISSING-none": "None",
+            "MISSING-song_types": "Song Types",
+            "MISSING-select_one_or_more": "Select One or More",
+            "MISSING-openings": "Openings",
+            "MISSING-endings": "Endings",
+            "MISSING-inserts": "Inserts"
+        },
+        "looting": {
+            "MISSING-players": "Players",
+            "MISSING-time_left": "Time Left",
+            "MISSING-map_button": "Map",
+            "MISSING-collected_shows": "Collected Shows",
+            "MISSING-select_drop_zone": "Select Drop Zone",
+            "full_inventory": {
+                "MISSING-title": "Inventory Full",
+                "MISSING-description": "Drop shows from your inventory (top left) to continue looting"
+            },
+            "MISSING-players_in_tile": "Players in Tile",
+            "MISSING-data_store": "Data Store",
+            "MISSING-active_spectators": "Active Spectators",
+            "MISSING-no_active_spectators": "No Active Spectators"
+        },
+        "alerts": {
+            "fatal_error": {
+                "MISSING-title": "Fatal Server Error During Quiz",
+                "MISSING-description": "Returning to lobby"
+            },
+            "joining_game": {
+                "MISSING-title": "Joining Game",
+                "MISSING-description": "You will be added to the game during the next result phase"
+            },
+            "join_team": {
+                "MISSING-title": "Join a Team?",
+                "MISSING-description": "Enter team code to join a team, leave blank to join solo",
+                "MISSING-join_button": "Join"
+            }
+        },
+        "nexus": {
+            "MISSING-target_attack": "Target Attack",
+            "MISSING-target_swap": "Target Swap",
+            "MISSING-fuwagi_shop": "Fuwagi's Shop",
+            "MISSING-fuwagi_item_popover": "_DESCRIPTION_ _BREAK_ Cooldown: _NUMBER_",
+            "genre_icon": {
+                "MISSING-damage_done": "Increase damage done during _NAME_ shows",
+                "MISSING-damage_taken": "Reduce damage taken during _NAME_ shows"
             }
         }
     },
@@ -3273,5 +3487,90 @@
         "sports": "Sport",
         "supernatural": "Overnaturlig",
         "thriller": "Thriller"
+    },
+    "song_history": {
+        "MISSING-title": "Song History",
+        "MISSING-no_songs": "No Songs",
+        "MISSING-load_songs": "Load Songs",
+        "tabs": {
+            "MISSING-current_game": "Current Game",
+            "MISSING-last_game": "Last Game",
+            "MISSING-games": "Past Games",
+            "MISSING-options": "Options"
+        },
+        "columns": {
+            "MISSING-title": "Columns",
+            "MISSING-anime": "Anime",
+            "MISSING-ann_id": "ANN ID",
+            "MISSING-type": "Type",
+            "MISSING-season": "Season",
+            "MISSING-name": "Name",
+            "MISSING-artist": "Artist",
+            "MISSING-answer": "Answer",
+            "MISSING-guesses": "Guesses",
+            "MISSING-difficulty": "Difficulty",
+            "MISSING-sample": "Sample"
+        },
+        "options": {
+            "MISSING-info": "Info",
+            "show_names": {
+                "MISSING-title": "Show Names",
+                "ticks": {
+                    "MISSING-english": "English",
+                    "MISSING-default": "Default",
+                    "MISSING-romaji": "Romaji"
+                }
+            },
+            "anime_link": {
+                "MISSING-title": "Anime Link",
+                "ticks": {
+                    "MISSING-anilist": "Anilist",
+                    "MISSING-kitsu": "Kitsu",
+                    "MISSING-default": "Default",
+                    "MISSING-mal": "MAL",
+                    "MISSING-ann": "ANN"
+                }
+            }
+        },
+        "song_window": {
+            "MISSING-title": "Song Info",
+            "MISSING-anime_english": "Anime English",
+            "MISSING-anime_romaji": "Anime Romaji",
+            "columns": {
+                "MISSING-composer": "Composer",
+                "MISSING-arranger": "Arranger",
+                "MISSING-all_working_titles": "All Working Titles",
+                "MISSING-sample_point": "Sample Point",
+                "MISSING-anime_type": "Anime Type",
+                "MISSING-season_info": "Season Info",
+                "MISSING-vintage": "Vintage",
+                "MISSING-anime_rating": "Anime Rating",
+                "MISSING-genres": "Genres",
+                "MISSING-tags": "Tags",
+                "MISSING-video": "Video",
+                "MISSING-list_sites": "List Sites",
+                "MISSING-player_lists": "Player Lists"
+            },
+            "anime_type": {
+                "MISSING-tv": "TV",
+                "MISSING-movie": "Movie",
+                "MISSING-ova": "OVA",
+                "MISSING-ona": "ONA",
+                "MISSING-special": "Special"
+            },
+            "list_status": {
+                "MISSING-watching": "Watching",
+                "MISSING-completed": "Completed",
+                "MISSING-on_hold": "On Hold",
+                "MISSING-dropped": "Dropped",
+                "MISSING-planning": "Planning",
+                "MISSING-looted": "Looted"
+            }
+        },
+        "popovers": {
+            "MISSING-download_json": "Download as JSON",
+            "MISSING-copy_setting_code": "Copy the setting code for this game",
+            "MISSING-copied": "Copied!"
+        }
     }
 }
