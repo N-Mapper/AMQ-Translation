@@ -1893,7 +1893,7 @@
             "change": "Bytt",
             "join": "Bli med",
             "spectate": "Se på",
-            "invite_link": "Invitasjonslenke",
+            "invite_link": "Invitasjon",
             "invite_link_copied": "Kopiert!",
             "reset_to_default": "Nullstill"
         },
@@ -3064,17 +3064,17 @@
             "select_one": "Velg én",
             "none": "Ingen",
             "song_types": "Sangtyper",
-            "select_one_or_more": "Velg en eller fler",
+            "select_one_or_more": "Velg én eller fler",
             "openings": "Introsanger",
             "endings": "Sluttsanger",
             "inserts": "Innsatser"
         },
         "looting": {
-            "players": "Spiller",
+            "players": "Spillere",
             "time_left": "Tid igjen",
             "map_button": "Kart",
             "collected_shows": "Samlede program",
-            "select_drop_zone": "Velg slippsone",
+            "select_drop_zone": "Velg droppsone",
             "full_inventory": {
                 "title": "Inventar full",
                 "description": "Slipp program fra inventaret ditt (øverst til venstre) for å fortsette å innsamle"
