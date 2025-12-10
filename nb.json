@@ -1986,7 +1986,7 @@
             "one_must_be_selected": "Minst én animetype må velges"
         },
         "genre": {
-            "title": "Sjanger",
+            "title": "Sjangere",
             "description": "Sjangere bestemmes ved hjelp av AniList. Hvis valgfri brukes, vil animeen kreve minst én valgfri sjanger."
         },
         "tags": {
@@ -2414,7 +2414,7 @@
                 "ending": "ED",
                 "insert": "IN"
             },
-            "genres": "_SPANC_ _NUMBER_ _SPANC_ sjanger",
+            "genres": "_SPANC_ _NUMBER_ _SPANC_ sjangere",
             "tags": "_SPANC_ _NUMBER_ _SPANC_ tagger",
             "popovers": {
                 "number_of_songs_selected": "Antall sanger valgt av denne blokken",
@@ -2817,7 +2817,7 @@
                 "game_mode": "Gamemodus",
                 "modifiers": "Modifikatorer",
                 "type": "Type",
-                "genre": "Sjanger",
+                "genre": "Sjangere",
                 "tags": "Tagger",
                 "lives": "Liv",
                 "boss_lives": "Bossliv",
@@ -2960,101 +2960,101 @@
             "answer_status": {
                 "watching": "S",
                 "completed": "F",
-                "on_hold": "PV",
+                "on_hold": "P",
                 "dropped": "D",
                 "plan_to_watch": "P"
             },
             "hint_used": {
                 "name": "Navnhint brukt",
-                "info": "Sanghint brukt",
+                "info": "Infohint brukt",
                 "multiple_choice": "Flervalgshint brukt"
             }
         },
         "song_info": {
-            "MISSING-title": "Song Info",
-            "MISSING-song_name": "Song Name",
-            "MISSING-arranger": "Arranger",
-            "MISSING-artist": "Artist",
-            "MISSING-composer": "Composer",
-            "MISSING-type": "Type",
-            "MISSING-video": "Video",
-            "MISSING-anime": "Anime",
-            "MISSING-report": "Report",
-            "MISSING-report_reason": "Report Reason",
+            "title": "Sanginfo",
+            "song_name": "Sangnavn",
+            "arranger": "Arrangør",
+            "artist": "Artist",
+            "composer": "Komponist",
+            "type": "Type",
+            "video": "Video",
+            "anime": "Anime",
+            "report": "Rappoter",
+            "report_reason": "Reportårsak",
             "report_reasons": {
-                "MISSING-wrong_song": "Wrong Song",
-                "MISSING-bad_quality": "Bad Quality",
-                "MISSING-background_noise": "Background Noise",
-                "MISSING-broken_video": "Broken Video"
+                "wrong_song": "Feil sang",
+                "bad_quality": "Dårlig kvalitet",
+                "background_noise": "Bakgrunnsstøy",
+                "broken_video": "Ødelagt video"
             },
             "extra_info": {
-                "MISSING-title": "Extra Info",
-                "MISSING-type": "Type",
-                "MISSING-vintage": "Vintage",
-                "MISSING-anime_rating": "Anime Rating",
-                "MISSING-difficulty": "Difficulty",
-                "MISSING-genre": "Genre",
-                "MISSING-tags": "Tags"
+                "title": "Ekstra info",
+                "type": "Type",
+                "vintage": "Årgang",
+                "anime_rating": "Animescore",
+                "difficulty": "Vanskelighet",
+                "genre": "Sjangere",
+                "tags": "Tagger"
             },
             "song_type": {
-                "MISSING-opening": "Opening _NUMBER_",
-                "MISSING-ending": "Ending _NUMBER_",
-                "MISSING-insert": "Insert Song",
-                "MISSING-rebroadcast": "(Rebroadcast)",
-                "MISSING-dub": "(Dub)",
-                "MISSING-type_text": "_NAME_ _DESCRIPTION_"
+                "opening": "Introsang _NUMBER_",
+                "ending": "Sluttsang _NUMBER_",
+                "insert": "Innsats",
+                "rebroadcast": "(Reprise)",
+                "dub": "(Dubb)",
+                "type_text": "_NAME_ _DESCRIPTION_"
             }
         },
         "standings": {
-            "MISSING-title": "Standings",
-            "MISSING-number_of_correct_guesses_popover": "Number of Correct Guesses",
-            "MISSING-correct_guesses": "Correct Guesses",
-            "MISSING-list_number": "List Number",
+            "title": "Toppliste",
+            "number_of_correct_guesses_popover": "Antall riktige svar",
+            "correct_guesses": "Riktige svar",
+            "list_number": "Listenummmer",
             "hide_team_messages": {
-                "MISSING-mod": "Mods can't hide teams",
-                "MISSING-in_team": "Can't hide teams while in a team",
-                "MISSING-hide_teams": "Show/hide teams in the quiz"
+                "mod": "Moderatorer kan ikke skjule lag",
+                "in_team": "Kan ikke skjule lag mens man er i et lag",
+                "hide_teams": "Vis/skjul lag i quizen"
             },
-            "MISSING-points": "Points",
-            "MISSING-lives": "Lives"
+            "points": "Poeng",
+            "lives": "Liv"
         },
         "video_player": {
-            "MISSING-sound_only": "Sound Only",
+            "sound_only": "Bare lyd",
             "video_hidden": {
-                "MISSING-title": "Video Hidden",
-                "MISSING-click_to_reveal": "Click to Reveal"
+                "title": "Video skjult",
+                "click_to_reveal": "Klikk for å avsløre"
             },
-            "MISSING-click_to_hide_video": "Click to Hide Video",
-            "MISSING-loading": "Loading",
-            "MISSING-answers": "Answers",
-            "MISSING-waiting_buffering": "Waiting Buffering",
-            "MISSING-returning_to_lobby": "Returning to Lobby",
-            "MISSING-pausing_after_this_song": "Pausing After This Song",
-            "MISSING-continuing_in": "Continuing in: _SPAN_ _NUMBER_ _SPAN_",
+            "click_to_hide_video": "Klikk for å skjule videoen",
+            "loading": "Laster inn",
+            "answers": "Svar",
+            "waiting_buffering": "Avventer Bufrer",
+            "returning_to_lobby": "Returnerer til lobby",
+            "pausing_after_this_song": "Pause etter denne sangen",
+            "continuing_in": "Fortsetter om: _SPAN_ _NUMBER_ _SPAN_",
             "hints": {
-                "MISSING-title": "Hints",
-                "MISSING-point_value": "The point value of the current song",
+                "title": "Hint",
+                "point_value": "Poengverdien til den nåværende sangen",
                 "name": {
-                    "MISSING-title": "Name",
-                    "MISSING-description": "Reveal the length of the answer, and 4 of its characters"
+                    "title": "Name",
+                    "description": "Reveal the length of the answer, and 4 of its characters"
                 },
                 "info": {
-                    "MISSING-title": "Info",
-                    "MISSING-description": "Reveal some of the song info for this song"
+                    "title": "Info",
+                    "description": "Avslør noe av sanginformasjonen for denne sangen"
                 },
                 "multiple_choice": {
-                    "MISSING-title": "MC",
-                    "MISSING-description": "Get multiple choice options for this song"
+                    "title": "FV",
+                    "description": "Få flervalgsalternativ for denne sangen"
                 },
-                "MISSING-hint_popover": "_DESCRIPTION_ - Point cost: _NUMBER_"
+                "hint_popover": "_DESCRIPTION_ - Poengkostnad: _NUMBER_"
             },
             "skip_messages": {
-                "MISSING-answers": "Skipping to Answers",
-                "MISSING-lobby": "Skipping to Lobby",
-                "MISSING-next_song": "Skipping to Next Song",
-                "MISSING-final_standings": "Skipping to Final Standings",
-                "MISSING-rewards": "Skipping to Rewards",
-                "MISSING-end": "Skipping to End"
+                "answers": "Hopper til svar",
+                "lobby": "Hopper til lobbyen",
+                "next_song": "Hopper til neste sang",
+                "final_standings": "Hopper til sluttresultatet",
+                "rewards": "Hopper til belønninger",
+                "end": "Hopper til slutten"
             }
         },
         "jam_mode": {
