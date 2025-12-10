@@ -3035,7 +3035,7 @@
                 "title": "Hint",
                 "point_value": "Poengverdien til den nåværende sangen",
                 "name": {
-                    "title": "Name",
+                    "title": "Navn",
                     "description": "Reveal the length of the answer, and 4 of its characters"
                 },
                 "info": {
@@ -3058,55 +3058,55 @@
             }
         },
         "jam_mode": {
-            "MISSING-next_round_vote": "Next Round Vote",
-            "MISSING-theme": "Theme",
-            "MISSING-active_theme": "Active Theme",
-            "MISSING-select_one": "Select One",
-            "MISSING-none": "None",
-            "MISSING-song_types": "Song Types",
-            "MISSING-select_one_or_more": "Select One or More",
-            "MISSING-openings": "Openings",
-            "MISSING-endings": "Endings",
-            "MISSING-inserts": "Inserts"
+            "next_round_vote": "Neste runde avstemming",
+            "theme": "Tema",
+            "active_theme": "Aktivt tema",
+            "select_one": "Velg én",
+            "none": "Ingen",
+            "song_types": "Sangtyper",
+            "select_one_or_more": "Velg en eller fler",
+            "openings": "Introsanger",
+            "endings": "Sluttsanger",
+            "inserts": "Innsatser"
         },
         "looting": {
-            "MISSING-players": "Players",
-            "MISSING-time_left": "Time Left",
-            "MISSING-map_button": "Map",
-            "MISSING-collected_shows": "Collected Shows",
-            "MISSING-select_drop_zone": "Select Drop Zone",
+            "players": "Spiller",
+            "time_left": "Tid igjen",
+            "map_button": "Kart",
+            "collected_shows": "Samlede program",
+            "select_drop_zone": "Velg slippsone",
             "full_inventory": {
-                "MISSING-title": "Inventory Full",
-                "MISSING-description": "Drop shows from your inventory (top left) to continue looting"
+                "title": "Inventar full",
+                "description": "Slipp program fra inventaret ditt (øverst til venstre) for å fortsette å innsamle"
             },
-            "MISSING-players_in_tile": "Players in Tile",
-            "MISSING-data_store": "Data Store",
-            "MISSING-active_spectators": "Active Spectators",
-            "MISSING-no_active_spectators": "No Active Spectators"
+            "players_in_tile": "Spillere i sone",
+            "data_store": "Datalager",
+            "active_spectators": "Aktive tilskuere",
+            "no_active_spectators": "Ingen aktive tilskuere"
         },
         "alerts": {
             "fatal_error": {
-                "MISSING-title": "Fatal Server Error During Quiz",
-                "MISSING-description": "Returning to lobby"
+                "title": "Fatal serverfeil under quiz",
+                "description": "Returnerer til lobby"
             },
             "joining_game": {
-                "MISSING-title": "Joining Game",
-                "MISSING-description": "You will be added to the game during the next result phase"
+                "title": "Bli med i game",
+                "description": "Du blir med i spillet i løpet av neste resultatfase"
             },
             "join_team": {
-                "MISSING-title": "Join a Team?",
-                "MISSING-description": "Enter team code to join a team, leave blank to join solo",
-                "MISSING-join_button": "Join"
+                "title": "Bli med i lag?",
+                "description": "Skriv inn lagkoden for å bli med i et lag, la stå tomt for å spille alene",
+                "join_button": "Bli med"
             }
         },
         "nexus": {
-            "MISSING-target_attack": "Target Attack",
-            "MISSING-target_swap": "Target Swap",
-            "MISSING-fuwagi_shop": "Fuwagi's Shop",
-            "MISSING-fuwagi_item_popover": "_DESCRIPTION_ _BREAK_ Cooldown: _NUMBER_",
+            "target_attack": "Angrepsmål",
+            "target_swap": "Bytt mål",
+            "fuwagi_shop": "Fuwagis butikk",
+            "fuwagi_item_popover": "_DESCRIPTION_ _BREAK_ Nedkjøling: _NUMBER_",
             "genre_icon": {
-                "MISSING-damage_done": "Increase damage done during _NAME_ shows",
-                "MISSING-damage_taken": "Reduce damage taken during _NAME_ shows"
+                "damage_done": "Øk skaden som gjøres under _NAME_ program",
+                "damage_taken": "Reduser skaden som oppstår under _NAME_ program"
             }
         }
     },
