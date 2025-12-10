@@ -2595,12 +2595,12 @@
             "disabled": "Køfunksjonen er deaktivert i dette rommet"
         },
         "kicked_from_jam_game_alert": {
-            "MISSING-title": "Kicked from Jam Quiz",
-            "MISSING-description": "You have been kicked from the jam quiz by a moderator and cannot rejoin the room for an hour"
+            "title": "Kastet ut av jam",
+            "description": "Du har blitt kastet ut av jam quizen av en moderator og kan ikke bli med i rommet igjen for en time"
         },
         "jam_quiz_ban_alert": {
-            "MISSING-title": "Banned from Jam Quizzes",
-            "MISSING-description": "Your jam quiz expires in _NUMBER_ minutes"
+            "title": "Utestengt fra jam quizer",
+            "description": "Din jam quiz utestengelse slutter om _NUMBER_ minutter"
         }
     },
     "lobby": {
@@ -2837,10 +2837,10 @@
                 "full_song_range": "Fullt sangregister",
                 "ova": "OVA",
                 "ona": "ONA",
-                "MISSING-queueing": "Queueing",
-                "MISSING-tv": "TV",
-                "MISSING-movie": "Movie",
-                "MISSING-special": "Special"
+                "queueing": "Kø",
+                "tv": "TV",
+                "movie": "Film",
+                "special": "Spesial"
             }
         },
         "ranked_rules": {
