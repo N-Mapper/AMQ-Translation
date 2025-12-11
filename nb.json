@@ -2997,9 +2997,9 @@
                 "tags": "Tagger"
             },
             "song_type": {
-                "opening": "Introsang _NUMBER_",
-                "ending": "Sluttsang _NUMBER_",
-                "insert": "Innsatssang",
+                "opening": "Intro _NUMBER_",
+                "ending": "Slutt _NUMBER_",
+                "insert": "Innsats",
                 "rebroadcast": "(Reprise)",
                 "dub": "(Dubb)",
                 "type_text": "_NAME_ _DESCRIPTION_"
