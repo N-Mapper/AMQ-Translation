@@ -2910,14 +2910,14 @@
         "leave_button": "Forlat",
         "leave_quiz_option": {
             "title": "Forlat quiz?",
-            "stay": "Bli"
+            "stay": "Bli værende"
         },
         "return_to_lobby": {
             "popover": "Start en avstemming for å returnere til lobbyen",
             "vote_message": "Returner til lobby?",
             "yes": "Ja",
             "no": "Nei",
-            "start_vote": "Start avstemming for å returne til lobby?",
+            "start_vote": "Start avstemming for å returnere til lobby?",
             "start_button": "Start"
         },
         "join_button": "Bli med",
@@ -2980,7 +2980,7 @@
             "video": "Video",
             "anime": "Anime",
             "report": "Rappoter",
-            "report_reason": "Reportårsak",
+            "report_reason": "Report årsak",
             "report_reasons": {
                 "wrong_song": "Feil sang",
                 "bad_quality": "Dårlig kvalitet",
@@ -3009,7 +3009,7 @@
             "title": "Tabell",
             "number_of_correct_guesses_popover": "Antall riktige svar",
             "correct_guesses": "Riktige svar",
-            "list_number": "Listenummmer",
+            "list_number": "Listenummer",
             "hide_team_messages": {
                 "mod": "Moderatorer kan ikke skjule lag",
                 "in_team": "Kan ikke skjule lag mens man er i et lag",
