@@ -2928,7 +2928,7 @@
         },
         "settings_popover": "Innstillinger",
         "song_history_popover": "Sanghistorikk",
-        "vote_skip": "Stem hopp over",
+        "vote_skip": "Hopp over",
         "vote_states": {
             "voted_skip": "Stemt _BREAK_ hopp over",
             "no_votes": "Ingen _BREAK_ stemmer",
@@ -2949,7 +2949,7 @@
             "alternative_answers": "Alternative svar"
         },
         "avatar": {
-            "loot": "Innsamling",
+            "loot": "Plukket",
             "host": "Vert",
             "hidden": "Skjult",
             "hidden_description": "Skjult fra andre spillere",
