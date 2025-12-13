@@ -2949,7 +2949,7 @@
             "alternative_answers": "Alternative svar"
         },
         "avatar": {
-            "loot": "Plukket",
+            "loot": "Valgt",
             "host": "Vert",
             "hidden": "Skjult",
             "hidden_description": "Skjult fra andre spillere",
