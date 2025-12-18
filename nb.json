@@ -3894,84 +3894,84 @@
                     }
                 },
                 "lobby": {
-                    "MISSING-slot": "Slot",
-                    "MISSING-slot_number": "Slot _NUMBER_",
-                    "MISSING-level": "Lv _SPANC_ _NUMBER_ _SPANC_",
-                    "MISSING-empty": "Empty",
-                    "MISSING-load_team": "Load Team",
-                    "MISSING-lobby_id": "ID",
-                    "MISSING-start_button": "Start",
-                    "MISSING-load_button": "Load",
+                    "slot": "Plass",
+                    "slot_number": "Plass _NUMBER_",
+                    "level": "Lv _SPANC_ _NUMBER_ _SPANC_",
+                    "empty": "Tom",
+                    "load_team": "Lass inn lag",
+                    "lobby_id": "ID",
+                    "start_button": "Start",
+                    "load_button": "Last inn",
                     "settings": {
                         "song_types": {
-                            "MISSING-title": "Song Types",
-                            "MISSING-description": "Type of songs selected in the dungeon",
-                            "MISSING-op": "OP",
-                            "MISSING-ed": "ED",
-                            "MISSING-ins": "Ins"
+                            "title": "Ssngtyper",
+                            "description": "Type sanger valgt i dungeonen",
+                            "op": "OP",
+                            "ed": "ED",
+                            "ins": "Ins"
                         },
                         "difficulty": {
-                            "MISSING-title": "Song Difficulty",
-                            "MISSING-description": "Difficulty of songs selected in the dungeon",
-                            "MISSING-easy": "Easy",
-                            "MISSING-medium": "Medium",
-                            "MISSING-hard": "Hard"
+                            "title": "Sangvansklighet",
+                            "description": "Vangskelighetsgraden på sanger valgt i dungeonen",
+                            "easy": "Lett",
+                            "medium": "Middels",
+                            "hard": "vanskelig"
                         },
                         "song_selection": {
-                            "MISSING-title": "Song Selection",
-                            "MISSING-description": "If songs should be selected from player lists or at random",
-                            "MISSING-random": "Random",
-                            "MISSING-watched": "Watched",
-                            "MISSING-unwatched": "Unwatched"
+                            "title": "Sangvalg",
+                            "description": "Hvis sanger skal velges fra spillerlister eller tilfeldig",
+                            "random": "Tilfeldig",
+                            "watched": "Sett",
+                            "unwatched": "Usett"
                         },
                         "answering": {
-                            "MISSING-title": "Answering Mode",
-                            "MISSING-description": "If quiz answers are submitted by typing or multiple choice",
-                            "MISSING-typing": "Typing",
-                            "MISSING-choice": "Choice"
+                            "title": "Svarmodus",
+                            "description": "Hvis svaringen på quizen skal skrives inn eller velgs med flervalg",
+                            "typing": "Skriving",
+                            "choice": "Valg"
                         },
                         "rating": {
-                            "MISSING-title": "Rating",
-                            "MISSING-description": "Difficulty of the quiz questions. The higher the rating, the more xp and better runes are rewarded in the dungeon."
+                            "title": "Vanskelighet",
+                            "description": "Vansklighetsgraden på spørsmålene i quizen. Jo høyere vudering, desto mer XP og bedre runer belønnes i dungeonen."
                         },
                         "floor": {
-                            "MISSING-title": "Floor",
-                            "MISSING-description": "Higher floors are tougher, but rewards more runes and XP. Unlock floors by completing the previous floor on the current or higher rating."
+                            "title": "Etasje",
+                            "description": "Høyere etasjer er vanskeligere, men belønner mer runer og XP. Lås opp etasjer ved å fullføre den forrige etasjen på gjeldene eller høyere vansklighet."
                         },
                         "mode": {
-                            "MISSING-title": "Mode",
-                            "MISSING-description": "The dungeon type, standard explores a single floor, while endless continues to the next floor until the party is defeated."
+                            "title": "Modus",
+                            "description": "Dungeontypen, standard er én etasje, mens uendelig fortsetter til neste etasje til gruppen blir beseiret."
                         }
                     },
                     "no_badge_unlocked_alert": {
-                        "MISSING-title": "No Avatar Badges Unlocked",
-                        "MISSING-description": "Unlock avatar badges by leveling up avatars, and use them to power up other avatars"
+                        "title": "Ingen avatarmerker låst opp",
+                        "description": "Lås opp avatarmerker ved å gå opp i level med avatarer, og bruk dem til å gi andre avatarer flere krefter"
                     },
                     "leave_lobby_alert": {
-                        "MISSING-title": "Leave Dungeon Lobby?",
-                        "MISSING-leave_button": "Leave"
+                        "title": "Forlat dungeon lobby?",
+                        "leave_button": "Forlat"
                     },
                     "start_alerts": {
-                        "MISSING-at_least_one_song_type": "At Least One Song Type Must be Selected",
-                        "MISSING-at_least_one_difficulty": "At Least One Difficulty Must be Selected",
-                        "MISSING-at_least_one_song_selection": "At Least One Song Selection Option Must be Selected",
-                        "MISSING-all_avatars": "All Slots Must Have an Avatar Assigned"
+                        "at_least_one_song_type": "Minst én sangtype må velges",
+                        "at_least_one_difficulty": "Minst én vanskelighetsgrad må velges",
+                        "at_least_one_song_selection": "Minst ett sangvalg må velges",
+                        "all_avatars": "Alle plasser må ha en tildelt avatar"
                     },
                     "no_team_alert": {
-                        "MISSING-title": "No Teams Saved",
-                        "MISSING-description": "Teams can be setup at the inn, and quickly loaded here."
+                        "title": "Ingen lag filer",
+                        "description": "Lag kan settes opp på kroa, og lastes inn her"
                     },
                     "breakthrough_popover": {
-                        "MISSING-title": "Breakthrough",
-                        "MISSING-description": "Break the floor limit, by beating the 5 next floors in endless mode!"
+                        "title": "Gjennombrudd",
+                        "description": "Bryt etasjegrensen ved å fullføre de 5 neste etasjene i uendelig modusen!"
                     }
                 },
                 "co_op_saves": {
-                    "MISSING-filters": "Filters",
-                    "MISSING-standard": "Standard",
-                    "MISSING-endless": "Endless",
-                    "MISSING-no_saves": "No Saves",
-                    "MISSING-loading": "Loading"
+                    "filters": "Filter",
+                    "standard": "Standard",
+                    "endless": "Uendelig",
+                    "no_saves": "Ingen filer",
+                    "loading": "Laster inn"
                 }
             },
             "inn": {
