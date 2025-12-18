@@ -4173,75 +4173,75 @@
             }
         },
         "avatar": {
-            "MISSING-genre": "Genre",
-            "MISSING-strong": "Strong",
-            "MISSING-weak": "Weak",
-            "MISSING-rune_buffs": "Rune Buffs",
+            "genre": "Sjanger",
+            "strong": "Sterk",
+            "weak": "Svak",
+            "rune_buffs": "Rune buff",
             "stats": {
                 "constitution": {
-                    "MISSING-title": "Constitution",
-                    "MISSING-description": "Increase max health"
+                    "title": "Konstitusjon",
+                    "description": "Øker maks liv"
                 },
                 "defence": {
-                    "MISSING-title": "Defence",
-                    "MISSING-description": "Reduce damage taken from attacks"
+                    "title": "Forsvar",
+                    "description": "Reduser skaden som medfølge av angrep"
                 },
                 "dodge": {
-                    "MISSING-title": "Dodge",
-                    "MISSING-description": "Increase chance to dodge attacks, halving the damage taken and gaining a random buff"
+                    "title": "Unngå",
+                    "description": "Øk sjansen for å unngå andrep, halver skaden og få en tilfeldig buff"
                 },
                 "attack": {
-                    "MISSING-title": "Attack",
-                    "MISSING-description": "Increase attack damage"
+                    "title": "Angrep",
+                    "description": "Øk angrepsskaden"
                 },
                 "accuracy": {
-                    "MISSING-title": "Accuracy",
-                    "MISSING-description": "Increase chance to crit, dealing 50% extra damage and inflicting a random debuff"
+                    "title": "Nøyaktighet",
+                    "description": "Øk sjansen for kritiske treff, gjør 50% ekstra skade og påfør en tilfeldig debuff"
                 }
             }
         },
         "rune": {
             "type": {
-                "MISSING-standard": "Standard",
-                "MISSING-advanced": "Advanced"
+                "standard": "Standard",
+                "advanced": "Avansert"
             },
             "category": {
-                "MISSING-offensive": "Offensive",
-                "MISSING-defensive": "Defensive",
-                "MISSING-any": "Any"
+                "offensive": "Offensiv",
+                "defensive": "Defensiv",
+                "any": "Hvilken som helts"
             }
         },
         "hover_display_commons": {
-            "MISSING-cooldown": "Cooldown",
-            "MISSING-total_unlocked": "Total Unlocked",
-            "MISSING-in_use": "In Use",
-            "MISSING-level": "Level",
-            "MISSING-stat_boost": "Stat Boost",
-            "MISSING-genre_boost": "Genre Boost",
+            "cooldown": "Nedkjøling",
+            "total_unlocked": "Total opplåst",
+            "in_use": "I bruk",
+            "level": "Level",
+            "stat_boost": "Statøkning",
+            "genre_boost": "Sjangerøkning",
             "header": {
-                "MISSING-ability": "Ability",
-                "MISSING-artifact": "Artifact",
-                "MISSING-avatar": "Avatar",
-                "MISSING-avatar_badge": "Avatar Badge",
-                "MISSING-buff": "Buff",
-                "MISSING-debuff": "Debuff",
-                "MISSING-standard_rune": "Standard Rune",
-                "MISSING-advanced_rune": "Advanced Rune"
+                "ability": "Evne",
+                "artifact": "Artefakt",
+                "avatar": "Avatar",
+                "avatar_badge": "Avatarmerke",
+                "buff": "Buff",
+                "debuff": "Debuff",
+                "standard_rune": "Standard rune",
+                "advanced_rune": "Avansert rune"
             }
         },
         "chat": {
-            "MISSING-chat": "Chat",
-            "MISSING-players": "Players - _SPAN_ _NUMBER_ _SPAN_",
-            "MISSING-placeholder": "Chat message",
-            "MISSING-host": "Host",
-            "MISSING-disconnected": "Disconnected",
-            "MISSING-drag_hover": "Drag to move, click to reset",
-            "MISSING-profile": "Profile",
-            "MISSING-promote_to_host": "Promote to Host",
-            "MISSING-kick": "Kick",
+            "chat": "Chat",
+            "players": "Spillere - _SPAN_ _NUMBER_ _SPAN_",
+            "placeholder": "Chat melding",
+            "host": "Vert",
+            "disconnected": "Frakoblet",
+            "drag_hover": "Dra for å flytte, klikk for å tilbakestille",
+            "profile": "Profil",
+            "promote_to_host": "Forfrem til vert",
+            "kick": "Kast ut",
             "promote_host": {
-                "MISSING-title": "Promote _NAME_ to Host?",
-                "MISSING-promote_button": "Promote"
+                "title": "Forfrem _NAME_ til vert?",
+                "promote_button": "Forfrem"
             },
             "kick_player": {
                 "MISSING-title": "Kick _NAME_ from Lobby?",
