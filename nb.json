@@ -4096,80 +4096,80 @@
             }
         },
         "dungeon": {
-            "MISSING-exit_button": "Exit",
+            "exit_button": "Forlat",
             "exit_alert": {
-                "MISSING-title": "Exit Run?",
-                "MISSING-description_coop": "As the host, exiting the run will close it for all players. You can promote another player to host before exiting from the player in tab in the game chat.",
-                "MISSING-description_solo": "If you exit doing an enemy encounter, the encounter will be reset",
-                "MISSING-exit_button": "Exit",
-                "MISSING-exit_save_button": "Save & Exit",
-                "MISSING-abandon_run_button": "Abandon Run"
+                "title": "Forlat run?",
+                "description_coop": "Som vert vil det å avslutte runet stenge det for alle spillere. Du kan forfremme en annen spiller til vert før du avslutter gamet i fanen i gamechatten.",
+                "description_solo": "Hvis du avslutter fiendemøte, vil møtet bli nullstilt",
+                "exit_button": "Forlat",
+                "exit_save_button": "Lagre & forlat",
+                "abandon_run_button": "Forlat run"
             },
             "runes": {
-                "MISSING-rune_count": "_SPAN_ _NUMBER_ _SPAN_ Runes",
-                "MISSING-rune_inventory": "Rune Inventory",
-                "MISSING-win_to_earn": "Win one combat to unlock runes at the end of run",
-                "MISSING-unlock_end_of_run": "Runes unlocks at the end of the run",
-                "MISSING-no_runes": "No Runes Found"
+                "rune_count": "_SPAN_ _NUMBER_ _SPAN_ runer",
+                "rune_inventory": "Rune inventar",
+                "win_to_earn": "Vinn én kamp for å låse opp runer på slutten av runet",
+                "unlock_end_of_run": "Runer låses ioo op slutten av runet",
+                "no_runes": "Ingen runer funnet"
             },
             "tile_types": {
-                "MISSING-floor_entrance": "Floor Entrance",
-                "MISSING-boss_chamber": "Boss Chamber",
-                "MISSING-enemy_encounter": "Enemy Encounter",
-                "MISSING-unknown_event": "Unknown Event",
-                "MISSING-crafting_station": "Crafting Station"
+                "floor_entrance": "Etasjeinngang",
+                "boss_chamber": "Bosskammer",
+                "enemy_encounter": "Fiendemøte",
+                "unknown_event": "Ukjent hendelse",
+                "crafting_station": "Håndverksstasjon"
             },
-            "MISSING-genre_zone": "_NAME_ Zone",
-            "MISSING-standard_zone": "Standard",
+            "genre_zone": "_NAME_sone",
+            "standard_zone": "Standard",
             "avatars": {
-                "MISSING-no_artifacts": "No Artifacts"
+                "no_artifacts": "Ingen artefakter"
             },
-            "MISSING-floor_number": "Floor _SPAN_ _NUMBER_ _SPAN_",
+            "floor_number": "Etasje _SPAN_ _NUMBER_ _SPAN_",
             "reward_window": {
-                "MISSING-title": "Rewards",
-                "MISSING-continue_button": "Continue",
-                "MISSING-select_one_artifact": "Select 1 Artifact",
-                "MISSING-runes": "Runes",
-                "MISSING-no_drops": "No Drops",
-                "MISSING-select_avatar": "Select Avatar"
+                "title": "Belønninger",
+                "continue_button": "Fortsett",
+                "select_one_artifact": "Velg 1 artefakt",
+                "runes": "Runer",
+                "no_drops": "Ikke noe bytte",
+                "select_avatar": "Velg avatar"
             },
             "event_window": {
-                "MISSING-title": "Event",
-                "MISSING-volume": "Volume"
+                "title": "Event",
+                "volume": "Volum"
             },
             "store_window": {
-                "MISSING-title": "Store",
-                "MISSING-description": "Materialize Fragments into Artifacts and/or Runes",
-                "MISSING-artifacts": "Artifacts",
-                "MISSING-runes": "Runes",
-                "MISSING-bought": "Bought",
+                "title": "Butikk",
+                "description": "Materialiser fragmenter til artefakter og/eller runer",
+                "artifacts": "Artefakt",
+                "runes": "Runer",
+                "bought": "Kjøpt",
                 "no_items_bought": {
-                    "MISSING-title": "No Items Bought",
-                    "MISSING-description": "Continue without buying anything?",
-                    "MISSING-continue_button": "Continue"
+                    "title": "Ingen varer kjøpt",
+                    "description": "Forsett uten å kjøpe noe?",
+                    "continue_button": "Forsett"
                 }
             },
             "result_window": {
-                "MISSING-xp": "XP",
-                "MISSING-runes": "Runes",
-                "MISSING-continue_button": "Continue",
-                "MISSING-level_number": "Level _SPANC_ _NUMBER_ _SPANC_",
-                "MISSING-party_wipe": "Party Wipe",
-                "MISSING-floor_cleared": "Floor Cleared"
+                "xp": "XP",
+                "runes": "Runer",
+                "continue_button": "Forsett",
+                "level_number": "Level _SPANC_ _NUMBER_ _SPANC_",
+                "party_wipe": "Laget døde",
+                "floor_cleared": "Etasje passert"
             },
             "next_floor_window": {
-                "MISSING-title": "Next floor: _SPAN_ _NUMBER_ _SPAN_",
-                "MISSING-floor_tax": "Floor Tax 50%",
-                "MISSING-continue_button": "Continue",
-                "MISSING-heal_option": "Heal 20%",
-                "MISSING-lock_artifact_option": "Lock Artifact",
-                "MISSING-no_artifacts": "No Artifacts",
+                "title": "Neste etasje: _SPAN_ _NUMBER_ _SPAN_",
+                "floor_tax": "Etasjeskatt 50%",
+                "continue_button": "Fortsett",
+                "heal_option": "Helbred 20%",
+                "lock_artifact_option": "Lås artefakt",
+                "no_artifacts": "Ingen artefakter",
                 "no_locking_warning": {
-                    "MISSING-title": "Continue Without Locking in Artifact?",
-                    "MISSING-continue_button": "Continue"
+                    "title": "Fortsett uen å låse artefaten?",
+                    "continue_button": "Fortsett"
                 },
-                "MISSING-heal_this_avatar": "Heal this avatar",
-                "MISSING-lock_artifact_description": "Lock in an artifact to bring it to the next floor. Each avatar can only lock in one artifact"
+                "heal_this_avatar": "Helbred denne avataren",
+                "lock_artifact_description": "Lås inne en artefakt for å bringe den til neste etasje. Hver avatar kan bare låse inne én artefakt"
             }
         },
         "avatar": {
