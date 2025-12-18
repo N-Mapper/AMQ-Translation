@@ -4005,94 +4005,94 @@
                 }
             },
             "workshop": {
-                "MISSING-title": "Workshop",
-                "MISSING-empty_slots_filter": "Empty Slots",
-                "MISSING-avatar": "Avatar",
+                "title": "Verksted",
+                "empty_slots_filter": "Tomme plasser",
+                "avatar": "Avatar",
                 "tabs": {
-                    "MISSING-select_avatar": "Select Avatar",
-                    "MISSING-rune_setup": "Rune Setup",
-                    "MISSING-reformat_rune": "Reformat Rune"
+                    "select_avatar": "Velg avatar",
+                    "rune_setup": "Rune oppsett",
+                    "reformat_rune": "Reformater rune"
                 },
                 "rune_selector": {
                     "filter": {
-                        "MISSING-title": "Filter",
-                        "MISSING-category": "Category",
-                        "MISSING-offensive": "Offensive",
-                        "MISSING-defensive": "Defensive",
-                        "MISSING-type": "Type",
-                        "MISSING-advanced": "Advanced",
-                        "MISSING-standard": "Standard",
-                        "MISSING-quality": "Quality",
-                        "MISSING-minor": "Minor",
-                        "MISSING-lesser": "Lesser",
-                        "MISSING-greater": "Greater",
-                        "MISSING-major": "Major",
-                        "MISSING-superior": "Superior",
-                        "MISSING-ability": "Ability"
+                        "title": "Filter",
+                        "category": "Kategori",
+                        "offensive": "Offensiv",
+                        "defensive": "Defensiv",
+                        "type": "Type",
+                        "advanced": "Avansert",
+                        "standard": "Standard",
+                        "quality": "Kvalitet",
+                        "minor": "Liten",
+                        "lesser": "Mindre",
+                        "greater": "Større",
+                        "major": "Sterkere",
+                        "superior": "Overlegen",
+                        "ability": "Evne"
                     },
-                    "MISSING-show_more": "Show More",
-                    "MISSING-show_less": "Show Less"
+                    "show_more": "Se mer",
+                    "show_less": "Se mindre"
                 },
                 "rune_setup": {
-                    "MISSING-unequip_all_runes": "Unequip All Runes",
-                    "MISSING-save_rune_setup": "Save Rune Setup",
-                    "MISSING-lock_in_description": "Lock in the current rune layout",
+                    "unequip_all_runes": "Fjern alle runer",
+                    "save_rune_setup": "Lagre rune oppsett",
+                    "lock_in_description": "Lås minne gjeldende runeoppsett",
                     "unequip_runes": {
-                        "MISSING-title": "Unequip Runes?",
-                        "MISSING-description": "All runes will be unequipped from this avatar, and will be available to use again. Cost: 1 Ticket",
-                        "MISSING-unequip_button": "Unequip",
-                        "MISSING-not_enough_tickets": "Not Enough Tickets"
+                        "title": "Fjern runer?",
+                        "description": "Alle runer vil bli fjernet fra denne avataren, og vil være tilgjengelige for bruk igjen. Kostnad: 1 ticket",
+                        "unequip_button": "Fjern",
+                        "not_enough_tickets": "Ikke nok tickets"
                     },
                     "unsaved_changes": {
-                        "MISSING-title": "Unsaved Changes",
-                        "MISSING-description": "Rune page has unsaved changes, discard changes?",
-                        "MISSING-discard_button": "Leave"
+                        "title": "Ulagrede endringer",
+                        "description": "Runesiden har ulagrede endringer, forkast endringene?",
+                        "discard_button": "Forlat"
                     },
                     "destroy_rune": {
-                        "MISSING-title": "Destroy Rune?",
-                        "MISSING-destroy_button": "Destroy"
+                        "title": "Destruere rune?",
+                        "destroy_button": "Destruer"
                     },
                     "tooltips": {
-                        "MISSING-all_slots_in_use": "All rune slots in use, level up avatar to unlock more",
-                        "MISSING-no_rune_selected": "No rune selected. Select the rune you want to equip above.",
-                        "MISSING-wrong_rune_slot": "_NAME_ _NAME2_ rune slot. Only runes matching the slot can be equiped in it",
-                        "MISSING-invalid_setup": "Invalid rune setup. Make sure all used containers are powered",
-                        "MISSING-duplicate_advanced_rune": "Duplicate advanced rune. Only one advanced rune of each ability can be equiped"
+                        "all_slots_in_use": "Alle runeplasser i bruk, gå opp i leveel for å låse opp mer",
+                        "no_rune_selected": "Ingen rune valgt. Velg runen du vil utstyre ovenfor",
+                        "wrong_rune_slot": "_NAME_ _NAME2_ runeplasser. Bare runer som matcher plassen kan utstyres i det",
+                        "invalid_setup": "Ugyldig runeoppsett. Sørg fir at alle brukte containere er slått på",
+                        "duplicate_advanced_rune": "Duplikat av avansert rune. Bare én avansert rune av hver evne kan utstyres"
                     }
                 },
                 "reformat_rune": {
-                    "MISSING-duplicate_button": "Duplicate",
-                    "MISSING-duplicate_description": "Attempt to duplicate the target rune",
-                    "MISSING-duplicate_success": "Rune Duplicate Succeeded!",
-                    "MISSING-duplicate_failure": "Rune Duplicate Failed",
-                    "MISSING-upgrade_button": "Upgrade",
-                    "MISSING-upgrade_description": "Attempt to level up the target rune",
-                    "MISSING-upgrade_success": "Rune Upgrade Succeeded!",
-                    "MISSING-upgrade_failure": "Rune Upgrade Failed",
-                    "MISSING-success_rate": "_SPAN_ _NUMBER_ _SPAN_ Success Rate",
+                    "duplicate_button": "Duplikat",
+                    "duplicate_description": "Forsøk å duplisere målrunen",
+                    "duplicate_success": "Runeduplikat vellyktet!",
+                    "duplicate_failure": "Runeduplikat mislyktet",
+                    "upgrade_button": "Oppgrader",
+                    "upgrade_description": "Forsøk å heve nivået på målrunen",
+                    "upgrade_success": "Runeoppgraderingen var vellykket",
+                    "upgrade_failure": "Runeoppgraderingen var mislykket",
+                    "success_rate": "_SPAN_ _NUMBER_ _SPAN_ suksessrate",
                     "description": {
-                        "MISSING-title": "Reformat Rune",
-                        "MISSING-text": "Upgrade or duplicate a rune, using the reformatter. _BREAK_ Select a target rune, then up to 5 additional runes to power the reformatter (the higher the level, the higher the success rate). The additional runes will be consumed."
+                        "title": "Reformater rune",
+                        "text": "Oppgrader eller dupliser en rune ved hjelp av reformatereren. _BREAK_ Velg en målrune, og legg deretter opptil 5 ekstra runer for å drive reformereren (jo høyere nivå, desto høyere suksessrate). De ekstra runene vil bli forbrukt."
                     }
                 }
             },
             "avatar_selector": {
-                "MISSING-name_filter": "Name",
-                "MISSING-level_filter": "Level",
-                "MISSING-search_placeholder": "Search name...",
-                "MISSING-level": "Level _SPANC_ _NUMBER_ _SPANC_",
-                "MISSING-team_slot": "Slot _NUMBER_",
-                "MISSING-free_rotation": "Free Rotation",
-                "MISSING-select_badge_popover": "Select an avatar badge to power up the avatar",
-                "MISSING-early_access": "In early access for level 4+ Patreons until _DATE_",
-                "MISSING-character_locked_popover": "Not Unlocked",
-                "MISSING-character_already_in_party": "Character Already in Party"
+                "name_filter": "Navn",
+                "level_filter": "Level",
+                "search_placeholder": "Søk navn...",
+                "level": "Level _SPANC_ _NUMBER_ _SPANC_",
+                "team_slot": "Plass _NUMBER_",
+                "free_rotation": "Fri rotasjon",
+                "select_badge_popover": "Velg et avatarmerke for å gi avataren ekstra krefter",
+                "early_access": "Tidlig tilgang for Patreon-medlemmer på nivå 4+ frem til _DATE_",
+                "character_locked_popover": "Ikke låst opp",
+                "character_already_in_party": "Karakter allerede i gruppe"
             },
             "building_names": {
-                "MISSING-dungeon": "Dungeon",
-                "MISSING-inn": "Inn",
-                "MISSING-workshop": "Workshop",
-                "MISSING-locked": "Locked"
+                "dungeon": "Dungeon",
+                "inn": "Kroa",
+                "workshop": "Verksted",
+                "locked": "Låst"
             }
         },
         "dungeon": {
