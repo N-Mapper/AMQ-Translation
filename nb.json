@@ -3855,42 +3855,42 @@
     },
     "nexus": {
         "city": {
-            "MISSING-back_button": "Back",
-            "MISSING-exit_button": "Exit",
+            "back_button": "Tilbake",
+            "exit_button": "Gå ut",
             "dungeon": {
-                "MISSING-title": "Dungeon",
-                "MISSING-co_op_save_created": "Created",
+                "title": "Dungeon",
+                "co_op_save_created": "Lag",
                 "tabs": {
-                    "MISSING-mode": "Mode",
-                    "MISSING-co_op_saves": "Co-Op Saves",
-                    "MISSING-lobby": "Lobby",
-                    "MISSING-avatars": "Avatars"
+                    "mode": "Modus",
+                    "co_op_saves": "Co-op filer",
+                    "lobby": "Lobby",
+                    "avatars": "Avatarer"
                 },
                 "mode": {
-                    "MISSING-standard": "Standard",
-                    "MISSING-standard_description": "Clear a single floor of the dungeon, powering up your team as you progress, before challenging the boss at the end.",
-                    "MISSING-endless": "Endless",
-                    "MISSING-endless_description": "Continue challenging an endless number of floors, bringing only a limited amount of artifacts from one to the other.",
-                    "MISSING-tutorial": "Tutorial",
-                    "MISSING-solo": "Solo",
-                    "MISSING-co_op": "Co-Op",
-                    "MISSING-continue": "(Continue)",
-                    "MISSING-host": "Host",
-                    "MISSING-join": "Join",
-                    "MISSING-load": "Load",
+                    "standard": "Standard",
+                    "standard_description": "Fullfør en etasje i dungeonen, og gi laget ditt flere krefter etter hvert som dere avanserer, før dere utfordrer bossen til slutt.",
+                    "endless": "Uendelig",
+                    "endless_description": "Fortsett å utfordre et uendelig antall etasjer, og ta bare med deg et begrenset antall gjenstander fra den ene etasjen til den andre.",
+                    "tutorial": "Veiledning",
+                    "solo": "Solo",
+                    "co_op": "Co-op",
+                    "continue": "(Fortsett)",
+                    "host": "Vert",
+                    "join": "Bli med",
+                    "load": "Last inn",
                     "join_lobby": {
-                        "MISSING-lobby_id": "Lobby ID",
-                        "MISSING-join_button": "Join",
-                        "MISSING-description": "Enter the id for the lobby you want to join",
-                        "MISSING-missing_id": "You must provide a lobby ID",
-                        "MISSING-invalid_id": "Invalid lobby ID"
+                        "lobby_id": "Lobby ID",
+                        "join_button": "Bli med",
+                        "description": "Skriv inn ID-en for lobbyen du vil blie med i",
+                        "missing_id": "Du må oppgi en lobby ID",
+                        "invalid_id": "Ugyldig lobby ID"
                     },
-                    "MISSING-dungeon_mode": "Dungeon Modes",
-                    "MISSING-description_start": "Decide how to challenge the dungeon.",
+                    "dungeon_mode": "Dungeon-modus",
+                    "description_start": "Bestem hvordan du skal utfordre dungeonen.",
                     "rejoin_game": {
-                        "MISSING-title": "Rejoin Nexus Co-op Game?",
-                        "MISSING-description": "If you start another game, you won't be able to rejoin the co-op game.",
-                        "MISSING-rejoin": "Rejoin"
+                        "title": "Bli med i Nexus Co-op game igjen?",
+                        "description": "Hvis du starter et nytt game, vil du ikke kunne bli med i co-op gamet igjen.",
+                        "rejoin": "Bli med"
                     }
                 },
                 "lobby": {
