@@ -45,7 +45,7 @@
             "report": "Rappoter",
             "not_applicable": "N/A",
             "claimed_button": "Mottatt",
-            "MISSING-search_placeholder": "Search"
+            "search_placeholder": "Søk"
         },
         "popout_messages": {
             "unexpected_error": "Uventet feil",
@@ -334,7 +334,7 @@
             "complete_registration": "Fullfør registreringen",
             "complete_registration_message": "For å fullføre registreringen, bekreft e-postadressen din ved å klikke på lenken som er sendt til _BOLD_ _EMAIL_ _BOLD_"
         },
-        "MISSING-cookie_disclaimer": "This website uses cookies to store local settings, such as music volume and last used login name. Third party services used by the site may also set cookies. For more details see the Cookie Section of the Privacy Policy. By continuing to use the site, you agree that the site may set these cookies."
+        "cookie_disclaimer": "Dette nettstedet bruker informasjonskaplser for å lagre lokale innstillinger, for eksempel musikkvolum og siste rukte innloggingsnavn. Tredjepartstjenester som brukes av nettstedet kan også sette informasjonskapsler. For mer informasjon, se informasjonskapsle-delen av personavererklæringen. Ved å fortsette å bruke nettstedet, samtykker du i at nettstedet kan sette disse informasjonskapslene."
     },
     "login_page": {
         "ui": {
@@ -1460,7 +1460,7 @@
             "chat": "Chat",
             "profile": "Profil"
         },
-        "MISSING-emote_category_misc": "Misc"
+        "emote_category_misc": "div."
     },
     "avatar_lore": {
         "hibiki": {
@@ -2060,12 +2060,12 @@
             "creation_date": "Opprettelsesdato",
             "quiz_id": "Quiz ID",
             "recently_published": {
-                "MISSING-title": "Recently Published",
-                "MISSING-description": "Slot locked until: _DATE_"
+                "title": "Nylig publisert",
+                "description": "Plasser låst til: _DATE_"
             },
             "locked_slot": {
-                "MISSING-title": "Locked Slot",
-                "MISSING-description": "A locked slot doesn’t use an available slot, but can only be cloned or deleted. To unlock, get unlimited slots again."
+                "title": "Låst plass",
+                "description": "En låst plass bruker ikke en tilgjengelig plass, men kan bare klones eller slettes. For å låse opp, få et ubegrenset antall plasser igjen."
             }
         },
         "checkout": {
@@ -3176,10 +3176,10 @@
             "start_vote": "Start avstemming for å returnere til lobby?",
             "start_button": "Start",
             "results": {
-                "MISSING-vote_passed": "Vote Passed",
-                "MISSING-vote_failed": "Vote Failed",
-                "MISSING-waiting_votes": "Waiting Votes",
-                "MISSING-on_last_song": "On Last Song"
+                "vote_passed": "Avstemming godtatt",
+                "vote_failed": "Avstemming ikke godtatt",
+                "waiting_votes": "Venter på stemmer",
+                "on_last_song": "På siste sang"
             }
         },
         "join_button": "Bli med",
@@ -3371,7 +3371,7 @@
                 "damage_taken_2": "Øker skaden som tatt under _NAME_ program"
             }
         },
-        "MISSING-anime_name_placeholder": "Anime Name"
+        "anime_name_placeholder": "Animenavn"
     },
     "anime_tags": {
         "4-koma": "4-koma",
@@ -3822,36 +3822,36 @@
             "copied": "Kopiert!"
         },
         "default_game_names": {
-            "MISSING-quiz_of_the_day": "Quiz of the Day",
-            "MISSING-solo": "Solo",
-            "MISSING-jam_quiz": "Jam Quiz",
-            "MISSING-amq_awards": "AMQ Awards",
-            "MISSING-annivesarry_event": "Anniversary Event",
-            "MISSING-ranked_expert": "Ranked Expert",
-            "MISSING-ranked_novice": "Ranked Novice",
-            "MISSING-nexus": "Nexus",
-            "MISSING-tutorial": "Tutorial"
+            "quiz_of_the_day": "Dagens quiz",
+            "solo": "Solo",
+            "jam_quiz": "Jam quiz",
+            "amq_awards": "AMQ-prisene",
+            "annivesarry_event": "Jubileumsevent",
+            "ranked_expert": "Ranked ekspert",
+            "ranked_novice": "Ranked novise",
+            "nexus": "Nexus",
+            "tutorial": "Veiledning"
         },
         "song_type": {
-            "MISSING-opening": "Opening _NUMBER_",
-            "MISSING-ending": "Ending _NUMBER_",
-            "MISSING-insert": "Insert Song",
-            "MISSING-rebroadcast": "(Rebroadcast)",
-            "MISSING-dub": "(Dub)",
-            "MISSING-type_text": "_NAME_ _DESCRIPTION_"
+            "opening": "Intro _NUMBER_",
+            "ending": "Slutt _NUMBER_",
+            "insert": "Innsats",
+            "Mrebroadcast": "(Reprise)",
+            "dub": "(Dubb)",
+            "type_text": "_NAME_ _DESCRIPTION_"
         }
     },
     "anime_types_base": {
-        "MISSING-tv": "TV",
-        "MISSING-season": "Season",
-        "MISSING-movie": "Movie",
-        "MISSING-ova": "OVA",
-        "MISSING-ona": "ONA",
-        "MISSING-tv_special": "TV Special",
-        "MISSING-special": "Special",
-        "MISSING-music_video": "Music Video",
-        "MISSING-doujin": "Doujin",
-        "MISSING-game_cutscene_compilation": "Game Cutscene Compilation"
+        "tv": "TV",
+        "season": "Sesong",
+        "movie": "Film",
+        "ova": "OVA",
+        "ona": "ONA",
+        "tv_special": "TV-spesial",
+        "special": "Spesial",
+        "music_video": "Musikkvideo",
+        "doujin": "Doujin",
+        "game_cutscene_compilation": "Spill-mellomsekvens-samling"
     },
     "nexus": {
         "city": {
