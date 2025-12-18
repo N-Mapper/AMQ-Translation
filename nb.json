@@ -3898,13 +3898,13 @@
                     "slot_number": "Plass _NUMBER_",
                     "level": "Lv _SPANC_ _NUMBER_ _SPANC_",
                     "empty": "Tom",
-                    "load_team": "Lass inn lag",
+                    "load_team": "Last inn lag",
                     "lobby_id": "ID",
                     "start_button": "Start",
                     "load_button": "Last inn",
                     "settings": {
                         "song_types": {
-                            "title": "Ssngtyper",
+                            "title": "Sangtyper",
                             "description": "Type sanger valgt i dungeonen",
                             "op": "OP",
                             "ed": "ED",
@@ -3915,7 +3915,7 @@
                             "description": "Vangskelighetsgraden på sanger valgt i dungeonen",
                             "easy": "Lett",
                             "medium": "Middels",
-                            "hard": "vanskelig"
+                            "hard": "Vanskelig"
                         },
                         "song_selection": {
                             "title": "Sangvalg",
@@ -3931,8 +3931,8 @@
                             "choice": "Valg"
                         },
                         "rating": {
-                            "title": "Vanskelighet",
-                            "description": "Vansklighetsgraden på spørsmålene i quizen. Jo høyere vudering, desto mer XP og bedre runer belønnes i dungeonen."
+                            "title": "Nivå",
+                            "description": "Vansklighetsnivået på spørsmålene i quizen. Jo høyere vudering, desto mer XP og bedre runer belønnes i dungeonen."
                         },
                         "floor": {
                             "title": "Etasje",
@@ -3975,33 +3975,33 @@
                 }
             },
             "inn": {
-                "MISSING-title": "Inn",
-                "MISSING-new_team": "New Team",
+                "title": "Kroa",
+                "new_team": "Nytt lag",
                 "tabs": {
-                    "MISSING-avatars": "Avatars",
-                    "MISSING-teams": "Teams",
-                    "MISSING-avatar_setup": "Avatar Setup",
-                    "MISSING-team_setup": "Team Setup"
+                    "avatars": "Avatarer",
+                    "teams": "Lag",
+                    "avatar_setup": "Avatar oppsett",
+                    "team_setup": "Lag oppsett"
                 },
                 "avatar_setup": {
-                    "MISSING-change_skin": "Change Skin",
-                    "MISSING-change_decorations": "Change Decorations",
-                    "MISSING-change_background": "Change Background",
-                    "MISSING-toggle": "Toggle _NAME_",
-                    "MISSING-set_default": "Set as Default",
-                    "MISSING-add_to_team": "Add to Team",
-                    "MISSING-locked": "Locked",
-                    "MISSING-background_locked": "Unlock 10 versions of this skin _BREAK_ to unlock the backgrounds"
+                    "change_skin": "Bytt skinn",
+                    "change_decorations": "Bytt dekorasjoner",
+                    "change_background": "Bytt bakgrunn",
+                    "toggle": "Veksle _NAME_",
+                    "set_default": "Angi som standard",
+                    "add_to_team": "Legg til lag",
+                    "locked": "Låst",
+                    "background_locked": "Lås opp 10 versjoner av dette skinnet _BREAK_ for å låse opp bakgrunnene"
                 },
                 "team_setup": {
-                    "MISSING-rename": "Rename Team",
-                    "MISSING-create": "Create Team",
-                    "MISSING-delete": "Delete Team",
-                    "MISSING-team_name": "Team Name",
-                    "MISSING-create_button": "Create",
-                    "MISSING-delete_button": "Delete",
-                    "MISSING-no_name": "You must provide a team name",
-                    "MISSING-name_too_long": "Name must be at most _NUMBER_ characters long"
+                    "rename": "Gi nytt navn til laget",
+                    "create": "Lag laget",
+                    "delete": "Slett laget",
+                    "team_name": "Lagnavn",
+                    "create_button": "Lag",
+                    "delete_button": "Slett",
+                    "no_name": "Du må oppgi et lagnavn",
+                    "name_too_long": "Navnet må være maksimalt _NUMBER_ tegn langt"
                 }
             },
             "workshop": {
