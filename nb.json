@@ -4358,124 +4358,124 @@
         },
         "artifact": {
             "ancestor": {
-                "MISSING-title": "Ancestor",
-                "MISSING-description": "Gain a buff to all stats for 6 turns after being attacked"
+                "title": "Forfader",
+                "description": "Få en bonus på alle statistikker i 6 runder etter å ha blitt angrepet"
             },
             "berserker_star": {
-                "MISSING-title": "Berserker Star",
-                "MISSING-description": "Increase damage of all attacks until not landing an attack"
+                "title": "Berserker-stjerne",
+                "description": "Øk skaden på alle angrep inntil du ikke lander et angrep"
             },
             "bounty_bracelet": {
-                "MISSING-title": "Bounty Bracelet",
-                "MISSING-description": "Combat victories rewards additional fragments"
+                "title": "Dusørarmbånd",
+                "description": "Kampseire belønner ytterligere fragmenter"
             },
             "charge_staff": {
-                "MISSING-title": "Charge Staff",
-                "MISSING-description": "Landing 2 attacks in a row gives a shield"
+                "title": "Ladnings stav",
+                "description": "Å lande 2 angrep på rad gir et skjold"
             },
             "comfy_scarf": {
-                "MISSING-title": "Comfy Scarf",
-                "MISSING-description": "Counter the first common debuff received in combat"
+                "title": "Nusselig skjerf ",
+                "description": "Kontre den første vanlige debuffen mottatt i kamp"
             },
             "computation_orb": {
-                "MISSING-title": "Computation Orb",
-                "MISSING-description": "Deal additional damage when below 50% hp"
+                "title": "Beregningskule",
+                "description": "Gjør ekstra skade når du er under 50% hp"
             },
             "corruption_seal": {
-                "MISSING-title": "Corruption Seal",
-                "MISSING-description": "Reduce damage taken from debuffed enemies by 30%"
+                "title": "Korrupsjonssegl",
+                "description": "Reduser skaden fra debuffede fiender med 30%"
             },
             "cross_shield": {
-                "MISSING-title": "Cross Shield",
-                "MISSING-description": "Gain a small shield after moving"
+                "title": "Krosskjold",
+                "description": "Få et lite skjold etter å ha byttet"
             },
             "dark_nights_imitation": {
-                "MISSING-title": "Dark Night's Imitation",
-                "MISSING-description": "Gain a shield at the start of combat"
+                "title": "Nattens mørke imitasjon",
+                "description": "Få et skjold i starten av kampen"
             },
             "detective_loupe": {
-                "MISSING-title": "Detective Loupe",
-                "MISSING-description": "Reveal the length of the answer during the guessing phase"
+                "title": "Detektivlupp",
+                "description": "Avslør lengden på svaret i gjettefasen"
             },
             "energy_jar": {
-                "MISSING-title": "Energy Jar",
-                "MISSING-description": "Gain a shield at the start of combat, this shield carries over between combats"
+                "title": "Energikrukke",
+                "description": "Få et skjold i starten av kampene. Dette skjoldet kan blir værende mellom kamper."
             },
             "hornet_stinger": {
-                "MISSING-title": "Hornet Stinger",
-                "MISSING-description": "Landing two attacks in a row, makes the second attack a guaranteed critical hit"
+                "title": "Stikkeveps brodd",
+                "description": "Hvis du lander to angrep på rad, blir det andre angreptt garantert et kritisk treff"
             },
             "legends_shield": {
-                "MISSING-title": "Legend's Shield",
-                "MISSING-description": "Gain a shield the first time you take damage each combat"
+                "title": "Legendens skjold",
+                "description": "Få et skjold første gang du tar skade i hver kamp"
             },
             "midas_favor": {
-                "MISSING-title": "Midas Favor",
-                "MISSING-description": "Crafting stations require fewer fragments to craft items"
+                "title": "Midas' favør",
+                "description": "Håndverksstasjoner krever færre fragmenter for å lage artefakter"
             },
             "mystery_food": {
-                "MISSING-title": "Mystery Food",
-                "MISSING-description": "When inflicting a debuff, apply another random debuff to the target"
+                "title": "Mysteriemat",
+				"description": "Når du påfører en debuff, blir en tilfeldig debuff også påført på målet"
             },
             "noble_favour": {
-                "MISSING-title": "Noble Favour",
-                "MISSING-description": "Gain 150 fragments on pick-up"
+                "title": "Adelig favør",
+                "description": "Få 150 fragmenter ved opphenting"
             },
             "pipe_of_the_golden_fairy": {
-                "MISSING-title": "Pipe of the Golden Fairy",
-                "MISSING-description": "Deals 50% more damage when attacking debuffed enemies"
+                "title": "Pipe av den gylne fe",
+                "description": "Gjør 50% mer skade når du angriper debuffede fiender"
             },
             "ruler_piece": {
-                "MISSING-title": "Ruler Piece",
-                "MISSING-description": "Gain a random buff when ability is used"
+                "title": "Herskerbrikke",
+                "description": "Få en tilfeldig bonus når evnen brukes"
             },
             "sealed_watch": {
-                "MISSING-title": "Sealed Watch",
-                "MISSING-description": "Reduce cooldown of avatar ability by 2 turns"
+                "title": "Forseglet klokke",
+                "description": "Reduser nedkjølingstiden for avatar-evnen med 2 runder"
             },
             "song_euphonium": {
-                "MISSING-title": "Song Euphonium",
-                "MISSING-description": "Increase the chance of getting targeted by enemy attacks"
+                "title": "Sang eufonium",
+                "description": "Øk sjansen for å bli mål for fiendens angrep"
             },
             "soul_container": {
-                "MISSING-title": "Soul Container",
-                "MISSING-description": "Instantly revive with 50% hp when killed or equipped to a dead avatar, but lose the Soul Container"
+                "title": "Sjelbeholder",
+                "description": "Gjenoppliv umiddelbart med 50% hp når du blir drept eller utrustet til en død avatar, men mister sjelebeholderen"
             },
             "spiked_guards": {
-                "MISSING-title": "Spiked Guards",
-                "MISSING-description": "Return some of the damage taken, back to the attacker"
+                "title": "Piggetebeskytter",
+                "description": "Gi noe av skaden tilbake til angriperen"
             },
             "stealth_bunny_hat": {
-                "MISSING-title": "Stealth Bunny Hat",
-                "MISSING-description": "Reduce the chance of getting targeted by enemy attacks"
+                "title": "Stealth kaninhatt",
+                "description": "Reduser sjansen for å bli mål for fiendens angrep"
             },
             "stone_mask": {
-                "MISSING-title": "Stone Mask",
-                "MISSING-description": "Heal a small amount when landing a killing blow"
+                "title": "Steinmaske",
+                "description": "Helbred en liten mengde når du lander et drepende slag"
             },
             "sugoi_bun": {
-                "MISSING-title": "Sugoi Bun",
-                "MISSING-description": "Heal a small amount at the end of combat if below 50% hp"
+                "title": "Sugoibolle",
+                "description": "Helbred en liten mendge på slutten hp etter kampen hvis den er under 50%"
             },
             "swords_of_truth_and_light": {
-                "MISSING-title": "Swords of Truth and Light",
-                "MISSING-description": "Attacking 3 times in a row causes the third attack to do double damage"
+                "title": "Sverd av Lys og Sannhet",
+                "description": "Angripe tre ganger på rad gjør det tredje angrepet gjør dobbel skade"
             },
             "time_disk": {
-                "MISSING-title": "Time Disk",
-                "MISSING-description": "Gain an additional 5 seconds during the guessing phase"
+                "title": "Tidsdisk",
+                "description": "Få ytterligere 5 sekunder i gjettefasen"
             },
             "unexpected_supporter": {
-                "MISSING-title": "Unexpected Supporter",
-                "MISSING-description": "Combat rewards have an additional artifact to choose from"
+                "title": "Uventet støttespiller",
+                "description": "Kampbelønninger har en ekstra artefakt å velge mellom"
             },
             "villains_glasses": {
-                "MISSING-title": "Villain's Glasses",
-                "MISSING-description": "Deal additional damage for each debuff on the attack target"
+                "title": "Skurkebriller",
+                "description": "Gjør ekstra skade for hver debuff på angrepsmålet"
             },
             "wise_wolf_pouch": {
-                "MISSING-title": "Wise Wolf Pouch",
-                "MISSING-description": "Crafting stations have more items to choose from"
+                "title": "Klok ulv-veske",
+                "description": "Håndverksstasjoner har flere gjenstander å velge mellom"
             }
         },
         "events": {
