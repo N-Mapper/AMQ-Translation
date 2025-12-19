@@ -4558,7 +4558,7 @@
                         "text": "\"Beklager så mye, men _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ _HIGHLIGHT_ er ikke det riktige svaret _HIGHLIGHT_. Sangen _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_\". _BREAK_\"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "time_out": {
-                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håpoer dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og singaliserer til dem om å fortsete gjennom rommet."
+                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og singaliserer til dem om å fortsette gjennom rommet."
                     },
                     "type_numbered": {
                         "opening": "Introsang _NUMBEREXTRA_",
@@ -4603,7 +4603,7 @@
                         "text": "\"Beklager så mye, men _NAME_ _HIGHLIGHT_ er ikke det riktige svaret _HIGHLIGHT_. Videoen var _HIGHLIGHT2_ intro _NUMBER_ _HIGHLIGHT2_ av _NAME2_ _HIGHLIGHT2_\". _BREAK_\"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "time_out": {
-                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ intro _NUMBER_ fra _NAME_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håpoer dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og singaliserer til dem om å fortsete gjennom rommet."
+                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ intro _NUMBER_ fra _NAME_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og singaliserer til dem om å fortsette gjennom rommet."
                     }
                 },
                 "decline": {
@@ -4633,21 +4633,21 @@
                 }
             },
             "glitched_item": {
-                "MISSING-title": "Glitched Item",
+                "title": "Glitched-element",
                 "base": {
-                    "MISSING-text": "A weird shape floats in the center of the room. The more the party looks at it the harder it is to see its shape. _BREAK_ As the party gets closer, it flickers and changes into a handful of _HIGHLIGHT2_ fragments _HIGHLIGHT2_, before flickering again turning into an _HIGHLIGHT2_ artifact _HIGHLIGHT2_. With no time to identify the artifact, it flickers again and a _HIGHLIGHT2_ rune _HIGHLIGHT2_ now floats in its place. _BREAK_ The object keeps changing, but with the right timing it should be possible to _HIGHLIGHT_ grab one of the items _HIGHLIGHT_.",
+                    "text": "En merkelig form svever midt i rommet. Jo mer gruppen ser på den desto vanskeligere er det å se formen. _BREAK_ Etter hvert som gruppen kommer nærmere, flimrer den og forandrer dseg til en håndfull _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, før den flirer igjen og bli til en _HIGHLIGHT2_ artefakt _HIGHLIGHT2_. Uten tid til å identifiserer artefakten, flimrer den igjen, og en _HIGHLIGHT2_ rune _HIGHLIGHT2_ svever nå på plassen. _BREAK_ Objektet fortsetter å forandre seg, men med riktig timing bør det være mulig å _HIGHLIGHT_ gripe én av gjenstanden _HIGHLIGHT_.",
                     "option": {
-                        "MISSING-grab_fragments": "Grab Fragments",
-                        "MISSING-grab_artifact": "Grab Artifact",
-                        "MISSING-grab_rune": "Grab Rune"
+                        "grab_fragments": "Grip fragmentene",
+                        "grab_artifact": "Grip artefakt",
+                        "grab_rune": "Grip runen"
                     }
                 },
                 "result": {
-                    "MISSING-text": "With a decisive strike, _NAME_ manages to grab the _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_, just as it was about to change. Luckily, it doesn't appear to be changing anymore",
+                    "text": "Med et avgjørende treff klarer _NAME_ å gripe tak i _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_, akkurat idet den skulle til å forandre seg. Heldigvis ser det ikke ut til at den forandrer seg lenger.",
                     "target_type": {
-                        "MISSING-fragments": "fragments",
-                        "MISSING-artifact": "artifact",
-                        "MISSING-rune": "rune"
+                        "fragments": "fragmentene",
+                        "artifact": "artefakt",
+                        "rune": "rune"
                     }
                 }
             },
