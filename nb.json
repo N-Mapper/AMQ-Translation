@@ -4244,9 +4244,9 @@
                 "promote_button": "Forfrem"
             },
             "kick_player": {
-                "MISSING-title": "Kick _NAME_ from Lobby?",
-                "MISSING-description": "They won't be able to join again",
-                "MISSING-kick_button": "Kick"
+                "title": "Kast _NAME_ ut av lobby?",
+                "description": "De vil ikke kunne bli med igjen",
+                "kick_button": "Kast ut"
             }
         },
         "tutorial": {
@@ -4480,155 +4480,155 @@
         },
         "events": {
             "enemy_turf": {
-                "MISSING-title": "Enemy Turf",
+                "title": "Fiendens territorium",
                 "base": {
-                    "MISSING-text": "A sketchy man, in a purple suit and green hair styled over his head, greets the party as they enter the room. _BREAK_ “Hey, you can’t just pass through here, this is my turf. I can make an exception if you leave all your _HIGHLIGHT2_ fragments _HIGHLIGHT2_, else you’ll _HIGHLIGHT_ have to take it up with the boys _HIGHLIGHT_”. _BREAK_ The man signals towards _HIGHLIGHT_ 4 enemy cores _HIGHLIGHT_ floating next to him.",
+                    "text": "En slu mann, i en lilla dress og grønt hår stylet over hodet, hilser på gruppen idet de kommer inn i rommet. _BREAK_ \"Hei, dere kan ikke bare gå forbi her, dette er mitt territorium. Jeg kan gjøre et unntak hvis dere lar alle _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ deres ligge, ellers må dere _HIGHLIGHT_ ta det opp med gutta mine _HIGHLIGHT_\". _BREAK_ Mannen signaliserer _HIGHLIGHT_ 4 fiendtlige kjerner _HIGHLIGHT_ sokm svever ved siden av ham.",
                     "options": {
-                        "MISSING-pay": "Pay _NUMBER_ fragments",
-                        "MISSING-ignore": "Ignore the warning"
+                        "pay": "Betal _NUMBER_ fragmenter",
+                        "ignore": "Ignorer advarselen"
                     }
                 },
                 "pay": {
-                    "MISSING-text": "The man grabs the fragments as you throw them to him. _BREAK_ “Pleasure doing business”"
+                    "text": "Mannen griper tak i fragmentene mens du kaster dem til ham. _BREAK_ \"En fornøyelse å drive business\""
                 },
                 "ignore": {
-                    "MISSING-text": "“You’ll regret that, don’t hold me responsible for what happens” _BREAK_ The man yells as he runs out of the door while the enemy cores start activating."
+                    "text": "\"Du kommer til å angre på det. Ikke hold meg ansvarlig for det som skjer\". _BREAK_ Mannen roper mens han løper ut av døren mens de fiendtlige kjernene begynner å aktiveres."
                 }
             },
             "gift_game": {
                 "genre": {
-                    "MISSING-title": "Gift Game - Genre",
+                    "title": "Gavegame - sjanger",
                     "base": {
-                        "MISSING-text": "As the party enters the room, they are greeted by a blue haired bunny girl. _BREAK_ “Greetings players, you have been invited to _HIGHLIGHT_ partake in a simple genre quiz game _HIGHLIGHT_ by our benevolent host. _BREAK_ “You’ll earn _HIGHLIGHT2_ fragments _HIGHLIGHT2_ for each _HIGHLIGHT_ correct guess _HIGHLIGHT_, but if you _HIGHLIGHT_ get one wrong _HIGHLIGHT_, you'll have to _HIGHLIGHT_ leave without any prize _HIGHLIGHT_. _HIGHLIGHT_ Guess all 5 _HIGHLIGHT_ questions and you’ll also _HIGHLIGHT_ win the grand prize _HIGHLIGHT_ of _ARTIFACT_.”",
+                        "text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ \"Heisan spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt sjangerquiz-game _HIGHLIGHT_ av vår velvillige vert.\" _BREAK_ \"Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere _HIGHLIGHT_ får én feil _HIGHLIGHT_, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.\"",
                         "options": {
-                            "MISSING-accept": "Accept the invitation",
-                            "MISSING-decline": "Decline the invitation"
+                            "accept": "Godta initasjonen",
+                            "decline": "Avslå initasjonen"
                         }
                     },
                     "accept": {
-                        "MISSING-text": "The bunny pulls out a stack of cards. _BREAK_ “Each of these cards have the name of an _HIGHLIGHT_ anime and 4 genres _HIGHLIGHT_. Once I flip the card, _HIGHLIGHT_ you'll have 10 seconds _HIGHLIGHT_ to guess which _HIGHLIGHT_ genre belongs to the anime _HIGHLIGHT_.”",
+                        "text": "Kaninen trekker ut en bunke med kort. _BREAK_ \"Hver av disse kortene har navnet på en _HIGHLIGHT_ anime og fire sjangere _HIGHLIGHT_. Når jeg snur kortet, _HIGHLIGHT_ har du 10 sekunder _HIGHLIGHT_ på dere å gjette hvilken _HIGHLIGHT_ sjanger som tilhører animeen _HIGHLIGHT_.\"",
                         "options": {
-                            "MISSING-first_question": "First question"
+                            "first_question": "Første spørsmål"
                         }
                     },
                     "question": {
-                        "MISSING-text": "Which genre belongs to the following anime. _BREAK_ _NAME_ _BREAK_ _NAME2_"
+                        "text": "Hvilken sjanger tilhører følgende anime. _BREAK_ _NAME_ _BREAK_ _NAME2_"
                     },
                     "wrong_guess": {
-                        "MISSING-text": "“I’m sorry to say, but “_NAME_” _HIGHLIGHT_ isn’t the genre _HIGHLIGHT_ for _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. The _HIGHLIGHT_ correct answer _HIGHLIGHT_ is _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_. _BREAK_ “I wish you the best of luck in your future games, and hope you will participate again in the future” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+                        "text": "\"Beklager så mye, men \"_NAME_\" _HIGHLIGHT_ er ikke sjangeren _HIGHLIGHT_ for _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. Det _HIGHLIGHT_ riktige svaret _HIGHLIGHT_ er _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_.\"_BREAK_\" Jeg ønkser dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
                     },
                     "time_out": {
-                        "MISSING-text": "A buzzer sounds in the room. _BREAK_ “I'm sorry to say, but _HIGHLIGHT_ your time is up _HIGHLIGHT_. The correct genre for _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_, was _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. _BREAK_ “I wish you the best of luck in your future games, and hope you will participate again in the future”. _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden er ute _HIGHLIGHT_. Den riktigge sjangeren for _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ var _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ \"_BREAK_.\"Jeg ønkser dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
                     }
                 },
                 "song_type": {
-                    "MISSING-title": "Gift Game - Song Type",
+                    "title": "Gavegame - sangtype",
                     "base": {
-                        "MISSING-text": "As the party enter the room, they are greeted by a blue haired bunny girl. _BREAK_ “Greetings players, you have been invited to _HIGHLIGHT_ partake in a simple song type quiz game _HIGHLIGHT_ by our benevolent host. _BREAK_ “You’ll earn _HIGHLIGHT2_ fragments _HIGHLIGHT2_ for each _HIGHLIGHT_ correct guess _HIGHLIGHT_, but if you get one wrong, you'll have to _HIGHLIGHT_ leave without any prize _HIGHLIGHT_. _HIGHLIGHT_ Guess all 5 _HIGHLIGHT_ questions and you’ll also _HIGHLIGHT_ win the grand prize _HIGHLIGHT_ of _ARTIFACT_.”",
+                        "text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ \"Heisan spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt sangtypequiz-game _HIGHLIGHT_ av vår velvillige vert.\" _BREAK_ \"Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere _HIGHLIGHT_ får én feil _HIGHLIGHT_, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.\"",
                         "options": {
-                            "MISSING-accept": "Accept the invitation",
-                            "MISSING-decline": "Decline the invitation"
+                            "accept": "Godta initasjonen",
+                            "decline": "Avslå initasjonen"
                         }
                     },
                     "accept": {
-                        "MISSING-text": "The bunny pulls out a small buzzer. _BREAK_ “When I click the buzzer _HIGHLIGHT_ a song will start playing _HIGHLIGHT_, and you’ll have _HIGHLIGHT_ 15 seconds to guess _HIGHLIGHT_ if it’s an _HIGHLIGHT_ opening, ending or insert song _HIGHLIGHT_. _BREAK_ “Just give me a second to get everything ready”",
+                        "text": "Kaninen trekker fram en liten summer. _BREAK_ \"Når jeg klikker på summeren _HIGHLIGHT_, Vil en sang begynne å spille _HIGHLIGHT_, og dere har _HIGHLIGHT_ 15 sekunder på dere til å gjette _HIGHLIGHT_ om det er en _HIGHLIGHT_ introsang, sluttsang eller innsats _HIGHLIGHT_.\"_BREAK_ \"Bare gi meg et sekund til å gjøre alt klart\"",
                         "options": {
-                            "MISSING-first_question": "First question"
+                            "first_question": "Første spørsmål"
                         }
                     },
                     "question": {
-                        "MISSING-text": "Which song type is this?",
+                        "text": "Hvilken sangtype er dette?",
                         "options": {
-                            "MISSING-opening": "Opening",
-                            "MISSING-ending": "Ending",
-                            "MISSING-insert_song": "Insert Song"
+                            "opening": "Intro",
+                            "ending": "Slutt",
+                            "insert_song": "Innsats"
                         }
                     },
                     "correct": {
-                        "MISSING-text": "“You are _HIGHLIGHT_ correct! _HIGHLIGHT_ The song was _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ from _HIGHLIGHT_ _NAME2_ _HIGHLIGHT_. And with that, _HIGHLIGHT_ your current winnings are at _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_ _HIGHLIGHT_. _BREAK_ Would you like to continue to the next question, or cash out?”",
+                        "text": "\"Dere har _HIGHLIGHT_ rett! _HIGHLIGHT_ Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT_ _NAME2_ _HIGHLIGHT_. Og med det, _HIGHLIGHT_ er deres nåværende gevinster på _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ _HIGHLIGHT_. _BREAK_ Vil dere fortsette til neste spørsmål, eller ta ut fragmentene?_HIGHLIGHT_\"",
                         "options": {
-                            "MISSING-next_question": "Next Question",
-                            "MISSING-cash_out": "Cash Out"
+                            "next_question": "Neste spørsmål",
+                            "cash_out": "Ta ut fragmentene"
                         }
                     },
                     "all_correct": {
-                        "MISSING-text": "“Amazing, you managed to _HIGHLIGHT_ guess all 5 correct _HIGHLIGHT_! The final song was _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ from _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. I'm happy to reward you not only the _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but the _ARTIFACT_ as well!”, the bunny says before cheerfully handing over the rewards. _BREAK_ “Congrats on winning the quiz, I hope you'll play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+                        "text": "\"Fantastisk, dere klarte å _HIGHLIGHT_ gjette alle 5 riktige _HIGHLIGHT_! Den siste sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. Jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!\", sier kanin før hun muntert overleverer belønningene. _BREAK_ \"Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.\"_BREAK_ Kaninen bukker og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "wrong_guess": {
-                        "MISSING-text": "“I’m sorry to say, but _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ _HIGHLIGHT_ isn't the correct answer _HIGHLIGHT_. The song was _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ from _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_. _BREAK_ “I wish you the best of luck in your future games, and hope you will participate again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+                        "text": "\"Beklager så mye, men _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ _HIGHLIGHT_ er ikke det riktige svaret _HIGHLIGHT_. Sangen _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_\". _BREAK_\"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "time_out": {
-                        "MISSING-text": "A buzzer sounds in the room. _BREAK_ “I’m sorry to say, but _HIGHLIGHT_ your time is up _HIGHLIGHT_. The song was _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ from _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. _BREAK_ “I wish you the best of luck in your future games, and hope you will participate again in the future”. _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håpoer dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og singaliserer til dem om å fortsete gjennom rommet."
                     },
                     "type_numbered": {
-                        "MISSING-opening": "Opening _NUMBEREXTRA_",
-                        "MISSING-ending": "Ending _NUMBEREXTRA_",
-                        "MISSING-insert_song": "Insert Song"
+                        "opening": "Introsang _NUMBEREXTRA_",
+                        "ending": "Sluttsang _NUMBEREXTRA_",
+                        "insert_song": "Innsats"
                     },
                     "type": {
-                        "MISSING-opening": "Opening",
-                        "MISSING-ending": "Ending",
-                        "MISSING-insert_song": "Insert Song"
+                        "opening": "Introsang",
+                        "ending": "Sluttsang",
+                        "insert_song": "Innsats"
                     }
                 },
                 "tiny_opening": {
-                    "MISSING-title": "Gift Game - Tiny Opening",
+                    "title": "Gavegame - liten intro",
                     "base": {
-                        "MISSING-text": "As the party enter the room, they are greeted by a blue haired bunny girl. _BREAK_ “Greetings players, you have been invited to _HIGHLIGHT_ partake in a simple video quiz game _HIGHLIGHT_ by our benevolent host. “You’ll earn _HIGHLIGHT2_ fragments _HIGHLIGHT2_ for each _HIGHLIGHT_ correct guess _HIGHLIGHT_, but if you _HIGHLIGHT_ get one wrong _HIGHLIGHT_, you'll have to _HIGHLIGHT_ leave without any prize _HIGHLIGHT_. _HIGHLIGHT_ Guess all 5 questions _HIGHLIGHT_ and you’ll also _HIGHLIGHT_ win the grand prize _HIGHLIGHT_ of _ARTIFACT_.”",
+                        "text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ \"Heisan spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt videoquiz-game _HIGHLIGHT_ av vår velvillige vert.\" _BREAK_ \"Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere _HIGHLIGHT_ får én feil _HIGHLIGHT_, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.\"",
                         "options": {
-                            "MISSING-accept": "Accept the invitation",
-                            "MISSING-decline": "Decline the invitation"
+                            "accept": "Godta initasjonen",
+                            "decline": "Avslå initasjonen"
                         }
                     },
                     "accept": {
-                        "MISSING-text": "The bunny pulls out a small buzzer. _BREAK_ “When I click the buzzer, _HIGHLIGHT_ a small frame of an anime opening will play _HIGHLIGHT_, and you’ll have _HIGHLIGHT_ 10 seconds to select the correct show _HIGHLIGHT_ from the provided choices. _BREAK_ “Just give me a second to get everything ready”",
+                        "text": "Kaninen trekker frem en liten summer. _BREAK_ \"Når jeg klikker på summeren, _HIGHLIGHT_ vil et liten del av en anime intro spilles av _HIGHLIGHT_, og du har _HIGHLIGHT_ 10 sekunder på deg til å velge riktig program _HIGHLIGHT_ fra de oppgitte valgene.\" _BREAK_ \"Bare gi meg et sekund til å gjøre alt klart.\"",
                         "options": {
-                            "MISSING-first_question": "First question"
+                            "first_question": "Første spørsmål"
                         }
                     },
                     "question": {
-                        "MISSING-text": "What show is this?"
+                        "text": "Hvilket program er dette?"
                     },
                     "correct": {
-                        "MISSING-text": "“_HIGHLIGHT_ You are correct! _HIGHLIGHT_ The video was Opening _NUMBER_ from _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. And with that, your current winnings are at _NUMBER2_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_. _BREAK_ Would you like to _HIGHLIGHT_ continue to the next question, or cash out? _HIGHLIGHT_”",
+                        "text": "\"Dere har _HIGHLIGHT_ rett! _HIGHLIGHT_ Videoen var intro _NUMBER_ fra _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. Og med det, _HIGHLIGHT_ er deres nåværende gevinster på _NUMBER2_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ _HIGHLIGHT_. _BREAK_ Vil dere fortsette til neste spørsmål, eller ta ut fragmentene?_HIGHLIGHT_\"",
                         "options": {
-                            "MISSING-next_question": "Next Question",
-                            "MISSING-cash_out": "Cash Out"
+                            "next_question": "Neste spørsmål",
+                            "cash_out": "Ta ut fragmentene"
                         }
                     },
                     "all_correct": {
-                        "MISSING-text": "“Amazing, you managed to _HIGHLIGHT_ guess all 5 correct _HIGHLIGHT_! The final video was _HIGHLIGHT2_ Opening _NUMBER_ _HIGHLIGHT2_ from _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. I'm happy to reward you not only the _NUMBER2_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but the _ARTIFACT_ as well!”, the bunny says before cheerfully handing over the rewards. _BREAK_ “Congrats on winning the quiz, I hope you'll play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+                        "text": "\"Fantastisk, dere klarte å _HIGHLIGHT_ gjette alle 5 riktige _HIGHLIGHT_! Den siste videoen var _HIGHLIGHT2_ intro _NUMBER_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. Jeg er glad for å belønne dere ikke bare _NUMBER2_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!\", sier kanin før hun muntert overleverer belønningene. _BREAK_ \"Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.\"_BREAK_ Kaninen bukker og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "wrong_guess": {
-                        "MISSING-text": "“I’m sorry to say, but _NAME_ _HIGHLIGHT_ isn't the correct answer _HIGHLIGHT_. The video was _HIGHLIGHT2_ Opening _NUMBER_ of  _NAME2_ _HIGHLIGHT2_. _BREAK_“I wish you the best of luck in your future games, and hope you will participate again in the future” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+                        "text": "\"Beklager så mye, men _NAME_ _HIGHLIGHT_ er ikke det riktige svaret _HIGHLIGHT_. Videoen var _HIGHLIGHT2_ intro _NUMBER_ _HIGHLIGHT2_ av _NAME2_ _HIGHLIGHT2_\". _BREAK_\"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "time_out": {
-                        "MISSING-text": "A buzzer sounds in the room. _BREAK_ “I’m sorry to say, but _HIGHLIGHT_ your time is up _HIGHLIGHT_. The song was _HIGHLIGHT2_ Opening _NUMBER_ from _NAME_ _HIGHLIGHT2_. _BREAK_ “I wish you the best of luck in your future games, and hope you will participate again in the future”. _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ intro _NUMBER_ fra _NAME_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håpoer dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og singaliserer til dem om å fortsete gjennom rommet."
                     }
                 },
                 "decline": {
-                    "MISSING-text": "The bunny looks taken aback. _BREAK_ “You really don't want to play? But _HIGHLIGHT_ you have nothing to lose… _HIGHLIGHT_ how am I going to explain this to our host…”, the bunny stammers while looking mildly panicked, before noticing the party's stares. _BREAK_ “If that is your decision then… I hope you'll consider playing the next time we meet”, she manages to say with a half forced smile, before bowing to the party and signals them to continue through the room."
+                    "text": "Kaninen ser overrasket ut. _BREAK_ \"Vil du virkelig ikke spille? Men _HIGHLIGHT_ du har ingenting å tape ..._HIGHLIGHT_ hvordan skal jeg forklare det til verten vår ...\", stammer kaninen mens de ser mildt panisk ut, før de leggger merke til gruppens blikk. _BREAK_ \"Hvis det er deres avgjørelse, så ... håper jeg dere vil vurdere å spille neste gang vi møtes\", klarer hun å si med et halvt påtvunget smil, før hun bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                 },
                 "cash_out": {
-                    "MISSING-text": "“A wise player knows to quit while on top. So I respect your decision”, the bunny says before she hands the party their winnings. _BREAK_ “Congrats on your rewards, I hope you will play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+                    "text": "\"En klok spiller vet at man skal gi opp mens man er på topp. Så jeg respekterer deres avgjørelse\", sier kaninen før hun gir gruppen belønningen deres. _BREAK_ \"Gratulerer med belønningen, jeg håper dere spiller igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer at dere skal fortsette gjennom rommet."
                 },
                 "correct_guess": {
-                    "MISSING-text": "“You are _HIGHLIGHT_ correct! _HIGHLIGHT_ And with that, _HIGHLIGHT_ your current winnings are at _NUMBER_ _HIGHLIGHT_ _HIGHLIGHT2_ fragments. _HIGHLIGHT2_ _BREAK_ Would you like to continue to the next question, or cash out?”",
+                    "text": "\"Du har _HIGHLIGHT_ rett! _HIGHLIGHT_ Og med det, _HIGHLIGHT_ er deres nåværende gevinster på _NUMBER_ _HIGHLIGHT_ _HIGHLIGHT2_ fragmenter. _HIGHLIGHT2_ _BREAK_ Vil dere fortsette til neste spørsmål, eller ta ut fragmentene?\"",
                     "options": {
-                        "MISSING-next_question": "Next Question",
-                        "MISSING-cash_out": "Cash Out"
+                        "next_question": "Neste spørsmål",
+                        "cash_out": "Ta ut fragmentene"
                     }
                 },
                 "win": {
-                    "MISSING-text": "“Amazing, you _HIGHLIGHT_ managed to guess all 5 _HIGHLIGHT_ correct! I'm happy to reward you not only the _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but the _ARTIFACT_ as well!”, the bunny says before cheerfully handing over the rewards. _BREAK_ “Congrats on winning the quiz, I hope you'll play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
+                    "text": "\"Fantastisk, dere _HIGHLIGHT_ klarte å gjette alle 5 _HIGHLIGHT_ riktig! Jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!\", sier kaninen før han muntert overleverer belønningene. _BREAK_ \"Gratulerer med å vinne quizen, jeg håper dere spiller igjen i frmentiden.\" _BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommmet."
                 },
                 "video_issue": {
-                    "MISSING-text_one": "The bunny looks flustered as she repeatedly clicks the buzzer. _BREAK_ “I’m sorry, there appears to be an issue with the question. So we’ll have to skip this one. _BREAK_ “I’ll get the next question ready, just give me a moment.”",
-                    "MISSING-text_two": "The bunny starts furiously hitting the buzzer, before looking up at the party with a strained smile. _BREAK_ “It appears the equipment is faulty, so we’ll have to skip this question. I’ll get the next one setup”",
-                    "MISSING-text_three": "The bunny furiously grabs the buzzer and hurls it at the wall. _BREAK_ “It appears we’re _HIGHLIGHT_ experiencing some technical difficulties _HIGHLIGHT_, so we _HIGHLIGHT_ won’t be able to complete the quiz _HIGHLIGHT_. I’m sure our host can afford to _HIGHLIGHT_ give you 100 _HIGHLIGHT2_ fragments _HIGHLIGHT2_ _HIGHLIGHT_ as an apology.” _BREAK_ The bunny hands the party the _HIGHLIGHT2_ fragments _HIGHLIGHT2_, then signals to the door.",
-                    "MISSING-text_four": "“The bunny tries clicking the button several times, but nothing happens. _BREAK_ “The _HIGHLIGHT_ last question doesn’t appear to be working _HIGHLIGHT_. As this is the host's fault, I’ll _HIGHLIGHT_ reward you the question _HIGHLIGHT_. So I’m happy to reward you not only the _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but the _ARTIFACT_ as well!”, the bunny says before cheerfully handing over the rewards. _BREAK_ “Congrats on winning the quiz, I hope you'll play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room.",
+                    "text_one": "Kaninen ser forvirret ut mens hun gjentatte ganger klikker på summeren. _BREAK_ \"Beklager, det ser ut til å være et problem med spørsmålet. Så vi må hoppe over dette.\" _BREAK_ \"La meg gjøre neste spørsmål klart, bare gi meg et øyeblikk.\"",
+                    "text_two": "Kaninen begynner rasende å trykke på summeren, før de ser opp på gruppen med et anstrengt smil. _BREAK_ \"Det ser ut til at utstyret er defekt, så vi må hoppe over dette spørsmålet. Jeg skal sette opp det neste.\"",
+                    "text_three": "Kaninen griper rasende summeren og kaster den mot veggen. _BREAK_ \"Det ser ut til at vi _HIGHLIGHT_ opplever noen tekniske problemer _HIGHLIGHT_, så vi _HIGHLIGHT_ vil ikke kunne fullføre quizen _HIGHLIGHT_. Jeg er sikker på at verten vår har råd til å _HIGHLIGHT_ gi dere 100 _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ _HIGHLIGHT_ som en unnskyldning.\" _BREAK_ Kaninen gir gruppen _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_, og signaliserer deretter til døren.",
+                    "text_four": "Kaninen prøver å klikke på knappen flere ganger, men ingenting skjer. _BREAK_ \"Det siste _HIGHLIGHT_ spørsmålet ser ikke ut til å fungere _HIGHLIGHT_. Siden dette er vertens feil, vil jeg _HIGHLIGHT_ belønne dere for spørsmålet _HIGHLIGHT_. Så jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!\", sier kaninen før de muntert overleverer belønningene. _BREAK_ \"Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet.",
                     "options": {
-                        "MISSING-next_question": "Next Question"
+                        "next_question": "Neste spørsmål"
                     }
                 }
             },
