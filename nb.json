@@ -4054,10 +4054,10 @@
                     },
                     "tooltips": {
                         "all_slots_in_use": "Alle runeplasser i bruk, gå opp i leveel for å låse opp mer",
-                        "no_rune_selected": "Ingen rune valgt. Velg runen du vil utstyre ovenfor",
-                        "wrong_rune_slot": "_NAME_ _NAME2_ runeplasser. Bare runer som matcher plassen kan utstyres i det",
+                        "no_rune_selected": "Ingen rune valgt. Velg runen du vil utruste ovenfor",
+                        "wrong_rune_slot": "_NAME_ _NAME2_ runeplasser. Bare runer som matcher plassen kan utrustes her",
                         "invalid_setup": "Ugyldig runeoppsett. Sørg fir at alle brukte containere er slått på",
-                        "duplicate_advanced_rune": "Duplikat av avansert rune. Bare én avansert rune av hver evne kan utstyres"
+                        "duplicate_advanced_rune": "Duplikat av avansert rune. Bare én avansert rune av hver evne kan utrustes"
                     }
                 },
                 "reformat_rune": {
@@ -4072,7 +4072,7 @@
                     "success_rate": "_SPAN_ _NUMBER_ _SPAN_ suksessrate",
                     "description": {
                         "title": "Reformater rune",
-                        "text": "Oppgrader eller dupliser en rune ved hjelp av reformatereren. _BREAK_ Velg en målrune, og legg deretter opptil 5 ekstra runer for å drive reformereren (jo høyere nivå, desto høyere suksessrate). De ekstra runene vil bli forbrukt."
+                        "text": "Oppgrader eller dupliser en rune ved hjelp av reformateren. _BREAK_ Velg en målrune, og legg deretter opptil 5 ekstra runer for å drive reformereren (jo høyere nivå, desto høyere suksessrate). De ekstra runene vil bli forbrukt."
                     }
                 }
             },
@@ -4250,110 +4250,110 @@
             }
         },
         "tutorial": {
-            "MISSING-end_tutorial": "End Tutorial",
-            "MISSING-yes": "Yes",
-            "MISSING-no": "No",
+            "end_tutorial": "Avslutt veiledning",
+            "yes": "Ja",
+            "no": "Nei",
             "exit_tutorial_warning": {
-                "MISSING-title": "Exit Tutorial?",
-                "MISSING-description": "You can always find it again in the tutorial menu",
-                "MISSING-exit_button": "Exit"
+                "title": "Avslutt veiledning?",
+                "description": "Du kan alltid finne den igjen i veiledningsmenyen",
+                "exit_button": "Avslutt"
             },
             "city_overview": {
-                "MISSING-message_one": "Welcome to the Nexus! Do you want a tutorial?",
-                "MISSING-message_two": "That's alright, you can always find it in the tutorial menu.",
-                "MISSING-message_three": "Great! Let's get you started by entering the dungeon!"
+                "message_one": "Velkommen til Nexus? Vil du ha en veiledning?",
+                "message_two": "Den er grei, du finner det alltid i veiledningsmenyen.",
+                "message_three": "Fantastisk! La oss komme i gang ved å gå inn i dungeonen!"
             },
             "dungeon_lobby": {
-                "MISSING-message_one": "This is the dungeon lobby! Here you pick your dungeoneering team!",
-                "MISSING-message_two": "Start by clicking on 'slot 1' to see your available avatars.",
-                "MISSING-message_three": "Here we have all your available avatars. For now, let's pick Hibiki.",
-                "MISSING-message_four": "Allow me to finish picking the rest of your team!",
-                "MISSING-message_five": "There! Don't worry I'll explain their abilities later. Now let's get into the dungeon!"
+                "message_one": "Dette er dungeonlobbyen! Her velger du ditt dungeonutforskningsteam!",
+                "message_two": "Start med å klikke på \"plass 1\" for å se dine tilgjengelige avatarer.",
+                "message_three": "Her har vi alle tilgjengelige avatarer. La oss velge Hibiki.",
+                "message_four": "La meg fullføre utvelgelsen for resten av laget ditt!",
+                "message_five": "Der! Ikke vær redd, jeg skal forklare evenene deres senere. La oss nå gå inn i dungeonen!"
             },
             "dungeon_map": {
-                "MISSING-message_one": "Here we have the dungeon map, for the tutorial we're keeping it short and simple! Let's start by selecting the first tile."
+                "message_one": "Her har vi dungeonkartet. I veiledningen holde vi det kort og enkelt! La oss starte med å velge den første ruten."
             },
             "dungeon_combat": {
-                "MISSING-message_one": "Here we have the combat encounter, where you fight monsters for rewards.",
-                "MISSING-message_two": "These are the enemies! When you guess a song correctly the character whose turn it is will attack the targeted monster.",
-                "MISSING-message_three": "This is your party. The enemies will target your party members and attack after enough wrong guesses.",
-                "MISSING-message_four": "First off let's use Hibiki's ability to power up her attacks!",
-                "MISSING-message_five": "Now she has a bunch of buffs! You can hover over the icons to see what they do!",
-                "MISSING-message_six": "Now we have to answer the quiz! Hint: This is the correct answer!"
+                "message_one": "Her har vi kampmøtet, hvor du kjemer mot monstre for å få belønninger.",
+                "message_two": "Dette er fiendene! Når du gjetter riktig på en sang, vil karakteren som har tur angripe det aktuelle monsteret.",
+                "message_three": "Dette er gruppen din. Fiendene vil angripe gruppemedlemmene dine etter nok feil svar.",
+                "message_four": "La oss først bruke Hikibis evne til å forsterke angrepene hennes!",
+                "message_five": "Nå har hun en haug med buffs! Du kan holde musepekeren over ikonene for å se hva de gjør!",
+                "message_six": "Nå må vi svar på quizen! Hint: Dette er riktig svar!"
             },
             "post_attack": {
-                "MISSING-message_one": "Great hit! Now, let's see what happens if you answer incorrectly!"
+                "message_one": "Flott treff! Nå, la oss se hva som skjer hvis du svarer feil!"
             },
             "post_damage": {
-                "MISSING-message_one": "When you guess wrong the enemies' attack counters go down, one more wrong answer and they'll attack!",
-                "MISSING-message_two": "Noel has low defense so we have to defend her! Luckily, Yumemi is the turn character, so we can swap her in by doing a target swap with Noel!",
-                "MISSING-message_three": "Great! Now you just have to answer correctly to swap the two avatars!"
+                "message_one": "Når du gjetter feil, går fiendes angripskontriger ned. Ett feil svar til, og de angriper!",
+                "message_two": "Noel har lavt forsvar, så vi må forsvare henne! Heldigvis er det Yumemis tur, så vi kan bytte henne inn ved å gjøre et målbytte med Noel!",
+                "message_three": "Flott! Nå må du bare svare riktig for å bytte dem!"
             },
             "post_swap": {
-                "MISSING-message_one": "Swap completed! Keep in mind that swapping avatars doesn't change their turn order.",
-                "MISSING-message_two": "Now that Yumemi is in position to take a hit, use her ability to soften the blow!",
-                "MISSING-message_three": "And a wrong answer to send the enemies attacking!"
+                "message_one": "Bytte fullført! Husk at bytting av avatarer ikke endrer turrekkefølgen deres.",
+                "message_two": "Nå som Yumememi er i posisjon til å ta skadenm bruk evnen hennes til å mykne slaget!",
+                "message_three": "Og et feil svar for å sende fiendene til angrep!"
             },
             "post_enemy_attack": {
-                "MISSING-message_one": "There, that wasn't so bad was it? Yumemi is very tanky!",
-                "MISSING-message_two": "Positioning is very important! Pay attention to who's attacking who and when and use swapping to defend!",
-                "MISSING-message_three": "Now I'll let you finish these enemies off on your own! Remember that Chika and Noel still have abilities you can use! Good luck!",
-                "MISSING-message_four": "(Oh and don't worry, I used a little trick to make sure you can't actually die)"
+                "message_one": "Der, det var ikke så ille, var det vel? Yumemi er veldig tøff!",
+                "message_two": "Posisjonereing er veldig viktig! Vær oppmerksom på hvem som angriper hvem og når, og bruk bytting for å forsvare!",
+                "message_three": "Nå lar jeg deg gjøre av med de gjenværende fiendene på egenhånd! Husk at Chika og Noel har evner du kan bruke! Lykke til!",
+                "message_four": "(Åh ikke beskymre deg, jeg brukte et lite triks for å sørge for at du faktsik ikke kan dø)"
             },
             "combat_reward": {
-                "MISSING-message_one": "Congratulations! Defeating enemies gives you fragments and also some times artifacts.",
-                "MISSING-message_two": "Artifacts are equipped to one of your avatars to give them power ups. Equip this artifact by clicking on it!",
-                "MISSING-message_three": "Now choose one of your avatars to equip it to.",
-                "MISSING-message_four": "Great! Now you can see the artifact equipped to your avatar. Let's move on!"
+                "message_one": "Gratulerer! Å beseire fiender gir deg fragmenter og noen ganger artefakter.",
+                "message_two": "Artefakter utrustes til en av avatarene dine for å gi dem power-ups. Utstyr denne artefakten ved å klikke på den!",
+                "message_three": "Nå velg en av avatarene dine å utruste den med.",
+                "message_four": "Bra! Nå kan du se artefakten som er utstyrt med avataren din. La oss gå videre!"
             },
             "event": {
-                "MISSING-message_one": "This is an event! Events are special encounters that can give you rewards or challenges.",
-                "MISSING-message_two": "This event is a Transmutation Circle! Here you can sacrifice things for a reward.",
-                "MISSING-message_three": "Click on the button to sacrifice your artifact!",
-                "MISSING-message_four": "Great! You got some fragments! We'll be able to use those soon."
+                "message_one": "Dette er en event! Eventer er spesielle møter som kan gi deg belønninger eller utfordringer.",
+                "message_two": "Denne hendelsen er en Tansmutasjonssirkel! Her kan du ofre ting for en belønning.",
+                "message_three": "Klikk på knappen for å ofre artefakten din!",
+                "message_four": "Bra! Du har noen fragmenter! Vi kan bruke dem snart."
             },
             "crafting_station": {
-                "MISSING-message_one": "This is the crafting station! Here you can craft your fragments into artifacts and runes!",
-                "MISSING-message_two": "We can afford this artifact with the fragments we got earlier, so let's buy it!",
-                "MISSING-message_three": "Now choose one of your avatars to equip it to.",
-                "MISSING-message_four": "There's also a rune here that you can't afford right now, so let's carry on!"
+                "message_one": "Dette er håndverksstasjonen! her kan du gjøre om fragmentene dine til artefakter og runer!",
+                "message_two": "Vi har råd til denne artefakten med fragmentene vi fikk tidligere, så la oss kjøpe den!",
+                "message_three": "Velg nå en av avatarene dine å utruste den med.",
+                "message_four": "Det er også en rune her som du ikke har råd til akkurat nå, så la oss fortsette!"
             },
             "boss_combat": {
-                "MISSING-message_one": "This is a boss encounter! Bosses are much tougher than normal enemies and have special abilities that can be very dangerous!",
-                "MISSING-message_two": "I'll debuff it for you, then you take it down! I believe in you!"
+                "message_one": "Dette er et bossmøte! Bossene er mye tøffere enn vanglige fiender og har spesielle evner som kan være veldig farlige!",
+                "message_two": "Jeg debuff-er den for deg, så tar du den ned! Jeg tror på deg!"
             },
             "boss_dungeon_reward": {
-                "MISSING-message_one": "Congratulations! Defeating the boss gives you rune rewards.",
-                "MISSING-message_two": "Runes do nothing when looted in the dungeon, but when we get back to the city you can use the workshop to equip them and power up!",
-                "MISSING-message_three": "It also gives you a ton of xp for your avatars!",
-                "MISSING-message_four": "Leveling up avatars allows them to equip more runes, empowers their abilities, and let's them share their powers with other avatars!",
-                "MISSING-message_five": "That's it for the tutorial! Enjoy the Nexus!"
+                "message_one": "Gratulerer! Å beseire bossen gir deg runebelønninger.",
+                "message_two": "Runer gjør ingenting når de er innsamlet i dungeonen, men når vi kom,mer tilbake til byen kan du bruke verkstedet til å utruste dem og øke kraften",
+                "message_three": "Det gir deg også massevis av XP for avatarene dine!",
+                "message_four": "Å gå opp i level med avatarer lar dem utruste seg med flere runer, styrker evnene deres og lar dem dele kreftene sine med andre avatarer!",
+                "message_five": "Det var alt for veiledningen! Kos deg med Nexus!"
             },
             "workshop": {
-                "MISSING-message_one": "Welcome to the workshop! As you level up your avatars, they’ll unlock rune slots, which you can equip powerful runes in.",
-                "MISSING-message_two": "Runes are found throughout the Nexus dungeon, and grants stats boost and unique effects when equipped to an avatar.",
-                "MISSING-message_three": "If one of your avatars have empty rune slots, the amount is displayed on their tiles.",
-                "MISSING-message_four": "Finally, you can also use the rune reformatter to transform or upgrade your runes.",
-                "MISSING-message_five": "That's it for the tutorial! Enjoy the Nexus!"
+                "message_one": "Velkommen til verkstedet! Etter hvert som du går opp i level med avatarene dine, låser de opp runneplasser, hvor du kan utruste deg med kraftige runer.",
+                "message_two": "Runer finnes overalt i Nexus-dungeonen, og gir statistikkboost og unike effekter når de er utrustet med en avatar.",
+                "message_three": "Hvis en av avatarene dine har tomme runeplasser vises antallet på rutene deres.",
+                "message_four": "Til slutt kan du også bruke rune reformateren",
+                "message_five": "Det var alt for veiledningen! Kos deg med Nexus!"
             },
             "rune_setup": {
-                "MISSING-message_one": "Here we have the rune setup for your avatars.",
-                "MISSING-message_two": "At the top, you have all unused runes you’ve found in the Nexus dungeon.",
-                "MISSING-message_three": "Runes are divided into the two categories, offensive (red) and defensive (blue).",
-                "MISSING-message_four": "Beside their category, runes also comes in two types, standard (triangle and square) and advanced (circles).",
-                "MISSING-message_five": "Standard runes give stacking stat or genre boosts, whereas advanced runes give a unique effect.",
-                "MISSING-message_six": "Each rune category have 20 standard slots and 1 advanced slot.",
-                "MISSING-message_seven": "To unlock the advanced slot for a category, you first have to equip 12 standard runes of that category.",
-                "MISSING-message_eight": "Equipping an advanced rune, then, unlocks the last 8 standard slots for the category.",
-                "MISSING-message_nine": "Finally, if you fill up all the category rune slots, you’re able to equip one additional advanced rune.",
-                "MISSING-message_ten": "This final advanced rune can be from any category, but can’t have the same power as the other advanced runes.",
-                "MISSING-message_eleven": "The counter above me show how many empty rune slots the avatar have.",
-                "MISSING-message_twelve": "To equip runes, simply click the rune you want to equip, then an empty slot of the same type.",
-                "MISSING-message_thirteen": "After changing your rune setup, remember to save it at the bottom.",
-                "MISSING-message_fourteen": "Unequipping all your equipped runes is also possible, but costs one ticket.",
-                "MISSING-message_fifteen": "Instead of unequipping runes, you can also destroy an equipped rune to clear up the slot by clicking it.",
-                "MISSING-message_sixteen": "The rune is first lost when you save the page after destroying it, so feel free to experiment with different setup.",
-                "MISSING-message_seventeen": "Finally, more rune pages are planned, so you can have different setups. But they will first be added in the future."
+                "message_one": "Her har vi runeoppsettet for avatarene dine.",
+                "message_two": "Øverst har du alle ubrukte runer du har funnet i Nexus-dungeonen",
+                "message_three": "Runer er delt inn i to kategorier, offensiv (rød) og defensiv (blå).",
+                "message_four": "Runene har også én av to ulike kategorier, standard (trekant og firkant) og avansert (sirkler).",
+                "message_five": "Standard runer gir stablingstatistikk eller sjangerforserkning, mens avanserte runer gir en unik effekt.",
+                "message_six": "Hver runekategori har 20 standardplasser og 1 avansertplass.",
+                "message_seven": "For å låse opp avansertplassen for en kategori, må du først utruste 12 standardruner fra den kategorien.",
+                "message_eight": "Å utruste seg med en avansert rune låser deretter opp de siste 8 standardplassene for kategorien.",
+                "message_nine": "Til slutt, hvis du fyller opp alle runeplassene i kategorien, kan du utruste deg med én ekstra avansert rune.",
+                "message_ten": "Denne siste avanserte runen kan være fra hvilken som helst kategori, men kan ikke ha samme kraft som de andre avanserte runene.",
+                "message_eleven": "Telleren over meg viser hvor mange ledige runeplasser avataren har.",
+                "message_twelve": "For å utruste runer, klikker du bare på runen du vil utruste, og deretter på et tomt felt av samme type.",
+                "message_thirteen": "Etter at du har endret runeoppsettet ditt, må du huske å lagre det nederst.",
+                "message_fourteen": "Det er også mulig å avruste alle dine runer, men det koster én ticket.",
+                "message_fifteen": "I stedet for å avruste runer, kan du også ødelegge en utrustet rune for å rydde opp i plassen ved å klikke på den.",
+                "message_sixteen": "Runen går først tapt når du lagrer siden etter å ha ødelagt den, så eksperimenter gjerne med forskjellige oppsett.",
+                "message_seventeen": "Til slutt er det planlagt flere runesider, slik at du kan ha forskjellige oppsett. Men det bil først bli lagt til i fremtiden."
             }
         },
         "artifact": {
@@ -5516,16 +5516,16 @@
             }
         },
         "enemies": {
-            "MISSING-assassin": "Assassin",
-            "MISSING-bit_storm": "Bit Storm",
-            "MISSING-brute": "Brute",
-            "MISSING-caster": "Caster",
-            "MISSING-enemy_core": "Enemy Core",
-            "MISSING-energizer": "Energizer",
-            "MISSING-data_storm": "Data Storm",
-            "MISSING-orb": "Orb",
-            "MISSING-singularity": "Singularity",
-            "MISSING-the_creator": "The Creator"
+            "assassin": "Leiemorder",
+            "bit_storm": "Bitstorm",
+            "brute": "Bølle",
+            "caster": "Kaster",
+            "enemy_core": "Fiendtlig kjerne",
+            "energizer": "Energiser",
+            "data_storm": "Datastorm",
+            "orb": "Kule",
+            "singularity": "Singularitet",
+            "the_creator": "Skaperen"
         }
     },
     "tutorial": {
