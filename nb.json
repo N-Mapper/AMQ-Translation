@@ -4831,7 +4831,7 @@
                 "standard": {
                     "name": "Våpenmester",
                     "description": "Få en buff som styrker alle offensive artifakter",
-                    "badge_description": "Tilfeldig sjanse til å styrke offensive artefakter i begynnelsen av turen"
+                    "badge_description": "Tilfeldig sjanse til å styrke offensive artefakter i begynnelsen av runden"
                 }
             },
             "asuka": {
@@ -4914,71 +4914,71 @@
             },
             "kasumi": {
                 "standard": {
-                    "MISSING-name": "Shinobi",
-                    "MISSING-description": "Instantly become hidden",
-                    "MISSING-badge_description": "Random chance to get the hidden buff"
+                    "name": "Shinobi",
+                    "description": "Blir umiddelbart skjult",
+                    "badge_description": "Tilfeldig sjanse til å få skjult buffen"
                 }
             },
             "katsu": {
                 "standard": {
-                    "MISSING-name": "Luck of the Draw",
-                    "MISSING-description": "Gain a random buff, shield, or heal depending on the situation",
-                    "MISSING-badge_description": "Random chance to get either a random buff, shield or heal depending on the situation"
+                    "name": "Trekkflask",
+                    "description": "Få en tilfeldig buff, skjod eller helbredelse avhengig av situajsonen",
+                    "badge_description": "Tilfeldig sjanse til å få buff, skjod eller helbredelse avhengig av situajsonen"
                 }
             },
             "komugi": {
                 "standard": {
-                    "MISSING-name": "Fox Fire",
-                    "MISSING-description": "Gain a buff causing all attacks to apply a random debuff",
-                    "MISSING-badge_description": "Random chance to gain a buff that causes all attacks to inflict a random debuff"
+                    "name": "Revebrann",
+                    "description": "Få en buff som fører til at alle angrep medfører en tilfeldig debuff",
+                    "badge_description": "Tilfeldig sjanse til å få en buff som fører til at alle angrep medflrer en tilfeldig debuff"
                 },
                 "tribal_sorcerer": {
-                    "MISSING-name": "Fiery Onslaught",
-                    "MISSING-description": "Buff accuracy and cause all attacks to apply the virus debuff, but inflict the virus debuff on Komugi if she fails an attack",
-                    "MISSING-badge_description": "Random chance to get a buff causing all attacks to apply the virus debuff and increase accuracy, but get hit by the virus debuff if you miss an attack"
+                    "name": "Brennede angrep",
+                    "description": "Øk nøyaktiheten og få alle angrep til å påføre virusdebuffen, men påfører virusdebuffen på Komugi hvis hun bommer angrepet",
+                    "badge_description": "Tilfeldig sjanse til å få en buff som fører til at alle angrep påfører virusdebuffen og øker nøyaktigheten, men bli truffet av virusdebuffen hvis du bommer med et angrep"
                 },
                 "pirate": {
-                    "MISSING-name": "Plunder",
-                    "MISSING-description": "Komugi gains a random buff and steals some fragments if she hits with her next attack.",
-                    "MISSING-badge_description": "Random chance to get a random buff and some fragments when you hit an enemy with an attack"
+                    "name": "Plyndrer",
+                    "description": "Komugi får en tilfeldig buff og stjeler noen fragmenter hvis hun treffer med sitt neste angrep",
+                    "badge_description": "Tilfeldig sjanse til å få en tilfeldig buff og noen fragmenter når du treffer en fiende med et angrep"
                 }
             },
             "kumiko": {
                 "standard": {
-                    "MISSING-name": "Spectral Tricks",
-                    "MISSING-description": "Buff target avatar, causing any attack to inflict 0 damage to them this turn. The negated damage is inflicted next turn if the party guesses wrong",
-                    "MISSING-badge_description": "Random chance to buff an avatar about to be attacked, making it, so they take 0 attack damage this turn, but the blocked damage is returned the next turn if the party guesses wrong."
+                    "name": "Spektrale triks",
+                    "description": "Forsterk målavataren, slik at ethvert angrep påfører dem 0 skade denne runden. Den negerte skaden påføres neste runde hvis gruppen gjetter feil",
+                    "badge_description": "Tilfeldig sjanse til å forsterke en avatar som er i ferd med å bli angrepet, slik at de tar 0 skade denne runden, men den blokkerte skanden returneres neste runde hvis gruppen gjetter feil"
                 }
             },
             "kuriko": {
                 "standard": {
-                    "MISSING-name": "Witches Trickery",
-                    "MISSING-description": "Apply the bewitched debuff on the next attack",
-                    "MISSING-badge_description": "Random chance to apply the bewitched debuff on attacks"
+                    "name": "Hekselureri",
+                    "description": "Bruk den forheksede debuffen på neste angrep",
+                    "badge_description": "Tilfeldig sjanse til å bruke den forheksede debuffen på angrep"
                 },
                 "sorceress": {
-                    "MISSING-name": "Cat of Many Faces",
-                    "MISSING-description": "Transform into target ally for one turn, copying their stats, runes, artifacts, buffs and debuffs. Charged buffs and debuffs aren’t copied",
-                    "MISSING-badge_description": "Random chance to transform into an ally for one turn, copying their stats, runes, artifacts, buffs and debuffs. The ally chosen is based on if defensive or offensive stats are needed, and charged buffs and debuffs aren’t copied"
+                    "name": "Katten av mange ansikt",
+                    "description": "Forvandle deg til en alliert i én runde, og kopier statistikken, runene, artefaktene, buffene og debuffene deres. Oppkadede buffer og debuffer kopieres ikke",
+                    "badge_description": "Tilfeldig sjanse til å forvandle seg til en alliert i én runde, og kopier deres statistikk, runer, artefakter, buffer og debuffer. Den valgte allierte er basert på om defensiv eller offensiv statistikk er nødvending, og ladede buffer og debuffer kopieres ikke"
                 }
             },
             "kyouko": {
                 "standard": {
-                    "MISSING-name": "Deep Clean",
-                    "MISSING-description": "Clean away all debuffs from target character",
-                    "MISSING-badge_description": "Random chance to clean all debuffs from the avatar"
+                    "name": "Dyprens",
+                    "description": "Fjern alle debuffer fra målavataren",
+                    "badge_description": "Tilfeldig sjanse til å fjerne alle debuffene fra avataren"
                 },
                 "knight": {
-                    "MISSING-name": "Knight's Challenge",
-                    "MISSING-description": "Gain a buff causing all new attacks to target Kyouko",
-                    "MISSING-badge_description": "Random chance to get a buff, causing all new attacks to target the avatar"
+                    "name": "Ridderens utfordring",
+                    "description": "Få en buff som fører til at alle nye angrep rettet mot Kyouko",
+                    "badge_description": "Tilfeldig sjanse til å få en buff, som fører til at alle nye angrep er rettet mot avataren"
                 }
             },
             "lilith": {
                 "standard": {
-                    "MISSING-name": "Vampire's Kiss",
-                    "MISSING-description": "Heals Lilith if her next attack kills an enemy",
-                    "MISSING-badge_description": "Random chance to heal when killing an enemy"
+                    "name": "Vampyrems kyss",
+                    "description": "Helbreder Lilith hvis hennes neste angrep dreper en fiende",
+                    "badge_description": "Tilfeldig sjanse til å bli helbredet når man dreper en fiende"
                 }
             },
             "mao": {
@@ -5766,39 +5766,39 @@
         }
     },
     "popout_windows": {
-        "MISSING-close_window_button": "Close Window",
-        "MISSING-close_window_message": "You can close this window",
+        "close_window_button": "Lukk vindu",
+        "close_window_message": "Du kan lukke dette vindu",
         "patreon": {
-            "MISSING-link_successful": "Patreon Linked!",
-            "MISSING-unable_to_link": "Unable to Link Patreon",
-            "MISSING-please_try_again": "Please try again later",
-            "MISSING-verified_account_required": "Can only be linked to a verified AMQ account",
-            "MISSING-linking_aborted": "Patreon Linking Aborted",
+            "link_successful": "Patreon tilkoblet!",
+            "unable_to_link": "Klarer ikke å lenke Patreon",
+            "please_try_again": "Prøv igjen senere",
+            "verified_account_required": "Kan bare kobles til en verifisert AMQ-konto",
+            "linking_aborted": "Patreon koblingen ble avbrutt",
             "already_linked": {
-                "MISSING-title": "Patreon Account Already Linked",
-                "MISSING-message": "The provided Patreon account is already linked to another AMQ account. Please unlink the account before using it"
+                "title": "Patreon-konto allerede tilkoblet",
+                "message": "Den oppitte Patreon-kontoen er allerede tilkoblet til en annen AMQ-konto. Vennligst fjern koblingen til kontoen før du bruker den"
             },
-            "MISSING-not_logged_in": "Not Logged Into AMQ"
+            "not_logged_in": "Ikke innlogget på AMQ"
         },
         "social_claims": {
             "unable_to_claim": {
-                "MISSING-title": "Unable to Claim Rewards",
-                "MISSING-message": "Can only be claimed by a verified AMQ account"
+                "title": "Kan ikke motta belønning",
+                "message": "Bare verifiserte AMQ-kontoer kan motta belønningen"
             },
-            "MISSING-reward_claimed": "Reward Claimed!",
-            "MISSING-error_claiming_rewards": "Error Claiming Rewards",
-            "MISSING-unexpected_error": "Unexpected error, please close this window and try again",
-            "MISSING-already_claimed": "Reward already claimed",
-            "MISSING-platform_already_claimed": "Reward already claimed by this _NAME_ account",
-            "MISSING-discord_not_linked": "Not in Discord server, to claim the reward make sure to join the _LINK_  Anime Music Quiz Discord _LINK_ then try again",
-            "MISSING-patreon_not_linked": "Not a member of the Patreon, to claim the reward make sure to join the _LINK_ Anime Music Quiz Patreon _LINK_ then try again",
-            "MISSING-claim_aborted": "Claiming Aborted",
-            "MISSING-not_logged_in": "Not Logged Into AMQ"
+            "reward_claimed": "Belønning mottat",
+            "error_claiming_rewards": "Belønningsmottagelesesfeil",
+            "unexpected_error": "Uventet feil, lukk dette vinduet og prøv på nytt",
+            "already_claimed": "Belønning allerede mottatt",
+            "platform_already_claimed": "Belønningen allerede mottatt på denne _NAME_ kontoen",
+            "discord_not_linked": "Ikke på Discord-serveren. For å motta belønningen må du bli med i _LINK_ Anime Music Quiz discord-en _LINK_ og deretter prøve på nytt",
+            "patreon_not_linked": "Ikke medlem av Patreon, for å motta belønningen må du bli med _LINK_ Anime Music Quiz discord-en _LINK_ og deretter prøve på nytt",
+            "claim_aborted": "Mottagelse avbrutt",
+            "not_logged_in": "Ikke innlogget på AMQ"
         },
         "payment": {
-            "MISSING-cancelled": "Payment Cancelled",
-            "MISSING-successful": "Payment Successful",
-            "MISSING-success_message": "Thanks for the support! You can close this window"
+            "cancelled": "Betaling mislykket",
+            "successful": "Betaling vellykket",
+            "success_message": "Takk for støtten! Du kan lukke dette vinduet"
         }
     }
 }
