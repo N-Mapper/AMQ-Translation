@@ -3836,7 +3836,7 @@
             "opening": "Intro _NUMBER_",
             "ending": "Slutt _NUMBER_",
             "insert": "Innsats",
-            "Mrebroadcast": "(Reprise)",
+            "rebroadcast": "(Reprise)",
             "dub": "(Dubb)",
             "type_text": "_NAME_ _DESCRIPTION_"
         }
@@ -5124,32 +5124,32 @@
         },
         "fuwagi_item": {
             "adventurer_sword": {
-                "MISSING-title": "Adventurer's Sword",
-                "MISSING-description": "Equip target avatar with a sword, increasing their damage for 5 turns."
+                "title": "Eventyrens sverd",
+                "description": "Utrust målavataren med et sverd, og øk skaden deres i 5 runder"
             },
             "adventure_shield": {
-                "MISSING-title": "Adventure's Shield",
-                "MISSING-description": "Equip target avatar with a shield, reducing damage taken for 5 turns."
+                "title": "Eventyrens skjold",
+                "description": "Utrust målavataren med et skjold, og minimer skaden de tar i 5 runder"
             },
             "quick_bomb": {
-                "MISSING-title": "Quick Bomb",
-                "MISSING-description": "Throw a short fuse bomb at target enemy, dealing damage at the end of the turn."
+                "title": "Hurtighetsbombe",
+                "description": "Kast en kort luntebombe mot en målfienden, og gjør skade på slutten av runden"
             },
             "healing_potion": {
-                "MISSING-title": "Healing Potion",
-                "MISSING-description": "Heal target avatar for 75 HP."
+                "title": "Helbredende eliksir",
+                "description": "Helbred målavataren for 75 hp"
             },
             "shield_potion": {
-                "MISSING-title": "Shield Potion",
-                "MISSING-description": "Shield target avatar for 100 shield."
+                "title": "Skjold eliksir",
+                "description": "Gi målavataren 100 skjold"
             },
             "leave_me_alone_potion": {
-                "MISSING-title": "Leave-Me-Alone Potion",
-                "MISSING-description": "Change enemy targeting away from target avatar."
+                "title": "I-fred eliksir",
+                "description": "Endre fiendens mål bort fra målavataren"
             },
             "phoenix_feather": {
-                "MISSING-title": "Phoenix Feather",
-                "MISSING-description": "Revive target dead avatar with 20% HP."
+                "title": "Føniksfjær",
+                "description": "Gjenoppliv en dø målavatar med 20% hp"
             }
         },
         "runes": {
@@ -5171,70 +5171,70 @@
                 "crit": "Kritisk"
             },
             "boost_rune": {
-                "MISSING-description": "Give a _TIER_ boost to _NAME_"
+                "description": "Gi en _TIER_ løft til _NAME_"
             },
             "genre_rune": {
-                "MISSING-offense_description": "Incrase attack damage during _NAME_ shows",
-                "MISSING-defense_description": "Reduce damage taken from attacks during _NAME_ shows",
-                "MISSING-offense_name": "_NAME3_ Damage",
-                "MISSING-defense_name": "_NAME3_ Defence"
+                "offense_description": "Øk skaden under _NAME_-program",
+                "defense_description": "Reduser skaden tatt under _NAME_-program",
+                "offense_name": "_NAME3_ skade",
+                "defense_name": "_NAME3_ forsvar"
             },
             "unique_runes": {
                 "virus_routine": {
-                    "MISSING-name": "Virus Routine",
-                    "MISSING-description": "Have a _TIER_ Chance to Inflict Virus on Attacks"
+                    "name": "Virusrutine",
+                    "description": "Har en _TIER_ sjanse til å påføre virus på angrep"
                 },
                 "crash_routine": {
-                    "MISSING-name": "Crash Routine",
-                    "MISSING-description": "Have a _TIER_ Chance to Inflict Crash on Attacks"
+                    "name": "Krasjrutine",
+                    "description": "Har en _TIER_ sjanse til å påføre krasj på angrep"
                 },
                 "tortoise": {
-                    "MISSING-name": "Tortoise",
-                    "MISSING-description": "Take Less Damage, but Deal Less Damage"
+                    "name": "Skilpadde",
+                    "description": "Tar mindre skade, men gjør mindre skade"
                 },
                 "mobile_defence": {
-                    "MISSING-name": "Mobile Defence",
-                    "MISSING-description": "Gain a Shield when Swapping Position"
+                    "name": "Mobilt forsvar",
+                    "description": "Få et skjold når du bytter posisjon"
                 },
                 "emergency_shield": {
-                    "MISSING-name": "Emergency Shield",
-                    "MISSING-description": "Gain a Shield Once Per Combat When Hit by an Attack"
+                    "name": "Nødskjold",
+                    "description": "Få et skjold én gang per kamp når du blir truffet av et angrep"
                 },
                 "defender": {
-                    "MISSING-name": "Defender",
-                    "MISSING-description": "Give a Shield to the Target When Swapping Position"
+                    "name": "Forsvarer",
+                    "description": "Gi målet et skjold når du bytter posisjon"
                 },
                 "threat_aura": {
-                    "MISSING-name": "Threat Aura",
-                    "MISSING-description": "Increase Chance of Getting Targeted by Attacks"
+                    "name": "Trusselaura",
+                    "description": "Øk sjansen for å bli målrettet av angrep"
                 },
                 "bypass_routine": {
-                    "MISSING-name": "Bypass Routine",
-                    "MISSING-description": "Have a _TIER_ Chance to Inflict Bypass on Attacks"
+                    "name": "Forbipasseringsrutine",
+                    "description": "Har en _TIER_ sjanse til å påføre forbipassering på angrep"
                 },
                 "rampage": {
-                    "MISSING-name": "Rampage",
-                    "MISSING-description": "Deal More Damage, but Take More Damage"
+                    "name": "Raseri",
+                    "description": "Gjør mer skade, men ta mer skade"
                 },
                 "time_booster": {
-                    "MISSING-name": "Time Booster",
-                    "MISSING-description": "Gain Extra Silent Guess Time on Songs"
+                    "name": "Tidsforsterker",
+                    "description": "Få ekstra stille gjettetid på sanger"
                 },
                 "defensive_counter": {
-                    "MISSING-name": "Defensive Counter",
-                    "MISSING-description": "Increase Defense for Each Active Debuff"
+                    "name": "Defensiv kontring",
+                    "description": "Øk forsvar for hver aktive debuff"
                 },
                 "defensive_rush": {
-                    "MISSING-name": "Defensive Rush",
-                    "MISSING-description": "Increase Defense for Each Active Buff"
+                    "name": "Defensivt angrep",
+                    "description": "Øk forsvar for hver aktive buff"
                 },
                 "offensive_counter": {
-                    "MISSING-name": "Offensive Counter",
-                    "MISSING-description": "Increase Attack for Each Active Debuff"
+                    "name": "Offensiv kontring",
+                    "description": "Øk angrep for hver aktive debuff"
                 },
                 "offensive_rush": {
-                    "MISSING-name": "Offensive Rush",
-                    "MISSING-description": "Increase Attack for Each Active Buff"
+                    "name": "Offensivt angrep",
+                    "description": "Øk angrep for hver aktive buff"
                 }
             }
         },
