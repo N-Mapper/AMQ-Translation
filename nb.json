@@ -4702,37 +4702,37 @@
                 }
             },
             "rare_hunter": {
-                "MISSING-title": "Rare Hunter",
+                "title": "Sjeldenhetsjeger",
                 "base": {
-                    "MISSING-one_artifact": "As the party enters the room, a pink haired girl wearing a white mage robe rush over to the party. _BREAK_ “Is that a _ARTIFACT_?” _BREAK_ The girl exclaims while bouncing around the party. _BREAK_ _HIGHLIGHT_ “You have to sell it to me!” _HIGHLIGHT_",
-                    "MISSING-two_artifacts": "As the party enters the room, a pink haired girl wearing a white mage robe rush over to the party. _BREAK_ “Is that a _ARTIFACT_? And a _ARTIFACT2_?” _BREAK_ The girl exclaims while bouncing around the party. _BREAK_ “_HIGHLIGHT_ You have to sell them to me _HIGHLIGHT_… But I'm low on fragments… Argh, _HIGHLIGHT_ I'll have to make do with a single one _HIGHLIGHT_!”",
-                    "MISSING-three_artifacts": "As the party enters the room, a pink haired girl wearing a white mage robe rush over to the party. _BREAK_ “Is that a _ARTIFACT_? And a _ARTIFACT2_? Where in the world did you find a _ARTIFACT3_?” _BREAK_ The girl exclaims while bouncing around the party. _BREAK_ “_HIGHLIGHT_ You have to sell them to me _HIGHLIGHT_… But I'm low on fragments… Argh, _HIGHLIGHT_ I'll have to make do with a single one _HIGHLIGHT_!”",
+                    "one_artifact": "Idet gruppen kommer inn i rommet, stormer en rosahåret jente iført en hvit magikerkappe bort til gruppen. _BREAK_ \"Er det en _ARTIFACT_?\" _BREAK_ Utbryter jenta mens hun hopper rundt gruppen. _BREAK_ _HIGHLIGHT_ \"Dere må selge den til meg!\" _HIGHLIGHT_",
+                    "two_artifacts": "Idet gruppen kommer inn i rommet, stormer en rosahåret jente iført en hvit magikerkappe bort til gruppen. _BREAK_ \"Er det en _ARTIFACT_? Og en _ARTIFACT2_?\" _BREAK_ utbryter jenta mens hun hopper rundt gruppen. _BREAK_ _HIGHLIGHT_ \"Dere må selge dem til meg!\" _HIGHLIGHT_... Men jeg har ikke mange fragmenter... Argh, _HIGHLIGHT_ jeg må klare meg med én av dem _HIGHLIGHT_!",
+                    "three_artifacts": "Idet gruppen kommer inn i rommet, stormer en rosahåret jente iført en hvit magikerkappe bort til gruppen. _BREAK_ \"Er det en _ARTIFACT_? Og en _ARTIFACT2_? Hvor i all verden fant dere en _ARTIFACT3_?\" _BREAK_ utbryter jenta mens hun hopper rundt gruppen. _BREAK_ _HIGHLIGHT_ \"Dere må selge dem til meg!\" _HIGHLIGHT_... Men jeg har ikke mange fragmenter... Argh, _HIGHLIGHT_ jeg må klare meg med én av dem _HIGHLIGHT_!",
                     "options": {
-                        "MISSING-sell_artifact": "Sell _NAME_ for _NUMBER_ fragments",
-                        "MISSING-sell_all": "Sell all _NUMBER_ artifacts for _NUMBER2_ fragments",
-                        "MISSING-decline": "Decline her offer"
+                        "sell_artifact": "Selg _NAME_ for _NUMBER_ fragmenter",
+                        "sell_all": "Selg alle _NUMBER_ artefaktene for _NUMBER2_ fragmenter",
+                        "decline": "Takk nei til tilbudet"
                     }
                 },
                 "sell_one": {
-                    "MISSING-text": "“Thanks, I’ll treasure it forever!” _BREAK_ The girl says, hugging the _ARTIFACT_ before rushing off."
+                    "text": "\"Takk, jheg kommer til å sette pris på den for alltid!\" _BREAK_ sier jenta og klemmer _ARTIFACT_ før hun skynder seg av gårde"
                 },
                 "sell_all": {
-                    "MISSING-text": "“You're selling me all 3!? You guys rock! As thanks for being so awesome, _HIGHLIGHT_ you can have my _HIGHLIGHT_ _ARTIFACT_”. _BREAK_ The girl says, before rushing off with her new stash of artifacts."
+                    "text": "\"Dere selger alle tre?! Dere er fantastiske! Som takk for at dere er så fantastiske, _HIGHLIGHT_ kan dere få min _HIGHLIGHT_ _ARTIFACT_\". _BREAK_ sier jenta, før hun skynder seg av gårde med sitte nye gjenstander."
                 },
                 "decline": {
-                    "MISSING-text": "“Not even a single one?” _BREAK_ The girl says looking downcast. Before bouncing back, exclaiming “no time for feeling down, there are more artifacts to find!” before rushing off."
+                    "text": "\"Ikke en eneste en engang?\"_BREAK_ sier jenta og ser nedslått ut. Før hun spretter tilbake, utbryter hun: \"Ingen tid til å føle seg nedenfor, det er flere artefakter å finne!\" før hun skynder seg av gårde"
                 }
             },
             "the_goddess": {
-                "MISSING-title": "The Goddess",
+                "title": "Gudinna",
                 "base": {
-                    "MISSING-text": "As the party enter the room, they're _HIGHLIGHT_ greeted by a girl with long blue hair _HIGHLIGHT_ sitting in a large white chair. _BREAK_ “Greetings adventures, consider yourself blessed as your journey has led you to a place of peace. Step forward, and _HIGHLIGHT_ I'll share my divine powers to restore you. _HIGHLIGHT_”",
+                    "text": "Idet gruppen kommer inn i rommet, blir de _HIGHLIGHT_ møtt av en jente med langt blått hår _HIGHLIGHT_ som sitter i en stor hvit stol. _BREAK_ \"Vel møtt reisende, anse dem selv som velsignet etter reisen dems har ført dem til et sted med fred. Gå frem, og _HIGHLIGHT_ jeg vil dele mine guddomelige krefter for å gjenopprette dem._HIGHLIGHT_\"",
                     "options": {
-                        "MISSING-step_forward": "Have _NAME_ step forward"
+                        "step_forward": "Ha _NAME_ gå frem"
                     }
                 },
                 "result": {
-                    "MISSING-text": "A _HIGHLIGHT_ divine light covers _NAME_ restoring their strength _HIGHLIGHT_. _BREAK_ As the party looks back to the girl, they're surprised to see that she's lazily snacking from a bag of potato chips. _BREAK_ “You're all still here? _HIGHLIGHT_ I already healed one of you _HIGHLIGHT_, how needy can you be… I've already done my part, so _HIGHLIGHT_ leave and get on with your quest _HIGHLIGHT_ or whatever it is that you're doing”."
+                    "text": "Et _HIGHLIGHT_ guddommelig lys dekker _NAME_ og gjenoppretter styrken deres _HIGHLIGHT_. _BREAK_ Når gruppen ser tilbake på jenta, blir de overrasket over å se at hun dovent småspiser fra en pose potetgull. _BREAK_ \"Åh, dere er her fortsatt? _HIGHLIGHT_ Jeg har allerede helbredet en av dere _HIGHLIGHT_, hvor trengende kan dere være... Jeg har allerede gjort min del, så _HIGHLIGHT_ gå og fortsett med oppdraget deres _HIGHLIGHT_ eller hva enn dere driver med.\""
                 }
             },
             "the_pedestal": {
