@@ -4187,8 +4187,8 @@
                     "description": "Reduser skaden som medfølge av angrep"
                 },
                 "dodge": {
-                    "title": "Unngå",
-                    "description": "Øk sjansen for å unngå andrep, halver skaden og få en tilfeldig buff"
+                    "title": "Unnvikelse",
+                    "description": "Øk sjansen for å unngå angrep, halver skaden og få en tilfeldig buff"
                 },
                 "attack": {
                     "title": "Angrep",
@@ -4320,7 +4320,7 @@
             },
             "boss_combat": {
                 "message_one": "Dette er et bossmøte! Bossene er mye tøffere enn vanglige fiender og har spesielle evner som kan være veldig farlige!",
-                "message_two": "Jeg debuff-er den for deg, så tar du den ned! Jeg tror på deg!"
+                "message_two": "Jeg debuffer den for deg, så tar du den ned! Jeg tror på deg!"
             },
             "boss_dungeon_reward": {
                 "message_one": "Gratulerer! Å beseire bossen gir deg runebelønninger.",
@@ -4816,15 +4816,15 @@
             "akane": {
                 "standard": {
                     "name": "Slangesjarm",
-                    "description": "Få en buff som slik at angrep gir sjarmert debuff-en",
-                    "badge_description": "Tilfeldig sjanse til å gi sjarmert debuff-en ved angrepr"
+                    "description": "Få en buff som slik at angrep gir sjarmert debuffen",
+                    "badge_description": "Tilfeldig sjanse til å gi sjarmert debuffen ved angreper"
                 }
             },
             "akira": {
                 "standard": {
                     "name": "Ekstranummer",
-                    "description": "Akiras neste angrep påfører ekstranummer debuff-en",
-                    "badge_description": "Tilfeldig sjanse til å påføre ekstranummer debuff-en ved angrep"
+                    "description": "Akiras neste angrep påfører ekstranummer debuffen",
+                    "badge_description": "Tilfeldig sjanse til å påføre ekstranummer debuffen ved angrep"
                 }
             },
             "alisa": {
@@ -4851,8 +4851,8 @@
             "etsuko": {
                 "standard": {
                     "name": "Naturlig sprinter",
-                    "description": "Flytt deg én posisjon fremover i gruppen, og få en bonus i angrep og presisjon. Kan bare brukes hvis det er en avatar foran Etruko som kan bytte posisjon",
-                    "badge_description": "Tilfeldig sjanse til å avansere i gruppen, og få en bonus til angrep og presisjon"
+                    "description": "Flytt deg én posisjon fremover i gruppen, og få en bonus i angrep og nøyaktighet. Kan bare brukes hvis det er en avatar foran Etruko som kan bytte posisjon",
+                    "badge_description": "Tilfeldig sjanse til å avansere i gruppen, og få en bonus til angrep og nøyaktighet"
                 }
             },
             "fira": {
@@ -4934,7 +4934,7 @@
                 },
                 "tribal_sorcerer": {
                     "name": "Brennede angrep",
-                    "description": "Øk nøyaktiheten og få alle angrep til å påføre virusdebuffen, men påfører virusdebuffen på Komugi hvis hun bommer angrepet",
+                    "description": "Øk nøyaktigheten og få alle angrep til å påføre virusdebuffen, men påfører virusdebuffen på Komugi hvis hun bommer angrepet",
                     "badge_description": "Tilfeldig sjanse til å få en buff som fører til at alle angrep påfører virusdebuffen og øker nøyaktigheten, men bli truffet av virusdebuffen hvis du bommer med et angrep"
                 },
                 "pirate": {
@@ -4976,76 +4976,76 @@
             },
             "lilith": {
                 "standard": {
-                    "name": "Vampyrems kyss",
+                    "name": "Vampyrens kyss",
                     "description": "Helbreder Lilith hvis hennes neste angrep dreper en fiende",
                     "badge_description": "Tilfeldig sjanse til å bli helbredet når man dreper en fiende"
                 }
             },
             "mao": {
                 "standard": {
-                    "MISSING-name": "Dark Flame Strike",
-                    "MISSING-description": "Increase damage on Mao’s next attack. If it fails, receive two debuffs. Can’t be used during Mao's turn.",
-                    "MISSING-badge_description": "Random chance to increase damage of next attack, but inflicts a debuff if the attack fails"
+                    "name": "Mørk flammeslag",
+                    "description": "Øk skaden på Maos neste angrep. Hvis det mislykkes, motta to debuffs. Knan ikke brukes i Maos tur",
+                    "badge_description": "Tilfeldig sjanse til å øke skaden på neste angrep, men påfører en debuff hvis angrepet mislykkes"
                 },
                 "demon_lord": {
-                    "MISSING-name": "Dark Contract",
-                    "MISSING-description": "Buff target ally, increasing their damage and resurrecting them if killed. If resurrected, an avatar or enemy must die before the buff expires or they die again.",
-                    "MISSING-badge_description": "Random chance to give an ally the Dark Contract buff, increasing their damage and reviving them if killed, but if revived another avatar or enemy must die before the buff expires, or they die again."
+                    "name": "Mørk kontrakt",
+                    "description": "Forsterk målalliert, øk skaden deres og gjenoppliv dem hvis de blir drept. Hvis de gjenopplives, må en avatar eller fiende dø før buffen utløper, ellers dør de igjen",
+                    "badge_description": "Tilfeldig sjanse til å gi en alliert Mørk Kontrakt buffen, noe som øker skaden deres og gjenoplliver dem hvis de blir drept, men hvis de blir gjenopplivet, må en annen avatar eller fiende dø før bonusen utløper, ellers dør de igjen"
                 }
             },
             "marine": {
                 "standard": {
-                    "MISSING-name": "Full Barrage",
-                    "MISSING-description": "Buff attack and accuracy, but gets the focused and exposed debuffs as well.",
-                    "MISSING-badge_description": "Random chance to buff attack and accuracy, but get focused and exposed as well"
+                    "name": "Full sperreild",
+                    "description": "Forsterk angrep og nøyaktighet, men får også fokusert og eksponert debuffene",
+                    "badge_description": "Tilfeldig sjanse til å forsterk angrep og nøyaktighet, men bli fokusert og eksponert også"
                 },
                 "buccaneer": {
-                    "MISSING-name": "Full Charge",
-                    "MISSING-description": "Next attack deals double damage, but gain the Crash debuff at the end of the turn.",
-                    "MISSING-badge_description": "Random chance to have next attack deal double damage, but gain the Crash debuff at the end of the turn."
+                    "name": "Fremad marsj",
+                    "description": "Neste angrep gjør dobbel skade, men få crash debuffen på slutten av runden",
+                    "badge_description": "Tilfeldig sjanse til at neste angrep gjøre dobbel skade, men få crash debuffen på slutten av runden"
                 }
             },
             "miyu": {
                 "standard": {
-                    "MISSING-name": "Buster",
-                    "MISSING-description": "Charge up during allies' turn to boost the damage of Miyu’s next attack for each turn charged. Moving or taking damage interrupts this ability",
-                    "MISSING-badge_description": "Random chance to start charging up during allies turns, boosting the damage of the next attack. Moving or taking interrupts this ability"
+                    "name": "Kanon",
+                    "description": "Lad opp i løpet av de alliertes tur for å øke skaden på Miyus neste angrep for hver tur du lader. Bevegelse eller å ta skade avbryter denne evnen",
+                    "badge_description": "Tilfeldig sjanse til å begynne å lade opp under alliertes tur, noe som øker skaden ver neste angrep. Bevegelse eller å ta skade avbryter denne evnen"
                 },
                 "valkyrie": {
-                    "MISSING-name": "Magical Bombardment",
-                    "MISSING-description": "Miyu’s next attack deals reduced damage, but targets all enemies",
-                    "MISSING-badge_description": "Random chance to make the next attack target all enemies, but deal reduced damage"
+                    "name": "Magisk bombardement",
+                    "description": "Miyus neste angrep gjør redusert skade, men retter seg mot alle fiender",
+                    "badge_description": "Tilfeldig sjanse til å gjøre neste angrep rettet mot alle fiender, men gjøre redusert skade"
                 }
             },
             "mizuki": {
                 "standard": {
-                    "MISSING-name": "Fox Charm",
-                    "MISSING-description": "Inflict the charmed debuff on target enemy",
-                    "MISSING-badge_description": "Random chance to inflict the charm debuff on a random enemy"
+                    "name": "Revesjarm",
+                    "description": "Påfør den sjarmerte debuffen på målfienden",
+                    "badge_description": "Tilfeldig sjanse til å påføre en tilfeldig fiende sjarm-debuffen"
                 },
                 "high_priest": {
-                    "MISSING-name": "Ice Prison",
-                    "MISSING-description": "Debuff target enemy, skipping all their actions for several turns, while also greatly reducing the attack damage they take.",
-                    "MISSING-badge_description": "Random chance to debuff a random enemy, skipping all their actions for several turns, but greatly reduce damage they take from attacks"
+                    "name": "Isfengsel",
+                    "description": "Debuff målfienden ved å hoppe over alle handlingene deres i flere runder, samtidig som du reduserer skaden de tar betraktlig",
+                    "badge_description": "Tilfeldig sjanse til å debuffe en tilfeldig fiende ved å hoppe over alle handlingene deres i flere runder, samtidig som du reduserer skaden de tar betraktlig"
                 }
             },
             "naomi": {
                 "standard": {
-                    "MISSING-name": "Tough",
-                    "MISSING-description": "Buff defence and become focused",
-                    "MISSING-badge_description": "Random chance to buff defence and become focused"
+                    "name": "Tøff",
+                    "description": "Styrk forsvar og bli fokusert",
+                    "badge_description": "Tilfeldig sjanse til å styrke forsvar og bli fokusert"
                 }
             },
             "noel": {
                 "standard": {
-                    "MISSING-name": "Master Detective",
-                    "MISSING-description": "Reveal the length of the answer and _NUMBER_ of its characters",
-                    "MISSING-badge_description": "Random chance to reveal the length of the answer and 2 of its characters"
+                    "name": "Mesterdetektiv",
+                    "description": "Avslør lengden på svaret og _NUMBER_ av tegnene",
+                    "badge_description": "Tilfeldig sjanse til å avsløre lengden på svaret og 2 av tegnene"
                 },
                 "brawler": {
-                    "MISSING-name": "Martial Strikes",
-                    "MISSING-description": "Gain a buff boosting attack damage until not landing an attack, the damage boost increasing with each successful attack.",
-                    "MISSING-badge_description": "Random chance to get the Martial Strike buff"
+                    "name": "Kampslag",
+                    "description": "Få en buff som øker skaden til du ikke lander et angrep, skadeøkningen øker for hvert vellykkede angrep",
+                    "badge_description": "Tilfeldig sjanse til å få Kampslag buffen"
                 }
             },
             "riku": {
@@ -5153,22 +5153,22 @@
             }
         },
         "runes": {
-            "MISSING-rune_name": "_TIER_ _NAME_",
+            "rune_name": "_TIER_ _NAME_",
             "rune_tiers": {
-                "MISSING-minor": "Minor",
-                "MISSING-lesser": "Lesser",
-                "MISSING-greater": "Greater",
-                "MISSING-major": "Major",
-                "MISSING-superior": "Superior"
+                "minor": "Liten",
+                "lesser": "Mindre",
+                "greater": "Større",
+                "major": "Sterkere",
+                "superior": "Overlegen"
             },
             "rune_stats": {
-                "MISSING-constitution": "Constitution",
-                "MISSING-defence": "Defence",
-                "MISSING-dodge": "Dodge",
-                "MISSING-attack": "Attack",
-                "MISSING-accuracy": "Accuracy",
-                "MISSING-crit_damage": "Crit Damage",
-                "MISSING-crit": "Crit"
+                "constitution": "Konstitusjon",
+                "defence": "Forsvar",
+                "dodge": "Unnvikelse",
+                "attack": "Angrep",
+                "accuracy": "Nøyaktighet",
+                "crit_damage": "Kritisk skade",
+                "crit": "Kritisk"
             },
             "boost_rune": {
                 "MISSING-description": "Give a _TIER_ boost to _NAME_"
