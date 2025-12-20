@@ -4922,8 +4922,8 @@
             "katsu": {
                 "standard": {
                     "name": "Trekkflask",
-                    "description": "Få en tilfeldig buff, skjod eller helbredelse avhengig av situajsonen",
-                    "badge_description": "Tilfeldig sjanse til å få buff, skjod eller helbredelse avhengig av situajsonen"
+                    "description": "Få en tilfeldig buff, skjod eller helbredelse avhengig av situasjonen",
+                    "badge_description": "Tilfeldig sjanse til å få buff, skjod eller helbredelse avhengig av situasjonen"
                 }
             },
             "komugi": {
@@ -5001,8 +5001,8 @@
                 },
                 "buccaneer": {
                     "name": "Fremad marsj",
-                    "description": "Neste angrep gjør dobbel skade, men få crash debuffen på slutten av runden",
-                    "badge_description": "Tilfeldig sjanse til at neste angrep gjøre dobbel skade, men få crash debuffen på slutten av runden"
+                    "description": "Neste angrep gjør dobbel skade, men få krasj debuffen på slutten av runden",
+                    "badge_description": "Tilfeldig sjanse til at neste angrep gjøre dobbel skade, men få krasj debuffen på slutten av runden"
                 }
             },
             "miyu": {
@@ -5025,8 +5025,8 @@
                 },
                 "high_priest": {
                     "name": "Isfengsel",
-                    "description": "Debuff målfienden ved å hoppe over alle handlingene deres i flere runder, samtidig som du reduserer skaden de tar betraktlig",
-                    "badge_description": "Tilfeldig sjanse til å debuffe en tilfeldig fiende ved å hoppe over alle handlingene deres i flere runder, samtidig som du reduserer skaden de tar betraktlig"
+                    "description": "Debuff målfienden ved å hoppe over alle handlingene deres i flere runder, samtidig som du reduserer skaden de tar betraktelig",
+                    "badge_description": "Tilfeldig sjanse til å debuffe en tilfeldig fiende ved å hoppe over alle handlingene deres i flere runder, samtidig som du reduserer skaden de tar betraktelig"
                 }
             },
             "naomi": {
@@ -5057,68 +5057,68 @@
             },
             "ritsu": {
                 "standard": {
-                    "MISSING-name": "In the Rhythm",
-                    "MISSING-description": "Buff attack and dodge. Failing an attack or dodge interrupts this ability",
-                    "MISSING-badge_description": "Random chance to get a buff to attack and dodge, that lasts until a failed attack or getting hit by an undodged attack"
+                    "name": "I rytmen",
+                    "description": "Styrk angrep og unnvikelse. Mislykket angrep eller unnvikelse avbryter denne evnen",
+                    "badge_description": "Tilfeldig sjanse til å få en buff for angrep eller unnvikelse, som varer til et mislykket angrep eller å bli truffet av et ikke unnviket angrep"
                 },
                 "bard": {
-                    "MISSING-name": "Bards Serenade",
-                    "MISSING-description": "Gives everyone in the party a random buff",
-                    "MISSING-badge_description": "Random chance to give everyone in the party a random buff"
+                    "name": "Bardernes serenade",
+                    "description": "Gir alle i gruppen en tilfeldig bonus",
+                    "badge_description": "Tilfeldig sjanse til å gi alle i gruppen en tilfeldig bonus"
                 }
             },
             "sachiko": {
                 "standard": {
-                    "MISSING-name": "Swift Maneuver",
-                    "MISSING-description": "Instantly swap position with target ally",
-                    "MISSING-badge_description": "Random chance to get a buff, allowing to instantly swap position with another avatar"
+                    "name": "Rask manøver",
+                    "description": "Bytt posisjon umiddelbart med målalliert",
+                    "badge_description": "Tilfeldig sjanse til å få en buff, slik at du umiddelbart kan bytte posisjon med en annen avatar"
                 }
             },
             "sera": {
                 "standard": {
-                    "MISSING-name": "Angel's Grace",
-                    "MISSING-description": "Shields target ally from harm, the lower their health the stronger the shield",
-                    "MISSING-badge_description": "Random chance to get a buff that shields from harm, the lower their health the stronger the shield"
+                    "name": "Engelens nåde",
+                    "description": "Skjold retter seg mot alliert mot skade, jo lavere hp desto sterkere er skjoldet",
+                    "badge_description": "Tilfeldig sjanse til å få en buff som beskytter mot skade, jo lavere hp desto sterkere skjold"
                 }
             },
             "shiina": {
                 "standard": {
-                    "MISSING-name": "Center of Attention",
-                    "MISSING-description": "Change all enemy attack targets to Shiina",
-                    "MISSING-badge_description": "Random chance to change all enemy attacks to equipped avatar"
+                    "name": "Midtpunktet av rommet",
+                    "description": "Endre alle fiendens angrepsmål til Shiina",
+                    "badge_description": "Tilfeldig sjanse til å endre alle fiendens angrep til den utrustet avatar"
                 },
                 "cheerleader": {
-                    "MISSING-name": "Cheer!",
-                    "MISSING-description": "Gives a buff that lets Shiina's correct guesses greatly power up the target avatar's stats instead of dealing damage",
-                    "MISSING-badge_description": "Random chance to receive a buff to all stats"
+                    "name": "Oppløfte!",
+                    "description": "Gir en bonus som lar Shinnas korrete svar øke målavatarens statistikk betraktelig i stedet for å gjøre skade",
+                    "badge_description": "Tilfeldig sjanse til å motta en buff på all statistikk"
                 }
             },
             "yin_yan": {
                 "standard": {
-                    "MISSING-name": "Balance of Force",
-                    "MISSING-description": "Switches between a buff that boosts defense and lowers attack, and a buff that lowers defense and boosts attack",
-                    "MISSING-badge_description": "Random chance to get either a buff that ups attack or a buff that ups defense depending on the situation"
+                    "name": "Kraftsbalnanse",
+                    "description": "Bytter mellom en buff som øker forsvaret og senker angrepet, og en buff som senker forsvaret og øker angrepet",
+                    "badge_description": "Tilfeldig sjanse til å få enten en buff som øker angrepet eller en buff som øker forsvaret, avhengig av situasjonen"
                 }
             },
             "yukari": {
                 "standard": {
-                    "MISSING-name": "Nine Lives",
-                    "MISSING-description": "Gain a buff causing the next attack taken to inflict 0 damage, but apply a random debuff instead",
-                    "MISSING-badge_description": "Random chance to gain a buff causing the next attack taken to deal 0 damage, but apply a random debuff instead"
+                    "name": "Ni liv",
+                    "description": "Få en buff som gjør at det neste angrepet gjør 0 skade, men bruk påfører en tilfeldig debuff i stedet",
+                    "badge_description": "Tilfeldig sjanse til å få en buff som foråsaker at neste angrep gjør 0 skade, men påfører en tilfeldig debuff i stedet"
                 }
             },
             "yuki": {
                 "standard": {
-                    "MISSING-name": "Present",
-                    "MISSING-description": "Give a random buff to target ally",
-                    "MISSING-badge_description": "Random chance to give another avatar a random buff"
+                    "name": "Presang",
+                    "description": "Gi en tilfeldig buff til en målrettet alliert",
+                    "badge_description": "Tilfeldig sjanse til å gi en annen avatar en tilfeldig buff"
                 }
             },
             "yumemi": {
                 "standard": {
-                    "MISSING-name": "Hibernate",
-                    "MISSING-description": "Gain a shield and a buff to defence, but gets hit by the crash debuff",
-                    "MISSING-badge_description": "Random chance to gain a shield and buff to defence, but might get hit by the crash debuff as well"
+                    "name": "Dvale",
+                    "description": "Får et skjold og en forsvarsbuff, men blir truffet av krasj debuffen",
+                    "badge_description": "Tilfeldig sjanse til å få et skjold og en forsvarsbuff, men kan også bli truffet av krasj debuffen"
                 }
             }
         },
