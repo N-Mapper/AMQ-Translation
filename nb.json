@@ -4815,101 +4815,101 @@
         "avatar_abilities": {
             "akane": {
                 "standard": {
-                    "MISSING-name": "Snake Charm",
-                    "MISSING-description": "Gain a buff causing attacks to apply the charmed debuff",
-                    "MISSING-badge_description": "Random chance to apply the charmed debuff on attacks"
+                    "name": "Slangesjarm",
+                    "description": "Få en buff som slik at angrep gir sjarmert debuff-en",
+                    "badge_description": "Tilfeldig sjanse til å gi sjarmert debuff-en ved angrepr"
                 }
             },
             "akira": {
                 "standard": {
-                    "MISSING-name": "Encore",
-                    "MISSING-description": "Akira's next attack inflicts the encore debuff",
-                    "MISSING-badge_description": "Random chance to inflict the encore debuff on attacks"
+                    "name": "Ekstranummer",
+                    "description": "Akiras neste angrep påfører ekstranummer debuff-en",
+                    "badge_description": "Tilfeldig sjanse til å påføre ekstranummer debuff-en ved angrep"
                 }
             },
             "alisa": {
                 "standard": {
-                    "MISSING-name": "Weapon Master",
-                    "MISSING-description": "Get a buff that empowers all offensive artifacts",
-                    "MISSING-badge_description": "Random chance to empower offensive artifacts at beginning of turn"
+                    "name": "Våpenmester",
+                    "description": "Få en buff som styrker alle offensive artifakter",
+                    "badge_description": "Tilfeldig sjanse til å styrke offensive artefakter i begynnelsen av turen"
                 }
             },
             "asuka": {
                 "standard": {
-                    "MISSING-name": "Reconnaissance in Force",
-                    "MISSING-description": "Become focused and get the Recon in Force buff",
-                    "MISSING-badge_description": "Random chance to get focused and get the Recon in Force buff"
+                    "name": "Rekognosering i styrke",
+                    "description": "Bli fokusert og få Rekognseringsstyrke buffen",
+                    "badge_description": "Tilfeldig sjanse til bli fokusert og få Rekognseringsstyrke buffen"
                 }
             },
             "chika": {
                 "standard": {
-                    "MISSING-name": "Crazy Concoction",
-                    "MISSING-description": "Give a random buff to target ally, or a random debuff to target enemy",
-                    "MISSING-badge_description": "Random chance to give another avatar a random buff or an enemy a random debuff"
+                    "name": "Sprø blanding",
+                    "description": "Gi en tilfeldig buff til en målrettet alliert, eller en tilfeldig debuff til en målrettet fiende",
+                    "badge_description": "Tilfeldig sjanse til å gi en tilfeldig buff til en alliert eller en tilfeldig debuff til en fiende"
                 }
             },
             "etsuko": {
                 "standard": {
-                    "MISSING-name": "Natural Sprinter",
-                    "MISSING-description": "Move one position forward in the party, and gain a buff to attack and accuracy. Can only be used if there’s an avatar ahead of Etsuko who can swap position.",
-                    "MISSING-badge_description": "Random chance to move forward in the party, and get a buff to attack and accuracy"
+                    "name": "Naturlig sprinter",
+                    "description": "Flytt deg én posisjon fremover i gruppen, og få en bonus i angrep og presisjon. Kan bare brukes hvis det er en avatar foran Etruko som kan bytte posisjon",
+                    "badge_description": "Tilfeldig sjanse til å avansere i gruppen, og få en bonus til angrep og presisjon"
                 }
             },
             "fira": {
                 "standard": {
-                    "MISSING-name": "Dragon Rage",
-                    "MISSING-description": "Gets a buff that boosts attack heavily if hit",
-                    "MISSING-badge_description": "Random chance to boost attack when hit"
+                    "name": "Drageraseri",
+                    "description": "Får en buff som øker angrepet kreftig hvis du blir truffet",
+                    "badge_description": "Tilfeldig sjanse til å forseterke angrepet når ddu blir truffet"
                 }
             },
             "fuwagi": {
                 "standard": {
-                    "MISSING-name": "Unlucky Lucky Rabbit",
-                    "MISSING-description": "Greatly increase dodge, but increase the chance of getting targeted by enemy attacks.",
-                    "MISSING-badge_description": "Random chance to greatly increase dodge and chance of getting targeted by enemy attacks"
+                    "name": "Uheldig heldig kanin",
+                    "description": "Øk unnvikelse betraktelig, men øk sjansen for å bli målet for fiendens angrep",
+                    "badge_description": "Tilfeldig sjanse til å øke unvikelse og sjansen for å bli målet for fiendens angrep betraktelig"
                 },
                 "traveling_merchant": {
-                    "MISSING-name": "Traveling Store",
-                    "MISSING-description": "Open Fuwagi’s store window, allowing you to spend fragments on power-ups for the party",
-                    "MISSING-badge_description": "Open Fuwagi’s store window for a turn, allowing you to buy a single item"
+                    "name": "Vandrendebutikk",
+                    "description": "Åpne Fuwagis butikkvindu, slik at du kan bruke fragmenter på power-ups for gruppen",
+                    "badge_description": "Åpne Fuwagis i en runde, slik at du kan kjøpe én enkelt vare."
                 }
             },
             "haruki": {
                 "standard": {
-                    "MISSING-name": "Nature Frenzy",
-                    "MISSING-description": "Greatly boost attack, but halve defense and dodge for the duration.",
-                    "MISSING-badge_description": "Random chance to greatly increase attack, but halve defense and dodge for the duration"
+                    "name": "Naturvanvidd",
+                    "description": "Øk angrepet betraktelig, men halver forsvar og unnvikelse i mens",
+                    "badge_description": "Tilfeldig sjanse til å øke angrepet betraktelig, men halvere forsvar og unnvikelse i mens"
                 }
             },
             "hibiki": {
                 "standard": {
-                    "MISSING-name": "Deep Dive",
-                    "MISSING-description": "Gain buffs for up to _NUMBER_ of the current songs genres, each boosting damage during those genres.",
-                    "MISSING-badge_description": "Random chance to gain a buff boosting damage during one of the current songs genres"
+                    "name": "Dyp dykk",
+                    "description": "Få buffs for opptil _NUMBER_ av de gjeldende sangsjangrene, som hver øker skaden i disse sjangrene",
+                    "badge_description": "Tilfeldig sjanse til å få en buff som øker skaden i en av de nåværende sangsjagrene"
                 }
             },
             "hikari": {
                 "scholar": {
-                    "MISSING-name": "Magical Infusion",
-                    "MISSING-description": "Gain a buff that gives Hikari a random buff each time he lands an attack. The buff lasts until Hikari fails an attack.",
-                    "MISSING-badge_description": "Random chance to gain a buff, that cause successful attacks to grant a random buff. The buff is lost when an attack fails."
+                    "name": "Magisk infusjon",
+                    "description": "Få en buff som gir Hikari en tilfeldig buff hver gang han angriper. Buffen varer til Hikari bommer et angrep.",
+                    "badge_description": "Tilfeldig sjanse til å få en buff, som fører til at angrep som treffer gir én tilfeldig buff. Buffen går tapt når angrepet bommer"
                 },
                 "fireman": {
-                    "MISSING-name": "Brave the Flames",
-                    "MISSING-description": "Remove all debuffs, and gain a defence buff",
-                    "MISSING-badge_description": "Random chance to remove all debuffs and gain a defence buff"
+                    "name": "Trosse flammene",
+                    "description": "Fjern alle debuffs og få en forsvarsbuff",
+                    "badge_description": "Tilfeldig sjanse til å fjerne alle debuffs og få en forsvarsbuff"
                 }
             },
             "honoka": {
                 "standard": {
-                    "MISSING-name": "Encyclopedia",
-                    "MISSING-description": "Reveals some of the song info for the current song",
-                    "MISSING-badge_description": "Random chance to reveal some of the info for the current song"
+                    "name": "Leksikon",
+                    "description": "Avslører noe av sanginformasjonen for den aktuelle sangen",
+                    "badge_description": "Tilfeldig sjanse til å avsløre noe av sanginformasjoen for den aktuelle sangen"
                 },
                 "druid": {
-                    "MISSING-name": "Natures Infusion",
-                    "MISSING-description": "Buff target avatar, increasing their attack and reduce the damage they take from the next by consuming the buff",
-                    "MISSING-badge_description": "Random chance to buff a random avatar, increasing their attack and reducing the next attack damage they take by consuming the buff."
+                    "name": "Naturens infusjon",
+                    "description": "Forsterk målavataren, øk angrepet deres og reduser skaden de tar fra den neste ved å konsumere buffen",
+                    "badge_description": "Tilfeldig sjanse til å forsterk en tilfeldig avatar, øke angrepet deres og redusere den neste angrepsskaden de tar ved å konsumere buffen"
                 }
             },
             "kasumi": {
