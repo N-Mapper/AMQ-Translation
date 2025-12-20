@@ -5050,9 +5050,9 @@
             },
             "riku": {
                 "standard": {
-                    "MISSING-name": "Check Chat",
-                    "MISSING-description": "Riku asks chat for help and receives a bunch of sometimes helpful hints",
-                    "MISSING-badge_description": "Random chance to get hints via chat"
+                    "name": "Hva tenker vi chat?",
+                    "description": "Riku ber om hjelp fra chat og mottar en rekke nyttige tips",
+                    "badge_description": "Tilfeldig sjanse til å få hin fra chat"
                 }
             },
             "ritsu": {
