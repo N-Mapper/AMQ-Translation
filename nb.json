@@ -4652,53 +4652,53 @@
                 }
             },
             "mystery_container": {
-                "MISSING-title": "Mystery Container",
+                "title": "Mysteriebeholder",
                 "base": {
-                    "MISSING-text": "A strange container sits at the center of the room. As the party gets closer, they see it's _HIGHLIGHT_ filled with glitching items _HIGHLIGHT_, changing at random into everything from _HIGHLIGHT2_ knives _HIGHLIGHT2_ and _HIGHLIGHT2_ burning embers _HIGHLIGHT2_ to _HIGHLIGHT2_ flowers _HIGHLIGHT2_ and _HIGHLIGHT2_ plush animals _HIGHLIGHT2_. _BREAK_ Through the chaotic glitch of items an _HIGHLIGHT2_ artifact _HIGHLIGHT2_ pops up from time to time. With the right timing and luck _HIGHLIGHT_ it should be possible to grab one _HIGHLIGHT_.",
+                    "text": "En merkelig beholder står midt i rommet. Etter hvert som gruppen nærmer seg, ser de at den er _HIGHLIGHT_ fylt med gitchende gjenstander _HIGHLIGHT_, som tilfeldig forandrer seg til alt fra _HIGHLIGHT2_ kniver _HIGHLIGHT2_ og _HIGHLIGHT2_ brennende glør _HIGHLIGHT2_ til _HIGHLIGHT2_ blomster _HIGHLIGHT2_ og _HIGHLIGHT2_ plysjdyr _HIGHLIGHT2_. _BREAK_ Gjennom den kaotiske glitchende av gjenstander dukker det opp en _HIGHLIGHT2_ artefakt _HIGHLIGHT2_ fra tid til annen. Med riktig timing og flaks _HIGHLIGHT_ burde det være mulig å få tak i én _HIGHLIGHT_.",
                     "option": {
-                        "MISSING-reach_in": "Have _NAME_ reach in",
-                        "MISSING-ignore": "Ignore the container"
+                        "reach_in": "Få _NAME_ til å gripe inn",
+                        "ignore": "Ignorer beholderen"
                     }
                 },
                 "artifact_result": {
-                    "MISSING-text": "_NAME_ manages to get a firm grasp on something and pulls out an _HIGHLIGHT2_ artifact _HIGHLIGHT2_. With the artifact removed, the glitching items appear to be a lot more aggressive, so _HIGHLIGHT_ none in the party wants to try reaching for another _HIGHLIGHT_."
+                    "text": "_NAME_ klarer å få et godt grep om noe og trekker frem en _HIGHLIGHT2_ artefakt _HIGHLIGHT2_. Når artefakten er fjernet, virker den glitchende gjenstanden til å være mye mer aggressiv, så _HIGHLIGHT_ ingen i gruppen vil prøve å strekke seg etter en annen _HIGHLIGHT_."
                 },
                 "nothing_result": {
-                    "MISSING-text": "`After roaming through the container, _NAME_ _HIGHLIGHT_ isn't able to find anything _HIGHLIGHT_ and pulls back their hand."
+                    "text": "Etter å ha lettet gjennom beholderen, _HIGHLIGHT_ finner ikke _HIGHLIGHT_ _NAME_ _HIGHLIGHT_ noe _HIGHLIGHT_ og trekker hånden tilbake"
                 },
                 "damage_result": {
-                    "MISSING-text": "_NAME_ quickly pulls back their hand, now covered in scraps, because _HIGHLIGHT_ the items transformed into less friendly shapes _HIGHLIGHT_."
+                    "text": "_NAME_ trekker raskt tilbake hånden sin, som nå er dekket av skrot, fordi _HIGHLIGHT_ gjenstandene forvandlet seg til noen mindre vennlige skikkelser _HIGHLIGHT_."
                 },
                 "wipe_result": {
-                    "MISSING-text": "_NAME_ quickly pulls back their hand, now covered in scraps, because _HIGHLIGHT_ the items in the box transformed into less friendly shapes _HIGHLIGHT_. _BREAK_ With _HIGHLIGHT_ no member of the party left standing, the dungeon has to be cut short _HIGHLIGHT_."
+                    "text": "_NAME_ trekker raskt tilbake hånden sin, som nå er dekket av skrot, fordi _HIGHLIGHT_ gjenstandene forvandlet seg til noen mindre vennlige skikkelser _HIGHLIGHT_. _BREAK_ Med _HIGHLIGHT_ ingen gjenværende medlemmer i gruppen, må dungeon avbrytes _HIGHLIGHT_."
                 },
                 "ignore_result": {
-                    "MISSING-text": "The chaotic nature of the container seems too big a risk. So _HIGHLIGHT_ the party decides to continue on _HIGHLIGHT_."
+                    "text": "Den kaotiske naturen til beholderen virker som en for stor risiko. Så _HIGHLIGHT_ gruppen bestemmer seg for å fortsette videre _HIGHLIGHT_."
                 }
             },
             "offering_box": {
-                "MISSING-title": "Offering Box",
+                "title": "Offerboks",
                 "base": {
-                    "MISSING-text": "A _HIGHLIGHT_ wooden shrine offering box _HIGHLIGHT_ is oddly placed at the center of the room.",
+                    "text": "En _HIGHLIGHT_ offerboks av tre fra et alter _HIGHLIGHT_m er merkelig plassert midt i rommet.",
                     "option": {
-                        "MISSING-fragments": "Throw in _NUMBER_ fragments",
-                        "MISSING-ignore": "Ignore the box"
+                        "fragments": "Kast inn _NUMBER_ fragmenter",
+                        "ignore": "Ignorer boksen"
                     }
                 },
                 "option_one": {
-                    "MISSING-text": "After throwing in the _HIGHLIGHT2_ fragments _HIGHLIGHT2_ the box glows for a moment, before _HIGHLIGHT_ disappearing in a flash of light _HIGHLIGHT_."
+                    "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, før _HIGHLIGHT_ den forsvinner i et lysglimt _HIGHLIGHT_."
                 },
                 "option_two": {
-                    "MISSING-text": "After throwing in the _HIGHLIGHT2_ fragments _HIGHLIGHT2_ the box glows for a bit, before disappearing, leaving in its place the artifact: _ARTIFACT_"
+                    "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, før den forsiviner og etterlater artefakten: _ARTIFACT_"
                 },
                 "option_three": {
-                    "MISSING-text": "After throwing in the _HIGHLIGHT2_ fragments _HIGHLIGHT2_ the box starts glowing, _HIGHLIGHT_ enveloping _NAME_ in a strong light. After a moment the light resides, the box is gone, but _NAME2_ is back on their feet _HIGHLIGHT_."
+                    "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, _HIGHLIGHT_ omslutter _NAME_ i et sterkt lys. Etter et øyeblikk forblir lyset, boken er borte, men _NAME2_ er tilbake på beina _HIGHLIGHT_."
                 },
                 "option_four": {
-                    "MISSING-text": "After throwing in the _HIGHLIGHT2_ fragments _HIGHLIGHT2_ the box starts glowing, bathing the party in its warm light _HIGHLIGHT_ restoring some of their strength _HIGHLIGHT_, before the box disappears."
+                    "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, bader gruppen i dens varme lys _HIGHLIGHT_ og gjenoppretter noe av styrken deres _HIGHLIGHT_, før boken forsvinner"
                 },
                 "ignore_option": {
-                    "MISSING-text": "The party walks past the box paying it no attention. Just as the last person passes by the box, _HIGHLIGHT_ a dark wave of energy _HIGHLIGHT_ rushes out of it engulfing the party. The wave disappears as quickly as it came, the box now gone, but _HIGHLIGHT_ the party feels strangely drained _HIGHLIGHT_."
+                    "text": "Gruppen går forbi boksen uten å bry seg om den. Akkurat idet den siste personen går forbi boksen, _HIGHLIGHT_ styrter en mørk bølge av energi _HIGHLIGHT_ ut av den og omslutter gruppen. Bølgen forsinner like raskt som den kom, boksen er nå borte, men _HIGHLIGHT_ gruppen føler seg merkelig utmattet _HIGHLIGHT_."
                 }
             },
             "rare_hunter": {
