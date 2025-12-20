@@ -4736,32 +4736,32 @@
                 }
             },
             "the_pedestal": {
-                "MISSING-title": "The Pedestal",
+                "title": "Pidestall",
                 "base": {
-                    "MISSING-text": "A _HIGHLIGHT_ lone pedestal _HIGHLIGHT_ sits at the center of the room. As the party gets closer to it some of their _HIGHLIGHT2_ artifacts _HIGHLIGHT2_ _HIGHLIGHT_ start glowing _HIGHLIGHT_, as if drawn to the pedestal.",
+                    "text": "En _HIGHLIGHT_ enslig pidestall _HIGHLIGHT_ står midt i rommet. Etter hvert som gruppen kommer nærmere, begynner noen av _HIGHLIGHT2_ artefaktene deres _HIGHLIGHT2_ _HIGHLIGHT_ å gløde _HIGHLIGHT_, som om de blir trukket mot pidestallen.",
                     "options": {
-                        "MISSING-place_artifact": "Place _NAME_ on the pedestal",
-                        "MISSING-ignore": "Ignore the pedestal"
+                        "place_artifact": "Plasser _NAME_ på pidestallen",
+                        "ignore": "Ignorer pidestallen"
                     }
                 },
                 "ignore": {
-                    "MISSING-text": "The potential prize isn’t worth the artifact, the party continues onwards"
+                    "text": "Den potensielle premien er ikke verdt artefakten, groupen fortestter videre"
                 },
                 "transform": {
-                    "MISSING-text": "The _ARTIFACT_ _HIGHLIGHT_ explodes into fragments _HIGHLIGHT_ floating above the pedestal, before suddenly swarming back to its center, _HIGHLIGHT_ transforming into the _ARTIFACT2_ artifact. _HIGHLIGHT_"
+                    "text": "_ARTIFACT_ _HIGHLIGHT_ eksploderere i biter _HIGHLIGHT_ som svever over pidestallen, før den plutselig svermer tilbake til sentrum, _HIGHLIGHT_ forvandles til _ARTIFACT_ artefakten._HIGHLIGHT_"
                 }
             },
             "the_ring": {
-                "MISSING-title": "The Ring",
+                "title": "Ringen",
                 "base": {
-                    "MISSING-text": "As the party enters the room, a _HIGHLIGHT_ sleazy man wearing a cap and an eye patch _HIGHLIGHT_ approaches the party. _BREAK_ “Perfect timing, we just had a slot open up. Any of you _HIGHLIGHT_ fancy a round in the ring _HIGHLIGHT_?” he says while gesturing to a boxing ring with an enemy _HIGHLIGHT2_ core _HIGHLIGHT2_ floating in it.",
+                    "text": "Idet gruppen kommer inn i rommet, nærmer en _HIGHLIGHT_ sleip mann med matroslue og øyelapp _HIGHLIGHT_ seg gruppen, _BREAK_ \"Perfekt timing, vi hadde nettopp en ledig plass åpne seg opp. Har noen  av dere _HIGHLIGHT_ lyst på en runde i ringen_HIGHLIGHT_?\" sier han mens han gestikulerer mot en boksering med en _HIGHLIGHT2_ fiendtlig kjerne _HIGHLIGHT2_ svevende i den.",
                     "options": {
-                        "MISSING-enter_ring": "Have _NAME_ enter the ring",
-                        "MISSING-decline": "Decline the offer"
+                        "enter_ring": "Ha _NAME_ gå i ringen",
+                        "decline": "Takk nei til tilbudet"
                     }
                 },
                 "ignore": {
-                    "MISSING-text": "“You ain’t never gonna win big with that attitude” the man grumbles as he heads back towards the ring."
+                    "text": "\"Du kommer aldri til å vinne stort med den holdningen\", mumler mannen idet han går mot ringen."
                 }
             },
             "transmutation_circle": {
