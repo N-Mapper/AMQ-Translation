@@ -4765,50 +4765,50 @@
                 }
             },
             "transmutation_circle": {
-                "MISSING-title": "Transmutation Circle",
+                "title": "Transmutasjonssirkelen",
                 "base": {
-                    "MISSING-text": "A _HIGHLIGHT_ mysterious circle with strange symbols and shapes _HIGHLIGHT_ drawn inside of it, sits at the center of the room. _BREAK_ As the party draws close to the circle _HIGHLIGHT_ a voice echoes across the room _HIGHLIGHT_: _BREAK_ “For something to be obtained, _HIGHLIGHT_ something of equal value must be surrendered _HIGHLIGHT_.”",
-                    "MISSING-no_artifact": "an artifact",
+                    "text": "En _HIGHLIGHT_ mystisk sirkel med merkelige tegn og former _HIGHLIGHT_ tegnet inni den, sitter i midten av rommet. _BREAK_ Idet gruppen nærmer seg sirkelen _HIGHLIGHT_, runger en stemme over hele rommet_HIGHLIGHT_: _BREAK_ \"For at noe skal mottas _HIGHLIGHT_ må noe av samme verdi gis _HIGHLIGHT_\"",
+                    "no_artifact": "en artefakt",
                     "options": {
-                        "MISSING-fragments": "Place _NUMBER_ fragments inside the circle",
-                        "MISSING-artifact": "Place _NAME_ inside the circle",
-                        "MISSING-step_inside": "Step inside the circle",
-                        "MISSING-ignore": "Ignore the circle"
+                        "fragments": "Put _NUMBER_ fragmenter i sirkelen",
+                        "artifact": "Put _NAME_ i sirkelen",
+                        "step_inside": "Gå inn i sirkelen",
+                        "ignore": "Ignorer sirkelen"
                     }
                 },
                 "ignore": {
-                    "MISSING-text": "The party continues taking a wide swing around the circle, not wanting to take the risk."
+                    "text": "Gruppen fortsetter å ta en stor sving rundt sirkelen, og ønsker ikke å ta risikoen."
                 },
                 "results": {
-                    "MISSING-text_fragment": "A blinding light fills the room. _BREAK_ Once the light subsides the circle is gone together with the _HIGHLIGHT2_ fragments _HIGHLIGHT2_, in its place _NAME_ has appeared",
-                    "MISSING-text_artifact": "A blinding light fills the room. _BREAK_ Once the light subsides the circle is gone together with the _ARTIFACT_, in its place _NAME_ has appeared",
-                    "MISSING-text_life": "A blinding light fills the room and _HIGHLIGHT_ the entire party feels weaker _HIGHLIGHT_. _BREAK_ Once the light subsides the circle is gone, in its place _NAME_ has appeared",
+                    "text_fragment": "Et blendende lys fyller rommet. _BREAK_ Når lyset avtar, er sirkelen borte sammen med _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_, i stedet har _NAME_ dukket opp",
+                    "text_artifact": "Et blendende lys fyller rommet. _BREAK_ Når lyset avtar, er sirkelen borte sammen med _ARTIFACT_, i stedet har _NAME_ dukket opp",
+                    "text_life": "Et blendende lys fyller rommet og _HIGHLIGHT_ hele gruppen føles svakere _HIGHLIGHT_. _BREAK_ Når lyset avtar, er sirkelen borte, i stedet har _NAME_ dukket opp",
                     "rewards": {
-                        "MISSING-fragment": "a stack of _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_",
-                        "MISSING-artifact": "an _HIGHLIGHT2_ artifact _HIGHLIGHT2_"
+                        "fragment": "en stable av _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_",
+                        "artifact": "en _HIGHLIGHT2_ artefakt _HIGHLIGHT2_"
                     }
                 }
             },
             "wild_inventor": {
-                "MISSING-title": "Wild Inventor",
+                "title": "Vill oppfinner",
                 "base": {
-                    "MISSING-text": "A _HIGHLIGHT_ pink haired girl _HIGHLIGHT_ with a pair of large red goggles sits at a lone workbench, her eyes sparkle for a second when she notices the party, before rushing over. _BREAK_ “I just ran out of data _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but let me _HIGHLIGHT_ break down _HIGHLIGHT_ some of your _HIGHLIGHT2_ artifacts _HIGHLIGHT2_, and I’ll craft you some _HIGHLIGHT2_ runes _HIGHLIGHT2_!”",
+                    "text": "En _HIGHLIGHT_ rosahåret jente _HIGHLIGHT_ med et par store røde beskyttelsesbriller sitter ved en enslig arbeidsbenk. Øyene hennes glitrer et sekund når hun legger merke til gruppen, før hun skynder seg bort. _BREAK_ \"Jeg gikk nettopp tom for data _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men la meg _HIGHLIGHT_ brytte ned _HIGHLIGHT_ noen av _HIGHLIGHT2_ artefaktene deres _HIGHLIGHT2_, så skal jeg lage noen _HIGHLIGHT2_ runer _HIGHLIGHT2_ til dere!\"",
                     "options": {
-                        "MISSING-artifact": "Give her the _NAME_",
-                        "MISSING-decline": "Decline her offer"
+                        "artifact": "Gi henne _NAME_",
+                        "decline": "Takk nei til tilbudet"
                     }
                 },
                 "base_decline": {
-                    "MISSING-text": "“Your loss, I’ll save my amazing babies for the next party.”"
+                    "text": "\"Deres tap, jeg sparer de fantastiske babyene mine til neste gruppe\""
                 },
                 "late_decline": {
-                    "MISSING-text": "“Not going for the full set? You’ll regret that once you see how well my babies perform”"
+                    "text": "\"Går dere ikke for hele settet? Dere kommer til å angre på det når dere ser hvor bra babyene mine presterer.\""
                 },
                 "artifact": {
-                    "MISSING-text": "The girl grabs the _ARTIFACT_, returns to her workbench and starts hitting it with several tools no one has seen before. Within moments, she has the artifact changed into a _HIGHLIGHT2_ _NAME_ rune _HIGHLIGHT2_. _BREAK_ “I’m sure this baby will be a great help, so _HIGHLIGHT_ which _HIGHLIGHT2_ artifact _HIGHLIGHT2_ is next _HIGHLIGHT_?”"
+                    "text": "Jenta griper _ARTIFACT_, går tilbake til arbeidsbenken sin og begynner å slå på den med flere verktøy ingen har sett før. I løpet av sekunder har hun forvandlet artefakten til en _HIGHLIGHT2_ _NAME_ rune _HIGHLIGHT2_. _BREAK_\"Jeg er sikker på at denne babyen vil være til stor hjelp, så _HIGHLIGHT_ hvilken _HIGHLIGHT2_ artefakt_HIGHLIGHT2_ er neste_HIGHLIGHT_?\""
                 },
                 "all_done": {
-                    "MISSING-text": "The girl grabs the _ARTIFACT_, returns to her workbench and starts hitting it with several tools no one has seen before. Within moments, she has the artifact changed into a _HIGHLIGHT2_ _NAME_ rune _HIGHLIGHT2_. _BREAK_ “That’s the last of my babies for now, make sure to drop by again in the future when you need more _HIGHLIGHT2_ runes _HIGHLIGHT2_!”"
+                    "text": "Jenta griper _ARTIFACT_, går tilbake til arbeidsbenken sin og begynner å slå på den med flere verktøy ingen har sett før. I løpet av sekunder har hun forvandlet artefakten til en _HIGHLIGHT2_ _NAME_ rune _HIGHLIGHT2_. _BREAK_ \"Det er den siste av babyene mine for nå, sørg for å stikke innom igjen i fremtiden når dere trenger flere _HIGHLIGHT2_ runer _HIGHLIGHT2_!\""
                 }
             }
         },
