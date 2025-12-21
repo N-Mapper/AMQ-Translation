@@ -3732,7 +3732,7 @@
         "ecchi": "Ecchi",
         "fantasy": "Fantasy",
         "horror": "Skrekk",
-        "mahou_shoujo": "Mahou Shoujo",
+        "mahou_shoujo": "Mahou shoujo",
         "mecha": "Mecha",
         "music": "Musikk",
         "mystery": "Mysterie",
@@ -4896,8 +4896,8 @@
                 },
                 "fireman": {
                     "name": "Trosse flammene",
-                    "description": "Fjern alle debuffs og få en forsvarsbuff",
-                    "badge_description": "Tilfeldig sjanse til å fjerne alle debuffs og få en forsvarsbuff"
+                    "description": "Fjern alle debuffer og få en forsvarsbuff",
+                    "badge_description": "Tilfeldig sjanse til å fjerne alle debuffer og få en forsvarsbuff"
                 }
             },
             "honoka": {
@@ -4928,12 +4928,12 @@
             },
             "komugi": {
                 "standard": {
-                    "name": "Revebrann",
+                    "name": "Reveflammer",
                     "description": "Få en buff som fører til at alle angrep medfører en tilfeldig debuff",
                     "badge_description": "Tilfeldig sjanse til å få en buff som fører til at alle angrep medflrer en tilfeldig debuff"
                 },
                 "tribal_sorcerer": {
-                    "name": "Brennede angrep",
+                    "name": "Brennende angrep",
                     "description": "Øk nøyaktigheten og få alle angrep til å påføre virusdebuffen, men påfører virusdebuffen på Komugi hvis hun bommer angrepet",
                     "badge_description": "Tilfeldig sjanse til å få en buff som fører til at alle angrep påfører virusdebuffen og øker nøyaktigheten, men bli truffet av virusdebuffen hvis du bommer med et angrep"
                 },
@@ -4983,14 +4983,14 @@
             },
             "mao": {
                 "standard": {
-                    "name": "Mørk flammeslag",
-                    "description": "Øk skaden på Maos neste angrep. Hvis det mislykkes, motta to debuffs. Knan ikke brukes i Maos tur",
+                    "name": "Mørk flammeangrep",
+                    "description": "Øk skaden på Maos neste angrep. Hvis det mislykkes, motta to debuffer. Knan ikke brukes i Maos tur",
                     "badge_description": "Tilfeldig sjanse til å øke skaden på neste angrep, men påfører en debuff hvis angrepet mislykkes"
                 },
                 "demon_lord": {
                     "name": "Mørk kontrakt",
                     "description": "Forsterk målalliert, øk skaden deres og gjenoppliv dem hvis de blir drept. Hvis de gjenopplives, må en avatar eller fiende dø før buffen utløper, ellers dør de igjen",
-                    "badge_description": "Tilfeldig sjanse til å gi en alliert Mørk Kontrakt buffen, noe som øker skaden deres og gjenoplliver dem hvis de blir drept, men hvis de blir gjenopplivet, må en annen avatar eller fiende dø før bonusen utløper, ellers dør de igjen"
+                    "badge_description": "Tilfeldig sjanse til å gi en alliert Mørk Kontrakt buffen, noe som øker skaden deres og gjenoppliver dem hvis de blir drept, men hvis de blir gjenopplivet, må en annen avatar eller fiende dø før bonusen utløper, ellers dør de igjen"
                 }
             },
             "marine": {
@@ -5129,7 +5129,7 @@
             },
             "adventure_shield": {
                 "title": "Eventyrens skjold",
-                "description": "Utrust målavataren med et skjold, og minimer skaden de tar i 5 runder"
+                "description": "Utrust målavataren med et skjold, og reduser skaden de tar i 5 runder"
             },
             "quick_bomb": {
                 "title": "Hurtighetsbombe",
@@ -5268,151 +5268,151 @@
                 "description": "Få et skjold når du blir truffet av neste fiendtlige angrep"
             },
             "swords_of_truth_and_light": {
-                "Mname": "Sverd av Lys og Sannhet",
+                "name": "Sverd av Lys og Sannhet",
                 "description_one": "Gjør dobbel skade om to angrep",
                 "description_two": "Gjør dobble skade neste angrep"
             },
             "adventurers_sword": {
-                "MISSING-name": "Adventurer's Sword",
-                "MISSING-description": "Attacks deal increased damage "
+                "name": "Eventyrens sverd",
+                "description": "Øk skaden påført"
             },
             "adventurers_shield": {
-                "MISSING-name": "Adventurer's Shield",
-                "MISSING-description": "Reduce damage taken"
+                "name": "Eventyrens skjold",
+                "description": "Reduser skaden tatt"
             },
             "angels_grace": {
-                "MISSING-name": "Angel's Grace",
-                "MISSING-description": "Shields from damage"
+                "name": "Engelens nåde",
+                "description": "Beskytter mot skade"
             },
             "buster": {
-                "MISSING-name": "Buster",
-                "MISSING-description": "Charge up damage for the next attack in each ally's turn. Effect is lost if moved or attacked"
+                "name": "Kanon",
+                "description": "Lad opp skjaden for neste angrep i hver allierts tur. Effekten går tapt hvis man blir flyttet eller troffet"
             },
             "cats_luck": {
-                "MISSING-name": "Cat's Luck",
-                "MISSING-description": "Next attack taken inflicts 0 damage but applies a random debuff instead"
+                "name": "Katteflaks",
+                "description": "Neste angrep gjør 0 skade, men bruker en påfører en tilfeldig debuff is stedet"
             },
             "cheered": {
-                "MISSING-name": "Cheered",
-                "MISSING-description": "Being cheered on has granted a massive buff to all stats"
+                "name": "Oppløftet",
+                "description": "Å bli oppløftet har gitt en massiv forsterkning til alle statistikker"
             },
             "cheering": {
-                "MISSING-name": "Cheering",
-                "MISSING-description": "Empowers another target avatar on correct guesses instead of attacking"
+                "name": "Oppløfter",
+                "description": "Gir en annen målavatar kraft ved riktige svar i stedet for å angripe"
             },
             "dark_contract": {
-                "MISSING-name": "Dark Contract",
-                "MISSING-description": "Increase damage dealt, and revive if killed. Get the Dark Contract debuff if revived.",
-                "MISSING-description_debuff": "Increase damage dealt, but die when the debuff expires. The debuff is removed if a character is killed"
+                "name": "Mørk kontrakt",
+                "description": "Øk skaden som gjøres, og gjenoppliv hvis drept. Få mørk kontrakt debuffen hvis gjenopplivet",
+                "description_debuff": "Øk skaden som påføres, men dø når debuffen utløper Debuffen fjernes hvis en karakter blir drept"
             },
             "dark_flame_strike": {
-                "MISSING-name": "Dark Flame Strike",
-                "MISSING-description": "Deal increased damage on the next attack, but if it fails, receive two debuffs"
+                "name": "Mørk flammeangrep",
+                "description": "Gjør økt skade på neste angrep, men hvis det mislykkes, motta to debuffer"
             },
             "dragon_rage": {
-                "MISSING-name": "Dragon Rage",
-                "MISSING-description": "When hit, attack is boosted by 50%",
-                "MISSING-description_active": "The character is enraged, increasing attack by 50%"
+                "name": "Drageraseri",
+                "description": "Når den blir truffet, økes angrept med 50%",
+                "description_active": "Karakteren er rasende, og angrepet er økt med 50%"
             },
             "encore_buff": {
-                "MISSING-name": "Encore Buff",
-                "MISSING-description": "Next attack inflicts the encore debuff"
+                "name": "Ekstranummer buff",
+                "description": "Neste angrep påfører et ekstranummer debuff"
             },
             "fiery_onslaught": {
-                "MISSING-name": "Fiery Onslaught",
-                "MISSING-description": "Increase accuracy and apply the virus debuff on all attacks, but failed attacks inflict the virus debuff on the attacker"
+                "name": "Brennende angrep",
+                "description": "Øk nøyaktigheten og påfør virusdebuffen på alle angrep, men mislykkede angrep påfører angriperen virusdebuffen"
             },
             "fox_fire": {
-                "MISSING-name": "Fox Fire",
-                "MISSING-description": "All attacks apply a random debuff"
+                "name": "Reveflammer",
+                "description": "Alle angrep påfører en tilfeldig debuff"
             },
             "full_charge": {
-                "MISSING-name": "Full Charge",
-                "MISSING-description": "Next attack deals double damage, but gain the Crash debuff at the end of the turn."
+                "name": "Fremad marsj",
+                "description": "Neste angrep gjør dobble skade, men få krasj debuffen på slutten av turen"
             },
             "in_the_rhythm": {
-                "MISSING-name": "In the Rhythm",
-                "MISSING-description": "Increase attack and dodge, lasting until you fail to dodge or land an attack"
+                "name": "I rytmen",
+                "description": "Øk angrep og unnvikelsen, og varer til du ikke unnvike eller lande et angrep"
             },
             "knights_challenge": {
-                "MISSING-name": "Knight's Challenge",
-                "MISSING-description": "Target of all new enemy attacks"
+                "name": "Ridderens utfordring",
+                "description": "Mål for alle nye fiendtlige angrep"
             },
             "magical_bombardment": {
-                "MISSING-name": "Magical Bombardment",
-                "MISSING-description": "Next attack deals reduced damage, but hits all enemies"
+                "name": "Magisk bombardement",
+                "description": "Neste angrep gjør redusert skade, men treffer alle fiender"
             },
             "magical_infusion": {
-                "MISSING-name": "Magical Infusion",
-                "MISSING-description": "Gain a random buff when landing an attack. This buff expires when failing an attack."
+                "name": "Magisk infusjon",
+                "description": "Få en tilfeldig buff når angriper. Denne buffen utløper når du bommer et angrep"
             },
             "martial_strikes": {
-                "MISSING-name": "Martial Strikes",
-                "MISSING-description": "Gain a charge for each successful attack, each charge increasing damage done on future attacks. Last until not landing an attack."
+                "name": "Kampslag",
+                "description": "Få en ladning for hvert vellykkede angrep, og hver ladning øker skaden som gjøres på fremtidige angrep. Varer til du ikke lander et angrep"
             },
             "natural_sprinter": {
-                "MISSING-name": "Natural Sprinter",
-                "MISSING-description": "Increase attack and accuracy"
+                "name": "Naturlig sprinter",
+                "description": "Øk angrep og Nøyaktighet"
             },
             "natures_frenzy": {
-                "MISSING-name": "Nature Frenzy",
-                "MISSING-description": "Greatly boost attack, but halve defense and dodge"
+                "name": "Naturvanvidd",
+                "description": "Øk angrepet betraktelig, men halver forsvar og unnvikelse"
             },
             "natures_infusion": {
-                "MISSING-name": "Natures Infusion",
-                "MISSING-description": "Increase attack, and reduce damage taken from the next attack by consuming this buff"
+                "name": "Naturens infusjon",
+                "description": "Øk angrepet og reduser skaden fra det neste angrepet ved å konsumere denne buffen"
             },
             "plunder": {
-                "MISSING-name": "Plunder",
-                "MISSING-description": "Gain a random buff and some fragments if you hit with your next attack"
+                "name": "Plyndrer",
+                "description": "Få en tilfeldig buff og noen fragmenter hvis du treffer med ditt neste angrep"
             },
             "quick_bomb": {
-                "MISSING-name": "Quick Bomb",
-                "MISSING-description": "Explode at the end of the round, dealing damage to the target"
+                "name": "Hurtighetsbombe",
+                "description": "Eksploder på slutten av runden og gjør skade på målet"
             },
             "recon_in_force": {
-                "MISSING-name": "Recon in Force",
-                "MISSING-description": "Boost dodge and attacks apply the bypass debuff"
+                "name": "Rekognosering i styrke",
+                "description": "Boost unnvikelse og angrep påfører bypass debuffen"
             },
             "snake_charm": {
-                "MISSING-name": "Snake Charm",
-                "MISSING-description": "Attacks apply the charmed debuff"
+                "name": "Slangesjarm",
+                "description": "Angrep bruker påfører sjarmert debuffen"
             },
             "spectral_tricks_buff": {
-                "MISSING-name": "Spectral Tricks Buff",
-                "MISSING-description": "Attacks taken this turn deal zero damage, but the damage is dealt next turn if that turn's guess is wrong"
+                "name": "Spektrale triks buff",
+                "description": "Angrep tatt denne turen gjør null skade, men skaden deles ut i neste hvis du bommer denne turen"
             },
             "spectral_tricks_debuff": {
-                "MISSING-name": "Spectral Tricks Debuff",
-                "MISSING-description": "Take damage equal to the negated damage if the next guess is wrong"
+                "name": "Spektrale triks debuff",
+                "description": "Ta skade tilsvarende den negerte skaden hvis svaret er feil"
             },
             "swift_maneuver": {
-                "MISSING-name": "Swift Maneuver",
-                "MISSING-description": "Next avatar swap happens instantly"
+                "name": "Rask manøver",
+                "description": "Neste avatarbytte skjer umiddelbart"
             },
             "unlucky_lucky_rabbit": {
-                "MISSING-name": "Unlucky Lucky Rabbit",
-                "MISSING-description": "Greatly increase dodge, but increase the chance of getting targeted by enemy attacks"
+                "name": "Uheldig heldig kanin",
+                "description": "Øk unnvikelsen betraktelig, men øk sjansen for å bli mål for fiendens angrep"
             },
             "vampires_kiss": {
-                "MISSING-name": "Vampire's Kiss",
-                "MISSING-description": "Heal if the next attack kills an enemy"
+                "name": "Vampyrens kyss",
+                "description": "Helbred hvis neste angrepet dreper en fiende"
             },
             "weapon_master": {
-                "MISSING-name": "Weapon Master",
-                "MISSING-description": "Empowers offensive artifacts' effect"
+                "name": "Våpenmester",
+                "description": "Styrker effekten av offensiv artefakter"
             },
             "witches_trickery": {
-                "MISSING-name": "Witches Trickery",
-                "MISSING-description": "Next attack applies the bewitched debuff"
+                "name": "Hekselureri",
+                "description": "Neste angrep påfører forheksede debuffen"
             },
             "force_of_yan": {
-                "MISSING-name": "Force of Yan",
-                "MISSING-description": "Ups defense and lowers attack"
+                "name": "Kraft av Yan",
+                "description": "Øker forsvar og senker angrep"
             },
             "force_of_yin": {
-                "MISSING-name": "Force of Yin",
-                "MISSING-description": "Ups attack and lowers defense"
+                "name": "Kraft av Yin",
+                "description": "Øker angrep og senker forsvar"
             },
             "bewitched": {
                 "MISSING-name": "Bewitched",
@@ -5529,8 +5529,8 @@
         }
     },
     "tutorial": {
-        "MISSING-continue_button": "Continue",
-        "MISSING-exit_button": "Exit",
+        "continue_button": "Fortsett",
+        "exit_button": "Forlat",
         "welcome": {
             "MISSING-title": "Welcome to AMQ",
             "step_one": {
@@ -5746,19 +5746,19 @@
             }
         },
         "dismiss": {
-            "MISSING-title": "Dismiss Tutorial",
+            "title": "Lukk Veiledning",
             "type_one": {
-                "MISSING-text": "Done for now? _BREAK_ If you want to pick up the tutorial at another time you can find it in the menu at the bottom right. Hope you have a blast playing Anime Music Quiz!"
+                "text": "Ferdig for nå? _BREAK_ Hvis du vil fortsette veiledningen en annen gang, finner du den i menyen nederst til høyre. Håper du koser deg med å spille Anime Music Quiz!"
             },
             "type_two": {
-                "MISSING-text": "That's fine. _BREAK_ If you want to pick up the tutorial at another time you can find it in the menu at the bottom right. Hope you have a blast playing Anime Music Quiz!"
+                "text": "Det er greit. _BREAK_ Hvis du vill fortsette veiledningen en annen gang, finner du den i menyen nederst til høyre. Håper du koser deg med å spille Anime Music Quiz!"
             }
         },
         "start_warning": {
-            "MISSING-title": "Return to Main Menu?",
-            "MISSING-text": "The tutorial can only be taken from the main menu. If you return to the main menu you'll stop what you're currently doing.",
-            "MISSING-return_button": "Return",
-            "MISSING-stay_button": "Stay"
+            "title": "Gå tilbake til hovedmenyen",
+            "text": "Veiledning kan bare velges fra hovedmenyen. Hvis du går tilbake til hovedmenyen, stopper du det du holder på med.",
+            "return_button": "Tilbake",
+            "stay_button": "Bli"
         },
         "exit_tutorial_warning": {
             "MISSING-title": "Exit Tutorial?",
