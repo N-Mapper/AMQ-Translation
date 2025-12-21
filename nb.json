@@ -4374,7 +4374,7 @@
                 "description": "Å lande 2 angrep på rad gir et skjold"
             },
             "comfy_scarf": {
-                "title": "Nusselig skjerf ",
+                "title": "Nusselig skjerf",
                 "description": "Kontre den første vanlige debuffen mottatt i kamp"
             },
             "computation_orb": {
@@ -5240,37 +5240,37 @@
         },
         "buffs": {
             "crisis_management_form": {
-                "MISSING-name": "Crisis Management Form",
-                "MISSING-description": "Increase all base stats"
+                "name": "Krishåndteringsform",
+                "description": "Øk all basisstatistikk"
             },
             "berserker_star": {
-                "MISSING-name": "Berserker Star",
-                "MISSING-description": "Increase damage by 20% until not landing an attack"
+                "name": "Berserker-stjerne",
+                "description": "Øk skaden med 20% inntil du ikke lander et angrep"
             },
             "charge_staff": {
-                "MISSING-name": "Charge Staff",
-                "MISSING-description": "Landing the next attack gives a shield"
+                "name": "Ladnings stav",
+                "description": "Å lande neste angrep gir et skjold"
             },
             "comfy_scarf": {
-                "MISSING-name": "Comfy Scarf",
-                "MISSING-description": "Counter the next standard debuff"
+                "name": "Nusselig skjerf",
+                "description": "Kontre neste standard debuff"
             },
             "computation_orb": {
-                "MISSING-name": "Computation Orb",
-                "MISSING-description": "Increase damage by 20% while below 50% HP"
+                "name": "Beregningskule",
+                "description": "Øk skaden med 20% mens hp-en er under 50%"
             },
             "hornet_stringer": {
-                "MISSING-name": "Hornet Stringer",
-                "MISSING-description": "Next attack guaranteed to critical hit"
+                "name": "Stikkeveps brodd",
+                "description": "Neste angrep er garantert et kritisk treff"
             },
             "legends_shield": {
-                "MISSING-name": "Legends Shield",
-                "MISSING-description": "Gain a shield when hit by the next enemy attack"
+                "name": "Legendens skjold",
+                "description": "Få et skjold når du blir truffet av neste fiendtlige angrep"
             },
             "swords_of_truth_and_light": {
-                "MISSING-name": "Swords Of Truth And Light",
-                "MISSING-description_one": "Next two attacks deal double damage",
-                "MISSING-description_two": "Next attack deals double damage"
+                "Mname": "Sverd av Lys og Sannhet",
+                "description_one": "Gjør dobbel skade om to angrep",
+                "description_two": "Gjør dobble skade neste angrep"
             },
             "adventurers_sword": {
                 "MISSING-name": "Adventurer's Sword",
