@@ -4938,8 +4938,8 @@
             "asuka": {
                 "standard": {
                     "name": "Rekognosering i styrke",
-                    "description": "Bli fokusert og få Rekognseringsstyrke buffen",
-                    "badge_description": "Tilfeldig sjanse til bli fokusert og få Rekognseringsstyrke buffen"
+                    "description": "Bli Fokusert og få Rekognseringsstyrke buffen",
+                    "badge_description": "Tilfeldig sjanse til bli Fokusert og få Rekognseringsstyrke buffen"
                 }
             },
             "chika": {
@@ -4967,7 +4967,7 @@
                 "standard": {
                     "name": "Uheldig heldig kanin",
                     "description": "Øk unnvikelse betraktelig, men øk sjansen for å bli målet for fiendens angrep",
-                    "badge_description": "Tilfeldig sjanse til å øke unvikelse og sjansen for å bli målet for fiendens angrep betraktelig"
+                    "badge_description": "Tilfeldig sjanse til å øke unnvikelse og sjansen for å bli målet for fiendens angrep betraktelig"
                 },
                 "traveling_merchant": {
                     "name": "Vandrendebutikk",
@@ -5097,8 +5097,8 @@
             "marine": {
                 "standard": {
                     "name": "Full sperreild",
-                    "description": "Forsterk angrep og nøyaktighet, men får også fokusert og eksponert debuffene",
-                    "badge_description": "Tilfeldig sjanse til å forsterk angrep og nøyaktighet, men bli fokusert og eksponert også"
+                    "description": "Forsterk angrep og nøyaktighet, men får også Fokusert og Eksponert debuffene",
+                    "badge_description": "Tilfeldig sjanse til å forsterk angrep og nøyaktighet, men bli Fokusert og Eksponert også"
                 },
                 "buccaneer": {
                     "name": "Fremad marsj",
@@ -5133,8 +5133,8 @@
             "naomi": {
                 "standard": {
                     "name": "Tøff",
-                    "description": "Styrk forsvar og bli fokusert",
-                    "badge_description": "Tilfeldig sjanse til å styrke forsvar og bli fokusert"
+                    "description": "Styrk forsvar og bli Fokusert",
+                    "badge_description": "Tilfeldig sjanse til å styrke forsvar og bli Fokusert"
                 }
             },
             "noel": {
@@ -5553,68 +5553,68 @@
                 "description": "Kan ikke målrettes av angrep eller evner"
             },
             "charmed": {
-                "MISSING-name": "Charmed",
-                "MISSING-description": "Forced to target attacks at _NAME_, but deal 30% less damage"
+                "name": "Sjarmert",
+                "description": "Tvunget til å rette angrep mot _NAME_, men gjøre 30% mindre skade"
             },
             "accuracy_buff": {
-                "MISSING-name": "Accuracy Buff",
-                "MISSING-description": "Increased Accuracy on Attacks"
+                "name": "Nøyaktighet buff",
+                "description": "Øk nøyaktigheten på angrep"
             },
             "attack_buff": {
-                "MISSING-name": "Attack Buff",
-                "MISSING-description": "Increased Attack Power"
+                "name": "Angrep buff",
+                "description": "Øk angrepskraften"
             },
             "defence_buff": {
-                "MISSING-name": "Defence Buff",
-                "MISSING-description": "Increased Defence"
+                "name": "Forsvar buff",
+                "description": "Øk forsvar"
             },
             "dodge_buff": {
-                "MISSING-name": "Dodge Buff",
-                "MISSING-description": "Increased Dodge Chance"
+                "name": "Unnvikelse buff",
+                "description": "Øk unnvikelse sjansen"
             },
             "attack_debuff": {
-                "MISSING-name": "Attack Debuff",
-                "MISSING-description": "Decrease Attack Power"
+                "name": "Angrep debuff",
+                "description": "Reduser angrepskraften"
             },
             "bypass": {
-                "MISSING-name": "Bypass",
-                "MISSING-description": "Increase damage taken from the next attack by 50%"
+                "name": "Bypass",
+                "description": "Øk skaden tatt fra neste angrep med 50%"
             },
             "crash": {
-                "MISSING-name": "Crash",
-                "MISSING-description": "Next action is skipped"
+                "name": "Kræsj",
+                "description": "Neste handling hoppes over"
             },
             "defence_debuff": {
-                "MISSING-name": "Defence Debuff",
-                "MISSING-description": "Decrease Defence"
+                "name": "Forsvar debuff",
+                "description": "Reduser forsvar"
             },
             "virus": {
-                "MISSING-name": "Virus",
-                "MISSING-description": "Take damage at the start of each turn"
+                "name": "Virus",
+                "description": "Ta skade i starten av hver tur"
             },
             "genre_boost": {
-                "MISSING-name": "_NAME_ Boost",
-                "MISSING-description": "Increase attack damage when the current anime has the _NAME_ genre."
+                "name": "_NAME_ boost",
+                "description": "Increase attack damage when the current anime has the _NAME_ genre."
             },
             "hidden": {
-                "MISSING-name": "Hidden",
-                "MISSING-description": "Become untargetable by enemies and increase damage on the next attack. Expires after attacking or moving"
+                "name": "Skjult",
+                "MISSING-description": "Bli utilgjengelig for fiender og øk skaden ved neste angrep. Utløper etter angrep eller forflytting"
             },
             "exposed": {
-                "MISSING-name": "Exposed",
-                "MISSING-description": "Get a random debuff from all attacks"
+                "name": "Eksponert",
+                "description": "Få en tilfeldig debuff fra alle angrep"
             },
             "focused": {
-                "MISSING-name": "Focused",
-                "MISSING-description": "Increase chance of getting targeted by enemy attacks"
+                "name": "Fokusert",
+                "description": "Øk sjansen for å bli mål for fiendens angrep"
             },
             "snared": {
-                "MISSING-name": "Snared",
-                "MISSING-description": "Unable to Switch Position"
+                "name": "Snaret",
+                "description": "Kan ikke bytte posisjon"
             },
             "genre_protection": {
-                "MISSING-name": "_NAME_ Protection",
-                "MISSING-description": "Negate all damage from attacks when the current show doesn’t have the _NAME_ genre."
+                "name": "_NAME_ beskyttet",
+                "description": "Neger all skaden fra angrep når den gjeldende programmet ikke har sjageren _NAME_."
             }
         },
         "enemies": {
@@ -5630,9 +5630,9 @@
             "the_creator": "Skaperen"
         },
         "rejoin_prompt": {
-            "MISSING-title": "Rejoin Disconnect Nexus Game",
-            "MISSING-description": "You where disconnected from your last nexus game, want to rejoin it?",
-            "MISSING-rejoin_button": "Rejoin"
+            "title": "Bli med i Nexus-game du koblet fra",
+            "description": "Du ble koblet fra forrige Nexus-game, vil du bli med igjen?",
+            "rejoin_button": "Bli med igjen"
         }
     },
     "tutorial": {
