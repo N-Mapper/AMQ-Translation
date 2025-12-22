@@ -2657,7 +2657,7 @@
             "slot_name": "Plass _NUMBER_",
             "players_popover_header": "Spillere i lobby",
             "click_to_join": "Klikk for å bli med",
-            "lobby_full_message": "Lobbyen er full"
+            "lobby_full_message": "Lobbyen er full",
             "unknown_lobby": {
                 "title": "Kunne ikke finne Nexus lobby",
                 "description": "Nexus lobbyen du prøver å bli med i finnes ikke eller er strengt"
