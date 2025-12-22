@@ -732,7 +732,7 @@
             "blocked_players": "Blokkerte spillere",
             "change_password": "Bytt passord",
             "leaderboard": "Ledertavle",
-            "tutorial": "Veiledning",
+            "tutorial": "Opplæring",
             "guidelines": "Retningslinjer",
             "about": "Om",
             "logout": "Logg ut"
@@ -1146,12 +1146,12 @@
         }
     },
     "tutorial_window": {
-        "title": "Veiledninger",
+        "title": "Opplæringer",
         "start": "Start",
         "reset": "Nullstill",
-        "nexus_tutorials": "Nexus veiledninger",
+        "nexus_tutorials": "Nexus opplæringer",
         "tutorials": {
-            "gameplay": "Spilling",
+            "gameplay": "Gameplay",
             "avatars": "Avatarer",
             "social": "Sosialt",
             "dungeon": "Dungeon",
@@ -3905,7 +3905,7 @@
             "ranked_expert": "Ranked ekspert",
             "ranked_novice": "Ranked novise",
             "nexus": "Nexus",
-            "tutorial": "Veiledning"
+            "tutorial": "Opplæring"
         },
         "song_type": {
             "opening": "Intro _NUMBER_",
@@ -3946,7 +3946,7 @@
                     "standard_description": "Fullfør en etasje i dungeonen, og gi laget ditt flere krefter etter hvert som dere avanserer, før dere utfordrer bossen til slutt.",
                     "endless": "Uendelig",
                     "endless_description": "Fortsett å utfordre et uendelig antall etasjer, og ta bare med deg et begrenset antall gjenstander fra den ene etasjen til den andre.",
-                    "tutorial": "Veiledning",
+                    "tutorial": "Opplæring",
                     "solo": "Solo",
                     "co_op": "Co-op",
                     "continue": "(Fortsett)",
@@ -4351,17 +4351,17 @@
             }
         },
         "tutorial": {
-            "end_tutorial": "Avslutt veiledning",
+            "end_tutorial": "Avslutt opplæring",
             "yes": "Ja",
             "no": "Nei",
             "exit_tutorial_warning": {
-                "title": "Avslutt veiledning?",
-                "description": "Du kan alltid finne den igjen i veiledningsmenyen",
+                "title": "Avslutt opplæring?",
+                "description": "Du kan alltid finne den igjen i opplæringsmenyen",
                 "exit_button": "Avslutt"
             },
             "city_overview": {
-                "message_one": "Velkommen til Nexus? Vil du ha en veiledning?",
-                "message_two": "Den er grei, du finner det alltid i veiledningsmenyen.",
+                "message_one": "Velkommen til Nexus? Vil du ha en opplæring?",
+                "message_two": "Den er grei, du finner det alltid i opplæringsmenyen.",
                 "message_three": "Fantastisk! La oss komme i gang ved å gå inn i dungeonen!"
             },
             "dungeon_lobby": {
@@ -4372,7 +4372,7 @@
                 "message_five": "Der! Ikke vær redd, jeg skal forklare evenene deres senere. La oss nå gå inn i dungeonen!"
             },
             "dungeon_map": {
-                "message_one": "Her har vi dungeonkartet. I veiledningen holde vi det kort og enkelt! La oss starte med å velge den første ruten."
+                "message_one": "Her har vi dungeonkartet. I opplæringen holde vi det kort og enkelt! La oss starte med å velge den første ruten."
             },
             "dungeon_combat": {
                 "message_one": "Her har vi kampmøtet, hvor du kjemer mot monstre for å få belønninger.",
@@ -4428,14 +4428,14 @@
                 "message_two": "Runer gjør ingenting når de er innsamlet i dungeonen, men når vi kom,mer tilbake til byen kan du bruke verkstedet til å utruste dem og øke kraften",
                 "message_three": "Det gir deg også massevis av XP for avatarene dine!",
                 "message_four": "Å gå opp i level med avatarer lar dem utruste seg med flere runer, styrker evnene deres og lar dem dele kreftene sine med andre avatarer!",
-                "message_five": "Det var alt for veiledningen! Kos deg med Nexus!"
+                "message_five": "Det var alt for opplæringen! Kos deg med Nexus!"
             },
             "workshop": {
                 "message_one": "Velkommen til verkstedet! Etter hvert som du går opp i level med avatarene dine, låser de opp runneplasser, hvor du kan utruste deg med kraftige runer.",
                 "message_two": "Runer finnes overalt i Nexus-dungeonen, og gir statistikkboost og unike effekter når de er utrustet med en avatar.",
                 "message_three": "Hvis en av avatarene dine har tomme runeplasser vises antallet på rutene deres.",
                 "message_four": "Til slutt kan du også bruke rune reformateren",
-                "message_five": "Det var alt for veiledningen! Kos deg med Nexus!"
+                "message_five": "Det var alt for opplæringen! Kos deg med Nexus!"
             },
             "rune_setup": {
                 "message_one": "Her har vi runeoppsettet for avatarene dine.",
@@ -5641,17 +5641,17 @@
         "welcome": {
             "title": "Velkommen til AMQ",
             "step_one": {
-                "text": "Hei og velkomen til Anime Music Quiz! _BREAK_ Jeg forslår at du tar den raske veiledningen min fo å lære det grunnleggende i spillet. _BREAK_ Det kan til og med hende at det er en belønning til slutt!",
+                "text": "Hei og velkomen til Anime Music Quiz! _BREAK_ Jeg forslår at du tar den raske opplæringen min fo å lære det grunnleggende i spillet. _BREAK_ Det kan til og med hende at det er en belønning til slutt!",
                 "options": {
-                    "play_tutorial": "Ta veiledningen",
-                    "skip_tutorial": "Hopp over veiledning"
+                    "play_tutorial": "Ta opplæringen",
+                    "skip_tutorial": "Hopp over opplæring"
                 }
             },
             "step_two": {
                 "text": "Fantastisk, la oss sette i gang!"
             },
             "step_dismiss": {
-                "text": "Du finner alltid veiledningen i menyen nederst til høyre."
+                "text": "Du finner alltid opplæringen i menyen nederst til høyre."
             }
         },
         "welcome_no_list": {
@@ -5693,63 +5693,63 @@
                 "text": "Nå vil spillet kunne velge sanger fra serier du har sett!"
             },
             "step_dismiss": {
-                "text": "Det går greit, du kan fortsatt spille uten en! _BREAK_ Du kan legge til animelister i menyen nederst til høyre under \"Innstillinger\""
+                "text": "Det går greit, du kan fortsatt spille uten en! _BREAK_ Du kan legge til animelister i menyen nederst til høyre under \"Innstillinger\"."
             }
         },
         "first_game": {
-            "MISSING-title": "Gameplay",
+            "title": "Gameplay",
             "step_one": {
-                "MISSING-text": "Let's get you into a game so you can guess some shows! _BREAK_ Select \"Play\" to start."
+                "text": "La oss sette i gang et game, så kan du gjette noen programmer! _BREAK_ Velg \"Spill\" for å starte."
             },
             "step_two": {
-                "MISSING-text": "Select “Multiplayer”. Don't worry, I'm not going to put you up against other players."
+                "text": "Velg \"Flerspiller\". Ikke bekymre deg, jeg kommer ikke til å sette deg opp mot andre spiller."
             },
             "step_three": {
-                "MISSING-text": "This is the room browser, where you can see the currently hosted games and set up your own game. _BREAK_ At the top are several filters you can use to filter out rooms."
+                "text": "Dette er romoversikten, hvor du kan se gamene som er oppe for øyeblikket og sette opp ditt eget game. _BREAK_ Øverst finner du flere filtre du kan bruke til å filtrere rom."
             },
             "step_four": {
-                "MISSING-text": "I've set up a game for you, the tile shows the most important settings. You can hover over most icons in the game to get more info. _BREAK_ Now click \"Join\"."
+                "text": "Jeg har satt opp et game for deg, ruten viser de viktigste innstillingene. Du kan holde musepekeren over de fleste ikonene i spillet for å få informasjon. _BREAK_ Klikk nå på \"Bli med\"."
             },
             "step_five": {
-                "MISSING-text": "This is the lobby where you can see and chat with other players. Currently I'm just a spectator. _BREAK_ Press \"Ready\" at the top so I can start the game."
+                "text": "Dette er lobbyen hvor du kan se og chatte med andre spillere. For øyeblikket er jeg bare en tilskuer. _BREAK_ Trykk på \"Klar\" øverst silk at jeg kan starte gamet."
             },
             "step_six": {
-                "MISSING-text": "This is the quiz screen. When the song starts you'll have 20 seconds to guess the show. _BREAK_ I'll start the round now. Once you've typed your guess, select it from the suggestion list and submit it by pressing enter."
+                "text": "Dette er quiz-skjermen. Når sangen starter, har du 20 sekunder på deg til å gjette programmet. _BREAK_ Jeg starter runden nå. Når du har skrevet inn svare ditt, velger du den fra forslagslisten og sender den inn ved å trykke enter."
             },
             "step_seven": {
-                "MISSING-text": "Once the guessing phase ends, all players' answers are revealed, then the correct answer is shown."
+                "text": "Når gjettefasen er over, avsløres alle spillernes svar, og deretter vises det riktige svaret."
             },
             "step_eight": {
-                "MISSING-text": "Correct guesses will earn you xp and notes. _BREAK_ At the end of the quiz, the player with most correct answers wins the quiz."
+                "text": "Riktige svar gir deg XP og notes. _BREAK_ På slutten av quizen vinner spilleren med flest riktige svar quizen."
             },
             "step_nine": {
-                "MISSING-text": "That's it for the basics of the quiz, I'll let you finish up the remaining 4 songs!"
+                "text": "Det var alt for det grunnleggende i quizen. Jeg lar deg fulløre de resterende fire sangene!"
             },
             "step_ten": {
-                "MISSING-text": "You can skip to the end of the answering phase by clicking the skip button to the left of your answer. You can skip the replay phase in the same way."
+                "text": "Du kan hoppe til slutten av svarsfasen ved å klikke på Hopp over-knappen til venstre for svaret ditt. Du kan hoppe over avspillingsfasen på samme måte."
             },
             "step_eleven": {
-                "MISSING-text": "That was all the songs for this quiz! You'll receive additional xp and notes for finishing a quiz based on your performance."
+                "text": "Det var alle sangen til denne quizen! Du får ekstra XP og notes for å fullfører en quiz basert på prestasjonen din."
             },
             "step_twelve": {
-                "MISSING-text": "Now you're ready to play AMQ! Let's return to the main menu by clicking \"Leave\" in the top left corner."
+                "text": "Nå er du klar for å spille AMQ! La oss gå tilbake til hovedmenyen ved å klikke \"Forlat\" øverst til venste"
             },
             "step_thirteen": {
-                "MISSING-text": "And that's it for the gameplay tutorial!"
+                "text": "Og det var alt for spillopplæringen"
             },
             "step_thirteen_first_time": {
-                "MISSING-text": "That's it for the gameplay tutorial, here's a one-time reward of 3000 notes to help you start unlocking some avatars!"
+                "text": "Det var alt for spillopplæringen. Her er en engangsbelønning på 3000 notes som hjelper deg med å låse opp noen avatarer!"
             },
             "step_fourteen": {
-                "MISSING-text": "Next up would be the avatar tutorial, which will go over how to unlock and use the different avatars in the game. Ready to get started on it?",
+                "text": "Neste steg er avatar-opplæringen, som går gjennom hvordan du låser opp og bruker de forskjellige avatarene i spillet. Klar til å komme i gang?",
                 "options": {
-                    "MISSING-yes": "Yes, let's go!",
-                    "MISSING-no": "No, I'm good for now"
+                    "yes": "Ja, la oss begynne",
+                    "no": "Nei, ellers takk"
                 }
             }
         },
         "avatar": {
-            "MISSING-title": "Avatars",
+            "title": "Avatarer",
             "step_one": {
                 "MISSING-text": "Let's get started on Avatars 101 then! _BREAK_ The game features several avatars and skins you can unlock and use to represent yourself in games."
             },
@@ -5811,7 +5811,7 @@
             }
         },
         "social": {
-            "MISSING-title": "Social",
+            "title": "Sosialt",
             "step_one": {
                 "MISSING-text": "Here we are, the final tutorial! _BREAK_ This one will go over how your profile works and the friend system in the game. So to start out, open the social menu in the bottom left."
             },
@@ -5853,23 +5853,23 @@
             }
         },
         "dismiss": {
-            "title": "Lukk Veiledning",
+            "title": "Lukk opplæring",
             "type_one": {
-                "text": "Ferdig for nå? _BREAK_ Hvis du vil fortsette veiledningen en annen gang, finner du den i menyen nederst til høyre. Håper du koser deg med å spille Anime Music Quiz!"
+                "text": "Ferdig for nå? _BREAK_ Hvis du vil fortsette opplæringen en annen gang, finner du den i menyen nederst til høyre. Håper du koser deg med å spille Anime Music Quiz!"
             },
             "type_two": {
-                "text": "Det er greit. _BREAK_ Hvis du vill fortsette veiledningen en annen gang, finner du den i menyen nederst til høyre. Håper du koser deg med å spille Anime Music Quiz!"
+                "text": "Det er greit. _BREAK_ Hvis du vill fortsette opplæringen en annen gang, finner du den i menyen nederst til høyre. Håper du koser deg med å spille Anime Music Quiz!"
             }
         },
         "start_warning": {
             "title": "Gå tilbake til hovedmenyen",
-            "text": "Veiledning kan bare velges fra hovedmenyen. Hvis du går tilbake til hovedmenyen, stopper du det du holder på med.",
+            "text": "Opplæringen kan bare velges fra hovedmenyen. Hvis du går tilbake til hovedmenyen, stopper du det du holder på med.",
             "return_button": "Tilbake",
             "stay_button": "Bli"
         },
         "exit_tutorial_warning": {
-            "MISSING-title": "Exit Tutorial?",
-            "MISSING-exit_button": "Exit"
+            "title": "Forlat opplæring?",
+            "exit_button": "Forlat"
         }
     },
     "popout_windows": {
