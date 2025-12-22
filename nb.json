@@ -4917,15 +4917,15 @@
             "akane": {
                 "standard": {
                     "name": "Slangesjarm",
-                    "description": "Få en buff som slik at angrep gir sjarmert debuffen",
-                    "badge_description": "Tilfeldig sjanse til å gi sjarmert debuffen ved angreper"
+                    "description": "Få en buff som slik at angrep påfører Sjarmert debuffen",
+                    "badge_description": "Tilfeldig sjanse til å påføre Sjarmert debuffen ved angreper"
                 }
             },
             "akira": {
                 "standard": {
                     "name": "Ekstranummer",
-                    "description": "Akiras neste angrep påfører ekstranummer debuffen",
-                    "badge_description": "Tilfeldig sjanse til å påføre ekstranummer debuffen ved angrep"
+                    "description": "Akiras neste angrep påfører Ekstranummer debuffen",
+                    "badge_description": "Tilfeldig sjanse til å påføre Ekstranummer debuffen ved angrep"
                 }
             },
             "alisa": {
@@ -4997,8 +4997,8 @@
                 },
                 "fireman": {
                     "name": "Trosse flammene",
-                    "description": "Fjern alle debuffer og få en forsvarsbuff",
-                    "badge_description": "Tilfeldig sjanse til å fjerne alle debuffer og få en forsvarsbuff"
+                    "description": "Fjern alle debuffer og få en forsvar buff",
+                    "badge_description": "Tilfeldig sjanse til å fjerne alle debuffer og få en forsvar buff"
                 }
             },
             "honoka": {
@@ -5010,7 +5010,7 @@
                 "druid": {
                     "name": "Naturens infusjon",
                     "description": "Forsterk målavataren, øk angrepet deres og reduser skaden de tar fra den neste ved å konsumere buffen",
-                    "badge_description": "Tilfeldig sjanse til å forsterk en tilfeldig avatar, øke angrepet deres og redusere den neste angrepsskaden de tar ved å konsumere buffen"
+                    "badge_description": "Tilfeldig sjanse til å forsterk en tilfeldig avatar, øke angrepet deres og redusere den neste skaden de tar ved å konsumere buffen"
                 }
             },
             "kasumi": {
@@ -5035,8 +5035,8 @@
                 },
                 "tribal_sorcerer": {
                     "name": "Brennende angrep",
-                    "description": "Øk nøyaktigheten og få alle angrep til å påføre virusdebuffen, men påfører virusdebuffen på Komugi hvis hun bommer angrepet",
-                    "badge_description": "Tilfeldig sjanse til å få en buff som fører til at alle angrep påfører virusdebuffen og øker nøyaktigheten, men bli truffet av virusdebuffen hvis du bommer med et angrep"
+                    "description": "Øk nøyaktigheten og få alle angrep til å påføre Virus debuffen, men påfører Virus debuffen på Komugi hvis hun bommer angrepet",
+                    "badge_description": "Tilfeldig sjanse til å få en buff som fører til at alle angrep påfører Virus debuffen og øker nøyaktigheten, men bli truffet av Virus debuffen hvis du bommer med et angrep"
                 },
                 "pirate": {
                     "name": "Plyndrer",
@@ -5054,8 +5054,8 @@
             "kuriko": {
                 "standard": {
                     "name": "Hekselureri",
-                    "description": "Bruk den forheksede debuffen på neste angrep",
-                    "badge_description": "Tilfeldig sjanse til å bruke den forheksede debuffen på angrep"
+                    "description": "Påfør Forhekset debuffen på neste angrep",
+                    "badge_description": "Tilfeldig sjanse til å påfør Forhekset debuffen på angrep"
                 },
                 "sorceress": {
                     "name": "Katten av mange ansikt",
@@ -5085,7 +5085,7 @@
             "mao": {
                 "standard": {
                     "name": "Mørk flammeangrep",
-                    "description": "Øk skaden på Maos neste angrep. Hvis det mislykkes, motta to debuffer. Knan ikke brukes i Maos tur",
+                    "description": "Øk skaden på Maos neste angrep. Hvis det mislykkes, motta to debuffer. Kan ikke brukes i Maos tur",
                     "badge_description": "Tilfeldig sjanse til å øke skaden på neste angrep, men påfører en debuff hvis angrepet mislykkes"
                 },
                 "demon_lord": {
@@ -5102,8 +5102,8 @@
                 },
                 "buccaneer": {
                     "name": "Fremad marsj",
-                    "description": "Neste angrep gjør dobbel skade, men få krasj debuffen på slutten av runden",
-                    "badge_description": "Tilfeldig sjanse til at neste angrep gjøre dobbel skade, men få krasj debuffen på slutten av runden"
+                    "description": "Neste angrep gjør dobbel skade, men få Kræsj debuffen på slutten av runden",
+                    "badge_description": "Tilfeldig sjanse til at neste angrep gjøre dobbel skade, men få Kræsj debuffen på slutten av runden"
                 }
             },
             "miyu": {
@@ -5121,8 +5121,8 @@
             "mizuki": {
                 "standard": {
                     "name": "Revesjarm",
-                    "description": "Påfør den sjarmerte debuffen på målfienden",
-                    "badge_description": "Tilfeldig sjanse til å påføre en tilfeldig fiende sjarm-debuffen"
+                    "description": "Påfør Sjarmert debuffen på målfienden",
+                    "badge_description": "Tilfeldig sjanse til å påføre en tilfeldig fiende Sjarmert debuffen"
                 },
                 "high_priest": {
                     "name": "Isfengsel",
@@ -5218,8 +5218,8 @@
             "yumemi": {
                 "standard": {
                     "name": "Dvale",
-                    "description": "Får et skjold og en forsvarsbuff, men blir truffet av krasj debuffen",
-                    "badge_description": "Tilfeldig sjanse til å få et skjold og en forsvarsbuff, men kan også bli truffet av krasj debuffen"
+                    "description": "Får et skjold og en forsvar buff, men blir truffet av Kræsj debuffen",
+                    "badge_description": "Tilfeldig sjanse til å få et skjold og en forsvar buff, men kan også bli truffet av Kræsj debuffen"
                 }
             }
         },
@@ -5283,11 +5283,11 @@
             "unique_runes": {
                 "virus_routine": {
                     "name": "Virusrutine",
-                    "description": "Har en _TIER_ sjanse til å påføre virus på angrep"
+                    "description": "Har en _TIER_ sjanse til å påføre Virus på angrep"
                 },
                 "crash_routine": {
-                    "name": "Krasjrutine",
-                    "description": "Har en _TIER_ sjanse til å påføre krasj på angrep"
+                    "name": "Kræsjrutine",
+                    "description": "Har en _TIER_ sjanse til å påføre Kræsj på angrep"
                 },
                 "tortoise": {
                     "name": "Skilpadde",
@@ -5403,7 +5403,7 @@
             },
             "dark_contract": {
                 "name": "Mørk kontrakt",
-                "description": "Øk skaden som gjøres, og gjenoppliv hvis drept. Få mørk kontrakt debuffen hvis gjenopplivet",
+                "description": "Øk skaden som gjøres, og gjenoppliv hvis drept. Få Mørk Kontrakt debuffen hvis gjenopplivet",
                 "description_debuff": "Øk skaden som påføres, men dø når debuffen utløper Debuffen fjernes hvis en karakter blir drept"
             },
             "dark_flame_strike": {
@@ -5417,11 +5417,11 @@
             },
             "encore_buff": {
                 "name": "Ekstranummer buff",
-                "description": "Neste angrep påfører et ekstranummer debuff"
+                "description": "Neste angrep påfører et Ekstranummer debuff"
             },
             "fiery_onslaught": {
                 "name": "Brennende angrep",
-                "description": "Øk nøyaktigheten og påfør virusdebuffen på alle angrep, men mislykkede angrep påfører angriperen virusdebuffen"
+                "description": "Øk nøyaktigheten og påfør Virus debuffen på alle angrep, men mislykkede angrep påfører angriperen Virus debuffen"
             },
             "fox_fire": {
                 "name": "Reveflammer",
@@ -5429,7 +5429,7 @@
             },
             "full_charge": {
                 "name": "Fremad marsj",
-                "description": "Neste angrep gjør dobble skade, men få krasj debuffen på slutten av turen"
+                "description": "Neste angrep gjør dobble skade, men få Kræsj debuffen på slutten av turen"
             },
             "in_the_rhythm": {
                 "name": "I rytmen",
@@ -5473,11 +5473,11 @@
             },
             "recon_in_force": {
                 "name": "Rekognosering i styrke",
-                "description": "Boost unnvikelse og angrep påfører bypass debuffen"
+                "description": "Boost unnvikelse og angrep påfører Bypass debuffen"
             },
             "snake_charm": {
                 "name": "Slangesjarm",
-                "description": "Angrep bruker påfører sjarmert debuffen"
+                "description": "Angrep bruker påfører Sjarmert debuffen"
             },
             "spectral_tricks_buff": {
                 "name": "Spektrale triks buff",
@@ -5505,7 +5505,7 @@
             },
             "witches_trickery": {
                 "name": "Hekselureri",
-                "description": "Neste angrep påfører forheksede debuffen"
+                "description": "Neste angrep påfører Forhekset debuffen"
             },
             "force_of_yan": {
                 "name": "Kraft av Yan",
@@ -5516,41 +5516,41 @@
                 "description": "Øker angrep og senker forsvar"
             },
             "bewitched": {
-                "MISSING-name": "Bewitched",
-                "MISSING-description": "At the start of each turn apply the Crash, Virus, or Bypass debuff each lasting 1 turn"
+                "name": "Forhekset",
+                "description": "I starten av hver tur, påfør Kræsj, Virus eller Bypass debuffen"
             },
             "encore_debuff": {
-                "MISSING-name": "Encore Debuff",
-                "MISSING-description": "Next attack from _NAME_ is a guaranteed critical hit",
-                "MISSING-the_caster": "the caster"
+                "name": "Ekstranummer debuff",
+                "description": "Neste angrep fra _NAME_ er et garantert kritisk treff",
+                "the_caster": "Kasteren"
             },
             "ice_prison": {
-                "MISSING-name": "Ice Prison",
-                "MISSING-description": "Skip all actions, but take greatly reduced attack damage"
+                "name": "Isfengsel",
+                "description": "Hopp over alle handlinger, men ta betraktelig redusert skade"
             },
             "energized": {
-                "MISSING-name": "Energized",
-                "MISSING-description": "Increased attack power while the Energizer is alive"
+                "name": "Energisert",
+                "description": "Økt angrepskraft mens Energisert er i live"
             },
             "enhanced": {
-                "MISSING-name": "Enhanced",
-                "MISSING-description": "Increase attack by _NUMBER_% for each stack"
+                "name": "Forbedret",
+                "description": "Øk angrepet med _NUMBER_% for hver stabel"
             },
             "protected": {
-                "MISSING-name": "Protected",
-                "MISSING-description": "Defence boost based on the protector's defence"
+                "name": "Beskyttet",
+                "description": "Forsvars er forsterket basert på beskytterens forsvar"
             },
             "protector": {
-                "MISSING-name": "Protector",
-                "MISSING-description": "The character behind the buffed character becomes protected"
+                "name": "Beskytter",
+                "description": "Karakteren bak den buffet karakteren blir beskyttet"
             },
             "trojan_protocol": {
-                "MISSING-name": "Trojan Protocol",
-                "MISSING-description": "Attacks inflict a random debuff"
+                "name": "Trojanske protokoll",
+                "description": "Angrep påfører en tilfeldig debuff"
             },
             "untargetable": {
-                "MISSING-name": "Untargetable",
-                "MISSING-description": "Can't be targeted by attacks or abilities"
+                "name": "Umålrettbar",
+                "description": "Kan ikke målrettes av angrep eller evner"
             },
             "charmed": {
                 "MISSING-name": "Charmed",
@@ -5623,7 +5623,7 @@
             "brute": "Bølle",
             "caster": "Kaster",
             "enemy_core": "Fiendtlig kjerne",
-            "energizer": "Energiser",
+            "energizer": "Energisert",
             "data_storm": "Datastorm",
             "orb": "Kule",
             "singularity": "Singularitet",
