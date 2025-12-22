@@ -5743,7 +5743,7 @@
             "step_fourteen": {
                 "text": "Neste steg er avatar-opplæringen, som går gjennom hvordan du låser opp og bruker de forskjellige avatarene i spillet. Klar til å komme i gang?",
                 "options": {
-                    "yes": "Ja, la oss begynne",
+                    "yes": "Ja, la oss begynne!",
                     "no": "Nei, ellers takk"
                 }
             }
@@ -5751,62 +5751,62 @@
         "avatar": {
             "title": "Avatarer",
             "step_one": {
-                "MISSING-text": "Let's get started on Avatars 101 then! _BREAK_ The game features several avatars and skins you can unlock and use to represent yourself in games."
+                "text": "La oss sette i gang med Introduksjonkurs for Avatarene! _BREAK_ Spillet har flere avatar og skinn du kan låse opp og bruke til å representere deg selv i game."
             },
             "step_two": {
-                "MISSING-text": "You can browse all the avatars by clicking the avatar button at the bottom right."
+                "text": "Du kan bla gjennom alle avatarene ved p klikke på avatar-knappen nederst til høyre."
             },
             "step_three": {
-                "MISSING-text": "Here we have the store window, at the top you can find the bar with all avatars available."
+                "text": "Her har vi butikkvinduet, øverst finner du linjen med alle tilgjengelige avatarer."
             },
             "step_four": {
-                "MISSING-text": "To the right you have the avatar filters at the top, and below the preview and additional info of the selected avatar. As with the quiz room tiles, you can hover the different icons and text to get a description of them."
+                "text": "Til høyre har du avatarfiltrene øverst, og nedenfor forhåndsvisningen og tilleggsinformasjonen om den valgte avataren. Som med quizrommets ruter kan du holde musepekeren over de forskjellige ikonene og teksten for å få en beskrivelse av dem."
             },
             "step_five": {
-                "MISSING-text": "Feel free to have a look at the preview and info, once you're done select Komugi in the avatar list and I'll show you the different types of avatars and skins."
+                "text": "Ta gjerne en titt på forhåndsvisningen og informasjonen. Når du er ferdig, velg Komugi i avatarlisten, så viser jeg deg de forskjellige typene avatarer og skinn."
             },
             "step_six": {
-                "MISSING-text": "Avatars can have multiple skins split into one of 3 categories: Standard, exclusive and limited/unavailable."
+                "text": "Avatarer kan ha flere skinn delt inn i én av tre kategorier: standard, eksklusiv og begrenset/utilgjengelig."
             },
             "step_seven": {
-                "MISSING-text": "Standard skins can be unlocked using notes, these are earned by playing quizzes and guessing correctly."
+                "text": "Standardskinn kan låses opp ved hjelp av notes, disse tjenes ved å spille quizer og gjette riktig."
             },
             "step_eight": {
-                "MISSING-text": "Exclusive skins can be unlocked by rolling them using tickets in the ticket system. Tickets are earned by leveling up, supporting the game on Patreon or bought directly."
+                "text": "Eksklusive skinn kan låses opp ved å rulle dem med tickets i ticketsystemet. Tickets tjenes ved å gå opp i level, støtte spillet på Patreon eller kjøpes direkte."
             },
             "step_nine": {
-                "MISSING-text": "Limited skins work like exclusive skins, but are only available during specific times of the year, such as holidays and specific seasons, for the rest of the year they're unavailable and can't be unlocked."
+                "text": "Begrensede skinn kan fungerer som eksklusive skinn, men er bare tilgjengelige i bestemte tider av året, for eksemple høytider og bestemte sesonger. Resten av året er de utilgjengelig og kan ikke låses opp."
             },
             "step_ten": {
-                "MISSING-text": "With the types out of the way, try selecting the standard Komugi skin."
+                "text": "Når typene er ute av veien, kan du prøve å velge standard Komugi skinnet."
             },
             "step_eleven": {
-                "MISSING-text": "Here we have the versions you'll actually be unlocking. _BREAK_ Each skin has several different recolors that can be unlocked, and even some more advanced alternative versions of the skin. Feel free to have a look around before we continue."
+                "text": "Her har vi versjonene du faktisk kommer til å låse opp. _BREAK_ Hvert skinn har flere forskjellige antrekk som kan låses opp, og til og med noen mer avanserte alternative versjoner av skinnet. Ta gjerne en titt rundt før vi fortsetter."
             },
             "step_twelve": {
-                "MISSING-text": "Each of the skin and each color has a separate cost. So once you've unlocked a skin, all the recolors will become cheaper!"
+                "text": "Hvert skinn og antrekk har forskjellige kostnader. Så når du har låst opp et skinn, blir alle antrekkene billigere."
             },
             "step_thirteen": {
-                "MISSING-text": "The recolors and alternative versions marked with a ticket icon are unlocked through the ticket system. The color of the ticket shows their rarity in the ticket system."
+                "text": "Antrekkene og alternative versjoner merket med et ticketikon låses opp gjennom ticketsystemet. Fargen på ticketen viser hvor sjelden de er i ticketsytemet."
             },
             "step_fourteen": {
-                "MISSING-text": "Besides getting them in the ticket system, they can also be unlocked by using rhythm, a separate currency earned through the ticket system."
+                "text": "I tillegg til å få dem i ticketsystemet, kan de også låses opp ved å bruke rhythm, en separat valuta som tjenes gjennom ticketsystemet."
             },
             "step_fifteen": {
-                "MISSING-text": "That's it for the avatar basics. If you're interested in knowing more about the Ticket System, check out the Tickets tab. There's also several emotes you can unlock for use in the chat and on your profile which can be found in the Emote tab."
+                "text": "Det var alt for det grunnleggende om avatarer. Hvis du er interesert i å vite mer om ticketsystemet, kan du sjekke ut ticket-fanen. Det finnes også flere emojier du kan låse opp for bruk i chatten og på profilen din, som du finner i emoji-fanen"
             },
             "step_sixteen": {
-                "MISSING-text": "Speaking of profiles, that's covered in the last tutorial. Let me know if you're up for grabbing it now!",
+                "text": "Når vi snakker om profiler, det ble dekket i den siste delen opplæringen. Gi meg beskjed om du er klar for å få ta den nå!",
                 "options": {
-                    "MISSING-yes": "Yes, let's go!",
-                    "MISSING-no": "No, I'm good for now"
+                    "yes": "Ja, la oss begynne!",
+                    "no": "Nei, ellers takk"
                 }
             },
             "step_sixteen_first_time": {
-                "MISSING-text": "Speaking of profiles, that's covered in the last tutorial. Let me know if you're up for grabbing it now! _BREAK_ Also as this was your first time completing the avatar tutorial, here's some notes to help get you towards unlocking your next skin!",
+                "text": "Når vi snakker om profiler, det ble dekket i den siste delen opplæringen. Gi meg beskjed om du er klar for å få ta den nå! _BREAK_ Siden dette var første gang du fullførte avatar-opplæringen, her har du noen notes som kan hjelpe deg med å låse opp ditt neste skinn!",
                 "options": {
-                    "MISSING-yes": "Yes, let's go!",
-                    "MISSING-no": "No, I'm good for now"
+                    "yes": "Ja, la oss begynne!",
+                    "no": "Nei, ellers takk"
                 }
             }
         },
