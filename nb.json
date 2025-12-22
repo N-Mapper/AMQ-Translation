@@ -335,7 +335,7 @@
             "complete_registration": "Fullfør registreringen",
             "complete_registration_message": "For å fullføre registreringen, bekreft e-postadressen din ved å klikke på lenken som er sendt til _BOLD_ _EMAIL_ _BOLD_"
         },
-        "cookie_disclaimer": "Dette nettstedet bruker informasjonskapsler for å lagre lokale innstillinger, for eksempel musikkvolum og siste brukte innloggingsnavn. Tredjepartstjenester som brukes av nettstedet kan også sette informasjonskapsler. For mer informasjon, se informasjonskapsledelen av personvernerklæringen. Ved å fortsette å bruke nettstedet, samtykker du i at nettstedet kan sette disse informasjonskapslene.",
+        "cookie_disclaimer": "Dette nettstedet bruker informasjonskapsler for å lagre lokale innstillinger, for eksempel musikkvolum og siste brukte innloggingsnavn. Tredjepartstjenester som brukes av nettstedet kan også sette informasjonskapsler. For mer informasjon, se informasjonskapselen av personvernerklæringen. Ved å fortsette å bruke nettstedet, samtykker du i at nettstedet kan sette disse informasjonskapslene.",
         "cookie_learn_more": "Se mer"
     },
     "login_page": {
@@ -4467,7 +4467,7 @@
         "artifact": {
             "ancestor": {
                 "title": "Forfader",
-                "description": "Få en bonus på alle statistikker i 6 runder etter å ha blitt angrepet"
+                "description": "Få en buff på alle statistikker i 6 runder etter å ha blitt angrepet"
             },
             "berserker_star": {
                 "title": "Berserker-stjerne",
@@ -4535,7 +4535,7 @@
             },
             "ruler_piece": {
                 "title": "Herskerbrikke",
-                "description": "Få en tilfeldig bonus når evnen brukes"
+                "description": "Få en tilfeldig buff når evnen brukes"
             },
             "sealed_watch": {
                 "title": "Forseglet klokke",
@@ -4959,8 +4959,8 @@
             "etsuko": {
                 "standard": {
                     "name": "Naturlig sprinter",
-                    "description": "Flytt deg én posisjon fremover i gruppen, og få en bonus i angrep og nøyaktighet. Kan bare brukes hvis det er en avatar foran Etruko som kan bytte posisjon",
-                    "badge_description": "Tilfeldig sjanse til å avansere i gruppen, og få en bonus til angrep og nøyaktighet"
+                    "description": "Flytt deg én posisjon fremover i gruppen, og få en buff i angrep og nøyaktighet. Kan bare brukes hvis det er en avatar foran Etruko som kan bytte posisjon",
+                    "badge_description": "Tilfeldig sjanse til å avansere i gruppen, og få en buff til angrep og nøyaktighet"
                 }
             },
             "fira": {
@@ -5098,7 +5098,7 @@
                 "demon_lord": {
                     "name": "Mørk kontrakt",
                     "description": "Forsterk målalliert, øk skaden deres og gjenoppliv dem hvis de blir drept. Hvis de gjenopplives, må en avatar eller fiende dø før buffen utløper, ellers dør de igjen",
-                    "badge_description": "Tilfeldig sjanse til å gi en alliert Mørk kontrakt buffen, noe som øker skaden deres og gjenoppliver dem hvis de blir drept, men hvis de blir gjenopplivet, må en annen avatar eller fiende dø før bonusen utløper, ellers dør de igjen"
+                    "badge_description": "Tilfeldig sjanse til å gi en alliert Mørk kontrakt buffen, noe som øker skaden deres og gjenoppliver dem hvis de blir drept, men hvis de blir gjenopplivet, må en annen avatar eller fiende dø før buffen utløper, ellers dør de igjen"
                 }
             },
             "marine": {
@@ -5171,8 +5171,8 @@
                 },
                 "bard": {
                     "name": "Bardernes serenade",
-                    "description": "Gir alle i gruppen en tilfeldig bonus",
-                    "badge_description": "Tilfeldig sjanse til å gi alle i gruppen en tilfeldig bonus"
+                    "description": "Gir alle i gruppen en tilfeldig buff",
+                    "badge_description": "Tilfeldig sjanse til å gi alle i gruppen en tilfeldig buff"
                 }
             },
             "sachiko": {
@@ -5865,7 +5865,7 @@
                 "text": "Ferdig for nå? _BREAK_ Hvis du vil fortsette opplæringen en annen gang, finner du den i menyen nederst til høyre. Håper du koser deg med å spille Anime Music Quiz!"
             },
             "type_two": {
-                "text": "Det er greit. _BREAK_ Hvis du vill fortsette opplæringen en annen gang, finner du den i menyen nederst til høyre. Håper du koser deg med å spille Anime Music Quiz!"
+                "text": "Det er greit. _BREAK_ Hvis du vil fortsette opplæringen en annen gang, finner du den i menyen nederst til høyre. Håper du koser deg med å spille Anime Music Quiz!"
             }
         },
         "start_warning": {
