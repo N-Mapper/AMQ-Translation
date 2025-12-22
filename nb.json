@@ -4507,11 +4507,11 @@
             },
             "energy_jar": {
                 "title": "Energikrukke",
-                "description": "Få et skjold i starten av kampene. Dette skjoldet kan blir værende mellom kamper."
+                "description": "Få et skjold i starten av kampene. Dette skjoldet blir værende mellom kamper."
             },
             "hornet_stinger": {
                 "title": "Stikkeveps brodd",
-                "description": "Hvis du lander to angrep på rad, blir det andre angreptt garantert et kritisk treff"
+                "description": "Hvis du lander to angrep på rad, blir det andre angrepet garantert et kritisk treff"
             },
             "legends_shield": {
                 "title": "Legendens skjold",
@@ -4689,7 +4689,7 @@
                         }
                     },
                     "accept": {
-                        "text": "Kaninen trekker frem en liten summer. _BREAK_ \"Når jeg klikker på summeren, _HIGHLIGHT_ vil et liten del av en anime intro spilles av _HIGHLIGHT_, og du har _HIGHLIGHT_ 10 sekunder på deg til å velge riktig program _HIGHLIGHT_ fra de oppgitte valgene.\" _BREAK_ \"Bare gi meg et sekund til å gjøre alt klart.\"",
+                        "text": "Kaninen trekker frem en liten summer. _BREAK_ \"Når jeg klikker på summeren, _HIGHLIGHT_ vil en liten del av en anime intro spilles av _HIGHLIGHT_, og du har _HIGHLIGHT_ 10 sekunder på deg til å velge riktig program _HIGHLIGHT_ fra de oppgitte valgene.\" _BREAK_ \"Bare gi meg et sekund til å gjøre alt klart.\"",
                         "options": {
                             "first_question": "Første spørsmål"
                         }
@@ -4993,7 +4993,7 @@
                 "standard": {
                     "name": "Dyp dykk",
                     "description": "Få buffs for opptil _NUMBER_ av de gjeldende sangsjangrene, som hver øker skaden i disse sjangrene",
-                    "badge_description": "Tilfeldig sjanse til å få en buff som øker skaden i en av de nåværende sangsjagrene"
+                    "badge_description": "Tilfeldig sjanse til å få en buff som øker skaden i en av de nåværende sangsjangrene"
                 }
             },
             "hikari": {
