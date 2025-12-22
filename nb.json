@@ -335,7 +335,7 @@
             "complete_registration_message": "For å fullføre registreringen, bekreft e-postadressen din ved å klikke på lenken som er sendt til _BOLD_ _EMAIL_ _BOLD_"
         },
         "cookie_disclaimer": "Dette nettstedet bruker informasjonskaplser for å lagre lokale innstillinger, for eksempel musikkvolum og siste rukte innloggingsnavn. Tredjepartstjenester som brukes av nettstedet kan også sette informasjonskapsler. For mer informasjon, se informasjonskapsle-delen av personavererklæringen. Ved å fortsette å bruke nettstedet, samtykker du i at nettstedet kan sette disse informasjonskapslene.",
-        "MISSING-cookie_learn_more": "Learn More"
+        "cookie_learn_more": "Se mer"
     },
     "login_page": {
         "ui": {
@@ -427,8 +427,7 @@
             "stay_connected": "Hold kontakten",
             "song_library": "Sangbibliotek",
             "leaderboard": "Ledertavle",
-            "MISSING-merch": "Merch",
-            "DELETED-merch_store": "Merchbutikk"
+            "merch": "Merch"
         },
         "carousel": {
             "social_promo": "Få gratis tickets ved å følge AMQ på Discord og Patreon!",
@@ -654,23 +653,23 @@
             }
         },
         "amq_funding": {
-            "MISSING-title": "AMQ Funding",
+            "title": "AMQ finansiering",
             "month": {
-                "MISSING-january": "January Result",
-                "MISSING-february": "February Result",
-                "MISSING-march": "March Result",
-                "MISSING-april": "April Result",
-                "MISSING-may": "May Result",
-                "MISSING-june": "June Result",
-                "MISSING-july": "July Result",
-                "MISSING-august": "August Result",
-                "MISSING-september": "September Result",
-                "MISSING-october": "October Result",
-                "MISSING-november": "November Result",
-                "MISSING-december": "December Result"
+                "january": "Januar resultat",
+                "february": "Februar resultat",
+                "march": "Mars resultat",
+                "april": "April resultat",
+                "may": "Mai resultat",
+                "june": "Juni resultat",
+                "july": "Juli resultat",
+                "august": "August resultat",
+                "september": "September resultat",
+                "october": "Oktober resultat",
+                "november": "November resultat",
+                "december": "Desember resultat"
             },
-            "MISSING-yearly": "Yearly Result",
-            "MISSING-description": "The funding results from last month and overall for the year. AMQ is completely community funded which pays for the server and development costs. All money earned goes to continue improving and expanding the game, thanks for all the support!"
+            "yearly": "Årlig resultat",
+            "description": "Finansieringen fra forrige måned og totalt for året. AMQ er fullstending finansiert av felleskapet, som betaler for server- og utviklingskostnader. Alle inntekter går til å fortsette å forbedre og utvikle spillet. Takk for all støtten!"
         }
     },
     "menu_bar": {
@@ -1421,7 +1420,7 @@
                 "days_remaining": "_SPANC_ _NUMBER_ _SPANC_ dag(er) igjen",
                 "getting_started_pack": "Komme i gang-pakken",
                 "promo": "Kampanje",
-                "MISSING-sale": "Sale"
+                "sale": "Salg"
             },
             "subtotal": "Delsum",
             "sales_tax": "moms.",
@@ -2600,7 +2599,7 @@
                 "tag": "Tagg",
                 "popularity": "Popularitet"
             },
-            "MISSING-search_placeholder": "Search rooms"
+            "search_placeholder": "Romsøk"
         },
         "host_room": "Åpne et rom",
         "games": "Game",
@@ -2651,41 +2650,41 @@
             }
         },
         "nexus_lobbies": {
-            "MISSING-title": "Nexus Lobbies",
-            "MISSING-open": "_NUMBER_ Open",
-            "MISSING-no_lobbies": "No Open Lobbies",
-            "MISSING-slot_name": "Slot _NUMBER_",
-            "MISSING-players_popover_header": "Players in Lobby",
-            "MISSING-click_to_join": "Click to Join",
-            "MISSING-lobby_full_message": "Lobby is Full",
+            "title": "Nexus lobbyer",
+            "open": "_NUMBER_ åpne",
+            "no_lobbies": "Ingen lobbyer åpne",
+            "slot_name": "Plass _NUMBER_",
+            "players_popover_header": "Spillere i lobby",
+            "click_to_join": "Klikk for å bli med",
+            "obby_full_message": "Lobbyen er full",
             "unknown_lobby": {
-                "MISSING-title": "Couldn't Find Nexus Lobby",
-                "MISSING-description": "The Nexus Lobby you are trying to join doesn't exist or has been closed."
+                "title": "Kunne ikke finne Nexus lobby",
+                "description": "Nexus lobbyen du prøver å bli med i finnes ikke eller er strengt"
             },
             "room_settings": {
                 "type": {
-                    "MISSING-endless": "Endless",
-                    "MISSING-standard": "Standard"
+                    "endless": "Uendelig",
+                    "standard": "Standard"
                 },
                 "song_type": {
-                    "MISSING-opening": "OP",
-                    "MISSING-ending": "ED",
-                    "MISSING-insert": "IN"
+                    "opening": "OP",
+                    "ending": "ED",
+                    "insert": "IN"
                 },
                 "difficulty": {
-                    "MISSING-easy": "Easy",
-                    "MISSING-medium": "Medium",
-                    "MISSING-hard": "Hard"
+                    "easy": "Lett",
+                    "medium": "Middels",
+                    "hard": "Vanskelig"
                 },
                 "song_selection": {
-                    "MISSING-watched": "Watched",
-                    "MISSING-random": "Random"
+                    "watched": "Sett",
+                    "random": "Tilfeldig"
                 },
                 "answering_mode": {
-                    "MISSING-typing": "Typing",
-                    "MISSING-multiple_choice": "Multiple Choice"
+                    "typing": "Skriving",
+                    "multiple_choice": "Flervalg"
                 },
-                "MISSING-floor": "Floor _NUMBER_"
+                "floor": "Etasje _NUMBER_"
             }
         }
     },
@@ -3158,16 +3157,16 @@
                 "tv": "TV",
                 "movie": "Film",
                 "special": "Spesial",
-                "MISSING-easy": "Easy",
-                "MISSING-medium": "Medium",
-                "MISSING-hard": "Hard",
-                "MISSING-openings": "Openings",
-                "MISSING-endings": "Endings",
-                "MISSING-inserts": "Inserts",
-                "MISSING-standard": "Standard",
-                "MISSING-character": "Character",
-                "MISSING-chanting": "Chanting",
-                "MISSING-instrumental": "Instrumental"
+                "easy": "Lett",
+                "medium": "Middels",
+                "hard": "Vanskelig",
+                "openings": "Introer",
+                "endings": "Slutter",
+                "inserts": "Innsatser",
+                "standard": "Standard",
+                "character": "Karakter",
+                "chanting": "Messing",
+                "instrumental": "Instrumental"
             }
         },
         "ranked_rules": {
@@ -3444,9 +3443,9 @@
         },
         "anime_name_placeholder": "Animenavn",
         "rejoin_prompt": {
-            "MISSING-title": "Rejoin Disconnect Game",
-            "MISSING-description": "You where disconnected from your last game, want to rejoin it?",
-            "MISSING-rejoin_button": "Rejoin"
+            "title": "Bli med i game du koblet fra",
+            "description": "Du ble koblet fra forrige game, vil du bli med igjen?",
+            "rejoin_button": "Bli med igjen"
         }
     },
     "anime_tags": {
@@ -3960,10 +3959,10 @@
                         "description": "Skriv inn ID-en for lobbyen du vil blie med i",
                         "missing_id": "Du må oppgi en lobby ID",
                         "invalid_id": "Ugyldig lobby ID",
-                        "MISSING-full": "The lobby is full",
+                        "full": "Lobbyen er full",
                         "unavailable_guest": {
-                            "MISSING-title": "Unavailable for Guest Accounts",
-                            "MISSING-description": "Co-op mode is not available for guest accounts, please create an account to access this feature."
+                            "title": "Ikke tilgjengelig for gjestekontoer",
+                            "description": "Co-op modus er ikke tilgjengelig for gjestekontoer. Opprett en konto for å få tilgang til denne funksjonen."
                         }
                     },
                     "dungeon_mode": "Dungeon-modus",
@@ -4047,8 +4046,8 @@
                         "description": "Bryt etasjegrensen ved å fullføre de 5 neste etasjene i uendelig modusen!"
                     },
                     "public_description": {
-                        "MISSING-make_public": "Make lobby public, so anyone can join",
-                        "MISSING-make_private": "Make lobby private, so only people with the ID can join"
+                        "make_public": "Gjør lobbyen offentlig, slik at alle kan bli med",
+                        "make_private": "Gjør lobbyen privat, slik at bare personer med ID-en kan bli med"
                     }
                 },
                 "co_op_saves": {
@@ -4077,7 +4076,7 @@
                     "add_to_team": "Legg til lag",
                     "locked": "Låst",
                     "background_locked": "Lås opp 10 versjoner av dette skinnet _BREAK_ for å låse opp bakgrunnene",
-                    "MISSING-no_toggle": "No Toggle"
+                    "no_toggle": "Ingen veksling"
                 },
                 "team_setup": {
                     "rename": "Gi nytt navn til laget",
@@ -4173,7 +4172,7 @@
                 "early_access": "Tidlig tilgang for Patreon-medlemmer på nivå 4+ frem til _DATE_",
                 "character_locked_popover": "Ikke låst opp",
                 "character_already_in_party": "Karakter allerede i gruppe",
-                "MISSING-clear": "Clear"
+                "clear": "Tøm"
             },
             "building_names": {
                 "dungeon": "Dungeon",
@@ -4220,8 +4219,8 @@
                 "no_drops": "Ikke noe bytte",
                 "select_avatar": "Velg avatar",
                 "skip_artifact": {
-                    "MISSING-text": "Skip Artifact?",
-                    "MISSING-skip_button": "Skip"
+                    "text": "Hopp over artefakt?",
+                    "skip_button": "Hopp over"
                 }
             },
             "event_window": {
@@ -4248,15 +4247,15 @@
                 "party_wipe": "Laget døde",
                 "floor_cleared": "Etasje passert",
                 "xp_reward_types": {
-                    "MISSING-combat": "Combat",
-                    "MISSING-clear": "Floor Clear"
+                    "combat": "Kamp",
+                    "clear": "Etasje fullført"
                 },
                 "unlocks": {
-                    "MISSING-ability_level": "Ability Up",
-                    "MISSING-badge": "Badge",
-                    "MISSING-badge_level": "Badge Up",
-                    "MISSING-genre_power": "Genre Power",
-                    "MISSING-rune_slot": "Rune Slot"
+                    "ability_level": "Evne opp",
+                    "badge": "Merke",
+                    "badge_level": "Merke opp",
+                    "genre_power": "Sjangerkraft",
+                    "rune_slot": "Runeplass"
                 }
             },
             "next_floor_window": {
