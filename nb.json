@@ -46,7 +46,7 @@
             "not_applicable": "N/A",
             "claimed_button": "Mottatt",
             "search_placeholder": "Søk",
-            "MISSING-server_restart": "Server Restart"
+            "server_restart": "Server starts på nytt"
         },
         "popout_messages": {
             "unexpected_error": "Uventet feil",
@@ -2687,7 +2687,7 @@
                 },
                 "floor": "Etasje _NUMBER_"
             },
-            "MISSING-lobby_full_message": "Lobbyen er full"
+            "lobby_full_message": "Lobbyen er full"
         }
     },
     "quiz_builder": {
@@ -4275,9 +4275,9 @@
                 "lock_artifact_description": "Lås inne en artefakt for å bringe den til neste etasje. Hver avatar kan bare låse inne én artefakt"
             },
             "abandon_run_vote": {
-                "MISSING-title": "Abandon Run?",
-                "MISSING-yes_button": "Yes",
-                "MISSING-no_button": "No"
+                "title": "Forlat run",
+                "yes_button": "Ja",
+                "no_button": "Nei"
             }
         },
         "avatar": {
@@ -5832,7 +5832,7 @@
                 "text": "Men det sparer vi til en annen gang, siden vi skal se på profilen din nå! _BREAK_ Klikk på profilen til høyre for Pålogget fanen, så skal den dukke opp."
             },
             "step_five": {
-                "text": "Her har vi profilen din! Profiler viser statistikk som anime-listen din, kontoens alder samt hvor mye og hvor bra du har spilt. Den kan også brukes til å vise merker du har tjent!"
+                "text": "Her har vi profilen din! Profiler viser statistikk som animelisten din, kontoens alder samt hvor mye og hvor bra du har spilt. Den kan også brukes til å vise merker du har tjent!"
             },
             "step_six": {
                 "text": "Nederst har vi alternativene du kan bruke på profiler, for eksempel å sende spilleren en melding, venneforespørsel eller gameforespørseler. Du kan til og med blokkere eller rapportere spillere hvis det blir nødvending."
@@ -5841,7 +5841,7 @@
                 "text": "De fleste av disse alternavtivene er nedtonet for deg, siden du ikke kan gjøre dem på deg selv. Men hvis du klikker på det stiplede alternativet til høyre, vil du se det ene alternativet som er tilgjengelig for deg på profilen, redigering av den. _BREAK_ Prøv å klikke på den, så skal du se redigeringsvisningen."
             },
             "step_eight": {
-                "text": "Ved å redigere profilen din kan du oppdatere nesten alt ved den. Du kan vise/skjule statistikken ved å klikke på øyet til venstre for den. Du kan endre hvilket nettsted med anime-lister som vises, og til og med endre profilbildet ditt til en hvilken som helst emoji du har låst opp i ticketsystemet!"
+                "text": "Ved å redigere profilen din kan du oppdatere nesten alt ved den. Du kan vise/skjule statistikken ved å klikke på øyet til venstre for den. Du kan endre hvilket nettsted med animelister som vises, og til og med endre profilbildet ditt til en hvilken som helst emoji du har låst opp i ticketsystemet!"
             },
             "step_nine": {
                 "text": "Alle merker du låser opp, for eksempel ved å låse opp skinn og rangert spillmodusen, vil du også kunne vise på profilen din."
@@ -5957,140 +5957,140 @@
         "yan": "Yan"
     },
     "daily_quests": {
-        "MISSING-title": "Daily Quests",
+        "title": "Daglig oppdrag",
         "description": {
-            "MISSING-title": "Daily Quests",
-            "MISSING-description": "Complete daily quests to earn bonus notes, and earn an avatar token for every 7 quest completed! A new quest becomes available every day at 12:00 CET, and you’ll have 7 days to complete it."
+            "title": "Daglig oppdrag",
+            "description": "Fullfør daglige oppdrag for å tjene bonus notes, og tjen en avatar token for hvert 7. oppdrag du fullfører! Et nytt oppdrag blir tilgjengelig hver dag klokken 12:00 CET, og du har 7 dager på deg til å fullføre det."
         },
-        "MISSING-event_quest": "Event Quest",
-        "MISSING-weekly_quest": "Weekly Quest",
+        "event_quest": "Event oppdrag",
+        "weekly_quest": "Ukentlig oppdrag",
         "category": {
-            "MISSING-monday": "Mon",
-            "MISSING-tuesday": "Tue",
-            "MISSING-wednesday": "Wed",
-            "MISSING-thursday": "Thu",
-            "MISSING-friday": "Fri",
-            "MISSING-saturday": "Sat",
-            "MISSING-sunday": "Sun",
-            "MISSING-event": "Eve"
+            "monday": "Man",
+            "tuesday": "Tir",
+            "wednesday": "Ons",
+            "thursday": "Tor",
+            "friday": "Fre",
+            "saturday": "Lør",
+            "sunday": "Søn",
+            "event": "Eve"
         },
-        "MISSING-quest_description": "_DESCRIPTION_ _BREAK_ Reward: _NUMBER_ notes _BREAK_ Resets _DATE_",
+        "MISSING-quest_description": "_DESCRIPTION_ _BREAK_ Belønning: _NUMBER_ noter _BREAK_ Tilbakestilles _DATE_",
         "quests": {
             "br_flex": {
-                "MISSING-title": "BR Flex",
-                "MISSING-description": "Guess 20 songs you didn't loot, in non-team games with looting enabled"
+                "title": "BR flex",
+                "description": "Gjett 20 sanger du ikke innsamlet, i et ikke-laggame med innsamling aktivt"
             },
             "master_rigger": {
-                "MISSING-title": "Master Rigger",
-                "MISSING-description": "Guess 20 songs from your anime list, in non-team games"
+                "title": "Mester rigger",
+                "description": "Gjett 20 sanger fra animelisten din"
             },
             "survivor": {
-                "MISSING-title": "Survivor",
-                "MISSING-description": "Survive 10 rounds when playing with lives, in non-team games"
+                "title": "Overlevende",
+                "description": "Overlev 10 runder når du spiller med liv, i ikke-laggame"
             },
             "master_sniper": {
-                "MISSING-title": "Master Sniper",
-                "MISSING-description": "Guess 20 songs not from your anime list, in non-team games"
+                "title": "Mester snikskytter",
+                "description": "Gjett 20 sanger som ikke er fra animlisten din, i ikke-laggame"
             },
             "lightning_fast": {
-                "MISSING-title": "Lightning Fast",
-                "MISSING-description": "Guess 20 songs within the first 7 seconds of it, in non-team games"
+                "title": "Lynraskt",
+                "description": "Gjett 20 sanger i løpet av de først 7 sekundene, i ikke-laggame"
             },
             "i_love_that_show": {
-                "MISSING-title": "I Love That Show",
-                "MISSING-description": "Guess 20 songs from shows you've scored 8+ in your anime list, in non-team games"
+                "title": "Jeg elsker det programmet",
+                "description": "Gjett 20 sanger du har gitt 8+ på animelisten din, i ikke-laggame"
             },
             "keeping_up_to_date": {
-                "MISSING-title": "Keeping Up To Date",
-                "MISSING-description": "Guess 20 songs from shows released in the 4 latest anime seasons, in non-team games"
+                "title": "Hold deg oppdatert",
+                "description": "Gjett 20 sanger fra serier utgitt de 4 siste animesesongene, i ikke-laggame"
             },
             "dont_skip_openings": {
-                "MISSING-title": "Don't Skip Openings",
-                "MISSING-description": "Guess 20 opening songs, in non-team games"
+                "title": "Ikke hopp over introer",
+                "description": "Gjett 20 introer, i ikke-laggame"
             },
             "dont_skip_endings": {
-                "MISSING-title": "Don't Skip Endings",
-                "MISSING-description": "Guess 20 ending songs, in non-team games"
+                "title": "Ikke hopp over slutter",
+                "description": "Gjett 20 sluttsanger, i ikke-laggame"
             },
             "dont_skip_inserts": {
-                "MISSING-title": "Don't Skip Inserts",
-                "MISSING-description": "Guess 20 insert songs, in non-team games"
+                "title": "Ikke hopp over innsatser",
+                "description": "Gjett 20 innsatser, i ikke-laggame"
             },
             "action_fan": {
-                "MISSING-title": "Action Fan",
-                "MISSING-description": "Guess 20 songs from action shows, in non-team games"
+                "title": "Actionfan",
+                "description": "Gjett 20 sanger fra actionprogrammer, i ikke-laggame"
             },
             "adventure_fan": {
-                "MISSING-title": "Adventure Fan",
-                "MISSING-description": "Guess 20 songs from adventure shows, in non-team games"
+                "title": "Eventyrfan",
+                "description": "Gjett 20 sanger fra eventyrprogrammer, i ikke-laggame"
             },
             "comedy_fan": {
-                "MISSING-title": "Comedy Fan",
-                "MISSING-description": "Guess 20 songs from comedy shows, in non-team games"
+                "title": "Komediefan",
+                "description": "Gjett 20 sanger fra komedieprogrammer, i ikke-laggame"
             },
             "drama_fan": {
-                "MISSING-title": "Drama Fan",
-                "MISSING-description": "Guess 20 songs from drama shows, in non-team games"
+                "title": "Dramafan",
+                "description": "Gjett 20 sanger fra dramaprogrammer, i ikke-laggame"
             },
             "ecchi_fan": {
-                "MISSING-title": "Ecchi Fan",
-                "MISSING-description": "Guess 20 songs from ecchi shows, in non-team games"
+                "title": "Ecchifan",
+                "description": "Gjett 20 sanger fra ecchiprogrammer, i ikke-laggame"
             },
             "fantasy_fan": {
-                "MISSING-title": "Fantasy Fan",
-                "MISSING-description": "Guess 20 songs from fantasy shows, in non-team games"
+                "title": "Fantasyfan",
+                "description": "Gjett 20 sanger fra fantasyprogrammer, i ikke-laggame"
             },
             "horror_fan": {
-                "MISSING-title": "Horror Fan",
-                "MISSING-description": "Guess 20 songs from horror shows, in non-team games"
+                "title": "Skrekkfan",
+                "description": "Gjett 20 sanger fra skrekkprogrammer, i ikke-laggame"
             },
             "mahou_shoujo_fan": {
-                "MISSING-title": "Mahou Shoujo Fan",
-                "MISSING-description": "Guess 20 songs from mahou shoujo shows, in non-team games"
+                "title": "Mahou shoujo-fan",
+                "description": "Gjett 20 sanger fra mahou shoujo-programmer, i ikke-laggame"
             },
             "mecha_fan": {
-                "MISSING-title": "Mecha Fan",
-                "MISSING-description": "Guess 20 songs from mecha shows, in non-team games"
+                "title": "Mechafan",
+                "description": "Gjett 20 sanger fra mechaprogrammer, i ikke-laggame"
             },
             "music_fan": {
-                "MISSING-title": "Music Fan",
-                "MISSING-description": "Guess 20 songs from music shows, in non-team games"
+                "title": "Musikkfan",
+                "description": "Gjett 20 sanger fra musikkprogrammer, i ikke-laggame"
             },
             "mystery_fan": {
-                "MISSING-title": "Mystery Fan",
-                "MISSING-description": "Guess 20 songs from mystery shows, in non-team games"
+                "title": "Mysteriefan",
+                "description": "Gjett 20 sanger fra mysterieprogrammer, i ikke-laggame"
             },
             "psychological_fan": {
-                "MISSING-title": "Psychological Fan",
-                "MISSING-description": "Guess 20 songs from psychological shows, in non-team games"
+                "title": "Psykologiskfan",
+                "description": "Gjett 20 sanger fra psykologiskeprogrammer, i ikke-laggame"
             },
             "romance_fan": {
-                "MISSING-title": "Romance Fan",
-                "MISSING-description": "Guess 20 songs from romance shows, in non-team games"
+                "title": "Romansefan",
+                "description": "Gjett 20 sanger fra romanseprogrammer, i ikke-laggame"
             },
             "sci-fi_fan": {
-                "MISSING-title": "Sci-Fi Fan",
-                "MISSING-description": "Guess 20 songs from sci-fi shows, in non-team games"
+                "title": "Sci-fi-fan",
+                "description": "Gjett 20 sanger fra sci-fi-programmer, i ikke-laggame"
             },
             "slice_of_life_fan": {
-                "MISSING-title": "Slice of Life Fan",
-                "MISSING-description": "Guess 20 songs from slice of fife shows, in non-team games"
+                "title": "Slice of life-fan",
+                "description": "Gjett 20 sanger fra slice of life-programmer, i ikke-laggame"
             },
             "sports_fan": {
-                "MISSING-title": "Sports Fan",
-                "MISSING-description": "Guess 20 songs from sports shows, in non-team games"
+                "title": "Sportsfan",
+                "description": "Gjett 20 sanger fra sportprogrammer, i ikke-laggame"
             },
             "supernatural_fan": {
-                "MISSING-title": "Supernatural Fan",
-                "MISSING-description": "Guess 20 songs from supernatural shows, in non-team games"
+                "title": "Overnaturligfan",
+                "description": "Gjett 20 sanger fra overnaturligprogrammer, i ikke-laggame"
             },
             "thriller_fan": {
-                "MISSING-title": "Thriller Fan",
-                "MISSING-description": "Guess 20 songs from thriller shows, in non-team games"
+                "title": "Thriller-fan",
+                "description": "Gjett 20 sanger fra thrillerprogrammer, i ikke-laggame"
             },
             "just_jamming": {
-                "MISSING-title": "Just Jamming",
-                "MISSING-description": "Guess 20 songs in the Jam Quiz"
+                "title": "Bare jamme",
+                "description": "Gjett 20 sanger i jam quiz"
             }
         }
     }
