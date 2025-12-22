@@ -45,7 +45,8 @@
             "report": "Rappoter",
             "not_applicable": "N/A",
             "claimed_button": "Mottatt",
-            "search_placeholder": "Søk"
+            "search_placeholder": "Søk",
+			"MISSING-server_restart": "Server Restart"
         },
         "popout_messages": {
             "unexpected_error": "Uventet feil",
@@ -334,7 +335,7 @@
             "complete_registration": "Fullfør registreringen",
             "complete_registration_message": "For å fullføre registreringen, bekreft e-postadressen din ved å klikke på lenken som er sendt til _BOLD_ _EMAIL_ _BOLD_"
         },
-        "cookie_disclaimer": "Dette nettstedet bruker informasjonskaplser for å lagre lokale innstillinger, for eksempel musikkvolum og siste rukte innloggingsnavn. Tredjepartstjenester som brukes av nettstedet kan også sette informasjonskapsler. For mer informasjon, se informasjonskapsle-delen av personavererklæringen. Ved å fortsette å bruke nettstedet, samtykker du i at nettstedet kan sette disse informasjonskapslene.",
+        "cookie_disclaimer": "Dette nettstedet bruker informasjonskapsler for å lagre lokale innstillinger, for eksempel musikkvolum og siste brukte innloggingsnavn. Tredjepartstjenester som brukes av nettstedet kan også sette informasjonskapsler. For mer informasjon, se informasjonskapsledelen av personvernerklæringen. Ved å fortsette å bruke nettstedet, samtykker du i at nettstedet kan sette disse informasjonskapslene.",
         "cookie_learn_more": "Se mer"
     },
     "login_page": {
@@ -669,7 +670,7 @@
                 "december": "Desember resultat"
             },
             "yearly": "Årlig resultat",
-            "description": "Finansieringen fra forrige måned og totalt for året. AMQ er fullstending finansiert av felleskapet, som betaler for server- og utviklingskostnader. Alle inntekter går til å fortsette å forbedre og utvikle spillet. Takk for all støtten!"
+            "description": "Finansieringen fra forrige måned og totalt for året. AMQ er fullstending finansiert av fellesskapet, som betaler for server- og utviklingskostnader. Alle inntekter går til å fortsette å forbedre og utvikle spillet. Takk for all støtten!"
         }
     },
     "menu_bar": {
@@ -2187,7 +2188,7 @@
             "community": "Fellesskap"
         },
         "game_mode_display": "_NAME_ modus",
-        "game_mode_settings_display": "_NAME_ spillinnstillinger",
+        "game_mode_settings_display": "_NAME_ gameinnstillinger",
         "algorithm_block_settings": "Innstillinger for algoritmeblokk",
         "randomize": "Tilfeldig",
         "custom": "Selvvalgt",
@@ -2656,7 +2657,7 @@
             "slot_name": "Plass _NUMBER_",
             "players_popover_header": "Spillere i lobby",
             "click_to_join": "Klikk for å bli med",
-            "obby_full_message": "Lobbyen er full",
+            "lobby_full_message": "Lobbyen er full"
             "unknown_lobby": {
                 "title": "Kunne ikke finne Nexus lobby",
                 "description": "Nexus lobbyen du prøver å bli med i finnes ikke eller er strengt"
@@ -4006,7 +4007,7 @@
                         },
                         "answering": {
                             "title": "Svarmodus",
-                            "description": "Hvis svaringen på quizen skal skrives inn eller velgs med flervalg",
+                            "description": "Hvis svaringen på quizen skal skrives inn eller velges med flervalg",
                             "typing": "Skriving",
                             "choice": "Valg"
                         },
@@ -4138,10 +4139,10 @@
                         "destroy_button": "Destruer"
                     },
                     "tooltips": {
-                        "all_slots_in_use": "Alle runeplasser i bruk, gå opp i leveel for å låse opp mer",
+                        "all_slots_in_use": "Alle runeplasser i bruk, gå opp i level for å låse opp mer",
                         "no_rune_selected": "Ingen rune valgt. Velg runen du vil utruste ovenfor",
                         "wrong_rune_slot": "_NAME_ _NAME2_ runeplasser. Bare runer som matcher plassen kan utrustes her",
-                        "invalid_setup": "Ugyldig runeoppsett. Sørg fir at alle brukte containere er slått på",
+                        "invalid_setup": "Ugyldig runeoppsett. Sørg for at alle brukte containere er slått på",
                         "duplicate_advanced_rune": "Duplikat av avansert rune. Bare én avansert rune av hver evne kan utrustes"
                     }
                 },
@@ -4266,12 +4267,13 @@
                 "lock_artifact_option": "Lås artefakt",
                 "no_artifacts": "Ingen artefakter",
                 "no_locking_warning": {
-                    "title": "Fortsett uen å låse artefaten?",
+                    "title": "Fortsett uten å låse artefaten?",
                     "continue_button": "Fortsett"
                 },
                 "heal_this_avatar": "Helbred denne avataren",
                 "lock_artifact_description": "Lås inne en artefakt for å bringe den til neste etasje. Hver avatar kan bare låse inne én artefakt"
-            }
+            },
+			"abandon_run_vote": { "MISSING-title": "Abandon Run?", "MISSING-yes_button": "Yes", "MISSING-no_button": "No" }
         },
         "avatar": {
             "genre": "Sjanger",
@@ -4289,7 +4291,7 @@
                 },
                 "dodge": {
                     "title": "Unnvikelse",
-                    "description": "Øk sjansen for å unngå angrep, halver skaden og få en tilfeldig buff"
+                    "description": "Øk sjansen for å unnvike angrep, halver skaden og få en tilfeldig buff"
                 },
                 "attack": {
                     "title": "Angrep",
@@ -4309,7 +4311,7 @@
             "category": {
                 "offensive": "Offensiv",
                 "defensive": "Defensiv",
-                "any": "Hvilken som helts"
+                "any": "Hvilken som helst"
             }
         },
         "hover_display_commons": {
@@ -4369,13 +4371,13 @@
                 "message_two": "Start med å klikke på \"plass 1\" for å se dine tilgjengelige avatarer.",
                 "message_three": "Her har vi alle tilgjengelige avatarer. La oss velge Hibiki.",
                 "message_four": "La meg fullføre utvelgelsen for resten av laget ditt!",
-                "message_five": "Der! Ikke vær redd, jeg skal forklare evenene deres senere. La oss nå gå inn i dungeonen!"
+                "message_five": "Der! Ikke vær redd, jeg skal forklare evnene deres senere. La oss nå gå inn i dungeonen!"
             },
             "dungeon_map": {
                 "message_one": "Her har vi dungeonkartet. I opplæringen holde vi det kort og enkelt! La oss starte med å velge den første ruten."
             },
             "dungeon_combat": {
-                "message_one": "Her har vi kampmøtet, hvor du kjemer mot monstre for å få belønninger.",
+                "message_one": "Her har vi kampmøtet, hvor du kjemper mot monstre for å få belønninger.",
                 "message_two": "Dette er fiendene! Når du gjetter riktig på en sang, vil karakteren som har tur angripe det aktuelle monsteret.",
                 "message_three": "Dette er gruppen din. Fiendene vil angripe gruppemedlemmene dine etter nok feil svar.",
                 "message_four": "La oss først bruke Hikibis evne til å forsterke angrepene hennes!",
@@ -4392,14 +4394,14 @@
             },
             "post_swap": {
                 "message_one": "Bytte fullført! Husk at bytting av avatarer ikke endrer turrekkefølgen deres.",
-                "message_two": "Nå som Yumememi er i posisjon til å ta skadenm bruk evnen hennes til å mykne slaget!",
+                "message_two": "Nå som Yumememi er i posisjon til å ta skaden bruk evnen hennes til å mykne slaget!",
                 "message_three": "Og et feil svar for å sende fiendene til angrep!"
             },
             "post_enemy_attack": {
                 "message_one": "Der, det var ikke så ille, var det vel? Yumemi er veldig tøff!",
                 "message_two": "Posisjonereing er veldig viktig! Vær oppmerksom på hvem som angriper hvem og når, og bruk bytting for å forsvare!",
                 "message_three": "Nå lar jeg deg gjøre av med de gjenværende fiendene på egenhånd! Husk at Chika og Noel har evner du kan bruke! Lykke til!",
-                "message_four": "(Åh ikke beskymre deg, jeg brukte et lite triks for å sørge for at du faktsik ikke kan dø)"
+                "message_four": "(Åh ikke beskymre deg, jeg brukte et lite triks for å sørge for at du faktisk ikke kan dø)"
             },
             "combat_reward": {
                 "message_one": "Gratulerer! Å beseire fiender gir deg fragmenter og noen ganger artefakter.",
@@ -4409,7 +4411,7 @@
             },
             "event": {
                 "message_one": "Dette er en event! Eventer er spesielle møter som kan gi deg belønninger eller utfordringer.",
-                "message_two": "Denne hendelsen er en Tansmutasjonssirkel! Her kan du ofre ting for en belønning.",
+                "message_two": "Denne hendelsen er en Transmutasjonssirkel! Her kan du ofre ting for en belønning.",
                 "message_three": "Klikk på knappen for å ofre artefakten din!",
                 "message_four": "Bra! Du har noen fragmenter! Vi kan bruke dem snart."
             },
@@ -4420,12 +4422,12 @@
                 "message_four": "Det er også en rune her som du ikke har råd til akkurat nå, så la oss fortsette!"
             },
             "boss_combat": {
-                "message_one": "Dette er et bossmøte! Bossene er mye tøffere enn vanglige fiender og har spesielle evner som kan være veldig farlige!",
+                "message_one": "Dette er et bossmøte! Bossene er mye tøffere enn vanlige fiender og har spesielle evner som kan være veldig farlige!",
                 "message_two": "Jeg debuffer den for deg, så tar du den ned! Jeg tror på deg!"
             },
             "boss_dungeon_reward": {
                 "message_one": "Gratulerer! Å beseire bossen gir deg runebelønninger.",
-                "message_two": "Runer gjør ingenting når de er innsamlet i dungeonen, men når vi kom,mer tilbake til byen kan du bruke verkstedet til å utruste dem og øke kraften",
+                "message_two": "Runer gjør ingenting når de er innsamlet i dungeonen, men når vi kommer tilbake til byen kan du bruke verkstedet til å utruste dem og øke kraften",
                 "message_three": "Det gir deg også massevis av XP for avatarene dine!",
                 "message_four": "Å gå opp i level med avatarer lar dem utruste seg med flere runer, styrker evnene deres og lar dem dele kreftene sine med andre avatarer!",
                 "message_five": "Det var alt for opplæringen! Kos deg med Nexus!"
@@ -4442,7 +4444,7 @@
                 "message_two": "Øverst har du alle ubrukte runer du har funnet i Nexus-dungeonen",
                 "message_three": "Runer er delt inn i to kategorier, offensiv (rød) og defensiv (blå).",
                 "message_four": "Runene har også én av to ulike kategorier, standard (trekant og firkant) og avansert (sirkler).",
-                "message_five": "Standard runer gir stablingstatistikk eller sjangerforserkning, mens avanserte runer gir en unik effekt.",
+                "message_five": "Standard runer gir stablingstatistikk eller sjangerforsterkning, mens avanserte runer gir en unik effekt.",
                 "message_six": "Hver runekategori har 20 standardplasser og 1 avansertplass.",
                 "message_seven": "For å låse opp avansertplassen for en kategori, må du først utruste 12 standardruner fra den kategorien.",
                 "message_eight": "Å utruste seg med en avansert rune låser deretter opp de siste 8 standardplassene for kategorien.",
@@ -5948,5 +5950,140 @@
         "veil": "slør",
         "whistle": "fløyte",
         "yan": "Yan"
-    }
+    },
+	"daily_quests": {
+		"MISSING-title": "Daily Quests",
+		"description": {
+			"MISSING-title": "Daily Quests",
+			"MISSING-description": "Complete daily quests to earn bonus notes, and earn an avatar token for every 7 quest completed! A new quest becomes available every day at 12:00 CET, and you’ll have 7 days to complete it."
+		},
+		"MISSING-event_quest": "Event Quest",
+		"MISSING-weekly_quest": "Weekly Quest",
+		"category": {
+			"MISSING-monday": "Mon",
+			"MISSING-tuesday": "Tue",
+			"MISSING-wednesday": "Wed",
+			"MISSING-thursday": "Thu",
+			"MISSING-friday": "Fri",
+			"MISSING-saturday": "Sat",
+			"MISSING-sunday": "Sun",
+			"MISSING-event": "Eve"
+		},
+		"MISSING-quest_description": "_DESCRIPTION_ _BREAK_ Reward: _NUMBER_ notes _BREAK_ Resets _DATE_",
+		"quests": {
+			"br_flex": {
+				"MISSING-title": "BR Flex",
+				"MISSING-description": "Guess 20 songs you didn't loot, in non-team games with looting enabled"
+			},
+			"master_rigger": {
+				"MISSING-title": "Master Rigger",
+				"MISSING-description": "Guess 20 songs from your anime list, in non-team games"
+			},
+			"survivor": {
+				"MISSING-title": "Survivor",
+				"MISSING-description": "Survive 10 rounds when playing with lives, in non-team games"
+			},
+			"master_sniper": {
+				"MISSING-title": "Master Sniper",
+				"MISSING-description": "Guess 20 songs not from your anime list, in non-team games"
+			},
+			"lightning_fast": {
+				"MISSING-title": "Lightning Fast",
+				"MISSING-description": "Guess 20 songs within the first 7 seconds of it, in non-team games"
+			},
+			"i_love_that_show": {
+				"MISSING-title": "I Love That Show",
+				"MISSING-description": "Guess 20 songs from shows you've scored 8+ in your anime list, in non-team games"
+			},
+			"keeping_up_to_date": {
+				"MISSING-title": "Keeping Up To Date",
+				"MISSING-description": "Guess 20 songs from shows released in the 4 latest anime seasons, in non-team games"
+			},
+			"dont_skip_openings": {
+				"MISSING-title": "Don't Skip Openings",
+				"MISSING-description": "Guess 20 opening songs, in non-team games"
+			},
+			"dont_skip_endings": {
+				"MISSING-title": "Don't Skip Endings",
+				"MISSING-description": "Guess 20 ending songs, in non-team games"
+			},
+			"dont_skip_inserts": {
+				"MISSING-title": "Don't Skip Inserts",
+				"MISSING-description": "Guess 20 insert songs, in non-team games"
+			},
+			"action_fan": {
+				"MISSING-title": "Action Fan",
+				"MISSING-description": "Guess 20 songs from action shows, in non-team games"
+			},
+			"adventure_fan": {
+				"MISSING-title": "Adventure Fan",
+				"MISSING-description": "Guess 20 songs from adventure shows, in non-team games"
+			},
+			"comedy_fan": {
+				"MISSING-title": "Comedy Fan",
+				"MISSING-description": "Guess 20 songs from comedy shows, in non-team games"
+			},
+			"drama_fan": {
+				"MISSING-title": "Drama Fan",
+				"MISSING-description": "Guess 20 songs from drama shows, in non-team games"
+			},
+			"ecchi_fan": {
+				"MISSING-title": "Ecchi Fan",
+				"MISSING-description": "Guess 20 songs from ecchi shows, in non-team games"
+			},
+			"fantasy_fan": {
+				"MISSING-title": "Fantasy Fan",
+				"MISSING-description": "Guess 20 songs from fantasy shows, in non-team games"
+			},
+			"horror_fan": {
+				"MISSING-title": "Horror Fan",
+				"MISSING-description": "Guess 20 songs from horror shows, in non-team games"
+			},
+			"mahou_shoujo_fan": {
+				"MISSING-title": "Mahou Shoujo Fan",
+				"MISSING-description": "Guess 20 songs from mahou shoujo shows, in non-team games"
+			},
+			"mecha_fan": {
+				"MISSING-title": "Mecha Fan",
+				"MISSING-description": "Guess 20 songs from mecha shows, in non-team games"
+			},
+			"music_fan": {
+				"MISSING-title": "Music Fan",
+				"MISSING-description": "Guess 20 songs from music shows, in non-team games"
+			},
+			"mystery_fan": {
+				"MISSING-title": "Mystery Fan",
+				"MISSING-description": "Guess 20 songs from mystery shows, in non-team games"
+			},
+			"psychological_fan": {
+				"MISSING-title": "Psychological Fan",
+				"MISSING-description": "Guess 20 songs from psychological shows, in non-team games"
+			},
+			"romance_fan": {
+				"MISSING-title": "Romance Fan",
+				"MISSING-description": "Guess 20 songs from romance shows, in non-team games"
+			},
+			"sci-fi_fan": {
+				"MISSING-title": "Sci-Fi Fan",
+				"MISSING-description": "Guess 20 songs from sci-fi shows, in non-team games"
+			},
+			"slice_of_life_fan": {
+				"MISSING-title": "Slice of Life Fan",
+				"MISSING-description": "Guess 20 songs from slice of fife shows, in non-team games"
+			},
+			"sports_fan": {
+				"MISSING-title": "Sports Fan",
+				"MISSING-description": "Guess 20 songs from sports shows, in non-team games"
+			},
+			"supernatural_fan": {
+				"MISSING-title": "Supernatural Fan",
+				"MISSING-description": "Guess 20 songs from supernatural shows, in non-team games"
+			},
+			"thriller_fan": {
+				"MISSING-title": "Thriller Fan",
+				"MISSING-description": "Guess 20 songs from thriller shows, in non-team games"
+			},
+			"just_jamming": { "MISSING-title": "Just Jamming", "MISSING-description": "Guess 20 songs in the Jam Quiz" }
+		}
+	}
 }
