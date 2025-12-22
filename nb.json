@@ -5598,7 +5598,7 @@
             },
             "hidden": {
                 "name": "Skjult",
-                "MISSING-description": "Bli utilgjengelig for fiender og øk skaden ved neste angrep. Utløper etter angrep eller forflytting"
+                "description": "Bli utilgjengelig for fiender og øk skaden ved neste angrep. Utløper etter angrep eller forflytting"
             },
             "exposed": {
                 "name": "Eksponert",
@@ -5639,61 +5639,61 @@
         "continue_button": "Fortsett",
         "exit_button": "Forlat",
         "welcome": {
-            "MISSING-title": "Welcome to AMQ",
+            "title": "Velkommen til AMQ",
             "step_one": {
-                "MISSING-text": "Hi and welcome to Anime Music Quiz! _BREAK_I suggest taking my quick tutorial to learn the basics of the game. _BREAK_ There might even be rewards at the end of it!",
+                "text": "Hei og velkomen til Anime Music Quiz! _BREAK_ Jeg forslår at du tar den raske veiledningen min fo å lære det grunnleggende i spillet. _BREAK_ Det kan til og med hende at det er en belønning til slutt!",
                 "options": {
-                    "MISSING-play_tutorial": "Play Tutorial",
-                    "MISSING-skip_tutorial": "Skip Tutorial"
+                    "play_tutorial": "Ta veiledningen",
+                    "skip_tutorial": "Hopp over veiledning"
                 }
             },
             "step_two": {
-                "MISSING-text": "Awesome, let's get started!"
+                "text": "Fantastisk, la oss sette i gang!"
             },
             "step_dismiss": {
-                "MISSING-text": "You can always find the tutorial in the bottom right menu."
+                "text": "Du finner alltid veiledningen i menyen nederst til høyre."
             }
         },
         "welcome_no_list": {
-            "MISSING-title": "Add Anime List",
+            "title": "Legge til animeliste",
             "step_one": {
-                "MISSING-text": "To start out I can see that you don't have an AniList, MyAnimeList or Kitsu user connected to your account. _BREAK_ I strongly recommend adding one, as it'll allow the game to pick songs from shows you have watched.",
+                "text": "For å begynne med ser jeg at du ikke har en Anilist-, MyAnimeList- eller Kitsu-bruker tilkoblet. _BREAK_ Jeg anbefaler på det sterkeste at du legger til en, fordi det lar spillet velge snager fra serier du ahr sett.",
                 "options": {
-                    "MISSING-no_list": "Don't have one",
-                    "MISSING-add_one": "Ok, let's add one",
-                    "MISSING-skip": "I'll go without"
+                    "no_list": "Jeg har ikke én",
+                    "add_one": "Ok, las oss legge til én",
+                    "skip": "Jeg går uten"
                 }
             },
             "step_two": {
-                "MISSING-text": "You can easily set up one for free on one of the sites: _LINK_ AniList _LINK_, _LINK2_ MyAnimeList _LINK2_ or _LINK3_ Kitsu _LINK3_. _BREAK_ I'll wait if you want to set one up now.",
+                "text": "Du kan enkelt sette opp en gratis på en av nettstedene: _LINK_ AniList _LINK_, _LINK2_ MyAnimeList _LINK2_ eller _LINK3_ Kitsu _LINK3_. Jeg venter hvis du vil sette opp én nå.",
                 "options": {
-                    "MISSING-created_one": "Ok, I've created one",
-                    "MISSING-skip": "Maybe another time"
+                    "created_one": "Ok, jeg har laget én",
+                    "skip": "Kanskje senere"
                 }
             },
             "step_three": {
-                "MISSING-text": "Perfect, let's get it connected to your AMQ account then! _BREAK_ Which site do you have a list on?",
+                "text": "Perfekt, la oss koble den til AMQ-kontoen din da! _BREAK_ hvilket nettsted har du en liste på?",
                 "options": {
-                    "MISSING-anilist": "AniList",
-                    "MISSING-myanimelist": "MyAnimeList",
-                    "MISSING-kitsu": "Kitsu",
-                    "MISSING-cancel": "Cancel"
+                    "anilist": "AniList",
+                    "myanimelist": "MyAnimeList",
+                    "kitsu": "Kitsu",
+                    "cancel": "Avbryt"
                 }
             },
             "step_anilist": {
-                "MISSING-text": "Please type your AniList username or leave it blank if you changed your mind."
+                "Mtext": "Vennligst skriv inn AniList-brukernavnet ditt, eller la det stå tomt hvis du har ombestemt deg."
             },
             "step_kitsu": {
-                "MISSING-text": "Please type your Kitsu username or leave it blank if you changed your mind."
+                "text": "Vennligst skriv inn Kitsu-brukernavnet ditt, eller la det stå tomt hvis du har ombestemt deg."
             },
             "step_myanimelist": {
-                "MISSING-text": "Please type your MyAnimeList username or leave it blank if you changed your mind."
+                "text": "Vennligst skriv inn MyAnimeList-brukernavnet ditt, eller la det stå tomt hvis du har ombestemt deg."
             },
             "step_four": {
-                "MISSING-text": "Now the game will be able to select songs from shows you've watched!"
+                "text": "Nå vil spillet kunne velge sanger fra serier du har sett!"
             },
             "step_dismiss": {
-                "MISSING-text": "That's fine, you can still play without one! _BREAK_ You can add anime lists in the bottom right menu under \"Settings\"."
+                "text": "Det går greit, du kan fortsatt spille uten en! _BREAK_ Du kan legge til animelister i menyen nederst til høyre under \"Innstillinger\""
             }
         },
         "first_game": {
