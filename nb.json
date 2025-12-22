@@ -5681,7 +5681,7 @@
                 }
             },
             "step_anilist": {
-                "Mtext": "Vennligst skriv inn AniList-brukernavnet ditt, eller la det stå tomt hvis du har ombestemt deg."
+                "text": "Vennligst skriv inn AniList-brukernavnet ditt, eller la det stå tomt hvis du har ombestemt deg."
             },
             "step_kitsu": {
                 "text": "Vennligst skriv inn Kitsu-brukernavnet ditt, eller la det stå tomt hvis du har ombestemt deg."
