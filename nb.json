@@ -5197,7 +5197,7 @@
                 },
                 "cheerleader": {
                     "name": "Oppløfte!",
-                    "description": "Gir en bonus som lar Shinnas korrekte svar øke målavatarens statistikk betraktelig i stedet for å gjøre skade",
+                    "description": "Gir en buff som lar Shinnas korrekte svar øke målavatarens statistikk betraktelig i stedet for å gjøre skade",
                     "badge_description": "Tilfeldig sjanse til å motta en buff på all statistikk"
                 }
             },
@@ -5974,7 +5974,7 @@
             "sunday": "Søn",
             "event": "Eve"
         },
-        "MISSING-quest_description": "_DESCRIPTION_ _BREAK_ Belønning: _NUMBER_ noter _BREAK_ Tilbakestilles _DATE_",
+        "quest_description": "_DESCRIPTION_ _BREAK_ Belønning: _NUMBER_ noter _BREAK_ Tilbakestilles _DATE_",
         "quests": {
             "br_flex": {
                 "title": "BR flex",
