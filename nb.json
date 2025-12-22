@@ -5813,43 +5813,43 @@
         "social": {
             "title": "Sosialt",
             "step_one": {
-                "MISSING-text": "Here we are, the final tutorial! _BREAK_ This one will go over how your profile works and the friend system in the game. So to start out, open the social menu in the bottom left."
+                "text": "Her er vi, den siste delen av opplæringen! _BREAK_ Denne delen går igjennom hvordan profilen din og vennesystemet fungerer i spillet. Så for å komme i gang, åpne sosialmenyen nederst til venstre."
             },
             "step_two": {
-                "MISSING-text": "First off we have the friend list, any friends you add while you play will show up here. _BREAK_ This will allow you to see when they're online, check out their profiles and even invite them to games."
+                "text": "Først har vi vennelisten. Alle venner du legger til mens du spiller, vises her. _BREAK_ Dette lar deg se når de er online, sjekke profilene deres og til og med invitere dem til game."
             },
             "step_three": {
-                "MISSING-text": "You can also access a list of all online users, by changing to the Online tab at the bottom of the menu."
+                "text": "Du kan også få tilgang til en liste over alle brukere som er pålogget, ved å bytte til fanen Pålogget nederst i menyen."
             },
             "step_four": {
-                "MISSING-text": "But we'll save that for another time, as we'll take a look at your profile now! _BREAK_ Click the profile to the right of the online tab and it should pop right up."
+                "text": "Men det sparer vi til en annen gang, siden vi skal se på profilen din nå! _BREAK_ Klikk på profilen til høyre for Pålogget fanen, så skal den dukke opp."
             },
             "step_five": {
-                "MISSING-text": "Here we have your profile! Profiles show stats such as your anime list, age of the account  as well as how much and well you've played. It can also be used to display badges you've earned!"
+                "text": "Her har vi profilen din! Profiler viser statistikk som anime-listen din, kontoens alder samt hvor mye og hvor bra du har spilt. Den kan også brukes til å vise merker du har tjent!"
             },
             "step_six": {
-                "MISSING-text": "At the bottom we have the options you can use on profiles, such as sending the player a message, friend request or game invite. You can even block or report the player if that becomes needed."
+                "text": "Nederst har vi alternativene du kan bruke på profiler, for eksempel å sende spilleren en melding, venneforespørsel eller gameforespørseler. Du kan til og med blokkere eller rapportere spillere hvis det blir nødvending."
             },
             "step_seven": {
-                "MISSING-text": "Most of these options are grayed out for you, as you can't do them on yourself. But if you click the dotted option to the right you will see the one option available to you on profile, editing it. _BREAK_ Try clicking it, and you should see the editing view."
+                "text": "De fleste av disse alternavtivene er nedtonet for deg, siden du ikke kan gjøre dem på deg selv. Men hvis du klikker på det stiplede alternativet til høyre, vil du se det ene alternativet som er tilgjengelig for deg på profilen, redigering av den. _BREAK_ Prøv å klikke på den, så skal du se redigeringsvisningen."
             },
             "step_eight": {
-                "MISSING-text": "Editing your profile allows you to update almost anything about it. You can show/hide the stats by clicking the eye to the left of it. You can change which anime list site is displayed, and even change your profile image to any emote you've unlocked through the ticket system!"
+                "text": "Ved å redigere profilen din kan du oppdatere nesten alt ved den. Du kan vise/skjule statistikken ved å klikke på øyet til venstre for den. Du kan endre hvilket nettsted med anime-lister som vises, og til og med endre profilbildet ditt til en hvilken som helst emoji du har låst opp i ticketsystemet!"
             },
             "step_nine": {
-                "MISSING-text": "Any badges you unlock, for example by unlocking skins and playing the ranked game mode, you will be able to display on your profile as well."
+                "text": "Alle merker du låser opp, for eksempel ved å låse opp skinn og rangert spillmodusen, vil du også kunne vise på profilen din."
             },
             "step_ten": {
-                "MISSING-text": "By changing to the chat view for badges, you can also set a badge to display beside your name in the in-game chat. _BREAK_ Hovering the badges in the menu will also display how to unlock them."
+                "text": "Ved å bytte til chatvisning for merker kan du også angi at et merke skal vises ved siden av navnet ditt i gamechatten. _BREAK_ Hvis du holder musepekeren over merkene i menyen, ser du også hvordan du låser den opp."
             },
             "step_eleven": {
-                "MISSING-text": "Finally you can also change your nickname, the name you appear as in-game, by clicking the edit button to the right of your username. This is limited to one change per year, and your original name will be viewable on your profile by hovering your nickname."
+                "text": "Til slutt kan du også endre kallenavnet ditt, navnet du vises som i spillet, ved å klikke på redigeringsknappen til høyre for brukernavnet ditt. Dette er begrenset til én endring per år, og det opprinnelige navnet ditt vil være synlig på profilen din ved å holde musepekeren over kallenavnet ditt."
             },
             "step_twelve": {
-                "MISSING-text": "And that's all for the final tutorial. With all of them completed I hope you have a blast playing Anime Music Quiz!"
+                "text": "Og det var lat for den siste delen av opplæringen. Nå som alle er fullført, håper jeg du koser deg med å spille Anime Music Quiz!"
             },
             "step_twelve_first_time": {
-                "MISSING-text": "And that's all for the final tutorial. With all of them completed I hope you have a blast playing Anime Music Quiz! And as a final reward for completing all the tutorials for the first time, here's a final note reward!"
+                "text": "Og det var lat for den siste delen av opplæringen. Nå som alle er fullført, håper jeg du koser deg med å spille Anime Music Quiz! Og som en siste belønning for å ha fullført hele opplærningen for første gang, her har du en siste belønning!"
             }
         },
         "dismiss": {
