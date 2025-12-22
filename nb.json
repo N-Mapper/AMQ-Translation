@@ -4014,11 +4014,11 @@
                         },
                         "rating": {
                             "title": "Nivå",
-                            "description": "Vansklighetsnivået på spørsmålene i quizen. Jo høyere vudering, desto mer XP og bedre runer belønnes i dungeonen."
+                            "description": "Vansklighetsnivået på spørsmålene i quizen. Jo høyere vurdering, desto mer XP og bedre runer belønnes i dungeonen."
                         },
                         "floor": {
                             "title": "Etasje",
-                            "description": "Høyere etasjer er vanskeligere, men belønner mer runer og XP. Lås opp etasjer ved å fullføre den forrige etasjen på gjeldene eller høyere vansklighet."
+                            "description": "Høyere etasjer er vanskeligere, men belønner mer runer og XP. Lås opp etasjer ved å fullføre den forrige etasjen på gjeldende  eller høyere vanskelighet."
                         },
                         "mode": {
                             "title": "Modus",
@@ -4461,7 +4461,7 @@
                 "message_fourteen": "Det er også mulig å avruste alle dine runer, men det koster én ticket.",
                 "message_fifteen": "I stedet for å avruste runer, kan du også ødelegge en utrustet rune for å rydde opp i plassen ved å klikke på den.",
                 "message_sixteen": "Runen går først tapt når du lagrer siden etter å ha ødelagt den, så eksperimenter gjerne med forskjellige oppsett.",
-                "message_seventeen": "Til slutt er det planlagt flere runesider, slik at du kan ha forskjellige oppsett. Men det bil først bli lagt til i fremtiden."
+                "message_seventeen": "Til slutt er det planlagt flere runesider, slik at du kan ha forskjellige oppsett. Men det blir lagt til før engang i fremtiden."
             }
         },
         "artifact": {
@@ -4563,7 +4563,7 @@
             },
             "sugoi_bun": {
                 "title": "Sugoibolle",
-                "description": "Helbred en liten mendge på slutten hp etter kampen hvis den er under 50%"
+                "description": "Helbred en liten mengde på slutten hp etter kampen hvis den er under 50%"
             },
             "swords_of_truth_and_light": {
                 "title": "Sverd av Lys og Sannhet",
@@ -4590,7 +4590,7 @@
             "enemy_turf": {
                 "title": "Fiendens territorium",
                 "base": {
-                    "text": "En slu mann, i en lilla dress og grønt hår stylet over hodet, hilser på gruppen idet de kommer inn i rommet. _BREAK_ \"Hei, dere kan ikke bare gå forbi her, dette er mitt territorium. Jeg kan gjøre et unntak hvis dere lar alle _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ deres ligge, ellers må dere _HIGHLIGHT_ ta det opp med gutta mine _HIGHLIGHT_\". _BREAK_ Mannen signaliserer _HIGHLIGHT_ 4 fiendtlige kjerner _HIGHLIGHT_ sokm svever ved siden av ham.",
+                    "text": "En slu mann, i en lilla dress og grønt hår stylet over hodet, hilser på gruppen idet de kommer inn i rommet. _BREAK_ \"Hei, dere kan ikke bare gå forbi her, dette er mitt territorium. Jeg kan gjøre et unntak hvis dere lar alle _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ deres ligge, ellers må dere _HIGHLIGHT_ ta det opp med gutta mine _HIGHLIGHT_\". _BREAK_ Mannen signaliserer _HIGHLIGHT_ 4 fiendtlige kjerner _HIGHLIGHT_ som svever ved siden av ham.",
                     "options": {
                         "pay": "Betal _NUMBER_ fragmenter",
                         "ignore": "Ignorer advarselen"
@@ -4626,7 +4626,7 @@
                         "text": "\"Beklager så mye, men \"_NAME_\" _HIGHLIGHT_ er ikke sjangeren _HIGHLIGHT_ for _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. Det _HIGHLIGHT_ riktige svaret _HIGHLIGHT_ er _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_.\"_BREAK_\" Jeg ønkser dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
                     },
                     "time_out": {
-                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden er ute _HIGHLIGHT_. Den riktigge sjangeren for _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ var _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ \"_BREAK_.\"Jeg ønkser dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
+                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden er ute _HIGHLIGHT_. Den riktige sjangeren for _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ var _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ \"_BREAK_.\"Jeg ønkser dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
                     }
                 },
                 "song_type": {
@@ -4666,7 +4666,7 @@
                         "text": "\"Beklager så mye, men _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ _HIGHLIGHT_ er ikke det riktige svaret _HIGHLIGHT_. Sangen _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_\". _BREAK_\"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "time_out": {
-                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og singaliserer til dem om å fortsette gjennom rommet."
+                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og signaliserer til dem om å fortsette gjennom rommet."
                     },
                     "type_numbered": {
                         "opening": "Introsang _NUMBEREXTRA_",
@@ -4711,11 +4711,11 @@
                         "text": "\"Beklager så mye, men _NAME_ _HIGHLIGHT_ er ikke det riktige svaret _HIGHLIGHT_. Videoen var _HIGHLIGHT2_ intro _NUMBER_ _HIGHLIGHT2_ av _NAME2_ _HIGHLIGHT2_\". _BREAK_\"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "time_out": {
-                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ intro _NUMBER_ fra _NAME_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og singaliserer til dem om å fortsette gjennom rommet."
+                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ intro _NUMBER_ fra _NAME_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og signaliserer til dem om å fortsette gjennom rommet."
                     }
                 },
                 "decline": {
-                    "text": "Kaninen ser overrasket ut. _BREAK_ \"Vil du virkelig ikke spille? Men _HIGHLIGHT_ du har ingenting å tape ..._HIGHLIGHT_ hvordan skal jeg forklare det til verten vår ...\", stammer kaninen mens de ser mildt panisk ut, før de leggger merke til gruppens blikk. _BREAK_ \"Hvis det er deres avgjørelse, så ... håper jeg dere vil vurdere å spille neste gang vi møtes\", klarer hun å si med et halvt påtvunget smil, før hun bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
+                    "text": "Kaninen ser overrasket ut. _BREAK_ \"Vil du virkelig ikke spille? Men _HIGHLIGHT_ du har ingenting å tape ..._HIGHLIGHT_ hvordan skal jeg forklare det til verten vår ...\", stammer kaninen mens de ser mildt panisk ut, før de legger merke til gruppens blikk. _BREAK_ \"Hvis det er deres avgjørelse, så ... håper jeg dere vil vurdere å spille neste gang vi møtes\", klarer hun å si med et halvt påtvunget smil, før hun bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                 },
                 "cash_out": {
                     "text": "\"En klok spiller vet at man skal gi opp mens man er på topp. Så jeg respekterer deres avgjørelse\", sier kaninen før hun gir gruppen belønningen deres. _BREAK_ \"Gratulerer med belønningen, jeg håper dere spiller igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer at dere skal fortsette gjennom rommet."
@@ -4728,7 +4728,7 @@
                     }
                 },
                 "win": {
-                    "text": "\"Fantastisk, dere _HIGHLIGHT_ klarte å gjette alle 5 _HIGHLIGHT_ riktig! Jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!\", sier kaninen før han muntert overleverer belønningene. _BREAK_ \"Gratulerer med å vinne quizen, jeg håper dere spiller igjen i frmentiden.\" _BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommmet."
+                    "text": "\"Fantastisk, dere _HIGHLIGHT_ klarte å gjette alle 5 _HIGHLIGHT_ riktig! Jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!\", sier kaninen før han muntert overleverer belønningene. _BREAK_ \"Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                 },
                 "video_issue": {
                     "text_one": "Kaninen ser forvirret ut mens hun gjentatte ganger klikker på summeren. _BREAK_ \"Beklager, det ser ut til å være et problem med spørsmålet. Så vi må hoppe over dette.\" _BREAK_ \"La meg gjøre neste spørsmål klart, bare gi meg et øyeblikk.\"",
@@ -4785,9 +4785,9 @@
                 }
             },
             "offering_box": {
-                "title": "Offerboks",
+                "title": "Offeringsboks",
                 "base": {
-                    "text": "En _HIGHLIGHT_ offerboks av tre fra et alter _HIGHLIGHT_m er merkelig plassert midt i rommet.",
+                    "text": "En _HIGHLIGHT_ offeringsboks av tre fra et alter _HIGHLIGHT_m er merkelig plassert midt i rommet.",
                     "option": {
                         "fragments": "Kast inn _NUMBER_ fragmenter",
                         "ignore": "Ignorer boksen"
@@ -4797,7 +4797,7 @@
                     "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, før _HIGHLIGHT_ den forsvinner i et lysglimt _HIGHLIGHT_."
                 },
                 "option_two": {
-                    "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, før den forsiviner og etterlater artefakten: _ARTIFACT_"
+                    "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, før den forsvinner og etterlater artefakten: _ARTIFACT_"
                 },
                 "option_three": {
                     "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, _HIGHLIGHT_ omslutter _NAME_ i et sterkt lys. Etter et øyeblikk forblir lyset, boken er borte, men _NAME2_ er tilbake på beina _HIGHLIGHT_."
@@ -4806,7 +4806,7 @@
                     "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, bader gruppen i dens varme lys _HIGHLIGHT_ og gjenoppretter noe av styrken deres _HIGHLIGHT_, før boken forsvinner"
                 },
                 "ignore_option": {
-                    "text": "Gruppen går forbi boksen uten å bry seg om den. Akkurat idet den siste personen går forbi boksen, _HIGHLIGHT_ styrter en mørk bølge av energi _HIGHLIGHT_ ut av den og omslutter gruppen. Bølgen forsinner like raskt som den kom, boksen er nå borte, men _HIGHLIGHT_ gruppen føler seg merkelig utmattet _HIGHLIGHT_."
+                    "text": "Gruppen går forbi boksen uten å bry seg om den. Akkurat idet den siste personen går forbi boksen, _HIGHLIGHT_ styrter en mørk bølge av energi _HIGHLIGHT_ ut av den og omslutter gruppen. Bølgen forsvinner like raskt som den kom, boksen er nå borte, men _HIGHLIGHT_ gruppen føler seg merkelig utmattet _HIGHLIGHT_."
                 }
             },
             "rare_hunter": {
@@ -4822,7 +4822,7 @@
                     }
                 },
                 "sell_one": {
-                    "text": "\"Takk, jheg kommer til å sette pris på den for alltid!\" _BREAK_ sier jenta og klemmer _ARTIFACT_ før hun skynder seg av gårde"
+                    "text": "\"Takk, jeg kommer til å sette pris på den for alltid!\" _BREAK_ sier jenta og klemmer _ARTIFACT_ før hun skynder seg av gårde"
                 },
                 "sell_all": {
                     "text": "\"Dere selger alle tre?! Dere er fantastiske! Som takk for at dere er så fantastiske, _HIGHLIGHT_ kan dere få min _HIGHLIGHT_ _ARTIFACT_\". _BREAK_ sier jenta, før hun skynder seg av gårde med sitte nye gjenstander."
@@ -4832,9 +4832,9 @@
                 }
             },
             "the_goddess": {
-                "title": "Gudinna",
+                "title": "Gudinnen",
                 "base": {
-                    "text": "Idet gruppen kommer inn i rommet, blir de _HIGHLIGHT_ møtt av en jente med langt blått hår _HIGHLIGHT_ som sitter i en stor hvit stol. _BREAK_ \"Vel møtt reisende, anse dem selv som velsignet etter reisen dems har ført dem til et sted med fred. Gå frem, og _HIGHLIGHT_ jeg vil dele mine guddomelige krefter for å gjenopprette dem._HIGHLIGHT_\"",
+                    "text": "Idet gruppen kommer inn i rommet, blir de _HIGHLIGHT_ møtt av en jente med langt blått hår _HIGHLIGHT_ som sitter i en stor hvit stol. _BREAK_ \"Vel møtt reisende, anse dem selv som velsignet etter at reisen dems har ført dem til et sted med fred. Gå frem, og _HIGHLIGHT_ jeg vil dele mine guddomelige krefter for å gjenopprette dem._HIGHLIGHT_\"",
                     "options": {
                         "step_forward": "Ha _NAME_ gå frem"
                     }
@@ -4853,10 +4853,10 @@
                     }
                 },
                 "ignore": {
-                    "text": "Den potensielle premien er ikke verdt artefakten, groupen fortestter videre"
+                    "text": "Den potensielle premien er ikke verdt artefakten, groupen fortsetter videre"
                 },
                 "transform": {
-                    "text": "_ARTIFACT_ _HIGHLIGHT_ eksploderere i biter _HIGHLIGHT_ som svever over pidestallen, før den plutselig svermer tilbake til sentrum, _HIGHLIGHT_ forvandles til _ARTIFACT_ artefakten._HIGHLIGHT_"
+                    "text": "_ARTIFACT_ _HIGHLIGHT_ eksploderere i biter _HIGHLIGHT_ som svever over pidestallen, til den plutselig svermer tilbake til sentrum, _HIGHLIGHT_ forvandles til _ARTIFACT_ artefakten._HIGHLIGHT_"
                 }
             },
             "the_ring": {
@@ -4944,9 +4944,9 @@
             },
             "asuka": {
                 "standard": {
-                    "name": "Rekognosering i styrke",
-                    "description": "Bli Fokusert og få Rekognseringsstyrke buffen",
-                    "badge_description": "Tilfeldig sjanse til bli Fokusert og få Rekognseringsstyrke buffen"
+                    "name": "Rekognoseringsstyrke",
+                    "description": "Bli Fokusert og få Rekognoseringsstyrke buffen",
+                    "badge_description": "Tilfeldig sjanse til bli Fokusert og få Rekognoseringsstyrke buffen"
                 }
             },
             "chika": {
@@ -4967,7 +4967,7 @@
                 "standard": {
                     "name": "Drageraseri",
                     "description": "Får en buff som øker angrepet kreftig hvis du blir truffet",
-                    "badge_description": "Tilfeldig sjanse til å forseterke angrepet når ddu blir truffet"
+                    "badge_description": "Tilfeldig sjanse til å forsterke angrepet når du blir truffet"
                 }
             },
             "fuwagi": {
@@ -5004,41 +5004,41 @@
                 },
                 "fireman": {
                     "name": "Trosse flammene",
-                    "description": "Fjern alle debuffer og få en forsvar buff",
-                    "badge_description": "Tilfeldig sjanse til å fjerne alle debuffer og få en forsvar buff"
+                    "description": "Fjern alle debuffer og få en forsvars buff",
+                    "badge_description": "Tilfeldig sjanse til å fjerne alle debuffer og få en forsvars buff"
                 }
             },
             "honoka": {
                 "standard": {
                     "name": "Leksikon",
                     "description": "Avslører noe av sanginformasjonen for den aktuelle sangen",
-                    "badge_description": "Tilfeldig sjanse til å avsløre noe av sanginformasjoen for den aktuelle sangen"
+                    "badge_description": "Tilfeldig sjanse til å avsløre noe av sanginformasjonen for den aktuelle sangen"
                 },
                 "druid": {
                     "name": "Naturens infusjon",
                     "description": "Forsterk målavataren, øk angrepet deres og reduser skaden de tar fra den neste ved å konsumere buffen",
-                    "badge_description": "Tilfeldig sjanse til å forsterk en tilfeldig avatar, øke angrepet deres og redusere den neste skaden de tar ved å konsumere buffen"
+                    "badge_description": "Tilfeldig sjanse til å forsterke en tilfeldig avatar, øke angrepet deres og redusere den neste skaden de tar ved å konsumere buffen"
                 }
             },
             "kasumi": {
                 "standard": {
                     "name": "Shinobi",
-                    "description": "Blir umiddelbart skjult",
-                    "badge_description": "Tilfeldig sjanse til å få skjult buffen"
+                    "description": "Blir umiddelbart Skjult",
+                    "badge_description": "Tilfeldig sjanse til å få Skjult buffen"
                 }
             },
             "katsu": {
                 "standard": {
                     "name": "Trekkflask",
-                    "description": "Få en tilfeldig buff, skjod eller helbredelse avhengig av situasjonen",
-                    "badge_description": "Tilfeldig sjanse til å få buff, skjod eller helbredelse avhengig av situasjonen"
+                    "description": "Få en tilfeldig buff, skjold eller helbredelse avhengig av situasjonen",
+                    "badge_description": "Tilfeldig sjanse til å få buff, skjold eller helbredelse avhengig av situasjonen"
                 }
             },
             "komugi": {
                 "standard": {
                     "name": "Reveflammer",
-                    "description": "Få en buff som fører til at alle angrep medfører en tilfeldig debuff",
-                    "badge_description": "Tilfeldig sjanse til å få en buff som fører til at alle angrep medflrer en tilfeldig debuff"
+                    "description": "Få en buff som fører til at alle angrep påfører en tilfeldig debuff",
+                    "badge_description": "Tilfeldig sjanse til å få en buff som fører til at alle angrep påfører en tilfeldig debuff"
                 },
                 "tribal_sorcerer": {
                     "name": "Brennende angrep",
@@ -5062,7 +5062,7 @@
                 "standard": {
                     "name": "Hekselureri",
                     "description": "Påfør Forhekset debuffen på neste angrep",
-                    "badge_description": "Tilfeldig sjanse til å påfør Forhekset debuffen på angrep"
+                    "badge_description": "Tilfeldig sjanse til å påføre Forhekset debuffen på angrep"
                 },
                 "sorceress": {
                     "name": "Katten av mange ansikt",
@@ -5098,14 +5098,14 @@
                 "demon_lord": {
                     "name": "Mørk kontrakt",
                     "description": "Forsterk målalliert, øk skaden deres og gjenoppliv dem hvis de blir drept. Hvis de gjenopplives, må en avatar eller fiende dø før buffen utløper, ellers dør de igjen",
-                    "badge_description": "Tilfeldig sjanse til å gi en alliert Mørk Kontrakt buffen, noe som øker skaden deres og gjenoppliver dem hvis de blir drept, men hvis de blir gjenopplivet, må en annen avatar eller fiende dø før bonusen utløper, ellers dør de igjen"
+                    "badge_description": "Tilfeldig sjanse til å gi en alliert Mørk kontrakt buffen, noe som øker skaden deres og gjenoppliver dem hvis de blir drept, men hvis de blir gjenopplivet, må en annen avatar eller fiende dø før bonusen utløper, ellers dør de igjen"
                 }
             },
             "marine": {
                 "standard": {
                     "name": "Full sperreild",
                     "description": "Forsterk angrep og nøyaktighet, men får også Fokusert og Eksponert debuffene",
-                    "badge_description": "Tilfeldig sjanse til å forsterk angrep og nøyaktighet, men bli Fokusert og Eksponert også"
+                    "badge_description": "Tilfeldig sjanse til å forsterke angrep og nøyaktighet, men bli Fokusert og Eksponert også"
                 },
                 "buccaneer": {
                     "name": "Fremad marsj",
@@ -5117,7 +5117,7 @@
                 "standard": {
                     "name": "Kanon",
                     "description": "Lad opp i løpet av de alliertes tur for å øke skaden på Miyus neste angrep for hver tur du lader. Bevegelse eller å ta skade avbryter denne evnen",
-                    "badge_description": "Tilfeldig sjanse til å begynne å lade opp under alliertes tur, noe som øker skaden ver neste angrep. Bevegelse eller å ta skade avbryter denne evnen"
+                    "badge_description": "Tilfeldig sjanse til å begynne å lade opp under alliertes tur, noe som øker skaden for neste angrep. Bevegelse eller å ta skade avbryter denne evnen"
                 },
                 "valkyrie": {
                     "name": "Magisk bombardement",
@@ -5160,7 +5160,7 @@
                 "standard": {
                     "name": "Hva tenker vi chat?",
                     "description": "Riku ber om hjelp fra chat og mottar en rekke nyttige tips",
-                    "badge_description": "Tilfeldig sjanse til å få hin fra chat"
+                    "badge_description": "Tilfeldig sjanse til å få hint fra chat"
                 }
             },
             "ritsu": {
@@ -5197,7 +5197,7 @@
                 },
                 "cheerleader": {
                     "name": "Oppløfte!",
-                    "description": "Gir en bonus som lar Shinnas korrete svar øke målavatarens statistikk betraktelig i stedet for å gjøre skade",
+                    "description": "Gir en bonus som lar Shinnas korrekte svar øke målavatarens statistikk betraktelig i stedet for å gjøre skade",
                     "badge_description": "Tilfeldig sjanse til å motta en buff på all statistikk"
                 }
             },
@@ -5212,7 +5212,7 @@
                 "standard": {
                     "name": "Ni liv",
                     "description": "Få en buff som gjør at det neste angrepet gjør 0 skade, men bruk påfører en tilfeldig debuff i stedet",
-                    "badge_description": "Tilfeldig sjanse til å få en buff som foråsaker at neste angrep gjør 0 skade, men påfører en tilfeldig debuff i stedet"
+                    "badge_description": "Tilfeldig sjanse til å få en buff som forårsaker at neste angrep gjør 0 skade, men påfører en tilfeldig debuff i stedet"
                 }
             },
             "yuki": {
@@ -5225,8 +5225,8 @@
             "yumemi": {
                 "standard": {
                     "name": "Dvale",
-                    "description": "Får et skjold og en forsvar buff, men blir truffet av Kræsj debuffen",
-                    "badge_description": "Tilfeldig sjanse til å få et skjold og en forsvar buff, men kan også bli truffet av Kræsj debuffen"
+                    "description": "Får et skjold og en forsvars buff, men blir truffet av Kræsj debuffen",
+                    "badge_description": "Tilfeldig sjanse til å få et skjold og en forsvars buff, men kan også bli truffet av Kræsj debuffen"
                 }
             }
         },
@@ -5378,7 +5378,7 @@
             "swords_of_truth_and_light": {
                 "name": "Sverd av Lys og Sannhet",
                 "description_one": "Gjør dobbel skade om to angrep",
-                "description_two": "Gjør dobble skade neste angrep"
+                "description_two": "Gjør dobbel skade neste angrep"
             },
             "adventurers_sword": {
                 "name": "Eventyrens sverd",
@@ -5394,11 +5394,11 @@
             },
             "buster": {
                 "name": "Kanon",
-                "description": "Lad opp skjaden for neste angrep i hver allierts tur. Effekten går tapt hvis man blir flyttet eller troffet"
+                "description": "Lad opp skaden for neste angrep i hver allierts tur. Effekten går tapt hvis man blir flyttet eller troffet"
             },
             "cats_luck": {
                 "name": "Katteflaks",
-                "description": "Neste angrep gjør 0 skade, men bruker en påfører en tilfeldig debuff is stedet"
+                "description": "Neste angrep gjør 0 skade, men bruker en påfører en tilfeldig debuff i stedet"
             },
             "cheered": {
                 "name": "Oppløftet",
@@ -5419,7 +5419,7 @@
             },
             "dragon_rage": {
                 "name": "Drageraseri",
-                "description": "Når den blir truffet, økes angrept med 50%",
+                "description": "Når den blir truffet, økes angrepet med 50%",
                 "description_active": "Karakteren er rasende, og angrepet er økt med 50%"
             },
             "encore_buff": {
@@ -5436,7 +5436,7 @@
             },
             "full_charge": {
                 "name": "Fremad marsj",
-                "description": "Neste angrep gjør dobble skade, men få Kræsj debuffen på slutten av turen"
+                "description": "Neste angrep gjør dobbel skade, men få Kræsj debuffen på slutten av turen"
             },
             "in_the_rhythm": {
                 "name": "I rytmen",
@@ -5479,8 +5479,8 @@
                 "description": "Eksploder på slutten av runden og gjør skade på målet"
             },
             "recon_in_force": {
-                "name": "Rekognosering i styrke",
-                "description": "Boost unnvikelse og angrep påfører Bypass debuffen"
+                "name": "Rekognoseringsstyrke",
+                "description": "Boost unnvikelse og angrep påfører Forbipassering debuffen"
             },
             "snake_charm": {
                 "name": "Slangesjarm",
@@ -5524,7 +5524,7 @@
             },
             "bewitched": {
                 "name": "Forhekset",
-                "description": "I starten av hver tur, påfør Kræsj, Virus eller Bypass debuffen"
+                "description": "I starten av hver tur, påfør Kræsj, Virus eller Forbipassering debuffen"
             },
             "encore_debuff": {
                 "name": "Ekstranummer debuff",
@@ -5549,7 +5549,7 @@
             },
             "protector": {
                 "name": "Beskytter",
-                "description": "Karakteren bak den buffet karakteren blir beskyttet"
+                "description": "Karakteren bak den buffet karakteren blir Beskyttet"
             },
             "trojan_protocol": {
                 "name": "Trojanske protokoll",
@@ -5584,7 +5584,7 @@
                 "description": "Reduser angrepskraften"
             },
             "bypass": {
-                "name": "Bypass",
+                "name": "Forbipassering",
                 "description": "Øk skaden tatt fra neste angrep med 50%"
             },
             "crash": {
@@ -5630,7 +5630,7 @@
             "brute": "Bølle",
             "caster": "Kaster",
             "enemy_core": "Fiendtlig kjerne",
-            "energizer": "Energisert",
+            "energizer": "Energiser",
             "data_storm": "Datastorm",
             "orb": "Kule",
             "singularity": "Singularitet",
@@ -5648,7 +5648,7 @@
         "welcome": {
             "title": "Velkommen til AMQ",
             "step_one": {
-                "text": "Hei og velkomen til Anime Music Quiz! _BREAK_ Jeg forslår at du tar den raske opplæringen min fo å lære det grunnleggende i spillet. _BREAK_ Det kan til og med hende at det er en belønning til slutt!",
+                "text": "Hei og velkommen til Anime Music Quiz! _BREAK_ Jeg forslår at du tar den raske opplæringen min for å lære det grunnleggende i spillet. _BREAK_ Det kan til og med hende at det er en belønning til slutt!",
                 "options": {
                     "play_tutorial": "Ta opplæringen",
                     "skip_tutorial": "Hopp over opplæring"
@@ -5664,7 +5664,7 @@
         "welcome_no_list": {
             "title": "Legge til animeliste",
             "step_one": {
-                "text": "For å begynne med ser jeg at du ikke har en Anilist-, MyAnimeList- eller Kitsu-bruker tilkoblet. _BREAK_ Jeg anbefaler på det sterkeste at du legger til en, fordi det lar spillet velge snager fra serier du ahr sett.",
+                "text": "For å begynne med ser jeg at du ikke har en Anilist-, MyAnimeList- eller Kitsu-bruker tilkoblet. _BREAK_ Jeg anbefaler på det sterkeste at du legger til en, fordi det lar spillet velge sanger fra serier du har sett.",
                 "options": {
                     "no_list": "Jeg har ikke én",
                     "add_one": "Ok, las oss legge til én",
@@ -5718,7 +5718,7 @@
                 "text": "Jeg har satt opp et game for deg, ruten viser de viktigste innstillingene. Du kan holde musepekeren over de fleste ikonene i spillet for å få informasjon. _BREAK_ Klikk nå på \"Bli med\"."
             },
             "step_five": {
-                "text": "Dette er lobbyen hvor du kan se og chatte med andre spillere. For øyeblikket er jeg bare en tilskuer. _BREAK_ Trykk på \"Klar\" øverst silk at jeg kan starte gamet."
+                "text": "Dette er lobbyen hvor du kan se og chatte med andre spillere. For øyeblikket er jeg bare en tilskuer. _BREAK_ Trykk på \"Klar\" øverst slik at jeg kan starte gamet."
             },
             "step_six": {
                 "text": "Dette er quiz-skjermen. Når sangen starter, har du 20 sekunder på deg til å gjette programmet. _BREAK_ Jeg starter runden nå. Når du har skrevet inn svare ditt, velger du den fra forslagslisten og sender den inn ved å trykke enter."
@@ -5730,16 +5730,16 @@
                 "text": "Riktige svar gir deg XP og notes. _BREAK_ På slutten av quizen vinner spilleren med flest riktige svar quizen."
             },
             "step_nine": {
-                "text": "Det var alt for det grunnleggende i quizen. Jeg lar deg fulløre de resterende fire sangene!"
+                "text": "Det var alt for det grunnleggende i quizen. Jeg lar deg fullføre de resterende fire sangene!"
             },
             "step_ten": {
                 "text": "Du kan hoppe til slutten av svarsfasen ved å klikke på Hopp over-knappen til venstre for svaret ditt. Du kan hoppe over avspillingsfasen på samme måte."
             },
             "step_eleven": {
-                "text": "Det var alle sangen til denne quizen! Du får ekstra XP og notes for å fullfører en quiz basert på prestasjonen din."
+                "text": "Det var alle sangene til denne quizen! Du får ekstra XP og notes for å fullfører en quiz basert på prestasjonen din."
             },
             "step_twelve": {
-                "text": "Nå er du klar for å spille AMQ! La oss gå tilbake til hovedmenyen ved å klikke \"Forlat\" øverst til venste"
+                "text": "Nå er du klar for å spille AMQ! La oss gå tilbake til hovedmenyen ved å klikke \"Forlat\" øverst til vensrte"
             },
             "step_thirteen": {
                 "text": "Og det var alt for spillopplæringen"
@@ -5782,7 +5782,7 @@
                 "text": "Eksklusive skinn kan låses opp ved å rulle dem med tickets i ticketsystemet. Tickets tjenes ved å gå opp i level, støtte spillet på Patreon eller kjøpes direkte."
             },
             "step_nine": {
-                "text": "Begrensede skinn kan fungerer som eksklusive skinn, men er bare tilgjengelige i bestemte tider av året, for eksemple høytider og bestemte sesonger. Resten av året er de utilgjengelig og kan ikke låses opp."
+                "text": "Begrensede skinn kan fungere som eksklusive skinn, men er bare tilgjengelige i bestemte tider av året, for eksempel høytider og bestemte sesonger. Resten av året er de utilgjengelig og kan ikke låses opp."
             },
             "step_ten": {
                 "text": "Når typene er ute av veien, kan du prøve å velge standard Komugi skinnet."
@@ -5794,13 +5794,13 @@
                 "text": "Hvert skinn og antrekk har forskjellige kostnader. Så når du har låst opp et skinn, blir alle antrekkene billigere."
             },
             "step_thirteen": {
-                "text": "Antrekkene og alternative versjoner merket med et ticketikon låses opp gjennom ticketsystemet. Fargen på ticketen viser hvor sjelden de er i ticketsytemet."
+                "text": "Antrekkene og alternative versjoner merket med et ticketikon låses opp gjennom ticketsystemet. Fargen på ticketen viser hvor sjelden de er i ticketsystemet."
             },
             "step_fourteen": {
                 "text": "I tillegg til å få dem i ticketsystemet, kan de også låses opp ved å bruke rhythm, en separat valuta som tjenes gjennom ticketsystemet."
             },
             "step_fifteen": {
-                "text": "Det var alt for det grunnleggende om avatarer. Hvis du er interesert i å vite mer om ticketsystemet, kan du sjekke ut ticket-fanen. Det finnes også flere emojier du kan låse opp for bruk i chatten og på profilen din, som du finner i emoji-fanen"
+                "text": "Det var alt for det grunnleggende om avatarer. Hvis du er interessert i å vite mer om ticketsystemet, kan du sjekke ut ticket-fanen. Det finnes også flere emojier du kan låse opp for bruk i chatten og på profilen din, som du finner i emoji-fanen"
             },
             "step_sixteen": {
                 "text": "Når vi snakker om profiler, det ble dekket i den siste delen opplæringen. Gi meg beskjed om du er klar for å få ta den nå!",
@@ -5838,7 +5838,7 @@
                 "text": "Nederst har vi alternativene du kan bruke på profiler, for eksempel å sende spilleren en melding, venneforespørsel eller gameforespørseler. Du kan til og med blokkere eller rapportere spillere hvis det blir nødvending."
             },
             "step_seven": {
-                "text": "De fleste av disse alternavtivene er nedtonet for deg, siden du ikke kan gjøre dem på deg selv. Men hvis du klikker på det stiplede alternativet til høyre, vil du se det ene alternativet som er tilgjengelig for deg på profilen, redigering av den. _BREAK_ Prøv å klikke på den, så skal du se redigeringsvisningen."
+                "text": "De fleste av disse alternativene er nedtonet for deg, siden du ikke kan gjøre dem på deg selv. Men hvis du klikker på det stiplede alternativet til høyre, vil du se det ene alternativet som er tilgjengelig for deg på profilen, redigering av den. _BREAK_ Prøv å klikke på den, så skal du se redigeringsvisningen."
             },
             "step_eight": {
                 "text": "Ved å redigere profilen din kan du oppdatere nesten alt ved den. Du kan vise/skjule statistikken ved å klikke på øyet til venstre for den. Du kan endre hvilket nettsted med animelister som vises, og til og med endre profilbildet ditt til en hvilken som helst emoji du har låst opp i ticketsystemet!"
@@ -5890,7 +5890,7 @@
             "linking_aborted": "Patreon koblingen ble avbrutt",
             "already_linked": {
                 "title": "Patreon-konto allerede tilkoblet",
-                "message": "Den oppitte Patreon-kontoen er allerede tilkoblet til en annen AMQ-konto. Vennligst fjern koblingen til kontoen før du bruker den"
+                "message": "Den oppgitte Patreon-kontoen er allerede tilkoblet til en annen AMQ-konto. Vennligst fjern koblingen til kontoen før du bruker den"
             },
             "not_logged_in": "Ikke innlogget på AMQ"
         },
@@ -5990,11 +5990,11 @@
             },
             "master_sniper": {
                 "title": "Mester snikskytter",
-                "description": "Gjett 20 sanger som ikke er fra animlisten din, i ikke-laggame"
+                "description": "Gjett 20 sanger som ikke er fra animelisten din, i ikke-laggame"
             },
             "lightning_fast": {
                 "title": "Lynraskt",
-                "description": "Gjett 20 sanger i løpet av de først 7 sekundene, i ikke-laggame"
+                "description": "Gjett 20 sanger i løpet av de første 7 sekundene, i ikke-laggame"
             },
             "i_love_that_show": {
                 "title": "Jeg elsker det programmet",
