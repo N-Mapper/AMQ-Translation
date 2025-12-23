@@ -3435,7 +3435,7 @@
         },
         "nexus": {
             "target_attack": "Angrepsmål",
-            "target_swap": "Bytt mål",
+            "target_swap": "Bytt plass",
             "fuwagi_shop": "Fuwagis butikk",
             "fuwagi_item_popover": "_DESCRIPTION_ _BREAK_ Nedkjøling: _NUMBER_",
             "genre_icon": {
@@ -4218,7 +4218,7 @@
                 "continue_button": "Fortsett",
                 "select_one_artifact": "Velg 1 artefakt",
                 "runes": "Runer",
-                "no_drops": "Ikke noe bytte",
+                "no_drops": "Ingen å finne",
                 "select_avatar": "Velg avatar",
                 "skip_artifact": {
                     "text": "Hopp over artefakt?",
@@ -4653,7 +4653,7 @@
                         }
                     },
                     "correct": {
-                        "text": "\"Dere har _HIGHLIGHT_ rett! _HIGHLIGHT_ Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT_ _NAME2_ _HIGHLIGHT_. Og med det, _HIGHLIGHT_ er deres nåværende gevinster på _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ _HIGHLIGHT_. _BREAK_ Vil dere fortsette til neste spørsmål, eller ta ut fragmentene?_HIGHLIGHT_\"",
+                        "text": "\"Dere har _HIGHLIGHT_ rett! _HIGHLIGHT_ Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT_ _NAME2_ _HIGHLIGHT_. Og med det, _HIGHLIGHT_ er deres nåværende gevinster på _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ _HIGHLIGHT_. _BREAK_ Vil dere fortsette til neste spørsmål, eller ta ut fragmentene?\"",
                         "options": {
                             "next_question": "Neste spørsmål",
                             "cash_out": "Ta ut fragmentene"
@@ -4708,7 +4708,7 @@
                         "text": "\"Fantastisk, dere klarte å _HIGHLIGHT_ gjette alle 5 riktige _HIGHLIGHT_! Den siste videoen var _HIGHLIGHT2_ intro _NUMBER_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. Jeg er glad for å belønne dere ikke bare _NUMBER2_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!\", sier kanin før hun muntert overleverer belønningene. _BREAK_ \"Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.\"_BREAK_ Kaninen bukker og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "wrong_guess": {
-                        "text": "\"Beklager så mye, men _NAME_ _HIGHLIGHT_ er ikke det riktige svaret _HIGHLIGHT_. Videoen var _HIGHLIGHT2_ intro _NUMBER_ _HIGHLIGHT2_ av _NAME2_ _HIGHLIGHT2_\". _BREAK_\"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
+                        "text": "\"Beklager så mye, men _NAME_ _HIGHLIGHT_ er ikke det riktige svaret _HIGHLIGHT_. Videoen var _HIGHLIGHT2_ intro _NUMBER_ av _NAME2_ _HIGHLIGHT2_\". _BREAK_\"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "time_out": {
                         "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ intro _NUMBER_ fra _NAME_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og signaliserer til dem om å fortsette gjennom rommet."
@@ -4789,7 +4789,7 @@
                 "base": {
                     "text": "En _HIGHLIGHT_ offeringsboks av tre fra et alter _HIGHLIGHT_ er merkelig plassert midt i rommet.",
                     "option": {
-                        "fragments": "Kast inn _NUMBER_ fragmenter",
+                        "fragments": "Putt _NUMBER_ fragmenter i",
                         "ignore": "Ignorer boksen"
                     }
                 },
@@ -4853,7 +4853,7 @@
                     }
                 },
                 "ignore": {
-                    "text": "Den potensielle premien er ikke verdt artefakten, groupen fortsetter videre"
+                    "text": "Den potensielle premien er ikke verdt artefakten, gruppen fortsetter videre"
                 },
                 "transform": {
                     "text": "_ARTIFACT_ _HIGHLIGHT_ eksploderere i biter _HIGHLIGHT_ som svever over pidestallen, til den plutselig svermer tilbake til sentrum, _HIGHLIGHT_ forvandles til _ARTIFACT_ artefakten._HIGHLIGHT_"
@@ -5252,7 +5252,7 @@
                 "description": "Gi målavataren 100 skjold"
             },
             "leave_me_alone_potion": {
-                "title": "I-fred eliksir",
+                "title": "La-meg-være eliksir",
                 "description": "Endre fiendens mål bort fra målavataren"
             },
             "phoenix_feather": {
@@ -5349,7 +5349,7 @@
         "buffs": {
             "crisis_management_form": {
                 "name": "Krishåndteringsform",
-                "description": "Øk all basisstatistikk"
+                "description": "Øk alle basisstatistikk"
             },
             "berserker_star": {
                 "name": "Berserker-stjerne",
