@@ -46,7 +46,7 @@
             "not_applicable": "N/A",
             "claimed_button": "Mottatt",
             "search_placeholder": "Søk",
-            "server_restart": "Server starts på nytt"
+            "server_restart": "Server omstartes"
         },
         "popout_messages": {
             "unexpected_error": "Uventet feil",
@@ -129,7 +129,7 @@
                 "chile": "Chile",
                 "china": "Kina",
                 "christmas_island": "Christmasøya",
-                "cocos_keeling_islands": "Kokosøyene",
+                "cocos_keeling_islands": "Kokosøyene (Keelingøyene)",
                 "colombia": "Colombia",
                 "comoros": "Komorene",
                 "congo": "Kongo-Brazzaville",
@@ -212,7 +212,7 @@
                 "lithuania": "Litauen",
                 "luxembourg": "Luxembourg",
                 "macao": "Macao",
-                "macedonia_republic_of_north": "Republikken Nord-Makedonia",
+                "macedonia_republic_of_north": "Nord-Makedonia, Republikken ",
                 "madagascar": "Madagaskar",
                 "malawi": "Malawi",
                 "malaysia": "Malaysia",
@@ -226,7 +226,7 @@
                 "mayotte": "Mayotte",
                 "mexico": "Mexico",
                 "micronesia_federated_states_of": "Mikronesiaføderasjonen",
-                "moldova_republic_of": "Republikken Moldova",
+                "moldova_republic_of": "Moldova, Republikken",
                 "monaco": "Monaco",
                 "mongolia": "Mongolia",
                 "montenegro": "Montenegro",
@@ -654,7 +654,7 @@
             }
         },
         "amq_funding": {
-            "title": "AMQ finansiering",
+            "title": "AMQ finans",
             "month": {
                 "january": "Januar resultat",
                 "february": "Februar resultat",
@@ -3227,7 +3227,7 @@
                 },
                 "end_guessing": {
                     "title": "Stopp gjetting",
-                    "description": "Stopper gjettefasen umiddelbart"
+                    "description": "Stopper gjettingsfasen umiddelbart"
                 },
                 "multiple_choice": {
                     "title": "Flervalg",
@@ -4159,7 +4159,7 @@
                     "success_rate": "_SPAN_ _NUMBER_ _SPAN_ suksessrate",
                     "description": {
                         "title": "Reformater rune",
-                        "text": "Oppgrader eller dupliser en rune ved hjelp av reformateren. _BREAK_ Velg en målrune, og legg deretter opptil 5 ekstra runer for å drive reformereren (jo høyere nivå, desto høyere suksessrate). De ekstra runene vil bli forbrukt."
+                        "text": "Oppgrader eller dupliser en rune ved hjelp av reformateren. _BREAK_ Velg en målrune, og legg deretter opptil 5 ekstra runer for å drive reformereren (jo høyere nivå, desto høyere suksessrate). De ekstra runene vil bli oppbrukt."
                     }
                 }
             },
@@ -4187,7 +4187,7 @@
             "exit_button": "Forlat",
             "exit_alert": {
                 "title": "Forlat run?",
-                "description_coop": "Som vert vil det å avslutte runet stenge det for alle spillere. Du kan forfremme en annen spiller til vert før du avslutter gamet i fanen i gamechatten.",
+                "description_coop": "Som vert vil det å avslutte runet stenge det for alle spillere. Du kan forfremme en annen spiller til vert før du avslutter gamet i gamechattenfanen.",
                 "description_solo": "Hvis du avslutter fiendemøte, vil møtet bli nullstilt",
                 "exit_button": "Forlat",
                 "exit_save_button": "Lagre & forlat",
@@ -4207,7 +4207,7 @@
                 "unknown_event": "Ukjent hendelse",
                 "crafting_station": "Håndverksstasjon"
             },
-            "genre_zone": "_NAME_sone",
+            "genre_zone": "_NAME_-sone",
             "standard_zone": "Standard",
             "avatars": {
                 "no_artifacts": "Ingen artefakter"
@@ -4246,7 +4246,7 @@
                 "runes": "Runer",
                 "continue_button": "Forsett",
                 "level_number": "Level _SPANC_ _NUMBER_ _SPANC_",
-                "party_wipe": "Laget døde",
+                "party_wipe": "gruppen døde",
                 "floor_cleared": "Etasje passert",
                 "xp_reward_types": {
                     "combat": "Kamp",
@@ -4272,7 +4272,7 @@
                     "continue_button": "Fortsett"
                 },
                 "heal_this_avatar": "Helbred denne avataren",
-                "lock_artifact_description": "Lås inne en artefakt for å bringe den til neste etasje. Hver avatar kan bare låse inne én artefakt"
+                "lock_artifact_description": "Lås inne en artefakt for å ta den med til neste etasje. Hver avatar kan bare låse inne én artefakt"
             },
             "abandon_run_vote": {
                 "title": "Forlat run",
@@ -4373,9 +4373,9 @@
             },
             "dungeon_lobby": {
                 "message_one": "Dette er dungeonlobbyen! Her velger du ditt dungeonutforskningsteam!",
-                "message_two": "Start med å klikke på \"plass 1\" for å se dine tilgjengelige avatarer.",
+                "message_two": "Start med å klikke på \"Plass 1\" for å se dine tilgjengelige avatarer.",
                 "message_three": "Her har vi alle tilgjengelige avatarer. La oss velge Hibiki.",
-                "message_four": "La meg fullføre utvelgelsen for resten av laget ditt!",
+                "message_four": "La meg fullføre utvelgelsen for resten av gruppen din!",
                 "message_five": "Der! Ikke vær redd, jeg skal forklare evnene deres senere. La oss nå gå inn i dungeonen!"
             },
             "dungeon_map": {
@@ -4410,13 +4410,13 @@
             },
             "combat_reward": {
                 "message_one": "Gratulerer! Å beseire fiender gir deg fragmenter og noen ganger artefakter.",
-                "message_two": "Artefakter utrustes til en av avatarene dine for å gi dem power-ups. Utstyr denne artefakten ved å klikke på den!",
+                "message_two": "Artefakter utrustes til en av avatarene dine for å gi dem power-ups. Utrust denne artefakten ved å klikke på den!",
                 "message_three": "Nå velg en av avatarene dine å utruste den med.",
-                "message_four": "Bra! Nå kan du se artefakten som er utstyrt med avataren din. La oss gå videre!"
+                "message_four": "Bra! Nå kan du se artefakten som er utrust med avataren din. La oss gå videre!"
             },
             "event": {
                 "message_one": "Dette er en event! Eventer er spesielle møter som kan gi deg belønninger eller utfordringer.",
-                "message_two": "Denne hendelsen er en Transmutasjonssirkel! Her kan du ofre ting for en belønning.",
+                "message_two": "Denne hendelsen er en transmutasjonssirkel! Her kan du ofre ting for en belønning.",
                 "message_three": "Klikk på knappen for å ofre artefakten din!",
                 "message_four": "Bra! Du har noen fragmenter! Vi kan bruke dem snart."
             },
@@ -4503,7 +4503,7 @@
             },
             "detective_loupe": {
                 "title": "Detektivlupp",
-                "description": "Avslør lengden på svaret i gjettefasen"
+                "description": "Avslør lengden på svaret i gjettingsfasen"
             },
             "energy_jar": {
                 "title": "Energikrukke",
@@ -4547,7 +4547,7 @@
             },
             "soul_container": {
                 "title": "Sjelbeholder",
-                "description": "Gjenoppliv umiddelbart med 50% hp når du blir drept eller utrustet til en død avatar, men mister sjelebeholderen"
+                "description": "Gjenoppliv umiddelbart med 50% hp når du blir drept eller utrustet til en død avatar, men mister sjelbeholderen"
             },
             "spiked_guards": {
                 "title": "Piggetebeskytter",
@@ -4571,7 +4571,7 @@
             },
             "time_disk": {
                 "title": "Tidsdisk",
-                "description": "Få ytterligere 5 sekunder i gjettefasen"
+                "description": "Få ytterligere 5 sekunder i gjettingsfasen"
             },
             "unexpected_supporter": {
                 "title": "Uventet støttespiller",
@@ -4623,10 +4623,10 @@
                         "text": "Hvilken sjanger tilhører følgende anime. _BREAK_ _NAME_ _BREAK_ _NAME2_"
                     },
                     "wrong_guess": {
-                        "text": "\"Beklager så mye, men \"_NAME_\" _HIGHLIGHT_ er ikke sjangeren _HIGHLIGHT_ for _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. Det _HIGHLIGHT_ riktige svaret _HIGHLIGHT_ er _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_.\"_BREAK_\" Jeg ønkser dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
+                        "text": "\"Beklager så mye, men \"_NAME_\" _HIGHLIGHT_ er ikke sjangeren _HIGHLIGHT_ for _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. Det _HIGHLIGHT_ riktige svaret _HIGHLIGHT_ er _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_.\"_BREAK_\" Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
                     },
                     "time_out": {
-                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden er ute _HIGHLIGHT_. Den riktige sjangeren for _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ var _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ \"_BREAK_.\"Jeg ønkser dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
+                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden er ute _HIGHLIGHT_. Den riktige sjangeren for _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ var _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ \"_BREAK_.\"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
                     }
                 },
                 "song_type": {
@@ -4787,7 +4787,7 @@
             "offering_box": {
                 "title": "Offeringsboks",
                 "base": {
-                    "text": "En _HIGHLIGHT_ offeringsboks av tre fra et alter _HIGHLIGHT_m er merkelig plassert midt i rommet.",
+                    "text": "En _HIGHLIGHT_ offeringsboks av tre fra et alter _HIGHLIGHT_ er merkelig plassert midt i rommet.",
                     "option": {
                         "fragments": "Kast inn _NUMBER_ fragmenter",
                         "ignore": "Ignorer boksen"
@@ -4862,7 +4862,7 @@
             "the_ring": {
                 "title": "Ringen",
                 "base": {
-                    "text": "Idet gruppen kommer inn i rommet, nærmer en _HIGHLIGHT_ sleip mann med matroslue og øyelapp _HIGHLIGHT_ seg gruppen, _BREAK_ \"Perfekt timing, vi hadde nettopp en ledig plass åpne seg opp. Har noen  av dere _HIGHLIGHT_ lyst på en runde i ringen_HIGHLIGHT_?\" sier han mens han gestikulerer mot en boksering med en _HIGHLIGHT2_ fiendtlig kjerne _HIGHLIGHT2_ svevende i den.",
+                    "text": "Idet gruppen kommer inn i rommet, nærmer en _HIGHLIGHT_ sleip mann med matroslue og øyelapp _HIGHLIGHT_ seg gruppen, _BREAK_ \"Perfekt timing, vi hadde nettopp en ledig plass åpne seg opp. Har noen av dere _HIGHLIGHT_ lyst på en runde i ringen_HIGHLIGHT_?\" sier han mens han gestikulerer mot en boksering med en _HIGHLIGHT2_ fiendtlig kjerne _HIGHLIGHT2_ svevende i den.",
                     "options": {
                         "enter_ring": "Ha _NAME_ gå i ringen",
                         "decline": "Takk nei til tilbudet"
@@ -5622,6 +5622,14 @@
             "genre_protection": {
                 "name": "_NAME_ beskyttet",
                 "description": "Neger all skaden fra angrep når den gjeldende programmet ikke har sjageren _NAME_."
+            },
+            "data_feedback": {
+                "name": "Datatilbakekobling",
+                "description": "Reduksjon av databeskyttelsesskade frakoblet"
+            },
+            "data_shield": {
+                "name": "Dataskjold",
+                "description": "Reduser all skade betraktelig"
             }
         },
         "enemies": {
@@ -5724,7 +5732,7 @@
                 "text": "Dette er quiz-skjermen. Når sangen starter, har du 20 sekunder på deg til å gjette programmet. _BREAK_ Jeg starter runden nå. Når du har skrevet inn svare ditt, velger du den fra forslagslisten og sender den inn ved å trykke enter."
             },
             "step_seven": {
-                "text": "Når gjettefasen er over, avsløres alle spillernes svar, og deretter vises det riktige svaret."
+                "text": "Når gjettingsfasen er over, avsløres alle spillernes svar, og deretter vises det riktige svaret."
             },
             "step_eight": {
                 "text": "Riktige svar gir deg XP og notes. _BREAK_ På slutten av quizen vinner spilleren med flest riktige svar quizen."
@@ -5733,7 +5741,7 @@
                 "text": "Det var alt for det grunnleggende i quizen. Jeg lar deg fullføre de resterende fire sangene!"
             },
             "step_ten": {
-                "text": "Du kan hoppe til slutten av svarsfasen ved å klikke på Hopp over-knappen til venstre for svaret ditt. Du kan hoppe over avspillingsfasen på samme måte."
+                "text": "Du kan hoppe til slutten av resultatfasen ved å klikke på Hopp over-knappen til venstre for svaret ditt. Du kan hoppe over avspillingsfasen på samme måte."
             },
             "step_eleven": {
                 "text": "Det var alle sangene til denne quizen! Du får ekstra XP og notes for å fullfører en quiz basert på prestasjonen din."
