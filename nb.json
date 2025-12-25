@@ -3332,7 +3332,7 @@
             },
             "song_type": {
                 "opening": "Intro _NUMBER_",
-                "ending": "Slutt _NUMBER_",
+                "ending": "Sluttsang _NUMBER_",
                 "insert": "Innsats",
                 "rebroadcast": "(Reprise)",
                 "dub": "(Dubb)",
@@ -3824,7 +3824,7 @@
     "song_history": {
         "title": "Sanghistorikk",
         "no_songs": "Ingen sanger",
-        "load_songs": "Last inn sanger",
+        "load_songs": "Last inn",
         "tabs": {
             "current_game": "Nåværende game",
             "last_game": "Forrige game",
@@ -4590,7 +4590,7 @@
             "enemy_turf": {
                 "title": "Fiendens territorium",
                 "base": {
-                    "text": "En slu mann, i en lilla dress og grønt hår stylet over hodet, hilser på gruppen idet de kommer inn i rommet. _BREAK_ \"Hei, dere kan ikke bare gå forbi her, dette er mitt territorium. Jeg kan gjøre et unntak hvis dere lar alle _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ deres ligge, ellers må dere _HIGHLIGHT_ ta det opp med gutta mine _HIGHLIGHT_\". _BREAK_ Mannen signaliserer _HIGHLIGHT_ 4 fiendtlige kjerner _HIGHLIGHT_ som svever ved siden av ham.",
+                    "text": "En lumsk mann, i en lilla dress og grønt hår stylet over hodet, hilser på gruppen idet de kommer inn i rommet. _BREAK_ \"Hei, dere kan ikke bare gå forbi her, dette er mitt territorium. Jeg kan gjøre et unntak hvis dere lar alle _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ deres ligge, ellers må dere _HIGHLIGHT_ ta det opp med gutta mine _HIGHLIGHT_\". _BREAK_ Mannen signaliserer _HIGHLIGHT_ 4 fiendtlige kjerner _HIGHLIGHT_ som svever ved siden av ham.",
                     "options": {
                         "pay": "Betal _NUMBER_ fragmenter",
                         "ignore": "Ignorer advarselen"
@@ -4966,7 +4966,7 @@
             "fira": {
                 "standard": {
                     "name": "Drageraseri",
-                    "description": "Får en buff som øker angrepet kreftig hvis du blir truffet",
+                    "description": "Får en buff som øker angrepet betraktelig hvis du blir truffet",
                     "badge_description": "Tilfeldig sjanse til å forsterke angrepet når du blir truffet"
                 }
             },
@@ -5203,7 +5203,7 @@
             },
             "yin_yan": {
                 "standard": {
-                    "name": "Kraftsbalnanse",
+                    "name": "Kraftsbalanse",
                     "description": "Bytter mellom en buff som øker forsvaret og senker angrepet, og en buff som senker forsvaret og øker angrepet",
                     "badge_description": "Tilfeldig sjanse til å få enten en buff som øker angrepet eller en buff som øker forsvaret, avhengig av situasjonen"
                 }
