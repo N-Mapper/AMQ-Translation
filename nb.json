@@ -4698,7 +4698,7 @@
                         "text": "Hvilket program er dette?"
                     },
                     "correct": {
-                        "text": "\"Dere har _HIGHLIGHT_ rett! _HIGHLIGHT_ Videoen var intro _NUMBER_ fra _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. Og med det, _HIGHLIGHT_ er deres nåværende gevinster på _NUMBER2_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ _HIGHLIGHT_. _BREAK_ Vil dere fortsette til neste spørsmål, eller ta ut fragmentene?_HIGHLIGHT_\"",
+                        "text": "\"Dere har _HIGHLIGHT_ rett! _HIGHLIGHT_ Videoen var intro _NUMBER_ fra _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. Og med det, er deres nåværende gevinster på _NUMBER2_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_. _BREAK_ Vil dere  _HIGHLIGHT_ fortsette til neste spørsmål, eller ta ut fragmentene?_HIGHLIGHT_\"",
                         "options": {
                             "next_question": "Neste spørsmål",
                             "cash_out": "Ta ut fragmentene"
@@ -4772,7 +4772,7 @@
                     "text": "_NAME_ klarer å få et godt grep om noe og trekker frem en _HIGHLIGHT2_ artefakt _HIGHLIGHT2_. Når artefakten er fjernet, virker den glitchende gjenstanden til å være mye mer aggressiv, så _HIGHLIGHT_ ingen i gruppen vil prøve å strekke seg etter en annen _HIGHLIGHT_."
                 },
                 "nothing_result": {
-                    "text": "Etter å ha lettet gjennom beholderen, _HIGHLIGHT_ finner ikke _HIGHLIGHT_ _NAME_ _HIGHLIGHT_ noe _HIGHLIGHT_ og trekker hånden tilbake"
+                    "text": "Etter å ha lettet gjennom beholderen, finner _NAME_ _HIGHLIGHT_ ikke noe _HIGHLIGHT_ og trekker hånden tilbake"
                 },
                 "damage_result": {
                     "text": "_NAME_ trekker raskt tilbake hånden sin, som nå er dekket av skrot, fordi _HIGHLIGHT_ gjenstandene forvandlet seg til noen mindre vennlige skikkelser _HIGHLIGHT_."
