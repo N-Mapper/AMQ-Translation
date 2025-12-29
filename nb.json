@@ -2875,7 +2875,7 @@
         "ranked_chat_level_warning": "Level _NUMBER_ kreves for å bruke rankedchat",
         "new_spectator_message": "_NAME_ har begynt å se på.",
         "emotes_disabled_warning": "Emojier er deaktivert for ranked gjetting",
-        "emote_only_mode_warning": "Chat i bare emoji-modus",
+        "emote_only_mode_warning": "Chat i kun emoji-modus",
         "event_chat_level_warning": "Level _NUMBER_ kreves for å bruke chat i eventrommet",
         "emote_locked_in": "Emoji valgt",
         "kicked_message": "_NAME_ ble kastet ut av rommet.",
@@ -2891,7 +2891,7 @@
         "paused_game_message": "_NAME_ har pauset game.",
         "unpaused_game_message": "_NAME_ har startet game.",
         "chat_normal_mode_message": "Moderator ble med, chat i normal modus",
-        "chat_in_emote_only_mode_message": "Ingen moderator, chat i bare emoji-modus",
+        "chat_in_emote_only_mode_message": "Ingen moderator, chat i kun emoji-modus",
         "promoted_host_message": "_NAME_ har blitt forfremmet til vert.",
         "kicked_from_room_alert": "Du har blitt kastet ut av rommet",
         "emotes": {
@@ -3099,8 +3099,8 @@
                 "boss": "Boss"
             },
             "song_type": {
-                "openings": "Introer",
-                "endings": "Slutter",
+                "openings": "Introsanger",
+                "endings": "Sluttsanger",
                 "inserts": "Innsatser",
                 "random": "Tilfeldig"
             },
@@ -3162,8 +3162,8 @@
                 "easy": "Lett",
                 "medium": "Middels",
                 "hard": "Vanskelig",
-                "openings": "Introer",
-                "endings": "Slutter",
+                "openings": "Introsanger",
+                "endings": "Sluttsanger",
                 "inserts": "Innsatser",
                 "standard": "Standard",
                 "character": "Karakter",
@@ -3331,7 +3331,7 @@
                 "tags": "Tagger"
             },
             "song_type": {
-                "opening": "Intro _NUMBER_",
+                "opening": "Introsang _NUMBER_",
                 "ending": "Sluttsang _NUMBER_",
                 "insert": "Innsats",
                 "rebroadcast": "(Reprise)",
@@ -3910,8 +3910,8 @@
             "tutorial": "Opplæring"
         },
         "song_type": {
-            "opening": "Intro _NUMBER_",
-            "ending": "Slutt _NUMBER_",
+            "opening": "Introsang _NUMBER_",
+            "ending": "Sluttsang _NUMBER_",
             "insert": "Innsats",
             "rebroadcast": "(Reprise)",
             "dub": "(Dubb)",
@@ -4647,8 +4647,8 @@
                     "question": {
                         "text": "Hvilken sangtype er dette?",
                         "options": {
-                            "opening": "Intro",
-                            "ending": "Slutt",
+                            "opening": "Introsang",
+                            "ending": "Sluttsang",
                             "insert_song": "Innsats"
                         }
                     },
@@ -4800,13 +4800,13 @@
                     "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, før den forsvinner og etterlater artefakten: _ARTIFACT_"
                 },
                 "option_three": {
-                    "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, _HIGHLIGHT_ omslutter _NAME_ i et sterkt lys. Etter et øyeblikk forblir lyset, boken er borte, men _NAME2_ er tilbake på beina _HIGHLIGHT_."
+                    "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, _HIGHLIGHT_ oppsluker _NAME_ i et sterkt lys. Etter et øyeblikk forblir lyset, boken er borte, men _NAME2_ er tilbake på beina _HIGHLIGHT_."
                 },
                 "option_four": {
                     "text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, bader gruppen i dens varme lys _HIGHLIGHT_ og gjenoppretter noe av styrken deres _HIGHLIGHT_, før boken forsvinner"
                 },
                 "ignore_option": {
-                    "text": "Gruppen går forbi boksen uten å bry seg om den. Akkurat idet den siste personen går forbi boksen, _HIGHLIGHT_ styrter en mørk bølge av energi _HIGHLIGHT_ ut av den og omslutter gruppen. Bølgen forsvinner like raskt som den kom, boksen er nå borte, men _HIGHLIGHT_ gruppen føler seg merkelig utmattet _HIGHLIGHT_."
+                    "text": "Gruppen går forbi boksen uten å bry seg om den. Akkurat idet den siste personen går forbi boksen, _HIGHLIGHT_ styrter en mørk bølge av energi _HIGHLIGHT_ ut av den og oppsluker gruppen. Bølgen forsvinner like raskt som den kom, boksen er nå borte, men _HIGHLIGHT_ gruppen føler seg merkelig utmattet _HIGHLIGHT_."
                 }
             },
             "rare_hunter": {
@@ -4856,7 +4856,7 @@
                     "text": "Den potensielle premien er ikke verdt artefakten, gruppen fortsetter videre"
                 },
                 "transform": {
-                    "text": "_ARTIFACT_ _HIGHLIGHT_ eksploderere i biter _HIGHLIGHT_ som svever over pidestallen, til den plutselig svermer tilbake til sentrum, _HIGHLIGHT_ forvandles til _ARTIFACT_ artefakten._HIGHLIGHT_"
+                    "text": "_ARTIFACT_ _HIGHLIGHT_ eksploderere i biter _HIGHLIGHT_ som svever over pidestallen, til den plutselig svermer tilbake til sentrum, _HIGHLIGHT_ forvandles til _ARTIFACT2_ artefakten._HIGHLIGHT_"
                 }
             },
             "the_ring": {
@@ -6014,7 +6014,7 @@
             },
             "dont_skip_openings": {
                 "title": "Ikke hopp over introer",
-                "description": "Gjett 20 introer, i ikke-laggame"
+                "description": "Gjett 20 introsanger, i ikke-laggame"
             },
             "dont_skip_endings": {
                 "title": "Ikke hopp over slutter",
