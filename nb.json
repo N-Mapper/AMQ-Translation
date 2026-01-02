@@ -461,12 +461,12 @@
             "skin_footer": "Tilgjengelig nå"
         },
         "quiz_of_the_day": {
-            "title": "Dagens quiz",
+            "title": "Dagens Quiz",
             "time_slots": "Quiz tidspunkter",
             "weekly_schedule": "Ukeplan",
             "current_week": "Denne uken",
-            "what_is": "Hva er \"dagens quiz\"?",
-            "what_is_description": "\"Dagens quiz\" er en daglig quiz med ubegrenset mange spillere. Hvor spillere kan teste sine ferdigheter mot andre i fellesskapet. Det er for øyeblikket delt mellom ranked quizer, en svært konkurransepreget modus, og temaquizer laget av fellesskapet designet for å gi en unik og morsom opplevelse.",
+            "what_is": "Hva er \"Dagens Quiz\"?",
+            "what_is_description": "\"Dagens Quiz\" er en daglig quiz med ubegrenset mange spillere. Hvor spillere kan teste sine ferdigheter mot andre i fellesskapet. Det er for øyeblikket delt mellom ranked quizer, en svært konkurransepreget modus, og temaquizer laget av fellesskapet designet for å gi en unik og morsom opplevelse.",
             "ranked_description": "Ranked beskrivelse",
             "week": "Uke _NUMBER_",
             "championship": "Mesterskap",
@@ -712,7 +712,7 @@
                     "jam": "jam",
                     "event": "event",
                     "solo": "solo",
-                    "quiz_of_the_day": "dagens quiz"
+                    "quiz_of_the_day": "Dagens Quiz"
                 }
             },
             "options": {
@@ -3175,7 +3175,7 @@
             "title": "Rankedregler",
             "description": "Rankedmatcher er et sted hvor spillere kan teste sine individuelle ferdigheter mot resten av fellesskapet. _BREAK_ I en ranked match konkurrerer du mot alle de andre spillerne i å gjette flest sanger, som strekker fra den enkleste til den vanskeligste i spillet. _BREAK_ På slutten av matchen får du poeng basert på hvor bra du gjorde det. Samle poeng gjennom hele sesongen for å låse opp unike merker og få en plass i mesterskapsmatchen på slutten av sesongen! _BREAK_ For å sikre integriteten til rankedmatcher er det viktig at du følger reglene nedenfor, hvor brudd på disse reglene kan føre til at kontoen din blir utenstengt og/eller ekskludert fra å spille ranked.",
             "themed_title": "Temaquizregler",
-            "themed_description": "Temaquizer er et sted hvor spillere kan teste ferdighetene sine i spesifikke temaer valgt for dagen mot resten av fellesskapet! _BREAK_ Hver temaquiz vil ha et unikt temabasert sangutvalg, og er ment å være en morsom og forfriskende måte å utfordre seg selv mot fellesskapet i et mindre konkurransepreget og mer moro fokusert miljø. _BREAK_ Selv om det ikke er like konkurransepreget som ranked matcher, er det viktig at du følger reglene for ikke å ødelegge opplevelsen til andre spillere. Brudd på reglene kan føre til at kontoen din blir utestengt og/eller ekskludert fra dagens quiz.",
+            "themed_description": "Temaquizer er et sted hvor spillere kan teste ferdighetene sine i spesifikke temaer valgt for dagen mot resten av fellesskapet! _BREAK_ Hver temaquiz vil ha et unikt temabasert sangutvalg, og er ment å være en morsom og forfriskende måte å utfordre seg selv mot fellesskapet i et mindre konkurransepreget og mer moro fokusert miljø. _BREAK_ Selv om det ikke er like konkurransepreget som ranked matcher, er det viktig at du følger reglene for ikke å ødelegge opplevelsen til andre spillere. Brudd på reglene kan føre til at kontoen din blir utestengt og/eller ekskludert fra Dagens Quiz.",
             "play_solo": {
                 "title": "Spill solo",
                 "description": "Ranked er en test av individuelle ferdigheter, så det å gi hint og/eller svar til andre spillere, i tillegg til å motta dem, strider mot reglene."
@@ -3899,7 +3899,7 @@
             "copied": "Kopiert!"
         },
         "default_game_names": {
-            "quiz_of_the_day": "Dagens quiz",
+            "quiz_of_the_day": "Dagens Quiz",
             "solo": "Solo",
             "jam_quiz": "Jam quiz",
             "amq_awards": "AMQ-prisene",
