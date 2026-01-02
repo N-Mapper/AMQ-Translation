@@ -4597,7 +4597,7 @@
                     }
                 },
                 "pay": {
-                    "text": "Mannen griper tak i fragmentene mens du kaster dem til ham. _BREAK_ \"En fornøyelse å drive business\""
+                    "text": "Mannen griper tak i fragmentene mens du kaster dem til ham. _BREAK_ \"En fornøyelse å gjøre business\""
                 },
                 "ignore": {
                     "text": "\"Du kommer til å angre på det. Ikke hold meg ansvarlig for det som skjer\". _BREAK_ Mannen roper mens han løper ut av døren mens de fiendtlige kjernene begynner å aktiveres."
@@ -4632,7 +4632,7 @@
                 "song_type": {
                     "title": "Gavegame - sangtype",
                     "base": {
-                        "text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ \"Heisan spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt sangtypequiz-game _HIGHLIGHT_ av vår velvillige vert.\" _BREAK_ \"Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere _HIGHLIGHT_ får én feil _HIGHLIGHT_, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.\"",
+                        "text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ \"Heisan spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt sangtypequiz-game _HIGHLIGHT_ av vår velvillige vert.\" _BREAK_ \"Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere får én feil, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.\"",
                         "options": {
                             "accept": "Godta initasjonen",
                             "decline": "Avslå initasjonen"
