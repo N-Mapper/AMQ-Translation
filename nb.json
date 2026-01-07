@@ -4386,7 +4386,7 @@
                 "message_two": "Dette er fiendene! Når du gjetter riktig på en sang, vil karakteren som har tur angripe det aktuelle monsteret.",
                 "message_three": "Dette er gruppen din. Fiendene vil angripe gruppemedlemmene dine etter nok feil svar.",
                 "message_four": "La oss først bruke Hikibis evne til å forsterke angrepene hennes!",
-                "message_five": "Nå har hun en haug med buffs! Du kan holde musepekeren over ikonene for å se hva de gjør!",
+                "message_five": "Nå har hun en haug med buffer! Du kan holde musepekeren over ikonene for å se hva de gjør!",
                 "message_six": "Nå må vi svar på quizen! Hint: Dette er riktig svar!"
             },
             "post_attack": {
@@ -4482,7 +4482,7 @@
                 "description": "Å lande 2 angrep på rad gir et skjold"
             },
             "comfy_scarf": {
-                "title": "Nusselig skjerf",
+                "title": "Mykt skjerf",
                 "description": "Kontre den første vanlige debuffen mottatt i kamp"
             },
             "computation_orb": {
@@ -4939,7 +4939,7 @@
                 "standard": {
                     "name": "Våpenmester",
                     "description": "Få en buff som styrker alle offensive artifakter",
-                    "badge_description": "Tilfeldig sjanse til å styrke offensive artefakter i begynnelsen av runden"
+                    "badge_description": "Tilfeldig sjanse til å forsterke offensive artefakter i begynnelsen av runden"
                 }
             },
             "asuka": {
@@ -4992,7 +4992,7 @@
             "hibiki": {
                 "standard": {
                     "name": "Dyp dykk",
-                    "description": "Få buffs for opptil _NUMBER_ av de gjeldende sangsjangrene, som hver øker skaden i disse sjangrene",
+                    "description": "Få buffer for opptil _NUMBER_ av de gjeldende sangsjangrene, som hver øker skaden i disse sjangrene",
                     "badge_description": "Tilfeldig sjanse til å få en buff som øker skaden i en av de nåværende sangsjangrene"
                 }
             },
@@ -5031,7 +5031,7 @@
                 "standard": {
                     "name": "Trekkflask",
                     "description": "Få en tilfeldig buff, skjold eller helbredelse avhengig av situasjonen",
-                    "badge_description": "Tilfeldig sjanse til å få buff, skjold eller helbredelse avhengig av situasjonen"
+                    "badge_description": "Tilfeldig sjanse til å få én buff, skjold eller helbredelse avhengig av situasjonen"
                 }
             },
             "komugi": {
@@ -5134,7 +5134,7 @@
                 "high_priest": {
                     "name": "Isfengsel",
                     "description": "Debuff målfienden ved å hoppe over alle handlingene deres i flere runder, samtidig som du reduserer skaden de tar betraktelig",
-                    "badge_description": "Tilfeldig sjanse til å debuffe en tilfeldig fiende ved å hoppe over alle handlingene deres i flere runder, samtidig som du reduserer skaden de tar betraktelig"
+                    "badge_description": "Tilfeldig sjanse til å svekke en tilfeldig fiende ved å hoppe over alle handlingene deres i flere runder, samtidig som du reduserer skaden de tar betraktelig"
                 }
             },
             "naomi": {
@@ -5360,7 +5360,7 @@
                 "description": "Å lande neste angrep gir et skjold"
             },
             "comfy_scarf": {
-                "name": "Nusselig skjerf",
+                "name": "Mykt skjerf",
                 "description": "Kontre neste standard debuff"
             },
             "computation_orb": {
