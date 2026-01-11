@@ -3740,7 +3740,7 @@
         "software_development": "Programvareutvikling",
         "space": "Verdensrommet",
         "space_opera": "Space opera",
-        "spearplay": "Spydkunst",
+        "spearplay": "Spydfekting",
         "steampunk": "Steampunk",
         "stop_motion": "Stop motion",
         "succubus": "Succubus",
@@ -3753,7 +3753,7 @@
         "surreal_comedy": "Surrealistisk komedie",
         "survival": "Overlevelse",
         "swimming": "Svømming",
-        "swordplay": "Sverdkunst",
+        "swordplay": "Sverdfekting",
         "table_tennis": "Bordtennis",
         "tanks": "Stridsvogner",
         "tanned_skin": "Solbrunt hud",
@@ -6005,7 +6005,7 @@
                 "description": "Gjett 20 sanger i løpet av de første 7 sekundene, i ikke-laggame"
             },
             "i_love_that_show": {
-                "title": "Jeg elsker det programmet",
+                "title": "Dette er Peak",
                 "description": "Gjett 20 sanger du har gitt 8+ på animelisten din, i ikke-laggame"
             },
             "keeping_up_to_date": {
