@@ -42,7 +42,7 @@
             "default": "Standard",
             "delete": "Slett",
             "close_button": "Lukk",
-            "report": "Rappoter",
+            "report": "Rapporter",
             "not_applicable": "N/A",
             "claimed_button": "Mottatt",
             "search_placeholder": "Søk",
@@ -5529,7 +5529,7 @@
             "encore_debuff": {
                 "name": "Ekstranummer debuff",
                 "description": "Neste angrep fra _NAME_ er et garantert kritisk treff",
-                "the_caster": "Kasteren"
+                "the_caster": "Magiken"
             },
             "ice_prison": {
                 "name": "Isfengsel",
@@ -5636,7 +5636,7 @@
             "assassin": "Leiemorder",
             "bit_storm": "Bitstorm",
             "brute": "Bølle",
-            "caster": "Kaster",
+            "caster": "Magiker",
             "enemy_core": "Fiendtlig kjerne",
             "energizer": "Energiser",
             "data_storm": "Datastorm",
@@ -5708,7 +5708,7 @@
                 "text": "Nå vil spillet kunne velge sanger fra serier du har sett!"
             },
             "step_dismiss": {
-                "text": "Det går greit, du kan fortsatt spille uten en! _BREAK_ Du kan legge til animelister i menyen nederst til høyre under \"Innstillinger\"."
+                "text": "Det går greit, du kan fortsatt spille uten én! _BREAK_ Du kan legge til animelister i menyen nederst til høyre under \"Innstillinger\"."
             }
         },
         "first_game": {
@@ -5831,7 +5831,7 @@
                 "text": "Her er vi, den siste delen av opplæringen! _BREAK_ Denne delen går igjennom hvordan profilen din og vennesystemet fungerer i spillet. Så for å komme i gang, åpne sosialmenyen nederst til venstre."
             },
             "step_two": {
-                "text": "Først har vi vennelisten. Alle venner du legger til mens du spiller, vises her. _BREAK_ Dette lar deg se når de er online, sjekke profilene deres og til og med invitere dem til game."
+                "text": "Først har vi vennelisten. Alle venner du legger til mens du spiller, vises her. _BREAK_ Dette lar deg se når de er pålogget, sjekke profilene deres og til og med invitere dem til game."
             },
             "step_three": {
                 "text": "Du kan også få tilgang til en liste over alle brukere som er pålogget, ved å bytte til fanen Pålogget nederst i menyen."
@@ -5840,7 +5840,7 @@
                 "text": "Men det sparer vi til en annen gang, siden vi skal se på profilen din nå! _BREAK_ Klikk på profilen til høyre for Pålogget fanen, så skal den dukke opp."
             },
             "step_five": {
-                "text": "Her har vi profilen din! Profiler viser statistikk som animelisten din, kontoens alder samt hvor mye og hvor bra du har spilt. Den kan også brukes til å vise merker du har tjent!"
+                "text": "Her har vi profilen din! Profiler viser statistikk som animelisten din, kontoens alder samt hvor mye og hvor bra du har spilt. Den kan også brukes til å vise merker du har opptjent!"
             },
             "step_six": {
                 "text": "Nederst har vi alternativene du kan bruke på profiler, for eksempel å sende spilleren en melding, venneforespørsel eller gameforespørseler. Du kan til og med blokkere eller rapportere spillere hvis det blir nødvending."
