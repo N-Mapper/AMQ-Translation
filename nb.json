@@ -3245,7 +3245,7 @@
             "vote_message": "Returner til lobby?",
             "yes": "Ja",
             "no": "Nei",
-            "start_vote": "Start avstemming for å returnere til lobby?",
+            "start_vote": "Start stemming for lobby?",
             "start_button": "Start",
             "results": {
                 "vote_passed": "Avstemming godtatt",
@@ -5675,7 +5675,7 @@
                 "text": "For å begynne med ser jeg at du ikke har en Anilist-, MyAnimeList- eller Kitsu-bruker tilkoblet. _BREAK_ Jeg anbefaler på det sterkeste at du legger til en, fordi det lar spillet velge sanger fra serier du har sett.",
                 "options": {
                     "no_list": "Jeg har ikke én",
-                    "add_one": "Ok, las oss legge til én",
+                    "add_one": "La meg legge til én",
                     "skip": "Jeg går uten"
                 }
             },
@@ -5811,14 +5811,14 @@
                 "text": "Det var alt for det grunnleggende om avatarer. Hvis du er interessert i å vite mer om ticketsystemet, kan du sjekke ut ticket-fanen. Det finnes også flere emojier du kan låse opp for bruk i chatten og på profilen din, som du finner i emoji-fanen"
             },
             "step_sixteen": {
-                "text": "Når vi snakker om profiler, det ble dekket i den siste delen opplæringen. Gi meg beskjed om du er klar for å få ta den nå!",
+                "text": "Nå som vi snakker om profiler, blir dette dekket i den siste delen opplæringen. Si fra om du er klar for å få ta den nå!",
                 "options": {
                     "yes": "Ja, la oss begynne!",
                     "no": "Nei, ellers takk"
                 }
             },
             "step_sixteen_first_time": {
-                "text": "Når vi snakker om profiler, det ble dekket i den siste delen opplæringen. Gi meg beskjed om du er klar for å få ta den nå! _BREAK_ Siden dette var første gang du fullførte avatar-opplæringen, her har du noen notes som kan hjelpe deg med å låse opp ditt neste skinn!",
+                "text": "Nå som vi snakker om profiler, blir dette dekket i den siste delen opplæringen. Si fra om du er klar for å få ta den nå! Siden dette var første gang du fullførte avatar-opplæringen, får du noen notes som kan hjelpe deg med å låse opp ditt neste skinn!",
                 "options": {
                     "yes": "Ja, la oss begynne!",
                     "no": "Nei, ellers takk"
@@ -5849,7 +5849,7 @@
                 "text": "De fleste av disse alternativene er nedtonet for deg, siden du ikke kan gjøre dem på deg selv. Men hvis du klikker på det stiplede alternativet til høyre, vil du se det ene alternativet som er tilgjengelig for deg på profilen, redigering av den. _BREAK_ Prøv å klikke på den, så skal du se redigeringsvisningen."
             },
             "step_eight": {
-                "text": "Ved å redigere profilen din kan du oppdatere nesten alt ved den. Du kan vise/skjule statistikken ved å klikke på øyet til venstre for den. Du kan endre hvilket nettsted med animelister som vises, og til og med endre profilbildet ditt til en hvilken som helst emoji du har låst opp i ticketsystemet!"
+                "text": "Ved å redigere profilen din kan du oppdatere nesten alt ved den. Du kan vise/skjule statistikken ved å klikke på øyet til venstre for den. Du kan endre hvilket nettsted med animelister som vises, og til og med endre profilbildet ditt til en emoji du har låst opp i ticketsystemet!"
             },
             "step_nine": {
                 "text": "Alle merker du låser opp, for eksempel ved å låse opp skinn og rangert spillmodusen, vil du også kunne vise på profilen din."
@@ -5858,7 +5858,7 @@
                 "text": "Ved å bytte til chatvisning for merker kan du også angi at et merke skal vises ved siden av navnet ditt i gamechatten. _BREAK_ Hvis du holder musepekeren over merkene i menyen, ser du også hvordan du låser den opp."
             },
             "step_eleven": {
-                "text": "Til slutt kan du også endre kallenavnet ditt, navnet du vises som i spillet, ved å klikke på redigeringsknappen til høyre for brukernavnet ditt. Dette er begrenset til én endring per år, og det opprinnelige navnet ditt vil være synlig på profilen din ved å holde musepekeren over kallenavnet ditt."
+                "text": "Til slutt kan du også endre kallenavnet ditt, navnet du vises som i spillet, ved å klikke på redigeringsknappen til høyre for brukernavnet ditt. Dette er begrenset til én endring i år, og det opprinnelige navnet vil være synlig på profilen din ved å holde musepekeren over kallenavnet."
             },
             "step_twelve": {
                 "text": "Og det var lat for den siste delen av opplæringen. Nå som alle er fullført, håper jeg du koser deg med å spille Anime Music Quiz!"
