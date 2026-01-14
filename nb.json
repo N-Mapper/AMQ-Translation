@@ -63,16 +63,16 @@
                 "cancel": "Avbryt"
             },
             "detected_afk": {
-                "MISSING-title": "You have been detected as AFK",
-                "MISSING-text": "You'll be disconnected in _SPAN_ 60 _SPAN_ seconds",
-                "MISSING-text_host": "You'll lose host status (and be changed to spectator, if you aren't already) in _SPAN_ 10 _SPAN_ seconds",
-                "MISSING-stay_online": "Stay Online",
-                "MISSING-stay_host": "Stay Host"
+                "title": "Du har blitt merket som AFK",
+                "text": "Du blir frakoblet om _SPAN_ 60 _SPAN_ sekunder",
+                "text_host": "Du mister vertsstatusen din (og blir endret til tilskuer hvis du ikke allerede er det) om _SPAN_ 10 _SPAN_ sekunder",
+                "stay_online": "Forbli pålogget",
+                "stay_host": "Forbli vert"
             },
             "disconnected_for_inactivity": {
-                "MISSING-title": "Disconnected for inactivity",
-                "MISSING-text": "Reload the game to reconnect",
-                "MISSING-reload": "Reload"
+                "title": "Frakoblet grunnet inaktivitet",
+                "text": "Last inn spillet på nytt for å koble til igjen",
+                "reload": "Last inn på nytt"
             }
         },
         "registration": {
@@ -1468,7 +1468,7 @@
                 "insufficient_rhythm_message": "Du har ikke nok rhythm for å låse opp denne gjenstanden.",
                 "error_unlocking": "Opplåsingsfeil"
             },
-            "MISSING-transaction_complete": "Transaction Complete"
+            "transaction_complete": "Transaksjonen fullført"
         },
         "toggle_favorite": "Forandre favorittstatus",
         "avatar_states": {
@@ -2977,7 +2977,7 @@
             "create": "Skap",
             "join": "Bli med",
             "leave": "Forlat",
-            "MISSING-create_team": "Create Team"
+            "create_team": "Skap lag"
         },
         "rule_window": {
             "title": "Gamemodus oversikt",
@@ -5663,19 +5663,19 @@
             "rejoin_button": "Bli med igjen"
         },
         "floor_descriptions": {
-            "MISSING-enemy_hp": "Enemies have more hp",
-            "MISSING-enemy_damage": "Enemies deal more damage",
-            "MISSING-avatar_debuffs_longer": "Debuffs on avatars last longer",
-            "MISSING-reduced_guessing_time": "Reduced guessing time",
-            "MISSING-crafting_fewer_artifacts": "Crafting stations have fewer artifacts",
-            "MISSING-start_damaged": "Party starts damaged",
-            "MISSING-avatar_buffs_expire_quicker": "Buffs on avatars expire quicker",
-            "MISSING-enemy_random_buff": "Enemies start with a random buff",
-            "MISSING-enemy_debuffs_shorter": "Debuffs on enemies expire quicker",
-            "MISSING-avatar_max_three_artifacts": "Avatars can equip max 3 artifacts",
-            "MISSING-enemies_quicker": "Enemies attacks quicker",
-            "MISSING-fewer_combat_reward_artifacts": "Combat rewards have fewer artifacts",
-            "MISSING-more_enemies": "Enemy encounters can have more enemies"
+            "enemy_hp": "Fiender har mer hp",
+            "enemy_damage": "Fiender gjør mer skade",
+            "avatar_debuffs_longer": "Debuffer varer lenger",
+            "reduced_guessing_time": "Redusert gjettetid",
+            "crafting_fewer_artifacts": "Håndverksstasjoner har færre artefakter",
+            "start_damaged": "Gruppen starter skadet",
+            "avatar_buffs_expire_quicker": "Buffer på avatarer utløper raskere",
+            "enemy_random_buff": "Fiender starter med en tilfeldig buff",
+            "enemy_debuffs_shorter": "Debuffer på fiender utløper raskere",
+            "avatar_max_three_artifacts": "Avatarer kan maks utrustes med 3 artefakter",
+            "enemies_quicker": "Fiender angriper raskere",
+            "fewer_combat_reward_artifacts": "Kampbelønninger har færre artefakter",
+            "more_enemies": "Fiendemøter kan ha flere fiender"
         }
     },
     "tutorial": {
@@ -6132,26 +6132,26 @@
     },
     "quiz_of_the_day": {
         "starting_messages": {
-            "MISSING-championship_starting_in": "_NAME_ Championship Match Starting in _NUMBER_ min",
-            "MISSING-themed_starting_in": "Themed Quiz Starting in _NUMBER_ min",
-            "MISSING-ranked_starting_in": "Ranked Match Starting in _NUMBER_ min",
-            "MISSING-amq_awards_starting_in": "AMQ Awards Starting in _NUMBER_ min",
-            "MISSING-join_lobby_instruction": "Lobby can be joined from the main menu"
+            "championship_starting_in": "_NAME_ mesterskapmatchen starter om _NUMBER_ min",
+            "themed_starting_in": "Temaquizen starter om _NUMBER_ min",
+            "ranked_starting_in": "Rankedmatchen starter om _NUMBER_ min",
+            "amq_awards_starting_in": "AMQ-prisene starter om _NUMBER_ min",
+            "join_lobby_instruction": "Lobbyen kan nås fra hovedmenyen"
         },
         "championship_winner_message": {
             "solo": {
-                "MISSING-title": "New _NAME_ Region Champion Found!",
-                "MISSING-message": "_NAME_ is the new champion!"
+                "title": "Ny _NAME_ !",
+                "message": "_NAME_ er den nye mesteren!"
             },
             "multiple": {
-                "MISSING-title": "New _NAME_ Region Champions Found!",
-                "MISSING-message": "_NAMELIST_ are the new champions!"
+                "title": "Ny _NAME_ regionmester funnet!",
+                "message": "_NAMELIST_ er de nye mesterne!"
             }
         },
         "region_names": {
-            "MISSING-east": "East",
-            "MISSING-west": "West",
-            "MISSING-central": "Central"
+            "east": "Øst",
+            "west": "Vest",
+            "central": "Sentral"
         }
     }
 }

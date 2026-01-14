@@ -45,7 +45,8 @@
             "default": "Default",
             "delete": "Delete",
             "not_applicable": "N/A",
-            "search_placeholder": "Search"
+            "search_placeholder": "Search",
+            "server_restart": "Server Restart"
         },
         "popout_messages": {
             "unexpected_error": "Unexpected Error",
@@ -60,6 +61,18 @@
                 "text": "You won't see messages or get friend/game invites from blocked players",
                 "confirm": "Block",
                 "cancel": "Cancel"
+            },
+            "detected_afk": {
+                "title": "You have been detected as AFK",
+                "text": "You'll be disconnected in _SPAN_ 60 _SPAN_ seconds",
+                "text_host": "You'll lose host status (and be changed to spectator, if you aren't already) in _SPAN_ 10 _SPAN_ seconds",
+                "stay_online": "Stay Online",
+                "stay_host": "Stay Host"
+            },
+            "disconnected_for_inactivity": {
+                "title": "Disconnected for inactivity",
+                "text": "Reload the game to reconnect",
+                "reload": "Reload"
             }
         },
         "registration": {
@@ -1447,6 +1460,7 @@
             "version_entry": "Version: _NAME_",
             "location_background": "Location Background",
             "decorations": "Decorations",
+            "transaction_complete": "Transaction Complete",
             "errors": {
                 "failed_to_create_payment": "Failed to create payment, please try again.",
                 "unlimited_slots_already_unlocked": "Unlimited slots already unlocked",
@@ -3070,6 +3084,7 @@
             "no_team": "No Team",
             "team_code": "Team Code",
             "create": "Create",
+            "create_team": "Create Team",
             "join": "Join",
             "leave": "Leave"
         },
@@ -3378,7 +3393,7 @@
         },
         "rejoin_prompt": {
             "title": "Rejoin Disconnect Game",
-            "description": "You where disconnected from your last game, want to rejoin it?",
+            "description": "You were disconnected from your last game, want to rejoin it?",
             "rejoin_button": "Rejoin"
         },
         "song_info": {
@@ -3555,6 +3570,30 @@
                 "damage_done": "Increase damage done during _NAME_ shows",
                 "damage_taken_2": "Increase damage taken during _NAME_ shows"
             }
+        }
+    },
+    "quiz_of_the_day": {
+        "starting_messages": {
+            "championship_starting_in": "_NAME_ Championship Match Starting in _NUMBER_ min",
+            "themed_starting_in": "Themed Quiz Starting in _NUMBER_ min",
+            "ranked_starting_in": "Ranked Match Starting in _NUMBER_ min",
+            "amq_awards_starting_in": "AMQ Awards Starting in _NUMBER_ min",
+            "join_lobby_instruction": "Lobby can be joined from the main menu"
+        },
+        "championship_winner_message": {
+            "solo": {
+                "title": "New _NAME_ Region Champion Found!",
+                "message": "_NAME_ is the new champion!"
+            },
+            "multiple": {
+                "title": "New _NAME_ Region Champions Found!",
+                "message": "_NAMELIST_ are the new champions!"
+            }
+        },
+        "region_names": {
+            "east": "East",
+            "west": "West",
+            "central": "Central"
         }
     },
     "nexus": {
@@ -3851,6 +3890,11 @@
                     "text": "Skip Artifact?",
                     "skip_button": "Skip"
                 }
+            },
+            "abandon_run_vote": {
+                "title": "Abandon Run?",
+                "yes_button": "Yes",
+                "no_button": "No"
             },
             "event_window": {
                 "title": "Event",
@@ -5249,6 +5293,14 @@
             "genre_protection": {
                 "name": "_NAME_ Protection",
                 "description": "Negate all damage from attacks when the current show doesn’t have the _NAME_ genre."
+            },
+            "data_feedback": {
+                "name": "Data Feedback",
+                "description": "Data shield damage reduction offline"
+            },
+            "data_shield": {
+                "name": "Data Shield",
+                "description": "Greatly reduce all damage taken"
             }
         },
         "enemies": {
@@ -5262,6 +5314,21 @@
             "orb": "Orb",
             "singularity": "Singularity",
             "the_creator": "The Creator"
+        },
+        "floor_descriptions": {
+            "enemy_hp": "Enemies have more hp",
+            "enemy_damage": "Enemies deal more damage",
+            "avatar_debuffs_longer": "Debuffs on avatars last longer",
+            "reduced_guessing_time": "Reduced guessing time",
+            "crafting_fewer_artifacts": "Crafting stations have fewer artifacts",
+            "start_damaged": "Party starts damaged",
+            "avatar_buffs_expire_quicker": "Buffs on avatars expire quicker",
+            "enemy_random_buff": "Enemies start with a random buff",
+            "enemy_debuffs_shorter": "Debuffs on enemies expire quicker",
+            "avatar_max_three_artifacts": "Avatars can equip max 3 artifacts",
+            "enemies_quicker": "Enemies attacks quicker",
+            "fewer_combat_reward_artifacts": "Combat rewards have fewer artifacts",
+            "more_enemies": "Enemy encounters can have more enemies"
         }
     },
     "tutorial": {
@@ -5940,14 +6007,152 @@
         "jacket": "Jacket",
         "mask": "Mask",
         "none": "None",
-        "pins": "pins",
+        "pins": "Pins",
         "revealed": "Revealed",
         "ribbon": "Ribbon",
         "ribbons": "Ribbons",
-        "scarf": "scarf",
+        "scarf": "Scarf",
         "tiara": "Tiara",
         "veil": "Veil",
         "whistle": "Whistle",
         "yan": "Yan"
+    },
+    "daily_quests": {
+        "title": "Daily Quests",
+        "description": {
+            "title": "Daily Quests",
+            "description": "Complete daily quests to earn bonus notes, and earn an avatar token for every 7 quest completed! A new quest becomes available every day at 12:00 CET, and you’ll have 7 days to complete it."
+        },
+        "event_quest": "Event Quest",
+        "weekly_quest": "Weekly Quest",
+        "category": {
+            "monday": "Mon",
+            "tuesday": "Tue",
+            "wednesday": "Wed",
+            "thursday": "Thu",
+            "friday": "Fri",
+            "saturday": "Sat",
+            "sunday": "Sun",
+            "event": "Eve"
+        },
+        "quest_description": "_DESCRIPTION_ _BREAK_ Reward: _NUMBER_ notes _BREAK_ Resets _DATE_",
+        "quests": {
+            "br_flex": {
+                "title": "BR Flex",
+                "description": "Guess 20 songs you didn't loot, in non-team games with looting enabled"
+            },
+            "master_rigger": {
+                "title": "Master Rigger",
+                "description": "Guess 20 songs from your anime list, in non-team games"
+            },
+            "survivor": {
+                "title": "Survivor",
+                "description": "Survive 10 rounds when playing with lives, in non-team games"
+            },
+            "master_sniper": {
+                "title": "Master Sniper",
+                "description": "Guess 20 songs not from your anime list, in non-team games"
+            },
+            "lightning_fast": {
+                "title": "Lightning Fast",
+                "description": "Guess 20 songs within the first 7 seconds of it, in non-team games"
+            },
+            "i_love_that_show": {
+                "title": "I Love That Show",
+                "description": "Guess 20 songs from shows you've scored 8+ in your anime list, in non-team games"
+            },
+            "keeping_up_to_date": {
+                "title": "Keeping Up To Date",
+                "description": "Guess 20 songs from shows released in the 4 latest anime seasons, in non-team games"
+            },
+            "dont_skip_openings": {
+                "title": "Don't Skip Openings",
+                "description": "Guess 20 opening songs, in non-team games"
+            },
+            "dont_skip_endings": {
+                "title": "Don't Skip Endings",
+                "description": "Guess 20 ending songs, in non-team games"
+            },
+            "dont_skip_inserts": {
+                "title": "Don't Skip Inserts",
+                "description": "Guess 20 insert songs, in non-team games"
+            },
+            "action_fan": {
+                "title": "Action Fan",
+                "description": "Guess 20 songs from action shows, in non-team games"
+            },
+            "adventure_fan": {
+                "title": "Adventure Fan",
+                "description": "Guess 20 songs from adventure shows, in non-team games"
+            },
+            "comedy_fan": {
+                "title": "Comedy Fan",
+                "description": "Guess 20 songs from comedy shows, in non-team games"
+            },
+            "drama_fan": {
+                "title": "Drama Fan",
+                "description": "Guess 20 songs from drama shows, in non-team games"
+            },
+            "ecchi_fan": {
+                "title": "Ecchi Fan",
+                "description": "Guess 20 songs from ecchi shows, in non-team games"
+            },
+            "fantasy_fan": {
+                "title": "Fantasy Fan",
+                "description": "Guess 20 songs from fantasy shows, in non-team games"
+            },
+            "horror_fan": {
+                "title": "Horror Fan",
+                "description": "Guess 20 songs from horror shows, in non-team games"
+            },
+            "mahou_shoujo_fan": {
+                "title": "Mahou Shoujo Fan",
+                "description": "Guess 20 songs from mahou shoujo shows, in non-team games"
+            },
+            "mecha_fan": {
+                "title": "Mecha Fan",
+                "description": "Guess 20 songs from mecha shows, in non-team games"
+            },
+            "music_fan": {
+                "title": "Music Fan",
+                "description": "Guess 20 songs from music shows, in non-team games"
+            },
+            "mystery_fan": {
+                "title": "Mystery Fan",
+                "description": "Guess 20 songs from mystery shows, in non-team games"
+            },
+            "psychological_fan": {
+                "title": "Psychological Fan",
+                "description": "Guess 20 songs from psychological shows, in non-team games"
+            },
+            "romance_fan": {
+                "title": "Romance Fan",
+                "description": "Guess 20 songs from romance shows, in non-team games"
+            },
+            "sci-fi_fan": {
+                "title": "Sci-Fi Fan",
+                "description": "Guess 20 songs from sci-fi shows, in non-team games"
+            },
+            "slice_of_life_fan": {
+                "title": "Slice of Life Fan",
+                "description": "Guess 20 songs from slice of fife shows, in non-team games"
+            },
+            "sports_fan": {
+                "title": "Sports Fan",
+                "description": "Guess 20 songs from sports shows, in non-team games"
+            },
+            "supernatural_fan": {
+                "title": "Supernatural Fan",
+                "description": "Guess 20 songs from supernatural shows, in non-team games"
+            },
+            "thriller_fan": {
+                "title": "Thriller Fan",
+                "description": "Guess 20 songs from thriller shows, in non-team games"
+            },
+            "just_jamming": {
+                "title": "Just Jamming",
+                "description": "Guess 20 songs in the Jam Quiz"
+            }
+        }
     }
 }
