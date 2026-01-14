@@ -61,6 +61,18 @@
                 "text": "Du vil ikke se meldinger eller få venne-/gameforespørseler fra blokkerte spillere",
                 "confirm": "Blokk",
                 "cancel": "Avbryt"
+            },
+            "detected_afk": {
+                "MISSING-title": "You have been detected as AFK",
+                "MISSING-text": "You'll be disconnected in _SPAN_ 60 _SPAN_ seconds",
+                "MISSING-text_host": "You'll lose host status (and be changed to spectator, if you aren't already) in _SPAN_ 10 _SPAN_ seconds",
+                "MISSING-stay_online": "Stay Online",
+                "MISSING-stay_host": "Stay Host"
+            },
+            "disconnected_for_inactivity": {
+                "MISSING-title": "Disconnected for inactivity",
+                "MISSING-text": "Reload the game to reconnect",
+                "MISSING-reload": "Reload"
             }
         },
         "registration": {
@@ -1455,7 +1467,8 @@
                 "insufficient_rhythm": "Utilstrekklige rhythm",
                 "insufficient_rhythm_message": "Du har ikke nok rhythm for å låse opp denne gjenstanden.",
                 "error_unlocking": "Opplåsingsfeil"
-            }
+            },
+            "MISSING-transaction_complete": "Transaction Complete"
         },
         "toggle_favorite": "Forandre favorittstatus",
         "avatar_states": {
@@ -2686,8 +2699,7 @@
                     "multiple_choice": "Flervalg"
                 },
                 "floor": "Etasje _NUMBER_"
-            },
-            "lobby_full_message": "Lobbyen er full"
+            }
         }
     },
     "quiz_builder": {
@@ -2964,7 +2976,8 @@
             "team_code": "Lagkode",
             "create": "Skap",
             "join": "Bli med",
-            "leave": "Forlat"
+            "leave": "Forlat",
+            "MISSING-create_team": "Create Team"
         },
         "rule_window": {
             "title": "Gamemodus oversikt",
@@ -5648,6 +5661,21 @@
             "title": "Bli med i Nexus-game du koblet fra",
             "description": "Du ble koblet fra forrige Nexus-game, vil du bli med igjen?",
             "rejoin_button": "Bli med igjen"
+        },
+        "floor_descriptions": {
+            "MISSING-enemy_hp": "Enemies have more hp",
+            "MISSING-enemy_damage": "Enemies deal more damage",
+            "MISSING-avatar_debuffs_longer": "Debuffs on avatars last longer",
+            "MISSING-reduced_guessing_time": "Reduced guessing time",
+            "MISSING-crafting_fewer_artifacts": "Crafting stations have fewer artifacts",
+            "MISSING-start_damaged": "Party starts damaged",
+            "MISSING-avatar_buffs_expire_quicker": "Buffs on avatars expire quicker",
+            "MISSING-enemy_random_buff": "Enemies start with a random buff",
+            "MISSING-enemy_debuffs_shorter": "Debuffs on enemies expire quicker",
+            "MISSING-avatar_max_three_artifacts": "Avatars can equip max 3 artifacts",
+            "MISSING-enemies_quicker": "Enemies attacks quicker",
+            "MISSING-fewer_combat_reward_artifacts": "Combat rewards have fewer artifacts",
+            "MISSING-more_enemies": "Enemy encounters can have more enemies"
         }
     },
     "tutorial": {
@@ -6100,6 +6128,30 @@
                 "title": "Bare jamme",
                 "description": "Gjett 20 sanger i jam quiz"
             }
+        }
+    },
+    "quiz_of_the_day": {
+        "starting_messages": {
+            "MISSING-championship_starting_in": "_NAME_ Championship Match Starting in _NUMBER_ min",
+            "MISSING-themed_starting_in": "Themed Quiz Starting in _NUMBER_ min",
+            "MISSING-ranked_starting_in": "Ranked Match Starting in _NUMBER_ min",
+            "MISSING-amq_awards_starting_in": "AMQ Awards Starting in _NUMBER_ min",
+            "MISSING-join_lobby_instruction": "Lobby can be joined from the main menu"
+        },
+        "championship_winner_message": {
+            "solo": {
+                "MISSING-title": "New _NAME_ Region Champion Found!",
+                "MISSING-message": "_NAME_ is the new champion!"
+            },
+            "multiple": {
+                "MISSING-title": "New _NAME_ Region Champions Found!",
+                "MISSING-message": "_NAMELIST_ are the new champions!"
+            }
+        },
+        "region_names": {
+            "MISSING-east": "East",
+            "MISSING-west": "West",
+            "MISSING-central": "Central"
         }
     }
 }
