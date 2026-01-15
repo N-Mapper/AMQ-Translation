@@ -224,7 +224,7 @@
                 "lithuania": "Litauen",
                 "luxembourg": "Luxembourg",
                 "macao": "Macao",
-                "macedonia_republic_of_north": "Nord-Makedonia, Republikken ",
+                "macedonia_republic_of_north": "Nord-Makedonia, Republikken",
                 "madagascar": "Madagaskar",
                 "malawi": "Malawi",
                 "malaysia": "Malaysia",
@@ -662,7 +662,7 @@
             },
             "nexus": {
                 "title": "Nexus",
-                "description": "Utfordre Nexus-krypten, en unike roguelike-quizmodus, som kan spilles alene eller med venner"
+                "description": "Utfordre Nexus-fangehullet, en unike roguelike-quizmodus, som kan spilles alene eller med venner"
             }
         },
         "amq_funding": {
@@ -1167,7 +1167,7 @@
             "gameplay": "Gameplay",
             "avatars": "Avatarer",
             "social": "Sosialt",
-            "dungeon": "Dungeon",
+            "dungeon": "Fangehullet",
             "workshop": "Verksted",
             "rune_setup": "Rune oppsett"
         },
@@ -2060,9 +2060,9 @@
                 "confirm_button": "Publiser"
             },
             "report_quiz": {
-                "title": "Rappoter quiz",
+                "title": "Rapporter quiz",
                 "input_text": "Vennligst oppgi en grunn til å rapportere denne quizen.",
-                "confirm_button": "Rappoter"
+                "confirm_button": "Rapporter"
             },
             "report_failed": {
                 "title": "Rapportering mislyktes",
@@ -3326,7 +3326,7 @@
             "type": "Type",
             "video": "Video",
             "anime": "Anime",
-            "report": "Rappoter",
+            "report": "Rapporter",
             "report_reason": "Report årsak",
             "report_reasons": {
                 "wrong_song": "Feil sang",
@@ -3847,7 +3847,7 @@
         "columns": {
             "title": "Kolonner",
             "anime": "Anime",
-            "ann_id": "ANN id",
+            "ann_id": "ANN ID",
             "type": "Type",
             "season": "Sesong",
             "name": "Navn",
@@ -3948,7 +3948,7 @@
             "back_button": "Tilbake",
             "exit_button": "Gå ut",
             "dungeon": {
-                "title": "Dungeon",
+                "title": "Fangehull",
                 "co_op_save_created": "Lag",
                 "tabs": {
                     "mode": "Modus",
@@ -3958,7 +3958,7 @@
                 },
                 "mode": {
                     "standard": "Standard",
-                    "standard_description": "Fullfør en etasje i dungeonen, og gi laget ditt flere krefter etter hvert som dere avanserer, før dere utfordrer bossen til slutt.",
+                    "standard_description": "Fullfør en etasje i fangehullet, og gi laget ditt flere krefter etter hvert som dere avanserer, før dere utfordrer bossen til slutt.",
                     "endless": "Uendelig",
                     "endless_description": "Fortsett å utfordre et uendelig antall etasjer, og ta bare med deg et begrenset antall gjenstander fra den ene etasjen til den andre.",
                     "tutorial": "Opplæring",
@@ -3980,8 +3980,8 @@
                             "description": "Co-op modus er ikke tilgjengelig for gjestekontoer. Opprett en konto for å få tilgang til denne funksjonen."
                         }
                     },
-                    "dungeon_mode": "Dungeon-modus",
-                    "description_start": "Bestem hvordan du skal utfordre dungeonen.",
+                    "dungeon_mode": "Fangehullsmodus",
+                    "description_start": "Bestem hvordan du skal utfordre fangehullet.",
                     "rejoin_game": {
                         "title": "Bli med i Nexus Co-op game igjen?",
                         "description": "Hvis du starter et nytt game, vil du ikke kunne bli med i co-op gamet igjen.",
@@ -4000,14 +4000,14 @@
                     "settings": {
                         "song_types": {
                             "title": "Sangtyper",
-                            "description": "Type sanger valgt i dungeonen",
+                            "description": "Type sanger valgt i fangehull",
                             "op": "OP",
                             "ed": "ED",
                             "ins": "Ins"
                         },
                         "difficulty": {
                             "title": "Sangvansklighet",
-                            "description": "Vangskelighetsgraden på sanger valgt i dungeonen",
+                            "description": "Vangskelighetsgraden på sanger valgt i fangehull",
                             "easy": "Lett",
                             "medium": "Middels",
                             "hard": "Vanskelig"
@@ -4027,7 +4027,7 @@
                         },
                         "rating": {
                             "title": "Nivå",
-                            "description": "Vansklighetsnivået på spørsmålene i quizen. Jo høyere vurdering, desto mer XP og bedre runer belønnes i dungeonen."
+                            "description": "Vansklighetsnivået på spørsmålene i quizen. Jo høyere vurdering, desto mer XP og bedre runer belønnes i fangehullet."
                         },
                         "floor": {
                             "title": "Etasje",
@@ -4035,7 +4035,7 @@
                         },
                         "mode": {
                             "title": "Modus",
-                            "description": "Dungeontypen, standard er én etasje, mens uendelig fortsetter til neste etasje til gruppen blir beseiret."
+                            "description": "Fangehullstypen, standard er én etasje, mens uendelig fortsetter til neste etasje til gruppen blir beseiret."
                         }
                     },
                     "no_badge_unlocked_alert": {
@@ -4043,7 +4043,7 @@
                         "description": "Lås opp avatarmerker ved å gå opp i level med avatarer, og bruk dem til å gi andre avatarer flere krefter"
                     },
                     "leave_lobby_alert": {
-                        "title": "Forlat dungeon lobby?",
+                        "title": "Forlat fangehullet lobby?",
                         "leave_button": "Forlat"
                     },
                     "start_alerts": {
@@ -4190,7 +4190,7 @@
                 "clear": "Tøm"
             },
             "building_names": {
-                "dungeon": "Dungeon",
+                "dungeon": "Fangehull",
                 "inn": "Kroa",
                 "workshop": "Verksted",
                 "locked": "Låst"
@@ -4382,17 +4382,17 @@
             "city_overview": {
                 "message_one": "Velkommen til Nexus? Vil du ha en opplæring?",
                 "message_two": "Den er grei, du finner det alltid i opplæringsmenyen.",
-                "message_three": "Fantastisk! La oss komme i gang ved å gå inn i dungeonen!"
+                "message_three": "Fantastisk! La oss komme i gang ved å gå inn i fangehullet!"
             },
             "dungeon_lobby": {
-                "message_one": "Dette er dungeonlobbyen! Her velger du ditt dungeonutforskningsteam!",
+                "message_one": "Dette er fangehullslobbyen! Her velger du ditt fangehullutforskningsteam!",
                 "message_two": "Start med å klikke på \"Plass 1\" for å se dine tilgjengelige avatarer.",
                 "message_three": "Her har vi alle tilgjengelige avatarer. La oss velge Hibiki.",
                 "message_four": "La meg fullføre utvelgelsen for resten av gruppen din!",
-                "message_five": "Der! Ikke vær redd, jeg skal forklare evnene deres senere. La oss nå gå inn i dungeonen!"
+                "message_five": "Der! Ikke vær redd, jeg skal forklare evnene deres senere. La oss nå gå inn i fangehullet!"
             },
             "dungeon_map": {
-                "message_one": "Her har vi dungeonkartet. I opplæringen holde vi det kort og enkelt! La oss starte med å velge den første ruten."
+                "message_one": "Her har vi fangehullkartet. I opplæringen holde vi det kort og enkelt! La oss starte med å velge den første ruten."
             },
             "dungeon_combat": {
                 "message_one": "Her har vi kampmøtet, hvor du kjemper mot monstre for å få belønninger.",
@@ -4406,7 +4406,7 @@
                 "message_one": "Flott treff! Nå, la oss se hva som skjer hvis du svarer feil!"
             },
             "post_damage": {
-                "message_one": "Når du gjetter feil, går fiendes angripskontriger ned. Ett feil svar til, og de angriper!",
+                "message_one": "Når du gjetter feil, går fiendes angrepsnedteller ned. Ett feil svar til, og de angriper!",
                 "message_two": "Noel har lavt forsvar, så vi må forsvare henne! Heldigvis er det Yumemis tur, så vi kan bytte henne inn ved å gjøre et målbytte med Noel!",
                 "message_three": "Flott! Nå må du bare svare riktig for å bytte dem!"
             },
@@ -4445,21 +4445,21 @@
             },
             "boss_dungeon_reward": {
                 "message_one": "Gratulerer! Å beseire bossen gir deg runebelønninger.",
-                "message_two": "Runer gjør ingenting når de er innsamlet i dungeonen, men når vi kommer tilbake til byen kan du bruke verkstedet til å utruste dem og øke kraften",
+                "message_two": "Runer gjør ingenting når de er innsamlet i fangehullet, men når vi kommer tilbake til byen kan du bruke verkstedet til å utruste dem og øke kraften",
                 "message_three": "Det gir deg også massevis av XP for avatarene dine!",
                 "message_four": "Å gå opp i level med avatarer lar dem utruste seg med flere runer, styrker evnene deres og lar dem dele kreftene sine med andre avatarer!",
                 "message_five": "Det var alt for opplæringen! Kos deg med Nexus!"
             },
             "workshop": {
                 "message_one": "Velkommen til verkstedet! Etter hvert som du går opp i level med avatarene dine, låser de opp runneplasser, hvor du kan utruste deg med kraftige runer.",
-                "message_two": "Runer finnes overalt i Nexus-dungeonen, og gir statistikkboost og unike effekter når de er utrustet med en avatar.",
+                "message_two": "Runer finnes overalt i Nexus-fangehullet, og gir statistikkboost og unike effekter når de er utrustet med en avatar.",
                 "message_three": "Hvis en av avatarene dine har tomme runeplasser vises antallet på rutene deres.",
                 "message_four": "Til slutt kan du også bruke rune reformateren",
                 "message_five": "Det var alt for opplæringen! Kos deg med Nexus!"
             },
             "rune_setup": {
                 "message_one": "Her har vi runeoppsettet for avatarene dine.",
-                "message_two": "Øverst har du alle ubrukte runer du har funnet i Nexus-dungeonen",
+                "message_two": "Øverst har du alle ubrukte runer du har funnet i Nexus-fangehullet",
                 "message_three": "Runer er delt inn i to kategorier, offensiv (rød) og defensiv (blå).",
                 "message_four": "Runene har også én av to ulike kategorier, standard (trekant og firkant) og avansert (sirkler).",
                 "message_five": "Standard runer gir stablingstatistikk eller sjangerforsterkning, mens avanserte runer gir en unik effekt.",
@@ -4791,7 +4791,7 @@
                     "text": "_NAME_ trekker raskt tilbake hånden sin, som nå er dekket av skrot, fordi _HIGHLIGHT_ gjenstandene forvandlet seg til noen mindre vennlige skikkelser _HIGHLIGHT_."
                 },
                 "wipe_result": {
-                    "text": "_NAME_ trekker raskt tilbake hånden sin, som nå er dekket av skrot, fordi _HIGHLIGHT_ gjenstandene forvandlet seg til noen mindre vennlige skikkelser _HIGHLIGHT_. _BREAK_ Med _HIGHLIGHT_ ingen gjenværende medlemmer i gruppen, må dungeon avbrytes _HIGHLIGHT_."
+                    "text": "_NAME_ trekker raskt tilbake hånden sin, som nå er dekket av skrot, fordi _HIGHLIGHT_ gjenstandene forvandlet seg til noen mindre vennlige skikkelser _HIGHLIGHT_. _BREAK_ Med _HIGHLIGHT_ ingen gjenværende medlemmer i gruppen, må fangehullet avbrytes _HIGHLIGHT_."
                 },
                 "ignore_result": {
                     "text": "Den kaotiske naturen til beholderen virker som en for stor risiko. Så _HIGHLIGHT_ gruppen bestemmer seg for å fortsette videre _HIGHLIGHT_."
