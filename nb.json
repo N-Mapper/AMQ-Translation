@@ -404,7 +404,7 @@
             },
             "login_queue": {
                 "title": "Innloggingskø",
-                "text": "Innloggingsserveren opplever stor belastning, du vil bli logget inn om ett øyeblikk",
+                "text": "Innloggingsserveren opplever stor belastning, du vil bli logget inn om et øyeblikk",
                 "position": "Plass i køen: _SPAN_ 0 _SPAN_"
             }
         },
@@ -3366,7 +3366,7 @@
             "lives": "Liv"
         },
         "video_player": {
-            "sound_only": "Bare lyd",
+            "sound_only": "Kun lyd",
             "video_hidden": {
                 "title": "Video skjult",
                 "click_to_reveal": "Klikk for å avsløre"
@@ -3576,7 +3576,7 @@
         "e-sports": "E-sport",
         "eco-horror": "Økoskrekk",
         "economics": "Økonomi",
-        "educational": "Pedagogisk",
+        "educational": "Lærerik",
         "elderly_protagonist": "Eldre protagonist",
         "elf": "Alv",
         "ensemble_cast": "Ensemblebesetning",
@@ -3645,7 +3645,7 @@
         "kuudere": "Kuudere",
         "lacrosse": "Lacrosse",
         "language_barrier": "Språkberriere",
-        "lgbtq_themes": "LHBTQ+ temaer",
+        "lgbtq_themes": "LHBTQ+ tematikk",
         "long_strip": "Lang stripe",
         "lost_civilization": "Tapt sivilisasjon",
         "love_triangle": "Kjærlighetstriangel",
@@ -3676,7 +3676,7 @@
         "motorcycles": "Motorsykler",
         "mountaineering": "Alpinklatring",
         "musical_theater": "Musikkteater",
-        "mythology": "Mythologi",
+        "mythology": "Mytologi",
         "natural_disaster": "Naturkatastrofe",
         "necromancy": "Nekromanti",
         "nekomimi": "Nekomimi",
