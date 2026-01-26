@@ -3494,7 +3494,7 @@
         "arranged_marriage": "Arrangert ekteskap",
         "artificial_intelligence": "Kunstig intelligens",
         "asexual": "Aseksuell",
-        "assassins": "Leiemorder",
+        "assassins": "Leiemordere",
         "astronomy": "Astronomi",
         "athletics": "Friidrett",
         "augmented_reality": "Utvidet virkelighet",
@@ -3616,7 +3616,7 @@
         "gods": "Guder",
         "golf": "Golf",
         "gore": "Gørr",
-        "guns": "Pistol",
+        "guns": "Pistoler",
         "gyaru": "Gyaru",
         "handball": "Håndball",
         "henshin": "Henshin",
@@ -4043,7 +4043,7 @@
                         "description": "Lås opp avatarmerker ved å gå opp i level med avatarer, og bruk dem til å gi andre avatarer flere krefter"
                     },
                     "leave_lobby_alert": {
-                        "title": "Forlat fangehullet lobby?",
+                        "title": "Forlat fangehullets lobby?",
                         "leave_button": "Forlat"
                     },
                     "start_alerts": {
@@ -4259,7 +4259,7 @@
                 "runes": "Runer",
                 "continue_button": "Forsett",
                 "level_number": "Level _SPANC_ _NUMBER_ _SPANC_",
-                "party_wipe": "gruppen døde",
+                "party_wipe": "Gruppen døde",
                 "floor_cleared": "Etasje passert",
                 "xp_reward_types": {
                     "combat": "Kamp",
