@@ -1086,6 +1086,28 @@
             "mal_username_short": "MAL Username",
             "kitsu_username": "Kitsu Username",
             "last_updated": "_BOLD_ Last Updated: _BOLD_ _SPAN_ _DATE_ _SPAN_",
+            "amq_custom_list": "AMQ Custom List",
+            "amq_custom_list_description": "Create a custom list in the Song Library that can be used as, or alongside, your anime list.",
+            "no_list": "No List",
+            "custom_lists": "Custom Lists",
+            "custom_list_mode": {
+                "disable": {
+                    "title": "Disable",
+                    "description": "Don't use custom list for song selection"
+                },
+                "list": {
+                    "title": "Custom List",
+                    "description": "Use the custom list as your anime list for song selection"
+                },
+                "include": {
+                    "title": "Include",
+                    "description": "Include shows from the custom list alongside your anime list for song selection"
+                },
+                "exclude": {
+                    "title": "Exclude",
+                    "description": "Exclude shows from the custom list from song selection"
+                }
+            },
             "update_messages": {
                 "update_successful": "Update Successful",
                 "update_failed": "Update Failed",
@@ -1899,6 +1921,80 @@
                 "title": "I'm not sure what to do to get my upload approved?",
                 "text": "If your upload got rejected, or you're not sure how to get an upload approved, it is recommended to ask on the game's Discord server, where people will be able to help you."
             }
+        },
+        "custom_list": {
+            "title": "Custom Lists",
+            "no_lists": "No Lists",
+            "no_lists_description": "Custom lists can be used as your anime list (instead of MAL/AniList/Kitsu) or as custom song pools for quizzes.",
+            "new_list_button": "New List",
+            "create_list_button": "Create List",
+            "back_button": "Back",
+            "list_name_placeholder": "List Name",
+            "list_type": "List Type",
+            "anime_only": "Anime Only",
+            "anime_only_short": "Anime",
+            "anime_and_songs": "Anime and Songs",
+            "anime_and_songs_short": "Anime & Songs",
+            "anime_list": "Anime List",
+            "song_pool": "Song Pool",
+            "no_entries": "No Entries",
+            "no_entries_description": "Add entries from the library or doing quizzes",
+            "entries": "Entries: _NUMBER_",
+            "add_to_list": "Add to List",
+            "remove_from_list": "Remove from List",
+            "anime_only_description": {
+                "title": "Anime Only",
+                "description": "This list can only contain anime entries, and can be used as both an anime list and a song pool."
+            },
+            "anime_song_description": {
+                "title": "Anime and Songs",
+                "description": "This list can contain both anime and song entries, and can only be used as a song pool."
+            },
+            "create_custom_list": {
+                "title": "Create Custom List",
+                "input_placeholder": "Enter list name",
+                "create_button": "Create"
+            },
+            "delete_custom_list": {
+                "title": "Delete Custom List",
+                "description": "Are you sure you want to delete the custom list: _NAME_?",
+                "delete_button": "Delete"
+            },
+            "delete_anime_from_list": {
+                "title": "Delete Anime from List",
+                "description": "Are you sure you want to delete _NAME_ from the list",
+                "delete_button": "Delete"
+            },
+            "delete_song_from_list": {
+                "title": "Delete Song from List",
+                "description": "Are you sure you want to delete _NAME_ from the list",
+                "delete_button": "Delete"
+            },
+            "anime_list_description": "List can be used as an anime list",
+            "song_pool_description": "List can be used as a custom song pool in quizzes",
+            "anime_already_in_list": "Anime already in list",
+            "song_already_in_list": "Song already in list",
+            "add_to_custom_list": "Add to Custom List",
+            "anime_only_custom_list": {
+                "title": "Anime Only Custom List",
+                "description": "This list is set to anime only, and cannot have songs added to it."
+            },
+            "song_entry_anime_description": {
+                "format": "_TYPE_ - _NAME_",
+                "type": {
+                    "op": "OP_NUMBER_",
+                    "ed": "ED_NUMBER_",
+                    "in": "IN"
+                }
+            },
+            "max_list_count": {
+                "title": "Max Custom List Count Reached",
+                "description": "You can have a maximum of _NUMBER_ Custom Lists."
+            },
+            "songs_in_only_anime_switch": {
+                "title": "Songs in List",
+                "description": "To swap to anime only, all songs must be removed from the list first."
+            }
         }
     },
     "anime_types": {
@@ -2405,6 +2501,26 @@
         "team_size": {
             "title": "Team Size",
             "solo": "Solo"
+        },
+        "song_pool": {
+            "title": "Song Pool",
+            "description": "The base pool of songs used for the quiz, before any other filters are applied.",
+            "all": {
+                "title": "All",
+                "description": "All songs in the AMQ database"
+            },
+            "player": {
+                "title": "Player",
+                "description": "All songs from a single player's list"
+            },
+            "custom": {
+                "title": "Custom",
+                "description": "All songs from a Custom List"
+            },
+            "community": {
+                "title": "Community",
+                "description": "All songs from a Community Quiz"
+            }
         },
         "song_selection": {
             "title": "Song Selection",
@@ -3054,6 +3170,7 @@
         "host": "Host",
         "team_unset": "Unset",
         "team_members": "Team Members",
+        "ping_ready_up": "Ping unready players to ready up",
         "join_themed_team": {
             "title": "Join Team",
             "placeholder": "Enter a team code",
@@ -3079,6 +3196,26 @@
             "selected_quiz": "Selected Community Quiz:",
             "enabled": "Community Quiz Mode Enabled",
             "disabled": "Community Quiz Mode Disabled"
+        },
+        "song_pool": {
+            "title": "Song Pool",
+            "change": "Change",
+            "custom_list": {
+                "title": "Custom List",
+                "entries": "_NUMBER_ Entries",
+                "select": "Select Custom List",
+                "waiting": "Waiting for Host to Select a Custom List"
+            },
+            "player_list": {
+                "title": "Player List",
+                "select": "Select Player's List",
+                "waiting": "Waiting for Host to Select a Player's List"
+            },
+            "community_quiz": {
+                "title": "Community Quiz",
+                "select": "Select Community Quiz",
+                "waiting": "Waiting for Host to Select a Community Quiz"
+            }
         },
         "ranked_team": {
             "no_team": "No Team",
@@ -3173,6 +3310,10 @@
             "no_community_quiz": {
                 "title": "No Community Quiz Selected",
                 "description": "You must select a community quiz to start the game"
+            },
+            "no_song_pool": {
+                "title": "No Song Pool Selected",
+                "description": "You must select a song pool to start the game"
             }
         },
         "all_players_not_ready_warning": {
@@ -3232,6 +3373,12 @@
                 "summer": "Summer",
                 "fall": "Fall"
             },
+            "song_pool": {
+                "custom_list": "Custom List",
+                "player_list": "Player's List",
+                "community_quiz": "Community Quiz",
+                "all_songs": "All Songs"
+            },
             "titles": {
                 "vintage": "Vintage",
                 "anime_score": "Anime Score",
@@ -3268,6 +3415,7 @@
                 "watched_distribution": "Watched Distribution",
                 "answering": "Answering",
                 "extra_guess_time": "Extra Guess Time",
+                "song_pool": "Song Pool",
                 "skip_guessing": "Skip Guessing",
                 "skip_replay": "Skip Replay",
                 "duplicates": "Duplicates",
@@ -3429,6 +3577,11 @@
                 "rebroadcast": "(Rebroadcast)",
                 "dub": "(Dub)",
                 "type_text": "_NAME_ _DESCRIPTION_"
+            },
+            "custom_list": {
+                "title": "Add to Custom List",
+                "add_anime": "Add anime",
+                "add_song": "Add song"
             }
         },
         "standings": {
