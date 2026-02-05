@@ -1106,26 +1106,26 @@
                     "planning": "Planlagt"
                 }
             },
-            "MISSING-amq_custom_list": "AMQ Custom List",
-            "MISSING-amq_custom_list_description": "Create a custom list in the Song Library that can be used as, or alongside, your anime list.",
-            "MISSING-no_list": "No List",
-            "MISSING-custom_lists": "Custom Lists",
+            "amq_custom_list": "AMQ selvvalgt liste",
+            "amq_custom_list_description": "Lag egene lister i sangbiblioteket som kan brukers som, eller sammen med animelisten din.",
+            "no_list": "Ingen liste",
+            "custom_lists": "Selvvalgte	lister",
             "custom_list_mode": {
                 "disable": {
-                    "MISSING-title": "Disable",
-                    "MISSING-description": "Don't use custom list for song selection"
+                    "title": "Deaktiver",
+                    "description": "Ikke bruk den selvvalgte listen for sangvalg"
                 },
                 "list": {
-                    "MISSING-title": "Custom List",
-                    "MISSING-description": "Use the custom list as your anime list for song selection"
+                    "title": "Selvvalgt liste",
+                    "description": "Bruk den selvvalgte listen som animeliste for sangvalg"
                 },
                 "include": {
-                    "MISSING-title": "Include",
-                    "MISSING-description": "Include shows from the custom list alongside your anime list for song selection"
+                    "title": "Inkludere",
+                    "description": "Inbkluder programmer fra den selvvalgte listen sammen med animelisten din for sangvalg"
                 },
                 "exclude": {
-                    "MISSING-title": "Exclude",
-                    "MISSING-description": "Exclude shows from the custom list from song selection"
+                    "title": "Ekskluder",
+                    "description": "Ekskluder programmer fra den selvvalgte listen fra sangvalg"
                 }
             }
         },
@@ -1923,77 +1923,77 @@
             }
         },
         "custom_list": {
-            "MISSING-title": "Custom Lists",
-            "MISSING-no_lists": "No Lists",
-            "MISSING-no_lists_description": "Custom lists can be used as your anime list (instead of MAL/AniList/Kitsu) or as custom song pools for quizzes.",
-            "MISSING-new_list_button": "New List",
-            "MISSING-create_list_button": "Create List",
-            "MISSING-back_button": "Back",
-            "MISSING-list_name_placeholder": "List Name",
-            "MISSING-list_type": "List Type",
-            "MISSING-anime_only": "Anime Only",
-            "MISSING-anime_only_short": "Anime",
-            "MISSING-anime_and_songs": "Anime and Songs",
-            "MISSING-anime_and_songs_short": "Anime & Songs",
-            "MISSING-anime_list": "Anime List",
-            "MISSING-song_pool": "Song Pool",
-            "MISSING-no_entries": "No Entries",
-            "MISSING-no_entries_description": "Add entries from the library or doing quizzes",
-            "MISSING-entries": "Entries: _NUMBER_",
-            "MISSING-add_to_list": "Add to List",
-            "MISSING-remove_from_list": "Remove from List",
+            "title": "Selvvalgte lister",
+            "no_lists": "Ingen lister",
+            "no_lists_description": "Selvvalgte lister kan brukes som animelisten din (i stedet for MAL/AniList/Kitsu) eller som selvvalgte sangsamlinger for quizer",
+            "new_list_button": "Ny liste",
+            "create_list_button": "Lag liste",
+            "back_button": "Tilbake",
+            "list_name_placeholder": "Liste navn",
+            "list_type": "Listetype",
+            "anime_only": "Kun anime",
+            "anime_only_short": "Anime",
+            "anime_and_songs": "Anime og sanger",
+            "anime_and_songs_short": "Anime & Sanger",
+            "anime_list": "Animeliste",
+            "song_pool": "Sangsamling",
+            "no_entries": "Ingen oppføringer",
+            "no_entries_description": "Legg til oppføringer fra biblioteket eller ta quizer",
+            "entries": "Oppføringer: _NUMBER_",
+            "add_to_list": "Legg til liste",
+            "remove_from_list": "Fjern fra kiste",
             "anime_only_description": {
-                "MISSING-title": "Anime Only",
-                "MISSING-description": "This list can only contain anime entries, and can be used as both an anime list and a song pool."
+                "title": "Kun anime",
+                "description": "Denne listen inneholder bare anime oppføringer, og kan brukes både som animeliste og sangsamling."
             },
             "anime_song_description": {
-                "MISSING-title": "Anime and Songs",
-                "MISSING-description": "This list can contain both anime and song entries, and can only be used as a song pool."
+                "title": "Anime og sanger",
+                "description": "Denne listen kan inneholde både anime- og sangoppføringer, og kan bare brukes som sangsamling."
             },
             "create_custom_list": {
-                "MISSING-title": "Create Custom List",
-                "MISSING-input_placeholder": "Enter list name",
-                "MISSING-create_button": "Create"
+                "title": "Lag selvvalgt liste",
+                "input_placeholder": "Angi liste navn",
+                "create_button": "Lag"
             },
             "delete_custom_list": {
-                "MISSING-title": "Delete Custom List",
-                "MISSING-description": "Are you sure you want to delete the custom list: _NAME_?",
-                "MISSING-delete_button": "Delete"
+                "title": "Slett selvvalgt liste",
+                "description": "Er du sikker på at du vil slette den selvvalgte listen: _NAME_?",
+                "delete_button": "Slett"
             },
             "delete_anime_from_list": {
-                "MISSING-title": "Delete Anime from List",
-                "MISSING-description": "Are you sure you want to delete _NAME_ from the list",
-                "MISSING-delete_button": "Delete"
+                "title": "Slett anime fra listen",
+                "description": "Er du sikker på at du vil slette _NAME_ fra listen?",
+                "delete_button": "Slett"
             },
             "delete_song_from_list": {
-                "MISSING-title": "Delete Song from List",
-                "MISSING-description": "Are you sure you want to delete _NAME_ from the list",
-                "MISSING-delete_button": "Delete"
+                "title": "Slett sang fra listen",
+                "description": "Er du sikker på at du vil slette _NAME_ fra listen?",
+                "delete_button": "Slett"
             },
-            "MISSING-anime_list_description": "List can be used as an anime list",
-            "MISSING-song_pool_description": "List can be used as a custom song pool in quizzes",
-            "MISSING-anime_already_in_list": "Anime already in list",
-            "MISSING-song_already_in_list": "Song already in list",
-            "MISSING-add_to_custom_list": "Add to Custom List",
+            "anime_list_description": "Listen kan brukes som animeliste",
+            "song_pool_description": "Listen kan brukes som en selvvalgt sangsamling i quizer",
+            "anime_already_in_list": "Anime allerede i listen",
+            "song_already_in_list": "Sang allerede i listen",
+            "add_to_custom_list": "Leg til selvvalgt liste",
             "anime_only_custom_list": {
-                "MISSING-title": "Anime Only Custom List",
-                "MISSING-description": "This list is set to anime only, and cannot have songs added to it."
+                "title": "Kun anime selvvalgt liste",
+                "description": "Denne listen er kun satt til anime, og det kan ikke legges til sanger."
             },
             "song_entry_anime_description": {
-                "MISSING-format": "_TYPE_ - _NAME_",
+                "format": "_TYPE_ - _NAME_",
                 "type": {
-                    "MISSING-op": "OP_NUMBER_",
-                    "MISSING-ed": "ED_NUMBER_",
-                    "MISSING-in": "IN"
+                    "op": "OP_NUMBER_",
+                    "ed": "ED_NUMBER_",
+                    "in": "IN"
                 }
             },
             "max_list_count": {
-                "MISSING-title": "Max Custom List Count Reached",
-                "MISSING-description": "You can have a maximum of _NUMBER_ Custom Lists."
+                "title": "Maksimalt antall selvvalgte lister nådd",
+                "description": "Du kan ha maksimalt _NUMBER_ selvvalgte lister"
             },
             "songs_in_only_anime_switch": {
-                "MISSING-title": "Songs in List",
-                "MISSING-description": "To swap to anime only, all songs must be removed from the list first."
+                "title": "Sanger i liste",
+                "description": "For å bytte til kun anime, må alle sanger fjernes fra listen først."
             }
         }
     },
@@ -2648,23 +2648,23 @@
         },
         "loading_disabled": "Innlasting deaktivert",
         "song_pool": {
-            "MISSING-title": "Song Pool",
-            "MISSING-description": "The base pool of songs used for the quiz, before any other filters are applied.",
+            "title": "Sangsamling",
+            "description": "Basisutvalget av sanger som brukes til quizen, før andre filtre brukes.",
             "all": {
-                "MISSING-title": "All",
-                "MISSING-description": "All songs in the AMQ database"
+                "title": "Alt",
+                "description": "Alle sanger i AMQ-databasen"
             },
             "player": {
-                "MISSING-title": "Player",
-                "MISSING-description": "All songs from a single player's list"
+                "title": "Spiller",
+                "description": "Alle sanger fra en enkeltspillers liste"
             },
             "custom": {
-                "MISSING-title": "Custom",
-                "MISSING-description": "All songs from a Custom List"
+                "title": "Selvvalgt",
+                "description": "Alle sanger fra en selvvalgt lsite"
             },
             "community": {
-                "MISSING-title": "Community",
-                "MISSING-description": "All songs from a Community Quiz"
+                "title": "Fellesskap",
+                "description": "Alle sangene fra en felleskapsquiz"
             }
         }
     },
@@ -3182,8 +3182,8 @@
                 "description": "Du må velge fellesskapsquiz for å starte game"
             },
             "no_song_pool": {
-                "MISSING-title": "No Song Pool Selected",
-                "MISSING-description": "You must select a song pool to start the game"
+                "title": "Ingen sanger i valgt sangsamlingen",
+                "description": "Du må velge en sangsamling for å starte gamet"
             }
         },
         "all_players_not_ready_warning": {
@@ -3302,13 +3302,13 @@
                 "character": "Karakter",
                 "chanting": "Messing",
                 "instrumental": "Instrumental",
-                "MISSING-song_pool": "Song Pool"
+                "song_pool": "Sangsamling"
             },
             "song_pool": {
-                "MISSING-custom_list": "Custom List",
-                "MISSING-player_list": "Player's List",
-                "MISSING-community_quiz": "Community Quiz",
-                "MISSING-all_songs": "All Songs"
+                "custom_list": "Selvvalgt liste",
+                "player_list": "Spillerlister",
+                "community_quiz": "Felleskapsquiz",
+                "all_songs": "Alle Sanger"
             }
         },
         "ranked_rules": {
@@ -3337,25 +3337,25 @@
                 "description": "Det er umulig å moderere alle språk, så hold meldinger i rankedchatten til engelsk og emojier."
             }
         },
-        "MISSING-ping_ready_up": "Ping unready players to ready up",
+        "ping_ready_up": "Ping ikke klare spillere for å gjøre seg klar",
         "song_pool": {
-            "MISSING-title": "Song Pool",
-            "MISSING-change": "Change",
+            "title": "Sangsamling",
+            "change": "Bytt",
             "custom_list": {
-                "MISSING-title": "Custom List",
-                "MISSING-entries": "_NUMBER_ Entries",
-                "MISSING-select": "Select Custom List",
-                "MISSING-waiting": "Waiting for Host to Select a Custom List"
+                "title": "Selvvalgt liste",
+                "entries": "_NUMBER_ oppføringer",
+                "select": "Velg selvvalgt liste",
+                "waiting": "Venter på at verten skal velge en selvvalgt liste"
             },
             "player_list": {
-                "MISSING-title": "Player List",
-                "MISSING-select": "Select Player's List",
-                "MISSING-waiting": "Waiting for Host to Select a Player's List"
+                "title": "Spillerlister",
+                "select": "Velg spillerliste",
+                "waiting": "Venter på at verten skal velge en spillerliste"
             },
             "community_quiz": {
-                "MISSING-title": "Community Quiz",
-                "MISSING-select": "Select Community Quiz",
-                "MISSING-waiting": "Waiting for Host to Select a Community Quiz"
+                "title": "Felleskapsquiz",
+                "select": "Velg felleskapsquiz",
+                "waiting": "Venter på at verten skal velge en felleskapsquiz"
             }
         }
     },
@@ -3500,9 +3500,9 @@
                 "type_text": "_NAME_ _DESCRIPTION_"
             },
             "custom_list": {
-                "MISSING-title": "Add to Custom List",
-                "MISSING-add_anime": "Add anime",
-                "MISSING-add_song": "Add song"
+                "title": "legg til selvvalgt liste",
+                "add_anime": "legg til anime",
+                "add_song": "legg til sang"
             }
         },
         "standings": {
@@ -3793,7 +3793,7 @@
         "karuta": "Karuta",
         "kemonomimi": "Kemonomimi",
         "kids": "Barn",
-        "kingdom_management": "Kongerikets ledelse",
+        "kingdom_management": "Ledelse av kongerike",
         "konbini": "Konbini",
         "kuudere": "Kuudere",
         "lacrosse": "Lacrosse",
