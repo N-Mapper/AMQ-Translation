@@ -1938,10 +1938,10 @@
             "anime_list": "Animeliste",
             "song_pool": "Sangsamling",
             "no_entries": "Ingen oppføringer",
-            "no_entries_description": "Legg til oppføringer fra biblioteket eller ta quizer",
+            "no_entries_description": "Legg til oppføringer fra biblioteket eller under quizer",
             "entries": "Oppføringer: _NUMBER_",
             "add_to_list": "Legg til liste",
-            "remove_from_list": "Fjern fra kiste",
+            "remove_from_list": "Fjern fra liste",
             "anime_only_description": {
                 "title": "Kun anime",
                 "description": "Denne listen inneholder bare anime oppføringer, og kan brukes både som animeliste og sangsamling."
@@ -1952,7 +1952,7 @@
             },
             "create_custom_list": {
                 "title": "Lag selvvalgt liste",
-                "input_placeholder": "Angi liste navn",
+                "input_placeholder": "Angi listenavn",
                 "create_button": "Lag"
             },
             "delete_custom_list": {
