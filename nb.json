@@ -1109,7 +1109,7 @@
             "amq_custom_list": "AMQ selvvalgt liste",
             "amq_custom_list_description": "Lag egene lister i sangbiblioteket som kan brukers som, eller sammen med animelisten din.",
             "no_list": "Ingen liste",
-            "custom_lists": "Selvvalgte	lister",
+            "custom_lists": "Selvvalgte lister",
             "custom_list_mode": {
                 "disable": {
                     "title": "Deaktiver",
