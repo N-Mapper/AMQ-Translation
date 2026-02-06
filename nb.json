@@ -1116,7 +1116,7 @@
                     "description": "Ikke bruk den selvvalgte listen for sangvalg"
                 },
                 "list": {
-                    "title": "Selvvalgt liste",
+                    "title": "Selvvalgt",
                     "description": "Bruk den selvvalgte listen som animeliste for sangvalg"
                 },
                 "include": {
