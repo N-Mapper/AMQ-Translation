@@ -1121,7 +1121,7 @@
                 },
                 "include": {
                     "title": "Inkludere",
-                    "description": "Inbkluder programmer fra den selvvalgte listen sammen med animelisten din for sangvalg"
+                    "description": "Inkluder programmer fra den selvvalgte listen sammen med animelisten din for sangvalg"
                 },
                 "exclude": {
                     "title": "Ekskluder",
@@ -1929,12 +1929,12 @@
             "new_list_button": "Ny liste",
             "create_list_button": "Lag liste",
             "back_button": "Tilbake",
-            "list_name_placeholder": "Liste navn",
+            "list_name_placeholder": "Listenavn",
             "list_type": "Listetype",
             "anime_only": "Kun anime",
             "anime_only_short": "Anime",
             "anime_and_songs": "Anime og sanger",
-            "anime_and_songs_short": "Anime & Sanger",
+            "anime_and_songs_short": "Anime & sanger",
             "anime_list": "Animeliste",
             "song_pool": "Sangsamling",
             "no_entries": "Ingen oppføringer",
@@ -1974,10 +1974,10 @@
             "song_pool_description": "Listen kan brukes som en selvvalgt sangsamling i quizer",
             "anime_already_in_list": "Anime allerede i listen",
             "song_already_in_list": "Sang allerede i listen",
-            "add_to_custom_list": "Leg til selvvalgt liste",
+            "add_to_custom_list": "Legg til selvvalgt liste",
             "anime_only_custom_list": {
                 "title": "Kun anime selvvalgt liste",
-                "description": "Denne listen er kun satt til anime, og det kan ikke legges til sanger."
+                "description": "Denne listen er satt til kun anime, og det kan ikke legges til sanger."
             },
             "song_entry_anime_description": {
                 "format": "_TYPE_ - _NAME_",
@@ -1988,7 +1988,7 @@
                 }
             },
             "max_list_count": {
-                "title": "Maksimalt antall selvvalgte lister nådd",
+                "title": "Maks antall selvvalgte lister nådd",
                 "description": "Du kan ha maksimalt _NUMBER_ selvvalgte lister"
             },
             "songs_in_only_anime_switch": {
@@ -2271,7 +2271,7 @@
         },
         "quiz_mode": {
             "standard_quiz": "Standardquiz",
-            "community_quiz": "Fellesskapquiz"
+            "community_quiz": "Fellesskapsquiz"
         },
         "buttons": {
             "exit": "Gå ut",
@@ -2305,7 +2305,7 @@
         "search": "Søk",
         "random": "Tilfeldig",
         "invite_description": "Opprett en invitasjonslenke til dette rommet",
-        "swap_button_description": "Bytt mellom fellesskap- og standardquiz",
+        "swap_button_description": "Bytt mellom fellesskaps- og standardquiz",
         "game_mode": {
             "title": "Spillmodus",
             "standard": {
@@ -3308,7 +3308,7 @@
                 "custom_list": "Selvvalgt liste",
                 "player_list": "Spillerlister",
                 "community_quiz": "Felleskapsquiz",
-                "all_songs": "Alle Sanger"
+                "all_songs": "Alle sanger"
             }
         },
         "ranked_rules": {
@@ -3500,9 +3500,9 @@
                 "type_text": "_NAME_ _DESCRIPTION_"
             },
             "custom_list": {
-                "title": "legg til selvvalgt liste",
-                "add_anime": "legg til anime",
-                "add_song": "legg til sang"
+                "title": "Legg til selvvalgt liste",
+                "add_anime": "Legg til anime",
+                "add_song": "Legg til sang"
             }
         },
         "standings": {
@@ -4403,14 +4403,14 @@
                 "bought": "Kjøpt",
                 "no_items_bought": {
                     "title": "Ingen varer kjøpt",
-                    "description": "Forsett uten å kjøpe noe?",
-                    "continue_button": "Forsett"
+                    "description": "Fortsett uten å kjøpe noe?",
+                    "continue_button": "Fortsett"
                 }
             },
             "result_window": {
                 "xp": "XP",
                 "runes": "Runer",
-                "continue_button": "Forsett",
+                "continue_button": "Fortsett",
                 "level_number": "Level _SPANC_ _NUMBER_ _SPANC_",
                 "party_wipe": "Gruppen døde",
                 "floor_cleared": "Etasje passert",
