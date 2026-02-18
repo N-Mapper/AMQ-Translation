@@ -73,6 +73,15 @@
                 "title": "Frakoblet grunnet inaktivitet",
                 "text": "Last inn spillet på nytt for å koble til igjen",
                 "reload": "Last inn på nytt"
+            },
+            "kicked_by_server": {
+                "MISSING-title": "Kicked by Server",
+                "MISSING-banned": "Your account has been banned",
+                "MISSING-server_kicked": "The server has kicked you from the game",
+                "MISSING-maintenance": "The server is currently down for maintenance",
+                "MISSING-mod_ban": "Your account has been banned by a moderator for: _MESSAGE_",
+                "MISSING-server_restart": "The server is restarting, you have been disconnected",
+                "MISSING-logged_in_elsewhere": "Your account has been logged in from another location, you have been disconnected"
             }
         },
         "registration": {
@@ -683,6 +692,19 @@
             },
             "yearly": "Årlig resultat",
             "description": "Finansieringen fra forrige måned og totalt for året. AMQ er fullstending finansiert av fellesskapet, som betaler for server- og utviklingskostnader. Alle inntekter går til å fortsette å forbedre og utvikle spillet. Takk for all støtten!"
+        },
+        "amq_awards": {
+            "MISSING-button": "AMQ Awards",
+            "description": {
+                "MISSING-title": "The AMQ Awards",
+                "MISSING-text": "The yearly award show quiz celebrating the best shows and songs of the last year according to the AMQ community! This all appears as a unique event quiz, hosted by everyone’s favorite fox Komugi! _BREAK_ After the event, the quiz will also be made available as a Community Quiz, where you can also play past years award shows."
+            },
+            "timer_states": {
+                "MISSING-playing": "Playing",
+                "MISSING-finished": "Finished",
+                "MISSING-in_lobby": "_NUMBER_ - In Lobby",
+                "MISSING-click_to_host": "Click to Host"
+            }
         }
     },
     "menu_bar": {
@@ -1149,7 +1171,9 @@
             "nexus": "Nexus",
             "master": "Hoved",
             "music": "Musikk",
-            "effects": "Effekter"
+            "effects": "Effekter",
+            "MISSING-general": "General",
+            "MISSING-notifications": "Notifications"
         }
     },
     "blocked_player_window": {
@@ -3614,7 +3638,8 @@
             "title": "Bli med i game du koblet fra",
             "description": "Du ble koblet fra forrige game, vil du bli med igjen?",
             "rejoin_button": "Bli med igjen"
-        }
+        },
+        "MISSING-no_active_list_message": "No active anime lists for players, using 'Random' for song selection"
     },
     "anime_tags": {
         "4-koma": "4-koma",
@@ -6066,7 +6091,8 @@
         "exit_tutorial_warning": {
             "title": "Forlat opplæring?",
             "exit_button": "Forlat"
-        }
+        },
+        "MISSING-username_input_placeholder": "Username"
     },
     "popout_windows": {
         "close_window_button": "Lukk vindu",
