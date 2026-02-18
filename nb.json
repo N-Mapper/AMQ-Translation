@@ -75,13 +75,13 @@
                 "reload": "Last inn på nytt"
             },
             "kicked_by_server": {
-                "MISSING-title": "Kicked by Server",
-                "MISSING-banned": "Your account has been banned",
-                "MISSING-server_kicked": "The server has kicked you from the game",
-                "MISSING-maintenance": "The server is currently down for maintenance",
-                "MISSING-mod_ban": "Your account has been banned by a moderator for: _MESSAGE_",
-                "MISSING-server_restart": "The server is restarting, you have been disconnected",
-                "MISSING-logged_in_elsewhere": "Your account has been logged in from another location, you have been disconnected"
+                "title": "Kastet av serveren",
+                "banned": "Kontoen din har blitt utestengt",
+                "server_kicked": "Serveren har kastet deg ut av spillet",
+                "maintenance": "Serveren er for øyeblikket nede for vedlikehold",
+                "mod_ban": "Konoten din har blitt utestengt av en moderator for: _MESSAGE_",
+                "server_restart": "Serveren starter på nytt, du ahr blitt frakoblet",
+                "logged_in_elsewhere": "Kontoen din har blitt logget på fra et annet sted, og du har blitt frakoblet"
             }
         },
         "registration": {
@@ -694,16 +694,16 @@
             "description": "Finansieringen fra forrige måned og totalt for året. AMQ er fullstending finansiert av fellesskapet, som betaler for server- og utviklingskostnader. Alle inntekter går til å fortsette å forbedre og utvikle spillet. Takk for all støtten!"
         },
         "amq_awards": {
-            "MISSING-button": "AMQ Awards",
+            "button": "AMQ-prisene",
             "description": {
-                "MISSING-title": "The AMQ Awards",
-                "MISSING-text": "The yearly award show quiz celebrating the best shows and songs of the last year according to the AMQ community! This all appears as a unique event quiz, hosted by everyone’s favorite fox Komugi! _BREAK_ After the event, the quiz will also be made available as a Community Quiz, where you can also play past years award shows."
+                "title": "AMQ-prisene",
+                "text": "Den årlige prisutdelingsquizen som feierer de beste programene og sangene fra året som var ifølge AMQ-fellesskapet! Alt dette presenteres som en unik quiz, arrangert av alles favorittrev Komugi! _BREAK_ Etter arrangementet vil quizen også bli tilgjengelig som en fellesskapsquiz, hvor du også kan spille tidligere års prisutdelinger."
             },
             "timer_states": {
-                "MISSING-playing": "Playing",
-                "MISSING-finished": "Finished",
-                "MISSING-in_lobby": "_NUMBER_ - In Lobby",
-                "MISSING-click_to_host": "Click to Host"
+                "playing": "Spilles",
+                "finished": "Ferdig",
+                "in_lobby": "_NUMBER_ - I lobby",
+                "click_to_host": "Klikk for å være vert"
             }
         }
     },
@@ -1172,8 +1172,8 @@
             "master": "Hoved",
             "music": "Musikk",
             "effects": "Effekter",
-            "MISSING-general": "General",
-            "MISSING-notifications": "Notifications"
+            "general": "General",
+            "notifications": "Varsler"
         }
     },
     "blocked_player_window": {
@@ -3639,7 +3639,7 @@
             "description": "Du ble koblet fra forrige game, vil du bli med igjen?",
             "rejoin_button": "Bli med igjen"
         },
-        "MISSING-no_active_list_message": "No active anime lists for players, using 'Random' for song selection"
+        "no_active_list_message": "Ingen aktive anime-lister for spillere, bruker \"Tilfeldig\" for sangvalg"
     },
     "anime_tags": {
         "4-koma": "4-koma",
@@ -6092,7 +6092,7 @@
             "title": "Forlat opplæring?",
             "exit_button": "Forlat"
         },
-        "MISSING-username_input_placeholder": "Username"
+        "username_input_placeholder": "Brukernavn"
     },
     "popout_windows": {
         "close_window_button": "Lukk vindu",
