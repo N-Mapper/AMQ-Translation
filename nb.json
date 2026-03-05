@@ -1753,7 +1753,7 @@
             "standard": "Kikus familie var uenig i at hun skulle ta en musikkutdanning, men Kiku meldte seg likevel på musikkprogrammet ved et stort universitet. En avgjørelse hun ikke har angret på, ettersom hun bruker dagene sine på å studere og spille musikken hun elsker."
         },
         "hinase": {
-            "MISSING-standard": "Hinase always loved adventure and exploration, so she took the first chance she got to venture out into space. She now works as a freelance mech pilot, doing odd jobs, escorts and reconnaissance at the frontiers of space exploration."
+            "standard": "Hinase elsket alltid eventyr og utforskning, så hun tok den første sjansen hun fikk til å dra ut i verdensrommet. Nå jobber hun som en frilans mechpilot, og gjør småjobber, eskorter og rekognosering i romfartens grenser."
         }
     },
     "song_library": {
@@ -2580,8 +2580,8 @@
             "percent_guessed_correct": "% gjettingsrate",
             "percent_range_display": "_NUMBER_%-_NUMBER2_% gjettingsrate",
             "one_difficulty_must_be_selected": "Minst én vanskelighetsgrad må velges",
-            "MISSING-beginner": "Beginner",
-            "MISSING-expert": "Expert"
+            "beginner": "Begynner",
+            "expert": "Ekspert"
         },
         "song_popularity": {
             "title": "Sangpopularitet",
@@ -2697,10 +2697,10 @@
             }
         },
         "anime_popularity": {
-            "MISSING-title": "Anime Popularity",
-            "MISSING-description": "Limit songs to anime within the selected popularity on AniList.",
-            "MISSING-top_shows": "Top X Shows",
-            "MISSING-all": "All"
+            "title": "Anime popularitet",
+            "description": "Begrens sanger til anime innenfor den valgte populariteten på AniList.",
+            "top_shows": "Topp x program",
+            "all": "Alle"
         }
     },
     "room_browser": {
@@ -3338,11 +3338,11 @@
                 "chanting": "Messing",
                 "instrumental": "Instrumental",
                 "song_pool": "Sangsamling",
-                "MISSING-anime_popularity": "Anime Popularity",
-                "MISSING-beginner": "Beginner",
-                "MISSING-expert": "Expert",
-                "MISSING-top_x": "Top _NUMBER_",
-                "MISSING-all": "All"
+                "anime_popularity": "Anime popularitet",
+                "beginner": "Begynner",
+                "expert": "Ekspert",
+                "top_x": "Topp _NUMBER_",
+                "all": "Alle"
             },
             "song_pool": {
                 "custom_list": "Selvvalgt liste",
@@ -3530,7 +3530,7 @@
                 "difficulty": "Vanskelighet",
                 "genre": "Sjangere",
                 "tags": "Tagger",
-                "MISSING-anime_popularity_rank": "Anime Popularity Rank"
+                "anime_popularity_rank": "Anime popularitetsrangering"
             },
             "song_type": {
                 "opening": "Introsang _NUMBER_",
@@ -4091,7 +4091,7 @@
                 "video": "Video",
                 "list_sites": "Listsider",
                 "player_lists": "Spillerlister",
-                "MISSING-anime_popularity_rank": "Anime Popularity Rank"
+                "anime_popularity_rank": "Anime popularitetsrangering"
             },
             "list_status": {
                 "watching": "Ser på",
@@ -4207,13 +4207,13 @@
                             "easy": "Lett",
                             "medium": "Middels",
                             "hard": "Vanskelig",
-                            "MISSING-beginner": "Beginner",
-                            "MISSING-beginner_short": "Beg",
-                            "MISSING-easy_short": "E",
-                            "MISSING-medium_short": "M",
-                            "MISSING-hard_short": "H",
-                            "MISSING-expert": "Expert",
-                            "MISSING-expert_short": "Exp"
+                            "beginner": "Begynner",
+                            "beginner_short": "Beg",
+                            "easy_short": "L",
+                            "medium_short": "M",
+                            "hard_short": "V",
+                            "expert": "Ekspert",
+                            "expert_short": "Eksp"
                         },
                         "song_selection": {
                             "title": "Sangvalg",
@@ -4241,11 +4241,11 @@
                             "description": "Fangehullstypen, standard er én etasje, mens uendelig fortsetter til neste etasje til gruppen blir beseiret."
                         },
                         "popularity": {
-                            "MISSING-title": "Anime Popularity",
-                            "MISSING-description": "Popularity of the shows selected in the dungeon",
-                            "MISSING-top_500": "Top 500",
-                            "MISSING-top_2000": "Top 2000",
-                            "MISSING-all": "All"
+                            "title": "Anime popularitet",
+                            "description": "Populariteten til programmene som blir valgt i fangehullet",
+                            "top_500": "Topp 500",
+                            "top_2000": "Topp 2000",
+                            "all": "Alle"
                         }
                     },
                     "no_badge_unlocked_alert": {
@@ -6202,7 +6202,7 @@
         "veil": "slør",
         "whistle": "fløyte",
         "yan": "Yan",
-        "MISSING-visor": "Visor"
+        "visor": "visir"
     },
     "daily_quests": {
         "title": "Daglig oppdrag",
