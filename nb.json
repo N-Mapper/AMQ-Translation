@@ -1751,6 +1751,9 @@
         "unknown": "Ukjent",
         "kiku": {
             "standard": "Kikus familie var uenig i at hun skulle ta en musikkutdanning, men Kiku meldte seg likevel på musikkprogrammet ved et stort universitet. En avgjørelse hun ikke har angret på, ettersom hun bruker dagene sine på å studere og spille musikken hun elsker."
+        },
+        "hinase": {
+            "MISSING-standard": "Hinase always loved adventure and exploration, so she took the first chance she got to venture out into space. She now works as a freelance mech pilot, doing odd jobs, escorts and reconnaissance at the frontiers of space exploration."
         }
     },
     "song_library": {
@@ -2576,7 +2579,9 @@
             "hard": "Vanskelig",
             "percent_guessed_correct": "% gjettingsrate",
             "percent_range_display": "_NUMBER_%-_NUMBER2_% gjettingsrate",
-            "one_difficulty_must_be_selected": "Minst én vanskelighetsgrad må velges"
+            "one_difficulty_must_be_selected": "Minst én vanskelighetsgrad må velges",
+            "MISSING-beginner": "Beginner",
+            "MISSING-expert": "Expert"
         },
         "song_popularity": {
             "title": "Sangpopularitet",
@@ -2690,6 +2695,12 @@
                 "title": "Fellesskap",
                 "description": "Alle sangene fra en felleskapsquiz"
             }
+        },
+        "anime_popularity": {
+            "MISSING-title": "Anime Popularity",
+            "MISSING-description": "Limit songs to anime within the selected popularity on AniList.",
+            "MISSING-top_shows": "Top X Shows",
+            "MISSING-all": "All"
         }
     },
     "room_browser": {
@@ -3326,7 +3337,12 @@
                 "character": "Karakter",
                 "chanting": "Messing",
                 "instrumental": "Instrumental",
-                "song_pool": "Sangsamling"
+                "song_pool": "Sangsamling",
+                "MISSING-anime_popularity": "Anime Popularity",
+                "MISSING-beginner": "Beginner",
+                "MISSING-expert": "Expert",
+                "MISSING-top_x": "Top _NUMBER_",
+                "MISSING-all": "All"
             },
             "song_pool": {
                 "custom_list": "Selvvalgt liste",
@@ -3513,7 +3529,8 @@
                 "anime_rating": "Animescore",
                 "difficulty": "Vanskelighet",
                 "genre": "Sjangere",
-                "tags": "Tagger"
+                "tags": "Tagger",
+                "MISSING-anime_popularity_rank": "Anime Popularity Rank"
             },
             "song_type": {
                 "opening": "Introsang _NUMBER_",
@@ -4073,7 +4090,8 @@
                 "tags": "Tagger",
                 "video": "Video",
                 "list_sites": "Listsider",
-                "player_lists": "Spillerlister"
+                "player_lists": "Spillerlister",
+                "MISSING-anime_popularity_rank": "Anime Popularity Rank"
             },
             "list_status": {
                 "watching": "Ser på",
@@ -4188,7 +4206,14 @@
                             "description": "Vangskelighetsgraden på sanger valgt i fangehull",
                             "easy": "Lett",
                             "medium": "Middels",
-                            "hard": "Vanskelig"
+                            "hard": "Vanskelig",
+                            "MISSING-beginner": "Beginner",
+                            "MISSING-beginner_short": "Beg",
+                            "MISSING-easy_short": "E",
+                            "MISSING-medium_short": "M",
+                            "MISSING-hard_short": "H",
+                            "MISSING-expert": "Expert",
+                            "MISSING-expert_short": "Exp"
                         },
                         "song_selection": {
                             "title": "Sangvalg",
@@ -4214,6 +4239,13 @@
                         "mode": {
                             "title": "Modus",
                             "description": "Fangehullstypen, standard er én etasje, mens uendelig fortsetter til neste etasje til gruppen blir beseiret."
+                        },
+                        "popularity": {
+                            "MISSING-title": "Anime Popularity",
+                            "MISSING-description": "Popularity of the shows selected in the dungeon",
+                            "MISSING-top_500": "Top 500",
+                            "MISSING-top_2000": "Top 2000",
+                            "MISSING-all": "All"
                         }
                     },
                     "no_badge_unlocked_alert": {
@@ -6169,7 +6201,8 @@
         "tiara": "tiara",
         "veil": "slør",
         "whistle": "fløyte",
-        "yan": "Yan"
+        "yan": "Yan",
+        "MISSING-visor": "Visor"
     },
     "daily_quests": {
         "title": "Daglig oppdrag",
