@@ -3507,7 +3507,7 @@
         },
         "song_info": {
             "title": "Sanginfo",
-            "song_name": "Sangnavn",
+            "song_name": "Sangtittel",
             "arranger": "Arrangør",
             "artist": "Artist",
             "composer": "Komponist",
@@ -4045,7 +4045,7 @@
             "ann_id": "ANN ID",
             "type": "Type",
             "season": "Sesong",
-            "name": "Navn",
+            "name": "Tittel",
             "artist": "Artist",
             "answer": "Svar",
             "guesses": "Gjettinger",
