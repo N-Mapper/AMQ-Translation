@@ -1621,7 +1621,7 @@
         },
         "katsu": {
             "standard": "Som en fremtredende spiller av Zetto-kortspillet prøver Katsu å samle de gamle forløperkortene, som sies å ha makten til å forandre verden. Dette fører til kamp mot en skyggefylt organisasjon som også er ute etter dem.",
-            "MISSING-cat_cafe": "Even with the fate of the world on the line, Zetto cards aren’t cheap. So to help afford new cards, Katsu picked up a part-time job at a locale cat café, which also give him a nice relaxing break away from the intense Zetto matches."
+            "cat_cafe": "Selv med verdens skjebne på spill, er ikke Zetto-kort billige. Så for å ha råd til nye kort, skaffet Katsu en deltidsjobb på den lokal kattekafé, noe som også ga ham en fin avslappende pause fra de intense Zetto-kampene."
         },
         "riku": {
             "standard": "Riku er kjent for de fleste som Rika, en berømt livestreamer og vlogger som er kjent for å få tilgang til steder han ikke burde være. Riku selv liker hovedsakelig spenningen ved å utforske og dele sine påfunn."
@@ -2023,23 +2023,23 @@
                 "title": "Sanger i liste",
                 "description": "For å bytte til kun anime, må alle sanger fjernes fra listen først."
             },
-            "MISSING-delete_list": "Delete List",
-            "MISSING-share_list": "Share List",
+            "delete_list": "Slett liste",
+            "share_list": "Del liste",
             "share_code_message": {
-                "MISSING-title": "Share Code"
+                "title": "Delingskode"
             },
             "max_list_message": {
-                "MISSING-title": "Max Custom List Count Reached",
-                "MISSING-description": "You can have a maximum of _NUMBER_ Custom Lists."
+                "title": "Maks antall selvvalgte lister nådd",
+                "description": "Du kan ha maksimalt _NUMBER_ selvvalgte lister."
             },
             "import_list": {
-                "MISSING-title": "Import List",
-                "MISSING-placeholder": "Share Code",
-                "MISSING-load_button": "Load",
-                "MISSING-no_code_message": "No Share Code Provided",
+                "title": "Last inn liste",
+                "placeholder": "Delingskode",
+                "load_button": "Last inn",
+                "no_code_message": "Ingen delingskode oppgitt",
                 "unknown_code": {
-                    "MISSING-title": "Unknown Share Code",
-                    "MISSING-description": "The provided share code is invalid or does not exist."
+                    "title": "Ukjent delingskode",
+                    "description": "Den oppgitte delingskoden er ugylding eller finnes ikke."
                 }
             }
         }
@@ -2708,16 +2708,8 @@
                 "description": "Alle sangene fra en felleskapsquiz"
             },
             "lists": {
-                "MISSING-title": "Lists",
-                "MISSING-description": "Select one or more players lists and custom lists to include or execlude songs from."
-            },
-            "DELETED-player": {
-                "title": "Spiller",
-                "description": "Alle sanger fra en enkeltspillers liste"
-            },
-            "DELETED-custom": {
-                "title": "Selvvalgt",
-                "description": "Alle sanger fra en selvvalgt lsite"
+                "title": "Lister",
+                "description": "Velg én eller flere spillers lister og selvvalgte lister å inkludere eller ekskludere sanger fra."
             }
         },
         "anime_popularity": {
@@ -2864,8 +2856,8 @@
                     "easy": "Lett",
                     "medium": "Middels",
                     "hard": "Vanskelig",
-                    "MISSING-beginner": "Beginner",
-                    "MISSING-expert": "Expert"
+                    "beginner": "Begynner",
+                    "expert": "Ekspert"
                 },
                 "song_selection": {
                     "watched": "Sett",
@@ -3423,15 +3415,15 @@
                 "select": "Velg felleskapsquiz",
                 "waiting": "Venter på at verten skal velge en felleskapsquiz"
             },
-            "MISSING-suggest": "Suggest",
-            "MISSING-suggest_description": "Suggest your Custom List for the song pool, allowing the host to select it for the quiz.",
-            "MISSING-no_lists_selected": "No Lists Selected",
-            "MISSING-no_lists": "No Lists",
-            "MISSING-player_lists": "Player Lists",
-            "MISSING-custom_lists": "Custom Lists",
-            "MISSING-entries": "_NUMBER_ Entries",
-            "MISSING-include": "Include",
-            "MISSING-exclude": "Exclude"
+            "suggest": "Foreslå",
+            "suggest_description": "Foreslå din selvvalgte liste for sangsamlingen, slik at verten kan velge den for quizen.",
+            "no_lists_selected": "Ingen lister valgt",
+            "no_lists": "Ingen lister",
+            "player_lists": "Spiller lister",
+            "custom_lists": "Selvvalgte lister",
+            "entries": "_NUMBER_ oppføringer",
+            "include": "Inkluder",
+            "exclude": "Ekskluder"
         }
     },
     "quiz": {
@@ -4043,11 +4035,11 @@
         "youkai": "Youkai",
         "yuri": "Yuri",
         "zombie": "Zombie",
-        "MISSING-gekiga": "Gekiga",
-        "MISSING-brainwashing": "Brainwashing",
-        "MISSING-graduation_project": "Graduation Project",
-        "MISSING-human_experimentation": "Human Experimentation",
-        "MISSING-single-page_chapter": "Single-Page Chapter"
+        "gekiga": "Gekiga",
+        "brainwashing": "Hjernevasking",
+        "graduation_project": "Avgangsprosjekt",
+        "human_experimentation": "Menneskelig eksperimentering",
+        "single-page_chapter": "Kapittel på én side"
     },
     "genre_tags": {
         "action": "Action",
