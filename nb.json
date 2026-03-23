@@ -1620,7 +1620,8 @@
             "standard": "Yumemi blir vanligvis funnet sovende så snart hun får sjansen. De fleste blir derfor overrasket når de hører at hun er visepresidenten av vitenskapsklubben, selv om hun bare ble med for å hjelpe barndomsvennen Chika med å få nok medlemmer."
         },
         "katsu": {
-            "standard": "Som en fremtredende spiller av Zetto-kortspillet prøver Katsu å samle de gamle forløperkortene, som sies å ha makten til å forandre verden. Dette fører til kamp mot en skyggefylt organisasjon som også er ute etter dem."
+            "standard": "Som en fremtredende spiller av Zetto-kortspillet prøver Katsu å samle de gamle forløperkortene, som sies å ha makten til å forandre verden. Dette fører til kamp mot en skyggefylt organisasjon som også er ute etter dem.",
+            "MISSING-cat_cafe": "Even with the fate of the world on the line, Zetto cards aren’t cheap. So to help afford new cards, Katsu picked up a part-time job at a locale cat café, which also give him a nice relaxing break away from the intense Zetto matches."
         },
         "riku": {
             "standard": "Riku er kjent for de fleste som Rika, en berømt livestreamer og vlogger som er kjent for å få tilgang til steder han ikke burde være. Riku selv liker hovedsakelig spenningen ved å utforske og dele sine påfunn."
@@ -2021,6 +2022,25 @@
             "songs_in_only_anime_switch": {
                 "title": "Sanger i liste",
                 "description": "For å bytte til kun anime, må alle sanger fjernes fra listen først."
+            },
+            "MISSING-delete_list": "Delete List",
+            "MISSING-share_list": "Share List",
+            "share_code_message": {
+                "MISSING-title": "Share Code"
+            },
+            "max_list_message": {
+                "MISSING-title": "Max Custom List Count Reached",
+                "MISSING-description": "You can have a maximum of _NUMBER_ Custom Lists."
+            },
+            "import_list": {
+                "MISSING-title": "Import List",
+                "MISSING-placeholder": "Share Code",
+                "MISSING-load_button": "Load",
+                "MISSING-no_code_message": "No Share Code Provided",
+                "unknown_code": {
+                    "MISSING-title": "Unknown Share Code",
+                    "MISSING-description": "The provided share code is invalid or does not exist."
+                }
             }
         }
     },
@@ -2683,17 +2703,21 @@
                 "title": "Alt",
                 "description": "Alle sanger i AMQ-databasen"
             },
-            "player": {
-                "title": "Spiller",
-                "description": "Alle sanger fra en enkeltspillers liste"
-            },
-            "custom": {
-                "title": "Selvvalgt",
-                "description": "Alle sanger fra en selvvalgt lsite"
-            },
             "community": {
                 "title": "Fellesskap",
                 "description": "Alle sangene fra en felleskapsquiz"
+            },
+            "lists": {
+                "MISSING-title": "Lists",
+                "MISSING-description": "Select one or more players lists and custom lists to include or execlude songs from."
+            },
+            "DELETED-player": {
+                "title": "Spiller",
+                "description": "Alle sanger fra en enkeltspillers liste"
+            },
+            "DELETED-custom": {
+                "title": "Selvvalgt",
+                "description": "Alle sanger fra en selvvalgt lsite"
             }
         },
         "anime_popularity": {
@@ -2839,7 +2863,9 @@
                 "difficulty": {
                     "easy": "Lett",
                     "medium": "Middels",
-                    "hard": "Vanskelig"
+                    "hard": "Vanskelig",
+                    "MISSING-beginner": "Beginner",
+                    "MISSING-expert": "Expert"
                 },
                 "song_selection": {
                     "watched": "Sett",
@@ -3396,7 +3422,16 @@
                 "title": "Felleskapsquiz",
                 "select": "Velg felleskapsquiz",
                 "waiting": "Venter på at verten skal velge en felleskapsquiz"
-            }
+            },
+            "MISSING-suggest": "Suggest",
+            "MISSING-suggest_description": "Suggest your Custom List for the song pool, allowing the host to select it for the quiz.",
+            "MISSING-no_lists_selected": "No Lists Selected",
+            "MISSING-no_lists": "No Lists",
+            "MISSING-player_lists": "Player Lists",
+            "MISSING-custom_lists": "Custom Lists",
+            "MISSING-entries": "_NUMBER_ Entries",
+            "MISSING-include": "Include",
+            "MISSING-exclude": "Exclude"
         }
     },
     "quiz": {
@@ -3706,7 +3741,7 @@
         "bisexual": "Bifili",
         "blackmail": "Utpressing",
         "board_game": "Brettspill",
-        "boarding_school": "Kostskole",
+        "boarding_school": "Internatskole",
         "body_horror": "Kroppsskrekk",
         "body_image": "Kroppsbilde",
         "body_swapping": "Kroppsbytte",
@@ -4007,7 +4042,12 @@
         "yandere": "Yandere",
         "youkai": "Youkai",
         "yuri": "Yuri",
-        "zombie": "Zombie"
+        "zombie": "Zombie",
+        "MISSING-gekiga": "Gekiga",
+        "MISSING-brainwashing": "Brainwashing",
+        "MISSING-graduation_project": "Graduation Project",
+        "MISSING-human_experimentation": "Human Experimentation",
+        "MISSING-single-page_chapter": "Single-Page Chapter"
     },
     "genre_tags": {
         "action": "Action",

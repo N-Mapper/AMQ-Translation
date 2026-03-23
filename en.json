@@ -1620,7 +1620,8 @@
             "standard": "Yumemi is usually found sleeping at any chance she gets. Most people are therefore surprised when they hear she's the vice president of the science club, though she only joined to help her childhood friend Chika get enough members."
         },
         "katsu": {
-            "standard": "Being a prominent player of the Zetto card game, Katsu is trying to collect the ancient precursor cards, which are said to hold the power to change the world. This often leads to battle against a shadowy organization who're also seeking them."
+            "standard": "Being a prominent player of the Zetto card game, Katsu is trying to collect the ancient precursor cards, which are said to hold the power to change the world. This often leads to battle against a shadowy organization who're also seeking them.",
+            "cat_cafe": "Even with the fate of the world on the line, Zetto cards aren’t cheap. So to help afford new cards, Katsu picked up a part-time job at a locale cat café, which also give him a nice relaxing break away from the intense Zetto matches."
         },
         "riku": {
             "standard": "Riku is known by most as Rika, a famous live streamer and vlogger who's known for getting access to places he's not supposed to be. Riku himself mainly just enjoys the thrill of exploring and sharing his antics."
@@ -1969,6 +1970,8 @@
             "entries": "Entries: _NUMBER_",
             "add_to_list": "Add to List",
             "remove_from_list": "Remove from List",
+            "delete_list": "Delete List",
+            "share_list": "Share List",
             "anime_only_description": {
                 "title": "Anime Only",
                 "description": "This list can only contain anime entries, and can be used as both an anime list and a song pool."
@@ -2021,6 +2024,23 @@
             "songs_in_only_anime_switch": {
                 "title": "Songs in List",
                 "description": "To swap to anime only, all songs must be removed from the list first."
+            },
+            "share_code_message": {
+                "title": "Share Code"
+            },
+            "max_list_message": {
+                "title": "Max Custom List Count Reached",
+                "description": "You can have a maximum of _NUMBER_ Custom Lists."
+            },
+            "import_list": {
+                "title": "Import List",
+                "placeholder": "Share Code",
+                "load_button": "Load",
+                "no_code_message": "No Share Code Provided",
+                "unknown_code": {
+                    "title": "Unknown Share Code",
+                    "description": "The provided share code is invalid or does not exist."
+                }
             }
         }
     },
@@ -2543,13 +2563,9 @@
                 "title": "All",
                 "description": "All songs in the AMQ database"
             },
-            "player": {
-                "title": "Player",
-                "description": "All songs from a single player's list"
-            },
-            "custom": {
-                "title": "Custom",
-                "description": "All songs from a Custom List"
+            "lists": {
+                "title": "Lists",
+                "description": "Select one or more players lists and custom lists to include or execlude songs from."
             },
             "community": {
                 "title": "Community",
@@ -2947,9 +2963,11 @@
                     "insert": "IN"
                 },
                 "difficulty": {
+                    "beginner": "Beginner",
                     "easy": "Easy",
                     "medium": "Medium",
-                    "hard": "Hard"
+                    "hard": "Hard",
+                    "expert": "Expert"
                 },
                 "song_selection": {
                     "watched": "Watched",
@@ -3236,6 +3254,15 @@
         "song_pool": {
             "title": "Song Pool",
             "change": "Change",
+            "suggest": "Suggest",
+            "suggest_description": "Suggest your Custom List for the song pool, allowing the host to select it for the quiz.",
+            "no_lists_selected": "No Lists Selected",
+            "no_lists": "No Lists",
+            "player_lists": "Player Lists",
+            "custom_lists": "Custom Lists",
+            "entries": "_NUMBER_ Entries",
+            "include": "Include",
+            "exclude": "Exclude",
             "custom_list": {
                 "title": "Custom List",
                 "entries": "_NUMBER_ Entries",
@@ -6165,7 +6192,12 @@
         "modeling": "Modeling",
         "reverse_isekai": "Reverse Isekai",
         "vertical_video": "Vertical Video",
-        "vocal_synth": "Vocal Synth"
+        "vocal_synth": "Vocal Synth",
+        "gekiga": "Gekiga",
+        "brainwashing": "Brainwashing",
+        "graduation_project": "Graduation Project",
+        "human_experimentation": "Human Experimentation",
+        "single-page_chapter": "Single-Page Chapter"
     },
     "genre_tags": {
         "action": "Action",
