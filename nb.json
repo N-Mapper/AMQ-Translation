@@ -2714,20 +2714,20 @@
         },
         "anime_popularity": {
             "title": "Anime popularitet",
-            "description": "Begrens sanger til anime innenfor den valgte populariteten på AniList.",
+            "description": "Begrens sanger til anime innenfor den valgte populariteten på AniList",
             "top_shows": "Topp x program",
             "all": "Alle"
         },
         "guess_mode": {
             "title": "Gjettingsmodus",
-            "description": "Type sang eller video som spilles av i gjettingsfasen.",
+            "description": "Type sang eller video som spilles av i gjettingsfasen",
             "music": {
                 "title": "Sang",
-                "description": "Spill sangen i gjettingsfasen."
+                "description": "Spill sangen i gjettingsfasen"
             },
             "tiny_video": {
                 "title": "Liten video",
-                "description": "Spill av en liten del av videoen i gjettingsfasen."
+                "description": "Spill av en liten del av videoen i gjettingsfasen"
             },
             "blur_video": {
                 "title": "Uskarp Video",
