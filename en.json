@@ -2669,6 +2669,22 @@
                 "description": "Players get possible 4 answers to choose from"
             }
         },
+        "guess_mode": {
+            "title": "Guess Mode",
+            "description": "The type of song or video played during the guessing phase.",
+            "music": {
+                "title": "Song",
+                "description": "Play the song during the guessing phase"
+            },
+            "tiny_video": {
+                "title": "Tiny Video",
+                "description": "Play a tiny section of the video during the guessing phase."
+            },
+            "blur_video": {
+                "title": "Blur Video",
+                "description": "Play the video with a heavy blur effect during the guessing phase."
+            }
+        },
         "lives": {
             "title": "Lives",
             "description": "The amount of lives players start with."
@@ -3406,6 +3422,11 @@
                 "multiple_choice": "Multiple Choice",
                 "mix": "Mix"
             },
+            "guess_mode": {
+                "music": "Music",
+                "tiny_video": "Tiny Video",
+                "blur_video": "Blur Video"
+            },
             "watched_distribution": {
                 "random": "Random",
                 "weighted": "Weighted",
@@ -3477,6 +3498,7 @@
                 "team_size": "Team Size",
                 "watched_distribution": "Watched Distribution",
                 "answering": "Answering",
+                "guess_mode": "Guess Mode",
                 "extra_guess_time": "Extra Guess Time",
                 "song_pool": "Song Pool",
                 "anime_popularity": "Anime Popularity",
@@ -3574,6 +3596,7 @@
             "ending_soon": "Ending _BREAK_ Soon",
             "votes_needed": "_NUMBER_/_NUMBER2_ _BREAK_ Votes"
         },
+        "fixed": "Fixed",
         "no_songs_matching_settings": "No songs match the quiz settings, returning to lobby",
         "team_answer": "_NAME_ answered: _MESSAGE_",
         "current_answer": "Current Answer",
@@ -6197,7 +6220,8 @@
         "brainwashing": "Brainwashing",
         "graduation_project": "Graduation Project",
         "human_experimentation": "Human Experimentation",
-        "single-page_chapter": "Single-Page Chapter"
+        "single-page_chapter": "Single-Page Chapter",
+        "interspecies": "Interspecies"
     },
     "genre_tags": {
         "action": "Action",
@@ -6396,6 +6420,14 @@
             "just_jamming": {
                 "title": "Just Jamming",
                 "description": "Guess 20 songs in the Jam Quiz"
+            },
+            "april_fools_2026": {
+                "title": "Video Quiz",
+                "description": "The future is now! Guess 20 of the new Tiny Video and/or Blur Video questions! <br/> Complete to unlock a new high value skin!",
+                "unlock_message": {
+                    "title": "Solid Gold Miyu Unlocked!",
+                    "description": "_HTML1_ You have discovered the future of anime, video! To celebrate you’ve earned the extremely valuable Solid Gold Miyu alt. version! _HTML2_"
+                }
             }
         }
     }
