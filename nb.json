@@ -2719,19 +2719,19 @@
             "all": "Alle"
         },
         "guess_mode": {
-            "MISSING-title": "Guess Mode",
-            "MISSING-description": "The type of song or video played during the guessing phase.",
+            "title": "Gjettingsmodus",
+            "description": "Type sang eller video som spilles av i gjettingsfasen.",
             "music": {
-                "MISSING-title": "Song",
-                "MISSING-description": "Play the song during the guessing phase"
+                "title": "Sang",
+                "description": "Spill sangen i gjettingsfasen."
             },
             "tiny_video": {
-                "MISSING-title": "Tiny Video",
-                "MISSING-description": "Play a tiny section of the video during the guessing phase."
+                "title": "Liten video",
+                "description": "Spill av en liten del av videoen i gjettingsfasen."
             },
             "blur_video": {
-                "MISSING-title": "Blur Video",
-                "MISSING-description": "Play the video with a heavy blur effect during the guessing phase."
+                "title": "Uskarp Video",
+                "description": "Spill av videoen med en kraftig uskarphetsefffekt i gjettingsfasen"
             }
         }
     },
@@ -3377,7 +3377,7 @@
                 "expert": "Ekspert",
                 "top_x": "Topp _NUMBER_",
                 "all": "Alle",
-                "MISSING-guess_mode": "Guess Mode"
+                "guess_mode": "Gjettingsmodus"
             },
             "song_pool": {
                 "custom_list": "Selvvalgt liste",
@@ -3386,9 +3386,9 @@
                 "all_songs": "Alle sanger"
             },
             "guess_mode": {
-                "MISSING-music": "Music",
-                "MISSING-tiny_video": "Tiny Video",
-                "MISSING-blur_video": "Blur Video"
+                "music": "Musikk",
+                "tiny_video": "Liten video",
+                "blur_video": "Uskarp video"
             }
         },
         "ranked_rules": {
@@ -3706,7 +3706,7 @@
             "rejoin_button": "Bli med igjen"
         },
         "no_active_list_message": "Ingen aktive anime-lister for spillere, bruker \"Tilfeldig\" for sangvalg",
-        "MISSING-fixed": "Fixed"
+        "fixed": "Fikset"
     },
     "anime_tags": {
         "4-koma": "4-koma",
@@ -4063,7 +4063,7 @@
         "graduation_project": "Avgangsprosjekt",
         "human_experimentation": "Menneskelig eksperimentering",
         "single-page_chapter": "Kapittel på én side",
-        "MISSING-interspecies": "Interspecies"
+        "interspecies": "Interspesifikk"
     },
     "genre_tags": {
         "action": "Action",
@@ -6397,11 +6397,11 @@
                 "description": "Gjett 20 sanger i jam quiz"
             },
             "april_fools_2026": {
-                "MISSING-title": "Video Quiz",
-                "MISSING-description": "The future is now! Guess 20 of the new Tiny Video and/or Blur Video questions! <br/> Complete to unlock a new high value skin!",
+                "title": "Videoquiz",
+                "description": "Fremtiden er nå! Gjett 20 av de nye spørsmålene på liten video og/eller uskarp video! <br/> Fullfør å låse opp et nytt skinn av høy verdi",
                 "unlock_message": {
-                    "MISSING-title": "Solid Gold Miyu Unlocked!",
-                    "MISSING-description": "_HTML1_ You have discovered the future of anime, video! To celebrate you’ve earned the extremely valuable Solid Gold Miyu alt. version! _HTML2_"
+                    "title": "Solid Gold Miyu opplåst",
+                    "description": "_HTML1_ Du har oppdaget fremtiden av anime og video! For å feire har du fortjent den ekstremt verdifulle altvernative versjonen av Solid Gold Miyu! _HTML2_"
                 }
             }
         }
