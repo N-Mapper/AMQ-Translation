@@ -3162,24 +3162,24 @@
             "join": "Bli med",
             "leave": "Forlat",
             "create_team": "Skap lag",
-            "MISSING-team_members": "Team Members",
-            "MISSING-join_public": "Join Public Team",
-            "MISSING-join_public_description": "Join a random public team, if no public teams exist you will be added to a new team",
+            "team_members": "Lagmedlemmer",
+            "join_public": "Bli med et offentlig lag",
+            "join_public_description": "Bli med i et tilfeldig offentlig lag. Hvis det ikke finnes noe lag, blir du med i et nytt lag",
             "team_kick": {
-                "MISSING-title": "Kick _NAME_ from Team?",
-                "MISSING-description": "A kicked player won't be able to rejoin the team.",
-                "MISSING-kick_button": "Kick"
+                "title": "Kast _NAME_ ut av laget?",
+                "description": "En spiller som er kastet ut kan ikke bli med på laget igjen",
+                "kick_button": "Kast ut"
             },
             "team_alerts": {
-                "MISSING-unknown_code": "Unknown Team Code",
-                "MISSING-team_full": "Team is Full",
-                "MISSING-kicked_from_team": "You have been kicked from the team"
+                "unknown_code": "Ukjent lagkode",
+                "team_full": "Laget er fullt",
+                "kicked_from_team": "Du har blitt kastet ut av laget"
             },
             "state": {
-                "MISSING-public": "Public",
-                "MISSING-public_description": "Anyone can join this team. Click to make team private.",
-                "MISSING-private": "Private",
-                "MISSING-private_description": "Only players with the code can join. Click to make team public."
+                "public": "Offentlig",
+                "public_description": "Hvem som helst kan bli med i dette laget. Klikk for å gjøre teamet privat.",
+                "private": "Privat",
+                "private_description": "Bare spillere med koden kan bli med i dette laget. Klikk for å gjøre teamet offentlig."
             }
         },
         "rule_window": {
@@ -3464,8 +3464,7 @@
             "entries": "_NUMBER_ oppføringer",
             "include": "Inkluder",
             "exclude": "Ekskluder"
-        },
-        "DELETED-team_members": "Lagmedlemmer"
+        }
     },
     "quiz": {
         "boss_mode": {
@@ -3727,10 +3726,10 @@
         "no_active_list_message": "Ingen aktive anime-lister for spillere, bruker \"Tilfeldig\" for sangvalg",
         "fixed": "Fikset",
         "ranked_team": {
-            "MISSING-private_short": "P",
-            "MISSING-private_description": "Private: Only players with the code can join this team, host can click to change to public",
-            "MISSING-public_short": "P",
-            "MISSING-public_description": "Public: Anyone can join this team, host can click to change to private"
+            "private_short": "P",
+            "private_description": "Privat: Bare spillere med koden kan bli med i laget, verten kan klikke for å endre til offentlig",
+            "public_short": "O",
+            "public_description": "Offentlig: Alle kan bli med i dette laget, verten kan klikke for å endre til privat"
         }
     },
     "anime_tags": {
