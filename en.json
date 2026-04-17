@@ -3239,7 +3239,6 @@
         "team": "Team",
         "host": "Host",
         "team_unset": "Unset",
-        "team_members": "Team Members",
         "ping_ready_up": "Ping unready players to ready up",
         "join_themed_team": {
             "title": "Join Team",
@@ -3302,7 +3301,26 @@
             "create": "Create",
             "create_team": "Create Team",
             "join": "Join",
-            "leave": "Leave"
+            "leave": "Leave",
+            "team_members": "Team Members",
+            "join_public": "Join Public Team",
+            "join_public_description": "Join a random public team, if no public teams exist you will be added to a new team",
+            "team_kick": {
+                "title": "Kick _NAME_ from Team?",
+                "description": "A kicked player won't be able to rejoin the team.",
+                "kick_button": "Kick"
+            },
+            "team_alerts": {
+                "unknown_code": "Unknown Team Code",
+                "team_full": "Team is Full",
+                "kicked_from_team": "You have been kicked from the team"
+            },
+            "state": {
+                "public": "Public",
+                "public_description": "Anyone can join this team. Click to make team private.",
+                "private": "Private",
+                "private_description": "Only players with the code can join. Click to make team public."
+            }
         },
         "rule_window": {
             "title": "Game Mode Overview",
@@ -3630,6 +3648,12 @@
                 "info": "Info Hint Used",
                 "multiple_choice": "Multiple Choice Hint Used"
             }
+        },
+        "ranked_team": {
+            "private_short": "P",
+            "private_description": "Private: Only players with the code can join this team, host can click to change to public",
+            "public_short": "P",
+            "public_description": "Public: Anyone can join this team, host can click to change to private"
         },
         "rejoin_prompt": {
             "title": "Rejoin Disconnect Game",

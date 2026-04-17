@@ -3129,7 +3129,6 @@
         "team": "Lag",
         "host": "Vert",
         "team_unset": "Avaktiver",
-        "team_members": "Lagmedlemmer",
         "join_themed_team": {
             "title": "Bli med et lag",
             "placeholder": "Angi lagkode",
@@ -3162,7 +3161,26 @@
             "create": "Skap",
             "join": "Bli med",
             "leave": "Forlat",
-            "create_team": "Skap lag"
+            "create_team": "Skap lag",
+            "MISSING-team_members": "Team Members",
+            "MISSING-join_public": "Join Public Team",
+            "MISSING-join_public_description": "Join a random public team, if no public teams exist you will be added to a new team",
+            "team_kick": {
+                "MISSING-title": "Kick _NAME_ from Team?",
+                "MISSING-description": "A kicked player won't be able to rejoin the team.",
+                "MISSING-kick_button": "Kick"
+            },
+            "team_alerts": {
+                "MISSING-unknown_code": "Unknown Team Code",
+                "MISSING-team_full": "Team is Full",
+                "MISSING-kicked_from_team": "You have been kicked from the team"
+            },
+            "state": {
+                "MISSING-public": "Public",
+                "MISSING-public_description": "Anyone can join this team. Click to make team private.",
+                "MISSING-private": "Private",
+                "MISSING-private_description": "Only players with the code can join. Click to make team public."
+            }
         },
         "rule_window": {
             "title": "Gamemodus oversikt",
@@ -3446,7 +3464,8 @@
             "entries": "_NUMBER_ oppføringer",
             "include": "Inkluder",
             "exclude": "Ekskluder"
-        }
+        },
+        "DELETED-team_members": "Lagmedlemmer"
     },
     "quiz": {
         "boss_mode": {
@@ -3706,7 +3725,13 @@
             "rejoin_button": "Bli med igjen"
         },
         "no_active_list_message": "Ingen aktive anime-lister for spillere, bruker \"Tilfeldig\" for sangvalg",
-        "fixed": "Fikset"
+        "fixed": "Fikset",
+        "ranked_team": {
+            "MISSING-private_short": "P",
+            "MISSING-private_description": "Private: Only players with the code can join this team, host can click to change to public",
+            "MISSING-public_short": "P",
+            "MISSING-public_description": "Public: Anyone can join this team, host can click to change to private"
+        }
     },
     "anime_tags": {
         "4-koma": "4-koma",
@@ -6393,7 +6418,7 @@
                 "description": "Gjett 20 sanger fra thrillerprogrammer, i ikke-laggame"
             },
             "just_jamming": {
-                "title": "Bare jamme",
+                "title": "Kun jamming",
                 "description": "Gjett 20 sanger i jam quiz"
             },
             "april_fools_2026": {
