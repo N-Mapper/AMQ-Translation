@@ -42,7 +42,7 @@
             "default": "Standard",
             "delete": "Slett",
             "close_button": "Lukk",
-            "report": "Rapporter",
+            "report": "Rapportér",
             "not_applicable": "N/A",
             "claimed_button": "Mottatt",
             "search_placeholder": "Søk",
@@ -750,7 +750,7 @@
                 }
             },
             "options": {
-                "report": "Rapporter",
+                "report": "Rapportér",
                 "remove_friend": "Fjern venn",
                 "join_game": "Bli med i et game"
             },
@@ -2203,9 +2203,9 @@
                 "confirm_button": "Publiser"
             },
             "report_quiz": {
-                "title": "Rapporter quiz",
+                "title": "Rapportér quiz",
                 "input_text": "Vennligst oppgi en grunn til å rapportere denne quizen.",
-                "confirm_button": "Rapporter"
+                "confirm_button": "Rapportér"
             },
             "report_failed": {
                 "title": "Rapportering mislyktes",
@@ -3581,7 +3581,7 @@
             "type": "Type",
             "video": "Video",
             "anime": "Anime",
-            "report": "Rapporter",
+            "report": "Rapportér",
             "report_reason": "Report årsak",
             "report_reasons": {
                 "wrong_song": "Feil sang",
