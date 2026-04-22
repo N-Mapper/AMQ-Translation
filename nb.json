@@ -2236,7 +2236,7 @@
             "share": "Del denne quizen med venner",
             "unshare": "Opphev delingen av denne quizen med venner",
             "creation_date": "Opprettelsesdato",
-            "quiz_id": "Quiz ID",
+            "quiz_id": "Quiz-ID",
             "recently_published": {
                 "title": "Nylig publisert",
                 "description": "Plasser låst til: _DATE_"
@@ -2588,7 +2588,7 @@
             "percent_range_display": "_NUMBER_%-_NUMBER2_% inni sangen"
         },
         "playback_speed": {
-            "title": "Sanghastighet",
+            "title": "Avspillingshastighet",
             "description": "Hastigheten sangen blir spilt i"
         },
         "song_difficulty": {
@@ -2658,7 +2658,7 @@
             "password_missing": "Passord kreves for private rom",
             "one_player_score_required": "Minst én spillers score må være slått på",
             "one_anime_score_required": "Minst én anime score må være slått på",
-            "one_playback_speed_required": "Minst én sanghastighet må velges"
+            "one_playback_speed_required": "Minst én avspillingshastighet må velges"
         },
         "errors": {
             "too_many_tag_genre": {
@@ -2969,7 +2969,7 @@
                 "allow_duplicates": "Tillat at dupliserte programmer velges fra denne blokken",
                 "guess_time_description": "Standard gjettingstid for sanger i denne blokken",
                 "sample_point_description": "Standard snuttpunkt for sanger i denne blokken",
-                "playback_speed_description": "Standard sanghastighet for sanger i denne blokken"
+                "playback_speed_description": "Standard avspillingshastighet for sanger i denne blokken"
             },
             "delete_message": {
                 "title": "Slett regelblokk",
@@ -3005,11 +3005,11 @@
         "rule_labels": {
             "guess_time": "Gjettingstid",
             "extra_guess_time": "Ekstra gjettingstid",
-            "playback_speed": "Sanghastighet",
+            "playback_speed": "Avspillingshastighet",
             "sample_point": "Snuttpunkt",
             "override_guess_time": "Overstyr standard gjettingstid for denne blokken",
             "override_sample_point": "Overstyr standard snuttpunkt for denne blokken",
-            "override_playback_speed": "Overstyr standard sanghastighet for denne blokken"
+            "override_playback_speed": "Overstyr standard avspillingshastighet for denne blokken"
         },
         "alerts": {
             "max_rule_block_count": {
@@ -3351,7 +3351,7 @@
                 "room_name": "Romnavn",
                 "room_private": "Privat rom",
                 "password": "Passord",
-                "playback_speed": "Sanghastighet",
+                "playback_speed": "Avspillingshastighet",
                 "game_mode": "Gamemodus",
                 "modifiers": "Modifikatorer",
                 "type": "Type",
@@ -4122,7 +4122,7 @@
         "columns": {
             "title": "Kolonner",
             "anime": "Anime",
-            "ann_id": "ANN ID",
+            "ann_id": "ANN-ID",
             "type": "Type",
             "season": "Sesong",
             "name": "Tittel",
@@ -4245,11 +4245,11 @@
                     "join": "Bli med",
                     "load": "Last inn",
                     "join_lobby": {
-                        "lobby_id": "Lobby ID",
+                        "lobby_id": "Lobby-ID",
                         "join_button": "Bli med",
                         "description": "Skriv inn ID-en for lobbyen du vil blie med i",
-                        "missing_id": "Du må oppgi en lobby ID",
-                        "invalid_id": "Ugyldig lobby ID",
+                        "missing_id": "Du må oppgi en lobby-ID",
+                        "invalid_id": "Ugyldig lobby-ID",
                         "full": "Lobbyen er full",
                         "unavailable_guest": {
                             "title": "Ikke tilgjengelig for gjestekontoer",
