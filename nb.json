@@ -4401,7 +4401,7 @@
                 "tabs": {
                     "select_avatar": "Velg avatar",
                     "rune_setup": "Rune oppsett",
-                    "reformat_rune": "Reformater rune"
+                    "reformat_rune": "Rune omformaterer"
                 },
                 "rune_selector": {
                     "filter": {
@@ -4461,8 +4461,8 @@
                     "upgrade_failure": "Runeoppgraderingen var mislykket",
                     "success_rate": "_SPAN_ _NUMBER_ _SPAN_ suksessrate",
                     "description": {
-                        "title": "Reformater rune",
-                        "text": "Oppgrader eller dupliser en rune ved hjelp av reformateren. _BREAK_ Velg en målrune, og legg deretter opptil 5 ekstra runer for å drive reformereren (jo høyere nivå, desto høyere suksessrate). De ekstra runene vil bli oppbrukt."
+                        "title": "Rune omformaterer",
+                        "text": "Oppgrader eller dupliser en rune ved hjelp av omformatereren. _BREAK_ Velg en målrune, og legg deretter opptil 5 ekstra runer for å drive omformatereren (jo høyere nivå, desto høyere suksessrate). De ekstra runene vil bli oppbrukt."
                     }
                 }
             },
@@ -4744,7 +4744,7 @@
                 "message_one": "Velkommen til verkstedet! Etter hvert som du går opp i level med avatarene dine, låser de opp runneplasser, hvor du kan utruste deg med kraftige runer.",
                 "message_two": "Runer finnes overalt i Nexus-fangehullet, og gir statistikkboost og unike effekter når de er utrustet med en avatar.",
                 "message_three": "Hvis en av avatarene dine har tomme runeplasser vises antallet på rutene deres.",
-                "message_four": "Til slutt kan du også bruke rune reformateren",
+                "message_four": "Til slutt kan du også bruke rune omformatereren.",
                 "message_five": "Det var alt for opplæringen! Kos deg med Nexus!"
             },
             "rune_setup": {
