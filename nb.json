@@ -3116,6 +3116,13 @@
         "jam_quiz_ban_alert": {
             "title": "Utestengt fra jam quizer",
             "description": "Din jam quiz utestengelse slutter om _NUMBER_ minutter"
+        },
+        "pinned_message": {
+            "title": "Festet melding",
+            "button_hover": "Feste melding",
+            "confirm_pin_message": "Bytt ut melding som er festet",
+            "confirm_pin_button": "Fest",
+            "remove_pin": "Fjern festet melding"
         }
     },
     "lobby": {
@@ -4086,8 +4093,8 @@
         "brainwashing": "Hjernevasking",
         "graduation_project": "Avgangsprosjekt",
         "human_experimentation": "Menneskelig eksperimentering",
-        "single-page_chapter": "Kapittel på én side",
-        "interspecies": "Interspesifikk"
+        "interspecies": "Interspesifikk",
+        "short-form_chapter": "Kapittel på én side"
     },
     "genre_tags": {
         "action": "Action",

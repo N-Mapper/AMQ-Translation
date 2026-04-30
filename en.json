@@ -3201,6 +3201,13 @@
         "chat_in_emote_only_mode_message": "No moderator, chat in emote only mode",
         "promoted_host_message": "_NAME_ has been promoted to host.",
         "kicked_from_room_alert": "You have been kicked from the room",
+        "pinned_message": {
+            "title": "Pinned Message",
+            "button_hover": "Pin Message",
+            "confirm_pin_message": "Override Currently Pinned Message?",
+            "confirm_pin_button": "Pin",
+            "remove_pin": "Remove Pinned Message"
+        },
         "kicked_from_jam_game_alert": {
             "title": "Kicked from Jam Quiz",
             "description": "You have been kicked from the jam quiz by a moderator and cannot rejoin the room for an hour"
@@ -6244,8 +6251,8 @@
         "brainwashing": "Brainwashing",
         "graduation_project": "Graduation Project",
         "human_experimentation": "Human Experimentation",
-        "single-page_chapter": "Single-Page Chapter",
-        "interspecies": "Interspecies"
+        "interspecies": "Interspecies",
+        "short-form_chapter": "Short-Form Chapter"
     },
     "genre_tags": {
         "action": "Action",
