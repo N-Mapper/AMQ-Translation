@@ -3119,8 +3119,8 @@
         },
         "pinned_message": {
             "title": "Festet melding",
-            "button_hover": "Feste melding",
-            "confirm_pin_message": "Bytt ut melding som er festet",
+            "button_hover": "Fest melding",
+            "confirm_pin_message": "Bytt ut festet melding?",
             "confirm_pin_button": "Fest",
             "remove_pin": "Fjern festet melding"
         }
