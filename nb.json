@@ -645,7 +645,9 @@
             "donation_choice_text": {
                 "nomination": "Nominasjon",
                 "secondary_choice": "Andre valg"
-            }
+            },
+            "MISSING-recent_winner_queue": "Recent Winner Queue",
+            "MISSING-queue_empty": "No recent winners in queue"
         },
         "social_rewards": {
             "title": "Sosiale media belønning",
@@ -913,12 +915,20 @@
             "name": {
                 "participant": "Aragaimu _YEAR_ deltager",
                 "top32": "Aragaimu _YEAR_ Topp 32",
-                "top4": "Aragaimu _YEAR_ Topp 4"
+                "MISSING-4th": "Aragaimu _YEAR_ 4th Place",
+                "MISSING-3rd": "Aragaimu _YEAR_ 3rd Place",
+                "MISSING-2nd": "Aragaimu _YEAR_ 2nd Place",
+                "MISSING-1st": "Aragaimu _YEAR_ Champion",
+                "DELETED-top4": "Aragaimu _YEAR_ Topp 4"
             },
             "description": {
                 "participant": "Deltok i Aragaimu _YEAR_ turneringen",
                 "top32": "Fikk top 32 i Aragaimu _YEAR_ turneringen",
-                "top4": "Fikk top 4 i Aragaimu _YEAR_ turneringen"
+                "MISSING-4th": "Got 4th Place in the Aragaimu _YEAR_ tournament",
+                "MISSING-3rd": "Got 3rd Place in the Aragaimu _YEAR_ tournament",
+                "MISSING-2nd": "Got 2nd Place in the Aragaimu _YEAR_ tournament",
+                "MISSING-1st": "Won the Aragaimu _YEAR_ tournament",
+                "DELETED-top4": "Fikk top 4 i Aragaimu _YEAR_ turneringen"
             }
         }
     },
@@ -1664,7 +1674,8 @@
         },
         "lilith": {
             "standard": "Lilith kommer fra en lang rekke med urgamle vampyrer, men lever for tiden et normalt liv på videregående. Selv om hun ikke skjuler sin vampyropprinnelse, tror ikke folk rundt henne på det, og tror bare det er et personlighetstrekk.",
-            "school_girl": "Lilith lever livet sitt på videregående til det fulleste, og ser nesten ut som en hvilken som helst annen energisk jente på videregående, bortsett fra at hun er en vampyr. Selv om hun ikke legger skjuler det, tror alle rundt henne at hun tuller."
+            "school_girl": "Lilith lever livet sitt på videregående til det fulleste, og ser nesten ut som en hvilken som helst annen energisk jente på videregående, bortsett fra at hun er en vampyr. Selv om hun ikke legger skjuler det, tror alle rundt henne at hun tuller.",
+            "MISSING-butler": "After nearly revealing the existence of the world, Lilith was punished by having to serve as one of the vampire lords butlers, to help learn the way of vampires. A job she has to take seriously, even though she still gossips with her friends over the internet."
         },
         "mao": {
             "standard": "Mao var født med en reinkarnerte demonkongens ånd forseglet inni seg, noe som ga henne evnen til å bruke kreftene hans, en kraft som kan korrumpere henne og frigjøre demonkongen. Eller det er det hun vil si når du spør hva hun driver med.",
@@ -2142,7 +2153,8 @@
             "selection_types": {
                 "random": "Tilfeldig",
                 "watched": "Sett"
-            }
+            },
+            "MISSING-guess_mode": "Guess Mode:"
         },
         "highscores": {
             "title": "Toppscore",
@@ -2291,6 +2303,11 @@
         "shared_states": {
             "friends": "Quiz delt med venner",
             "public": "Offentlig quiz"
+        },
+        "guess_modes": {
+            "MISSING-song": "Song",
+            "MISSING-tiny": "Tiny",
+            "MISSING-blur": "Blur"
         }
     },
     "community_quiz_tags": {
@@ -2732,7 +2749,21 @@
             "blur_video": {
                 "title": "Uskarp Video",
                 "description": "Spill av videoen med en kraftig uskarphetsefffekt i gjettingsfasen"
-            }
+            },
+            "MISSING-one_must_be_selected": "At least one guess mode must be selected"
+        },
+        "hint": {
+            "MISSING-cost": "Cost",
+            "song_points": {
+                "MISSING-title": "Song Points",
+                "MISSING-description": "The amount of points a song is worth without hints"
+            },
+            "MISSING-name_hint": "Name Hint",
+            "MISSING-info_hint": "Info Hint",
+            "MISSING-multiple_choice_hint": "Multiple Choice Hint",
+            "MISSING-audio_hint": "Audio Hint",
+            "MISSING-tiny_video_hint": "Tiny Video Hint",
+            "MISSING-blur_video_hint": "Blur Video Hint"
         }
     },
     "room_browser": {
@@ -2969,7 +3000,8 @@
                 "allow_duplicates": "Tillat at dupliserte programmer velges fra denne blokken",
                 "guess_time_description": "Standard gjettingstid for sanger i denne blokken",
                 "sample_point_description": "Standard snuttpunkt for sanger i denne blokken",
-                "playback_speed_description": "Standard avspillingshastighet for sanger i denne blokken"
+                "playback_speed_description": "Standard avspillingshastighet for sanger i denne blokken",
+                "MISSING-guess_mode_description": "The default guess modes for songs in this block"
             },
             "delete_message": {
                 "title": "Slett regelblokk",
@@ -2988,6 +3020,15 @@
             "song_count": {
                 "description": "Antall sanger valgt fra denne blokken",
                 "label": "Antall sanger"
+            },
+            "guess_mode": {
+                "one_selected_alert": {
+                    "MISSING-title": "At Least One Guess Mode Required",
+                    "MISSING-description": "Enable another guess mode before disabling this one"
+                },
+                "MISSING-song": "Song",
+                "MISSING-tiny_video": "Tiny Video",
+                "MISSING-blur_video": "Blur Video"
             }
         },
         "song_block": {
@@ -3009,7 +3050,8 @@
             "sample_point": "Snuttpunkt",
             "override_guess_time": "Overstyr standard gjettingstid for denne blokken",
             "override_sample_point": "Overstyr standard snuttpunkt for denne blokken",
-            "override_playback_speed": "Overstyr standard avspillingshastighet for denne blokken"
+            "override_playback_speed": "Overstyr standard avspillingshastighet for denne blokken",
+            "MISSING-override_guess_mode": "Override the default guess modes for this block"
         },
         "alerts": {
             "max_rule_block_count": {
@@ -3402,7 +3444,8 @@
                 "expert": "Ekspert",
                 "top_x": "Topp _NUMBER_",
                 "all": "Alle",
-                "guess_mode": "Gjettingsmodus"
+                "guess_mode": "Gjettingsmodus",
+                "MISSING-hints": "Hints"
             },
             "song_pool": {
                 "custom_list": "Selvvalgt liste",
@@ -3414,6 +3457,15 @@
                 "music": "Musikk",
                 "tiny_video": "Liten video",
                 "blur_video": "Uskarp video"
+            },
+            "hints": {
+                "MISSING-song_points": "Hint Song Point Value",
+                "MISSING-name_cost": "Name Hint Cost",
+                "MISSING-info_cost": "Info Hint Cost",
+                "MISSING-multiple_choice_cost": "Multiple Choice Hint Cost",
+                "MISSING-audio_cost": "Audio Hint Cost",
+                "MISSING-tiny_video_cost": "Tiny Video Hint Cost",
+                "MISSING-blur_video_cost": "Blur Video Hint Cost"
             }
         },
         "ranked_rules": {
@@ -3576,7 +3628,10 @@
             "hint_used": {
                 "name": "Navnhint brukt",
                 "info": "Infohint brukt",
-                "multiple_choice": "Flervalgshint brukt"
+                "multiple_choice": "Flervalgshint brukt",
+                "MISSING-tiny_video": "Tiny Video Hint Used",
+                "MISSING-blur_video": "Blur Video Hint Used",
+                "MISSING-audio": "Audio Hint Used"
             }
         },
         "song_info": {
@@ -3661,7 +3716,19 @@
                     "title": "FV",
                     "description": "Få flervalgsalternativ for denne sangen"
                 },
-                "hint_popover": "_DESCRIPTION_ - Poengkostnad: _NUMBER_"
+                "hint_popover": "_DESCRIPTION_ - Poengkostnad: _NUMBER_",
+                "tiny_video": {
+                    "MISSING-title": "Tiny",
+                    "MISSING-description": "Reveal a tiny version of the video for this song"
+                },
+                "blur_video": {
+                    "MISSING-title": "Blur",
+                    "MISSING-description": "Reveal a blurred version of the video for this song"
+                },
+                "audio": {
+                    "MISSING-title": "Audio",
+                    "MISSING-description": "Enable the audio for this song"
+                }
             },
             "skip_messages": {
                 "answers": "Hopper til svar",
@@ -6289,7 +6356,8 @@
         "veil": "slør",
         "whistle": "fløyte",
         "yan": "Yan",
-        "visor": "visir"
+        "visor": "visir",
+        "MISSING-accessory": "Accessory"
     },
     "daily_quests": {
         "title": "Daglig oppdrag",
