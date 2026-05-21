@@ -464,7 +464,8 @@
                 "lunar": "Månefestivalsalg!",
                 "valentine": "Valentinsdagssalg!",
                 "summer_games": "Sommerlekersalg!",
-                "anniversary": "Jubileumssalg!"
+                "anniversary": "Jubileumssalg!",
+                "MISSING-supernatural_spring": "Supernatural Sale!"
             },
             "sale_text": "Få den beste ticket verdien!",
             "skin_header": "Eksklusivt",
@@ -477,7 +478,8 @@
                 "christmas": "Juleskinns",
                 "lunar": "Månefestivalskinns",
                 "valentine": "Valentinsdagsskinns",
-                "summer_games": "Sommerlekerskinns"
+                "summer_games": "Sommerlekerskinns",
+                "MISSING-supernatural_spring": "Supernatural Skins"
             },
             "skin_footer": "Tilgjengelig nå"
         },
