@@ -605,7 +605,7 @@
             },
             "faq_existing_avatar": {
                 "title": "Kan jeg nomenere en eksisterende karakter?",
-                "text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for avatar-aksjonen. Hvis en eksisterende avatar vinner, vil et nytt skinn bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinnet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere \"Ninja Hibiki\"."
+                "text": "Du er hjertelig velkommen til å nominere en eksisterende avatar for avatar-aksjonen. Hvis en eksisterende avatar vinner, vil et nytt skinn bli lagt til for den avataren. Du er også hjertelig velkommen til å spesifisere hva du ønsker skinnet skal være, la oss si at du vil ha Hibiki i et ninjaantrekk, da kan du nominere «Ninja Hibiki»."
             },
             "donate_towards": "Doner for",
             "nominated_avatar": "Nominert avatar",
@@ -1104,7 +1104,7 @@
             }
         },
         "anime_list": {
-            "description": "Tilkoble din AniList-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med \"Sett\" innstillingen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
+            "description": "Tilkoble din AniList-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med «Sett» innstillingen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
             "share_entries": {
                 "title": "Del oppføringer",
                 "description": "Vis når et program er fra din liste"
@@ -1587,7 +1587,7 @@
             "pirate": "Komugi er kjent som en venn i havnen og en trussel for alle som møter henne på sjøet. Hun er en svært ettertraktet pirat som kan leies av alle som har nok gull og store nok eventyr til å tilfredsstille henne."
         },
         "noel": {
-            "standard": "Som en selverklært mesterdetektiv finner Noel mysterier og gåter å løse i alt, ingen sak er for stor for detektiv Noel! Etter å ha funnet en gamle bortglemt helligdom, drar hun nå også dens ånd Komugi seg på \"dektivarbeide\" sitt.",
+            "standard": "Som en selverklært mesterdetektiv finner Noel mysterier og gåter å løse i alt, ingen sak er for stor for detektiv Noel! Etter å ha funnet en gamle bortglemt helligdom, drar hun nå også dens ånd Komugi seg på «dektivarbeidet» sitt.",
             "brawler": "Noel likte aldri den strenge naturen til templet hun vokste opp i, så da hun fikk sjansen rømte hun for å utforske verden. Hun har nå slått sammen med Komugi, og sammen reiser de rundt og begir seg ut på all slags eventyr.",
             "catgirl": "Under en sak ble Noel besatt av en bakeneko. Den var ikke kraftig nok til å kontrollere Noel, men den påvirket likevel oppførselen hennes og fikk henne til å få katteører og -hale, til stor forferdelse for Komugi som måtte dekke til alt."
         },
@@ -1597,7 +1597,7 @@
         },
         "miyu": {
             "standard": "Som en lykkelig og munter jente levde Miyu et begivenhetsløst liv frem til sitt siste år på ungdomsskolen, da hun fant en stjerneformet juvel som lot henne materialisere sine underliggende magiske krefter.",
-            "valkyrie": "Miyu viste et enormt potensial innen magi i en tidlig alder, og ble rekruttert som en kongelig magisk ridder, hvor kreftene hennes raskt ga henne rangen som høy ridder og kallenavnet \"Valkyrie\".",
+            "valkyrie": "Miyu viste et enormt potensial innen magi i en tidlig alder, og ble rekruttert som en kongelig magisk ridder, hvor kreftene hennes raskt ga henne rangen som høy ridder og kallenavnet «Valkyrie».",
             "ice_princess": "Under en av kampene hennes endte opp med å forsvare en stamme med isånder, som, da Miyu var i ferd med å bli beseiret, ga henne kreftene sine. De forvandlet henne til en magisk isprinsesse, noe som ga henne kraften til å beseire fienden.",
             "idol": "Etter at en mystisk ond organisasjon infiltrerte idolindustrien, måtte Miyu gå undercover som et idol for å finne ut av og sette en stopper for deres onde planer. Så, assistert av magien sin, entret Miyu scenen som et verdenskjent idol.",
             "summer_games": "Som en sky jente hadde ikke folk mye tillit til at Miyu kunne bli en profesjonell gymnast. Men talentet og hardt arbeid motbeviste dem, og hun er nå klar til å vise frem ferdighetene sine i de årlige sommerlekene."
@@ -3797,7 +3797,7 @@
             "description": "Du ble koblet fra forrige game, vil du bli med igjen?",
             "rejoin_button": "Bli med igjen"
         },
-        "no_active_list_message": "Ingen aktive anime-lister for spillere, bruker \"Tilfeldig\" for sangvalg",
+        "no_active_list_message": "Ingen aktive anime-lister for spillere, bruker «Tilfeldig» for sangvalg",
         "fixed": "Fikset",
         "ranked_team": {
             "private_short": "P",
@@ -4750,7 +4750,7 @@
             },
             "dungeon_lobby": {
                 "message_one": "Dette er fangehullslobbyen! Her velger du ditt fangehullutforskningsteam!",
-                "message_two": "Start med å klikke på \"Plass 1\" for å se dine tilgjengelige avatarer.",
+                "message_two": "Start med å klikke på «Plass 1» for å se dine tilgjengelige avatarer.",
                 "message_three": "Her har vi alle tilgjengelige avatarer. La oss velge Hibiki.",
                 "message_four": "La meg fullføre utvelgelsen for resten av gruppen din!",
                 "message_five": "Der! Ikke vær redd, jeg skal forklare evnene deres senere. La oss nå gå inn i fangehullet!"
@@ -4967,31 +4967,31 @@
             "enemy_turf": {
                 "title": "Fiendens territorium",
                 "base": {
-                    "text": "En lumsk mann, i en lilla dress og grønt hår stylet over hodet, hilser på gruppen idet de kommer inn i rommet. _BREAK_ \"Hei, dere kan ikke bare gå forbi her, dette er mitt territorium. Jeg kan gjøre et unntak hvis dere lar alle _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ deres ligge, ellers må dere _HIGHLIGHT_ ta det opp med gutta mine _HIGHLIGHT_\". _BREAK_ Mannen signaliserer _HIGHLIGHT_ 4 fiendtlige kjerner _HIGHLIGHT_ som svever ved siden av ham.",
+                    "text": "En lumsk mann, i en lilla dress og grønt hår stylet over hodet, hilser på gruppen idet de kommer inn i rommet. _BREAK_ «Hei, dere kan ikke bare gå forbi her, dette er mitt territorium. Jeg kan gjøre et unntak hvis dere lar alle _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ deres ligge, ellers må dere _HIGHLIGHT_ ta det opp med gutta mine _HIGHLIGHT_.» _BREAK_ Mannen signaliserer _HIGHLIGHT_ 4 fiendtlige kjerner _HIGHLIGHT_ som svever ved siden av ham.",
                     "options": {
                         "pay": "Betal _NUMBER_ fragmenter",
                         "ignore": "Ignorer advarselen"
                     }
                 },
                 "pay": {
-                    "text": "Mannen griper tak i fragmentene mens du kaster dem til ham. _BREAK_ \"En fornøyelse å gjøre business\""
+                    "text": "Mannen griper tak i fragmentene mens du kaster dem til ham. _BREAK_ «En fornøyelse å gjøre business.»"
                 },
                 "ignore": {
-                    "text": "\"Du kommer til å angre på det. Ikke hold meg ansvarlig for det som skjer\". _BREAK_ Mannen roper mens han løper ut av døren mens de fiendtlige kjernene begynner å aktiveres."
+                    "text": "«Du kommer til å angre på det. Ikke hold meg ansvarlig for det som skjer.» _BREAK_ Mannen roper mens han løper ut av døren mens de fiendtlige kjernene begynner å aktiveres."
                 }
             },
             "gift_game": {
                 "genre": {
                     "title": "Gavegame - sjanger",
                     "base": {
-                        "text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ \"Heisan spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt sjangerquiz-game _HIGHLIGHT_ av vår velvillige vert.\" _BREAK_ \"Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere _HIGHLIGHT_ får én feil _HIGHLIGHT_, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.\"",
+                        "text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ «Hei sann spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt sjangerquiz-game _HIGHLIGHT_ av vår velvillige vert.» _BREAK_ «Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere _HIGHLIGHT_ får én feil _HIGHLIGHT_, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.»",
                         "options": {
                             "accept": "Godta initasjonen",
                             "decline": "Avslå initasjonen"
                         }
                     },
                     "accept": {
-                        "text": "Kaninen trekker ut en bunke med kort. _BREAK_ \"Hver av disse kortene har navnet på en _HIGHLIGHT_ anime og fire sjangere _HIGHLIGHT_. Når jeg snur kortet, _HIGHLIGHT_ har du 10 sekunder _HIGHLIGHT_ på dere å gjette hvilken _HIGHLIGHT_ sjanger som tilhører animeen _HIGHLIGHT_.\"",
+                        "text": "Kaninen trekker ut en bunke med kort. _BREAK_ «Hver av disse kortene har navnet på en _HIGHLIGHT_ anime og fire sjangere _HIGHLIGHT_. Når jeg snur kortet, _HIGHLIGHT_ har du 10 sekunder _HIGHLIGHT_ på dere å gjette hvilken _HIGHLIGHT_ sjanger som tilhører animeen _HIGHLIGHT_.»",
                         "options": {
                             "first_question": "Første spørsmål"
                         }
@@ -5000,23 +5000,23 @@
                         "text": "Hvilken sjanger tilhører følgende anime. _BREAK_ _NAME_ _BREAK_ _NAME2_"
                     },
                     "wrong_guess": {
-                        "text": "\"Beklager så mye, men \"_NAME_\" _HIGHLIGHT_ er ikke sjangeren _HIGHLIGHT_ for _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. Det _HIGHLIGHT_ riktige svaret _HIGHLIGHT_ er _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_.\"_BREAK_\" Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
+                        "text": "«Beklager så mye, men «_NAME_» _HIGHLIGHT_ er ikke sjangeren _HIGHLIGHT_ for _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. Det _HIGHLIGHT_ riktige svaret _HIGHLIGHT_ er _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_.»_BREAK_« Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.»_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
                     },
                     "time_out": {
-                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden er ute _HIGHLIGHT_. Den riktige sjangeren for _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ var _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ \"_BREAK_.\"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
+                        "text": "En summe lyd fyller rommet. _BREAK_ «Beklager så mye, men _HIGHLIGHT_ tiden er ute _HIGHLIGHT_. Den riktige sjangeren for _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ var _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_» _BREAK_.«Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.»_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
                     }
                 },
                 "song_type": {
                     "title": "Gavegame - sangtype",
                     "base": {
-                        "text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ \"Heisan spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt sangtypequiz-game _HIGHLIGHT_ av vår velvillige vert.\" _BREAK_ \"Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere får én feil, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.\"",
+                        "text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ «Hei sann spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt sangtypequiz-game _HIGHLIGHT_ av vår velvillige vert.» _BREAK_ «Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere får én feil, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.»",
                         "options": {
                             "accept": "Godta initasjonen",
                             "decline": "Avslå initasjonen"
                         }
                     },
                     "accept": {
-                        "text": "Kaninen trekker fram en liten summer. _BREAK_ \"Når jeg klikker på summeren _HIGHLIGHT_, Vil en sang begynne å spille _HIGHLIGHT_, og dere har _HIGHLIGHT_ 15 sekunder på dere til å gjette _HIGHLIGHT_ om det er en _HIGHLIGHT_ introsang, sluttsang eller innsats _HIGHLIGHT_.\"_BREAK_ \"Bare gi meg et sekund til å gjøre alt klart\"",
+                        "text": "Kaninen trekker fram en liten summer. _BREAK_ «Når jeg klikker på summeren _HIGHLIGHT_, Vil en sang begynne å spille _HIGHLIGHT_, og dere har _HIGHLIGHT_ 15 sekunder på dere til å gjette _HIGHLIGHT_ om det er en _HIGHLIGHT_ introsang, sluttsang eller innsats _HIGHLIGHT_.»_BREAK_ «Bare gi meg et sekund til å gjøre alt klart.»",
                         "options": {
                             "first_question": "Første spørsmål"
                         }
@@ -5030,20 +5030,20 @@
                         }
                     },
                     "correct": {
-                        "text": "\"Dere har _HIGHLIGHT_ rett! _HIGHLIGHT_ Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT_ _NAME2_ _HIGHLIGHT_. Og med det, _HIGHLIGHT_ er deres nåværende gevinster på _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ _HIGHLIGHT_. _BREAK_ Vil dere fortsette til neste spørsmål, eller ta ut fragmentene?\"",
+                        "text": "«Dere har _HIGHLIGHT_ rett! _HIGHLIGHT_ Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT_ _NAME2_ _HIGHLIGHT_. Og med det, _HIGHLIGHT_ er deres nåværende gevinster på _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ _HIGHLIGHT_. _BREAK_ Vil dere fortsette til neste spørsmål, eller ta ut fragmentene?»",
                         "options": {
                             "next_question": "Neste spørsmål",
                             "cash_out": "Ta ut fragmentene"
                         }
                     },
                     "all_correct": {
-                        "text": "\"Fantastisk, dere klarte å _HIGHLIGHT_ gjette alle 5 riktige _HIGHLIGHT_! Den siste sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. Jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!\", sier kanin før hun muntert overleverer belønningene. _BREAK_ \"Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.\"_BREAK_ Kaninen bukker og signaliserer til dere om å fortsette gjennom rommet."
+                        "text": "«Fantastisk, dere klarte å _HIGHLIGHT_ gjette alle 5 riktige _HIGHLIGHT_! Den siste sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. Jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!», sier kanin før hun muntert overleverer belønningene. _BREAK_ «Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.»_BREAK_ Kaninen bukker og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "wrong_guess": {
-                        "text": "\"Beklager så mye, men _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ _HIGHLIGHT_ er ikke det riktige svaret _HIGHLIGHT_. Sangen _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_\". _BREAK_\"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
+                        "text": "«Beklager så mye, men _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ _HIGHLIGHT_ er ikke det riktige svaret _HIGHLIGHT_. Sangen _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_.» _BREAK_«Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.»_BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "time_out": {
-                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og signaliserer til dem om å fortsette gjennom rommet."
+                        "text": "En summe lyd fyller rommet. _BREAK_ «Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_.» _BREAK_ «Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.» _BREAK_ Kaninen bukker for gruppen og signaliserer til dem om å fortsette gjennom rommet."
                     },
                     "type_numbered": {
                         "opening": "Introsang _NUMBEREXTRA_",
@@ -5059,14 +5059,14 @@
                 "tiny_opening": {
                     "title": "Gavegame - liten intro",
                     "base": {
-                        "text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ \"Heisan spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt videoquiz-game _HIGHLIGHT_ av vår velvillige vert.\" _BREAK_ \"Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere _HIGHLIGHT_ får én feil _HIGHLIGHT_, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.\"",
+                        "text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ «Hei sann spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt videoquiz-game _HIGHLIGHT_ av vår velvillige vert.» _BREAK_ «Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere _HIGHLIGHT_ får én feil _HIGHLIGHT_, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.»",
                         "options": {
                             "accept": "Godta initasjonen",
                             "decline": "Avslå initasjonen"
                         }
                     },
                     "accept": {
-                        "text": "Kaninen trekker frem en liten summer. _BREAK_ \"Når jeg klikker på summeren, _HIGHLIGHT_ vil en liten del av en anime intro spilles av _HIGHLIGHT_, og du har _HIGHLIGHT_ 10 sekunder på deg til å velge riktig program _HIGHLIGHT_ fra de oppgitte valgene.\" _BREAK_ \"Bare gi meg et sekund til å gjøre alt klart.\"",
+                        "text": "Kaninen trekker frem en liten summer. _BREAK_ «Når jeg klikker på summeren, _HIGHLIGHT_ vil en liten del av en anime intro spilles av _HIGHLIGHT_, og du har _HIGHLIGHT_ 10 sekunder på deg til å velge riktig program _HIGHLIGHT_ fra de oppgitte valgene.» _BREAK_ «Bare gi meg et sekund til å gjøre alt klart.»",
                         "options": {
                             "first_question": "Første spørsmål"
                         }
@@ -5075,43 +5075,43 @@
                         "text": "Hvilket program er dette?"
                     },
                     "correct": {
-                        "text": "\"Dere har _HIGHLIGHT_ rett! _HIGHLIGHT_ Videoen var intro _NUMBER_ fra _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. Og med det, er deres nåværende gevinster på _NUMBER2_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_. _BREAK_ Vil dere  _HIGHLIGHT_ fortsette til neste spørsmål, eller ta ut fragmentene?_HIGHLIGHT_\"",
+                        "text": "«Dere har _HIGHLIGHT_ rett! _HIGHLIGHT_ Videoen var intro _NUMBER_ fra _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. Og med det, er deres nåværende gevinster på _NUMBER2_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_. _BREAK_ Vil dere  _HIGHLIGHT_ fortsette til neste spørsmål, eller ta ut fragmentene?_HIGHLIGHT_»",
                         "options": {
                             "next_question": "Neste spørsmål",
                             "cash_out": "Ta ut fragmentene"
                         }
                     },
                     "all_correct": {
-                        "text": "\"Fantastisk, dere klarte å _HIGHLIGHT_ gjette alle 5 riktige _HIGHLIGHT_! Den siste videoen var _HIGHLIGHT2_ intro _NUMBER_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. Jeg er glad for å belønne dere ikke bare _NUMBER2_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!\", sier kanin før hun muntert overleverer belønningene. _BREAK_ \"Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.\"_BREAK_ Kaninen bukker og signaliserer til dere om å fortsette gjennom rommet."
+                        "text": "«Fantastisk, dere klarte å _HIGHLIGHT_ gjette alle 5 riktige _HIGHLIGHT_! Den siste videoen var _HIGHLIGHT2_ intro _NUMBER_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. Jeg er glad for å belønne dere ikke bare _NUMBER2_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!», sier kanin før hun muntert overleverer belønningene. _BREAK_ «Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.»_BREAK_ Kaninen bukker og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "wrong_guess": {
-                        "text": "\"Beklager så mye, men _NAME_ _HIGHLIGHT_ er ikke det riktige svaret _HIGHLIGHT_. Videoen var _HIGHLIGHT2_ intro _NUMBER_ av _NAME2_ _HIGHLIGHT2_\". _BREAK_\"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
+                        "text": "«Beklager så mye, men _NAME_ _HIGHLIGHT_ er ikke det riktige svaret _HIGHLIGHT_. Videoen var _HIGHLIGHT2_ intro _NUMBER_ av _NAME2_ _HIGHLIGHT2_.» _BREAK_«Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.»_BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                     },
                     "time_out": {
-                        "text": "En summe lyd fyller rommet. _BREAK_ \"Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ intro _NUMBER_ fra _NAME_ _HIGHLIGHT2_.\" _BREAK_ \"Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og signaliserer til dem om å fortsette gjennom rommet."
+                        "text": "En summe lyd fyller rommet. _BREAK_ «Beklager så mye, men _HIGHLIGHT_ tiden dere er ute _HIGHLIGHT_. Sangen var _HIGHLIGHT2_ intro _NUMBER_ fra _NAME_ _HIGHLIGHT2_.» _BREAK_ «Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.» _BREAK_ Kaninen bukker for gruppen og signaliserer til dem om å fortsette gjennom rommet."
                     }
                 },
                 "decline": {
-                    "text": "Kaninen ser overrasket ut. _BREAK_ \"Vil du virkelig ikke spille? Men _HIGHLIGHT_ du har ingenting å tape ..._HIGHLIGHT_ hvordan skal jeg forklare det til verten vår ...\", stammer kaninen mens de ser mildt panisk ut, før de legger merke til gruppens blikk. _BREAK_ \"Hvis det er deres avgjørelse, så ... håper jeg dere vil vurdere å spille neste gang vi møtes\", klarer hun å si med et halvt påtvunget smil, før hun bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
+                    "text": "Kaninen ser overrasket ut. _BREAK_ «Vil du virkelig ikke spille? Men _HIGHLIGHT_ du har ingenting å tape ..._HIGHLIGHT_ hvordan skal jeg forklare det til verten vår ...» , stammer kaninen mens de ser mildt panisk ut, før de legger merke til gruppens blikk. _BREAK_ «Hvis det er deres avgjørelse, så ... håper jeg dere vil vurdere å spille neste gang vi møtes.», klarer hun å si med et halvt påtvunget smil, før hun bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                 },
                 "cash_out": {
-                    "text": "\"En klok spiller vet at man skal gi opp mens man er på topp. Så jeg respekterer deres avgjørelse\", sier kaninen før hun gir gruppen belønningen deres. _BREAK_ \"Gratulerer med belønningen, jeg håper dere spiller igjen i fremtiden.\"_BREAK_ Kaninen bukker for gruppen og signaliserer at dere skal fortsette gjennom rommet."
+                    "text": "«En klok spiller vet at man skal gi opp mens man er på topp. Så jeg respekterer deres avgjørelse», sier kaninen før hun gir gruppen belønningen deres. _BREAK_ «Gratulerer med belønningen, jeg håper dere spiller igjen i fremtiden.»_BREAK_ Kaninen bukker for gruppen og signaliserer at dere skal fortsette gjennom rommet."
                 },
                 "correct_guess": {
-                    "text": "\"Du har _HIGHLIGHT_ rett! _HIGHLIGHT_ Og med det, _HIGHLIGHT_ er deres nåværende gevinster på _NUMBER_ _HIGHLIGHT_ _HIGHLIGHT2_ fragmenter. _HIGHLIGHT2_ _BREAK_ Vil dere fortsette til neste spørsmål, eller ta ut fragmentene?\"",
+                    "text": "«Du har _HIGHLIGHT_ rett! _HIGHLIGHT_ Og med det, _HIGHLIGHT_ er deres nåværende gevinster på _NUMBER_ _HIGHLIGHT_ _HIGHLIGHT2_ fragmenter. _HIGHLIGHT2_ _BREAK_ Vil dere fortsette til neste spørsmål, eller ta ut fragmentene?»",
                     "options": {
                         "next_question": "Neste spørsmål",
                         "cash_out": "Ta ut fragmentene"
                     }
                 },
                 "win": {
-                    "text": "\"Fantastisk, dere _HIGHLIGHT_ klarte å gjette alle 5 _HIGHLIGHT_ riktig! Jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!\", sier kaninen før han muntert overleverer belønningene. _BREAK_ \"Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
+                    "text": "«Fantastisk, dere _HIGHLIGHT_ klarte å gjette alle 5 _HIGHLIGHT_ riktig! Jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!», sier kaninen før han muntert overleverer belønningene. _BREAK_ «Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.» _BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
                 },
                 "video_issue": {
-                    "text_one": "Kaninen ser forvirret ut mens hun gjentatte ganger klikker på summeren. _BREAK_ \"Beklager, det ser ut til å være et problem med spørsmålet. Så vi må hoppe over dette.\" _BREAK_ \"La meg gjøre neste spørsmål klart, bare gi meg et øyeblikk.\"",
-                    "text_two": "Kaninen begynner rasende å trykke på summeren, før de ser opp på gruppen med et anstrengt smil. _BREAK_ \"Det ser ut til at utstyret er defekt, så vi må hoppe over dette spørsmålet. Jeg skal sette opp det neste.\"",
-                    "text_three": "Kaninen griper rasende summeren og kaster den mot veggen. _BREAK_ \"Det ser ut til at vi _HIGHLIGHT_ opplever noen tekniske problemer _HIGHLIGHT_, så vi _HIGHLIGHT_ vil ikke kunne fullføre quizen _HIGHLIGHT_. Jeg er sikker på at verten vår har råd til å _HIGHLIGHT_ gi dere 100 _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ _HIGHLIGHT_ som en unnskyldning.\" _BREAK_ Kaninen gir gruppen _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_, og signaliserer deretter til døren.",
-                    "text_four": "Kaninen prøver å klikke på knappen flere ganger, men ingenting skjer. _BREAK_ \"Det siste _HIGHLIGHT_ spørsmålet ser ikke ut til å fungere _HIGHLIGHT_. Siden dette er vertens feil, vil jeg _HIGHLIGHT_ belønne dere for spørsmålet _HIGHLIGHT_. Så jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!\", sier kaninen før de muntert overleverer belønningene. _BREAK_ \"Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.\" _BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet.",
+                    "text_one": "Kaninen ser forvirret ut mens hun gjentatte ganger klikker på summeren. _BREAK_ «Beklager, det ser ut til å være et problem med spørsmålet. Så vi må hoppe over dette.» _BREAK_ «La meg gjøre neste spørsmål klart, bare gi meg et øyeblikk.»",
+                    "text_two": "Kaninen begynner rasende å trykke på summeren, før de ser opp på gruppen med et anstrengt smil. _BREAK_ «Det ser ut til at utstyret er defekt, så vi må hoppe over dette spørsmålet. Jeg skal sette opp det neste.»",
+                    "text_three": "Kaninen griper rasende summeren og kaster den mot veggen. _BREAK_ «Det ser ut til at vi _HIGHLIGHT_ opplever noen tekniske problemer _HIGHLIGHT_, så vi _HIGHLIGHT_ vil ikke kunne fullføre quizen _HIGHLIGHT_. Jeg er sikker på at verten vår har råd til å _HIGHLIGHT_ gi dere 100 _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ _HIGHLIGHT_ som en unnskyldning.» _BREAK_ Kaninen gir gruppen _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_, og signaliserer deretter til døren.",
+                    "text_four": "Kaninen prøver å klikke på knappen flere ganger, men ingenting skjer. _BREAK_ «Det siste _HIGHLIGHT_ spørsmålet ser ikke ut til å fungere _HIGHLIGHT_. Siden dette er vertens feil, vil jeg _HIGHLIGHT_ belønne dere for spørsmålet _HIGHLIGHT_. Så jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!», sier kaninen før de muntert overleverer belønningene. _BREAK_ «Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.» _BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet.",
                     "options": {
                         "next_question": "Neste spørsmål"
                     }
@@ -5189,9 +5189,9 @@
             "rare_hunter": {
                 "title": "Sjeldenhetsjeger",
                 "base": {
-                    "one_artifact": "Idet gruppen kommer inn i rommet, stormer en rosahåret jente iført en hvit magikerkappe bort til gruppen. _BREAK_ \"Er det en _ARTIFACT_?\" _BREAK_ Utbryter jenta mens hun hopper rundt gruppen. _BREAK_ _HIGHLIGHT_ \"Dere må selge den til meg!\" _HIGHLIGHT_",
-                    "two_artifacts": "Idet gruppen kommer inn i rommet, stormer en rosahåret jente iført en hvit magikerkappe bort til gruppen. _BREAK_ \"Er det en _ARTIFACT_? Og en _ARTIFACT2_?\" _BREAK_ utbryter jenta mens hun hopper rundt gruppen. _BREAK_ _HIGHLIGHT_ \"Dere må selge dem til meg!\" _HIGHLIGHT_... Men jeg har ikke mange fragmenter... Argh, _HIGHLIGHT_ jeg må klare meg med én av dem _HIGHLIGHT_!",
-                    "three_artifacts": "Idet gruppen kommer inn i rommet, stormer en rosahåret jente iført en hvit magikerkappe bort til gruppen. _BREAK_ \"Er det en _ARTIFACT_? Og en _ARTIFACT2_? Hvor i all verden fant dere en _ARTIFACT3_?\" _BREAK_ utbryter jenta mens hun hopper rundt gruppen. _BREAK_ _HIGHLIGHT_ \"Dere må selge dem til meg!\" _HIGHLIGHT_... Men jeg har ikke mange fragmenter... Argh, _HIGHLIGHT_ jeg må klare meg med én av dem _HIGHLIGHT_!",
+                    "one_artifact": "Idet gruppen kommer inn i rommet, stormer en rosahåret jente iført en hvit magikerkappe bort til gruppen. _BREAK_ «Er det en _ARTIFACT_?» _BREAK_ Utbryter jenta mens hun hopper rundt gruppen. _BREAK_ _HIGHLIGHT_ «Dere må selge den til meg!» _HIGHLIGHT_",
+                    "two_artifacts": "Idet gruppen kommer inn i rommet, stormer en rosahåret jente iført en hvit magikerkappe bort til gruppen. _BREAK_ «Er det en _ARTIFACT_? Og en _ARTIFACT2_?» _BREAK_ utbryter jenta mens hun hopper rundt gruppen. _BREAK_ _HIGHLIGHT_ «Dere må selge dem til meg! _HIGHLIGHT_... Men jeg har ikke mange fragmenter... Argh, _HIGHLIGHT_ jeg må klare meg med én av dem _HIGHLIGHT_!»",
+                    "three_artifacts": "Idet gruppen kommer inn i rommet, stormer en rosahåret jente iført en hvit magikerkappe bort til gruppen. _BREAK_ «Er det en _ARTIFACT_? Og en _ARTIFACT2_? Hvor i all verden fant dere en _ARTIFACT3_?« _BREAK_ utbryter jenta mens hun hopper rundt gruppen. _BREAK_ _HIGHLIGHT_ «Dere må selge dem til meg! _HIGHLIGHT_... Men jeg har ikke mange fragmenter... Argh, _HIGHLIGHT_ jeg må klare meg med én av dem _HIGHLIGHT_!»",
                     "options": {
                         "sell_artifact": "Selg _NAME_ for _NUMBER_ fragmenter",
                         "sell_all": "Selg alle _NUMBER_ artefaktene for _NUMBER2_ fragmenter",
@@ -5199,25 +5199,25 @@
                     }
                 },
                 "sell_one": {
-                    "text": "\"Takk, jeg kommer til å sette pris på den for alltid!\" _BREAK_ sier jenta og klemmer _ARTIFACT_ før hun skynder seg av gårde"
+                    "text": "«Takk, jeg kommer til å sette pris på den for alltid!» _BREAK_ sier jenta og klemmer _ARTIFACT_ før hun skynder seg av gårde"
                 },
                 "sell_all": {
-                    "text": "\"Dere selger alle tre?! Dere er fantastiske! Som takk for at dere er så fantastiske, _HIGHLIGHT_ kan dere få min _HIGHLIGHT_ _ARTIFACT_\". _BREAK_ sier jenta, før hun skynder seg av gårde med sitte nye gjenstander."
+                    "text": "«Dere selger alle tre?! Dere er fantastiske! Som takk for at dere er så fantastiske, _HIGHLIGHT_ kan dere få min _HIGHLIGHT_ _ARTIFACT_.» _BREAK_ sier jenta, før hun skynder seg av gårde med sitte nye gjenstander."
                 },
                 "decline": {
-                    "text": "\"Ikke en eneste en engang?\"_BREAK_ sier jenta og ser nedslått ut. Før hun spretter tilbake, utbryter hun: \"Ingen tid til å føle seg nedenfor, det er flere artefakter å finne!\" før hun skynder seg av gårde"
+                    "text": "«Ikke en eneste en engang?»_BREAK_ sier jenta og ser nedslått ut. Før hun spretter tilbake, utbryter hun: «Ingen tid til å føle seg nedenfor, det er flere artefakter å finne!» før hun skynder seg av gårde"
                 }
             },
             "the_goddess": {
                 "title": "Gudinnen",
                 "base": {
-                    "text": "Idet gruppen kommer inn i rommet, blir de _HIGHLIGHT_ møtt av en jente med langt blått hår _HIGHLIGHT_ som sitter i en stor hvit stol. _BREAK_ \"Vel møtt reisende, anse dem selv som velsignet etter at reisen dems har ført dem til et sted med fred. Gå frem, og _HIGHLIGHT_ jeg vil dele mine guddomelige krefter for å gjenopprette dem._HIGHLIGHT_\"",
+                    "text": "Idet gruppen kommer inn i rommet, blir de _HIGHLIGHT_ møtt av en jente med langt blått hår _HIGHLIGHT_ som sitter i en stor hvit stol. _BREAK_ «Vel møtt reisende, anse dem selv som velsignet etter at reisen dems har ført dem til et sted med fred. Gå frem, og _HIGHLIGHT_ jeg vil dele mine guddomelige krefter for å gjenopprette dem._HIGHLIGHT_»",
                     "options": {
                         "step_forward": "Ha _NAME_ gå frem"
                     }
                 },
                 "result": {
-                    "text": "Et _HIGHLIGHT_ guddommelig lys dekker _NAME_ og gjenoppretter styrken deres _HIGHLIGHT_. _BREAK_ Når gruppen ser tilbake på jenta, blir de overrasket over å se at hun dovent småspiser fra en pose potetgull. _BREAK_ \"Åh, dere er her fortsatt? _HIGHLIGHT_ Jeg har allerede helbredet en av dere _HIGHLIGHT_, hvor trengende kan dere være... Jeg har allerede gjort min del, så _HIGHLIGHT_ gå og fortsett med oppdraget deres _HIGHLIGHT_ eller hva enn dere driver med.\""
+                    "text": "Et _HIGHLIGHT_ guddommelig lys dekker _NAME_ og gjenoppretter styrken deres _HIGHLIGHT_. _BREAK_ Når gruppen ser tilbake på jenta, blir de overrasket over å se at hun dovent småspiser fra en pose potetgull. _BREAK_ «Åh, dere er her fortsatt? _HIGHLIGHT_ Jeg har allerede helbredet en av dere _HIGHLIGHT_, hvor trengende kan dere være... Jeg har allerede gjort min del, så _HIGHLIGHT_ gå og fortsett med oppdraget deres _HIGHLIGHT_ eller hva enn dere driver med.»"
                 }
             },
             "the_pedestal": {
@@ -5239,20 +5239,20 @@
             "the_ring": {
                 "title": "Ringen",
                 "base": {
-                    "text": "Idet gruppen kommer inn i rommet, nærmer en _HIGHLIGHT_ sleip mann med matroslue og øyelapp _HIGHLIGHT_ seg gruppen, _BREAK_ \"Perfekt timing, vi hadde nettopp en ledig plass åpne seg opp. Har noen av dere _HIGHLIGHT_ lyst på en runde i ringen_HIGHLIGHT_?\" sier han mens han gestikulerer mot en boksering med en _HIGHLIGHT2_ fiendtlig kjerne _HIGHLIGHT2_ svevende i den.",
+                    "text": "Idet gruppen kommer inn i rommet, nærmer en _HIGHLIGHT_ sleip mann med matroslue og øyelapp _HIGHLIGHT_ seg gruppen, _BREAK_ «Perfekt timing, vi hadde nettopp en ledig plass åpne seg opp. Har noen av dere _HIGHLIGHT_ lyst på en runde i ringen_HIGHLIGHT_?» sier han mens han gestikulerer mot en boksering med en _HIGHLIGHT2_ fiendtlig kjerne _HIGHLIGHT2_ svevende i den.",
                     "options": {
                         "enter_ring": "Ha _NAME_ gå i ringen",
                         "decline": "Takk nei til tilbudet"
                     }
                 },
                 "ignore": {
-                    "text": "\"Du kommer aldri til å vinne stort med den holdningen\", mumler mannen idet han går mot ringen."
+                    "text": "«Den som intet våger, intet vinner.», mumler mannen idet han går mot ringen."
                 }
             },
             "transmutation_circle": {
                 "title": "Transmutasjonssirkelen",
                 "base": {
-                    "text": "En _HIGHLIGHT_ mystisk sirkel med merkelige tegn og former _HIGHLIGHT_ tegnet inni den, sitter i midten av rommet. _BREAK_ Idet gruppen nærmer seg sirkelen _HIGHLIGHT_, runger en stemme over hele rommet_HIGHLIGHT_: _BREAK_ \"For at noe skal mottas _HIGHLIGHT_ må noe av samme verdi gis _HIGHLIGHT_\"",
+                    "text": "En _HIGHLIGHT_ mystisk sirkel med merkelige tegn og former _HIGHLIGHT_ tegnet inni den, sitter i midten av rommet. _BREAK_ Idet gruppen nærmer seg sirkelen _HIGHLIGHT_, runger en stemme over hele rommet_HIGHLIGHT_: _BREAK_ «For at noe skal mottas _HIGHLIGHT_ må noe av samme verdi gis. _HIGHLIGHT_»",
                     "no_artifact": "en artefakt",
                     "options": {
                         "fragments": "Put _NUMBER_ fragmenter i sirkelen",
@@ -5277,23 +5277,23 @@
             "wild_inventor": {
                 "title": "Vill oppfinner",
                 "base": {
-                    "text": "En _HIGHLIGHT_ rosahåret jente _HIGHLIGHT_ med et par store røde beskyttelsesbriller sitter ved en enslig arbeidsbenk. Øyene hennes glitrer et sekund når hun legger merke til gruppen, før hun skynder seg bort. _BREAK_ \"Jeg gikk nettopp tom for data _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men la meg _HIGHLIGHT_ brytte ned _HIGHLIGHT_ noen av _HIGHLIGHT2_ artefaktene deres _HIGHLIGHT2_, så skal jeg lage noen _HIGHLIGHT2_ runer _HIGHLIGHT2_ til dere!\"",
+                    "text": "En _HIGHLIGHT_ rosahåret jente _HIGHLIGHT_ med et par store røde beskyttelsesbriller sitter ved en enslig arbeidsbenk. Øyene hennes glitrer et sekund når hun legger merke til gruppen, før hun skynder seg bort. _BREAK_ «Jeg gikk nettopp tom for data _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men la meg _HIGHLIGHT_ brytte ned _HIGHLIGHT_ noen av _HIGHLIGHT2_ artefaktene deres _HIGHLIGHT2_, så skal jeg lage noen _HIGHLIGHT2_ runer _HIGHLIGHT2_ til dere!»",
                     "options": {
                         "artifact": "Gi henne _NAME_",
                         "decline": "Takk nei til tilbudet"
                     }
                 },
                 "base_decline": {
-                    "text": "\"Deres tap, jeg sparer de fantastiske babyene mine til neste gruppe\""
+                    "text": "«Deres tap, jeg sparer de fantastiske babyene mine til neste gruppe.»"
                 },
                 "late_decline": {
-                    "text": "\"Går dere ikke for hele settet? Dere kommer til å angre på det når dere ser hvor bra babyene mine presterer.\""
+                    "text": "«Går dere ikke for hele settet? Dere kommer til å angre på det når dere ser hvor bra babyene mine presterer.»"
                 },
                 "artifact": {
-                    "text": "Jenta griper _ARTIFACT_, går tilbake til arbeidsbenken sin og begynner å slå på den med flere verktøy ingen har sett før. I løpet av sekunder har hun forvandlet artefakten til en _HIGHLIGHT2_ _NAME_ rune _HIGHLIGHT2_. _BREAK_\"Jeg er sikker på at denne babyen vil være til stor hjelp, så _HIGHLIGHT_ hvilken _HIGHLIGHT2_ artefakt_HIGHLIGHT2_ er neste_HIGHLIGHT_?\""
+                    "text": "Jenta griper _ARTIFACT_, går tilbake til arbeidsbenken sin og begynner å slå på den med flere verktøy ingen har sett før. I løpet av sekunder har hun forvandlet artefakten til en _HIGHLIGHT2_ _NAME_ rune _HIGHLIGHT2_. _BREAK_«Jeg er sikker på at denne babyen vil være til stor hjelp, så _HIGHLIGHT_ hvilken _HIGHLIGHT2_ artefakt_HIGHLIGHT2_ er neste_HIGHLIGHT_?»"
                 },
                 "all_done": {
-                    "text": "Jenta griper _ARTIFACT_, går tilbake til arbeidsbenken sin og begynner å slå på den med flere verktøy ingen har sett før. I løpet av sekunder har hun forvandlet artefakten til en _HIGHLIGHT2_ _NAME_ rune _HIGHLIGHT2_. _BREAK_ \"Det er den siste av babyene mine for nå, sørg for å stikke innom igjen i fremtiden når dere trenger flere _HIGHLIGHT2_ runer _HIGHLIGHT2_!\""
+                    "text": "Jenta griper _ARTIFACT_, går tilbake til arbeidsbenken sin og begynner å slå på den med flere verktøy ingen har sett før. I løpet av sekunder har hun forvandlet artefakten til en _HIGHLIGHT2_ _NAME_ rune _HIGHLIGHT2_. _BREAK_ «Det er den siste av babyene mine for nå, sørg for å stikke innom igjen i fremtiden når dere trenger flere _HIGHLIGHT2_ runer _HIGHLIGHT2_!»"
                 }
             }
         },
@@ -6100,25 +6100,25 @@
                 "text": "Nå vil spillet kunne velge sanger fra serier du har sett!"
             },
             "step_dismiss": {
-                "text": "Det går greit, du kan fortsatt spille uten én! _BREAK_ Du kan legge til animelister i menyen nederst til høyre under \"Innstillinger\"."
+                "text": "Det går greit, du kan fortsatt spille uten én! _BREAK_ Du kan legge til animelister i menyen nederst til høyre under «Innstillinger»."
             }
         },
         "first_game": {
             "title": "Gameplay",
             "step_one": {
-                "text": "La oss sette i gang et game, så kan du gjette noen programmer! _BREAK_ Velg \"Spill\" for å starte."
+                "text": "La oss sette i gang et game, så kan du gjette noen programmer! _BREAK_ Velg «Spill» for å starte."
             },
             "step_two": {
-                "text": "Velg \"Flerspiller\". Ikke bekymre deg, jeg kommer ikke til å sette deg opp mot andre spiller."
+                "text": "Velg «Flerspiller». Ikke bekymre deg, jeg kommer ikke til å sette deg opp mot andre spiller."
             },
             "step_three": {
                 "text": "Dette er romoversikten, hvor du kan se gamene som er oppe for øyeblikket og sette opp ditt eget game. _BREAK_ Øverst finner du flere filtre du kan bruke til å filtrere rom."
             },
             "step_four": {
-                "text": "Jeg har satt opp et game for deg, ruten viser de viktigste innstillingene. Du kan holde musepekeren over de fleste ikonene i spillet for å få informasjon. _BREAK_ Klikk nå på \"Bli med\"."
+                "text": "Jeg har satt opp et game for deg, ruten viser de viktigste innstillingene. Du kan holde musepekeren over de fleste ikonene i spillet for å få informasjon. _BREAK_ Klikk nå på «Bli med»."
             },
             "step_five": {
-                "text": "Dette er lobbyen hvor du kan se og chatte med andre spillere. For øyeblikket er jeg bare en tilskuer. _BREAK_ Trykk på \"Klar\" øverst slik at jeg kan starte gamet."
+                "text": "Dette er lobbyen hvor du kan se og chatte med andre spillere. For øyeblikket er jeg bare en tilskuer. _BREAK_ Trykk på «Klar» øverst slik at jeg kan starte gamet."
             },
             "step_six": {
                 "text": "Dette er quiz-skjermen. Når sangen starter, har du 20 sekunder på deg til å gjette programmet. _BREAK_ Jeg starter runden nå. Når du har skrevet inn svare ditt, velger du den fra forslagslisten og sender den inn ved å trykke enter."
@@ -6139,7 +6139,7 @@
                 "text": "Det var alle sangene til denne quizen! Du får ekstra XP og notes for å fullfører en quiz basert på prestasjonen din."
             },
             "step_twelve": {
-                "text": "Nå er du klar for å spille AMQ! La oss gå tilbake til hovedmenyen ved å klikke \"Forlat\" øverst til vensrte"
+                "text": "Nå er du klar for å spille AMQ! La oss gå tilbake til hovedmenyen ved å klikke «Forlat» øverst til vensrte"
             },
             "step_thirteen": {
                 "text": "Og det var alt for spillopplæringen"
