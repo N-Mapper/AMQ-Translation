@@ -483,7 +483,8 @@
 				"lunar": "Lunar Sale!",
 				"valentine": "Valentine's Sale!",
 				"summer_games": "Summer Games Sale!",
-				"anniversary": "Anniversary Sale!"
+				"anniversary": "Anniversary Sale!",
+				"supernatural_spring": "Supernatural Sale!"
 			},
 			"sale_text": "Get the best ticket value!",
 			"skin_header": "Exclusive",
@@ -496,7 +497,8 @@
 				"christmas": "Christmas Skins",
 				"lunar": "Lunar Skins",
 				"valentine": "Valentine Skins",
-				"summer_games": "Summer Games Skins"
+				"summer_games": "Summer Games Skins",
+				"supernatural_spring": "Supernatural Skins"
 			},
 			"skin_footer": "Available Now"
 		},
@@ -2733,6 +2735,10 @@
 			"full_song_range": {
 				"title": "Full Song Range",
 				"description": "Allow songs to play up to the very ending of the song, can cause silence while answers are revealed"
+			},
+			"quiz_join": {
+				"title": "Quiz Join",
+				"description": "Allow players to join after the quiz has started"
 			}
 		},
 		"filter_types": {
@@ -3480,6 +3486,7 @@
 				"rebroadcast_songs": "Rebroadcast Songs",
 				"dub_songs": "Dub Songs",
 				"full_song_range": "Full Song Range",
+				"quiz_join": "Quiz Join",
 				"hints": "Hints",
 				"queueing": "Queueing",
 				"ova": "OVA",
@@ -3573,6 +3580,10 @@
 		"anime_names": {
 			"alternative_names": "Alternative Names",
 			"alternative_answers": "Alternative Answers"
+		},
+		"late_join_full": {
+			"title": "Quiz Full",
+			"description": "Not able to join the quiz."
 		},
 		"avatar": {
 			"loot": "Loot",
