@@ -797,6 +797,7 @@
 			"description": "You can change your nickname (the name you appear as in-game) by spending one name change token. Your account gets one name change token each year and an additional token each month if you're a level 4 or higher Patreon backer. _BREAK_ If you change your nickname, your old nickname will become available for anyone to use (even if it's your original name). _BREAK_ Your original name will still be viewable on your profile.",
 			"current_tokens": "Current Name Change Tokens: _SPAN_ _NUMBER_ _SPAN_",
 			"check_availability": "Check Availability",
+			"reserve_name": "Reserve",
 			"new_nickname": "New Nickname",
 			"change_message": {
 				"title": "Change Nickname to _NAME_",
@@ -806,12 +807,38 @@
 			"nickname_not_available": {
 				"title": "Nickname Not Available",
 				"already_in_use": "This nickname is already in use",
-				"banned": "This nickname is banned"
+				"banned": "This nickname is banned",
+				"inactive": "This nickname belongs to an inactive account and will be available on the 18th of July if the account doesn't log in before then",
+				"not_inactive": "This nickname isn't inactive, and therefore can't be reserved",
+				"reserved": "This nickname is reserved by a player"
 			},
 			"change_nickname_messages": {
 				"banned": "Your Account is Banned from Changing Nickname",
 				"success": "Nickname Changed",
 				"no_token": "No Name Change Tokens Available"
+			},
+			"reserve_name_popover": {
+				"click_to_reserve": "Click to reserve the selected inactive nickname",
+				"require_patreon": "Reserve currently only avaliable for level _NUMBER_+ Patreon backers",
+				"already_reserved": "You have already reserved a nickname, clear your current reservation before reserving a new one"
+			},
+			"reserve_name_message": {
+				"title": "Reserve Nickname",
+				"text": "You'll automatically get the reserved nickname on the 18th of July, if the account doesn't log in before then. Reserves one name change token"
+			},
+			"reserve_name_success": "Nickname Reserved",
+			"unable_to_reserve": "Unable to Reserve Nickname",
+			"current_reserved_name": "Current Reserved Nickname: _SPAN_ name _SPAN_",
+			"remove_reserved_name": "Remove Reserved Nickname",
+			"remove_reserved_name_message": {
+				"title": "Remove Reserved Nickname",
+				"text": "You'll lose the reserved nickname and get your name change token back",
+				"remove_button": "Remove"
+			},
+			"reserved_name_removed": "Reserved Nickname Removed",
+			"reserve_removed_alert": {
+				"title": "Nickname Reservation Removed",
+				"text": "The reserved nickname is no longer inactive, so your reservation has been removed and your name change token has been returned"
 			}
 		},
 		"alerts": {
