@@ -711,8 +711,8 @@
             }
         },
         "nickname_lost": {
-            "MISSING-title": "Nickname Lost",
-            "MISSING-text": "As your account have been inactive for over 3 years, your nickname was released and have been taken by another player. You can select a new nickname after closing this message"
+            "title": "Mistet kallenavn",
+            "text": "Siden kontoen din har vært inaktiv i over 3 år, har kallenavnet ditt blitt frigitt og tatt av en annen spiller. Du kan velge et nytt kallenavn etter at du har lukket denne meldingen"
         }
     },
     "menu_bar": {
@@ -838,7 +838,7 @@
                 "click_to_reserve": "Klikk for å reservere det valgte inaktive kallenavnet",
                 "require_patreon": "Reservasjon er for øyeblikke kun tilgjengelig for Patreon-støttere på nivå _NUMBER_+",
                 "already_reserved": "Du har allerede reservert et kallenavn. Fjen den nåværende reservasjonen din før du reserverer et nytt",
-                "MISSING-not_available": "Reserving nicknames not currently available"
+                "not_available": "Det er ikke mulig å reservere kallenavn for øyeblikket"
             },
             "reserve_name_message": {
                 "title": "Reserver kallenavn",
@@ -857,8 +857,7 @@
                 "title": "Kallenavnreservasjon fjernet",
                 "text": "Det reserverte kallenavnet er ikke lenger inaktivt, så reservasjonen din er fjernet og navneendringstokenen din er returnert"
             },
-            "MISSING-unable_to_reserve": "Unable to Reserve Nickname",
-            "DELETED-Munable_to_reserve": "Kan ikke reserveres kallenavn"
+            "unable_to_reserve": "Kan ikke reserveres kallenavn"
         },
         "alerts": {
             "error_getting_profile": "Spillerprofilhentingsfeil",
@@ -1585,7 +1584,7 @@
             "profile": "Profil"
         },
         "emote_category_misc": "div.",
-        "MISSING-seasonal_unlock_description": "This is a seasonal skin, and is only avaliable during the yearly _NAME_ skin season"
+        "seasonal_unlock_description": "Dette er et sesongbasert skinn, og er kun tilgjengelig i løpet av den årlige _NAME_ skinnsesongen"
     },
     "avatar_lore": {
         "hibiki": {
@@ -1802,7 +1801,7 @@
             "standard": "Hinase elsket alltid eventyr og utforskning, så hun tok den første sjansen hun fikk til å dra ut i verdensrommet. Nå jobber hun som en frilans mechpilot, og gjør småjobber, eskorter og rekognosering i romfartens grenser."
         },
         "alexandra": {
-            "MISSING-standard": "Being next in line for the throne, Alexandra was trained from a young age on how to be a noble, but it was in combat she really excelled. A power she now proudly wields to protect the citizens of her kingdom and punish evil doers."
+            "standard": "Som den neste i rekken til tronen ble Alexandra trent fra ung alder i hvordan man blir en adelsmann, men det var i kamp hun virkelig utmerket seg. En makt hun nå stolt utøver for å beskytte innbyggerne i kongeriket sitt og straffer ugjerningsmenn."
         }
     },
     "song_library": {
@@ -3140,29 +3139,29 @@
         },
         "page_close_warning": "Hvis du forlater siden, mister du all ulagret progresjon.",
         "title_block": {
-            "MISSING-title": "Title",
-            "MISSING-placeholder": "Title - Leave blank to remove title"
+            "title": "Tittel",
+            "placeholder": "Tittel - La stå tomt for å fjerne tittel"
         },
         "message_block": {
-            "MISSING-placeholder": "Message - Leave blank to only display avatar",
-            "MISSING-select_avatar": "Select Avatar",
-            "MISSING-change_avatar": "Change Avatar",
-            "MISSING-delay": "Delay",
-            "MISSING-delay_description": "Time before the message is displayed in seconds after being triggered",
-            "MISSING-time": "Time",
-            "MISSING-time_description": "Time the message is displayed in seconds before moving on to the next block"
+            "placeholder": "Melding - La stå tomt for å kun vise avatar",
+            "select_avatar": "Velg avatar",
+            "change_avatar": "Bytt avatar",
+            "delay": "Forsink",
+            "delay_description": "Tid før meldingen vises i sekunder etter at den er utløst",
+            "time": "Tid",
+            "time_description": "Tiden meldingen vises i sekunder før den går videre til neste blokk"
         },
         "message_avatar_selector": {
-            "MISSING-title": "Select Avatar",
+            "title": "Velg avatar",
             "steps": {
-                "MISSING-avatar": "Avatar",
-                "MISSING-skin": "Skin",
-                "MISSING-version": "Version",
-                "MISSING-pose": "Pose"
+                "avatar": "Avatar",
+                "skin": "Skinn",
+                "version": "Versjon",
+                "pose": "Positur"
             },
             "buttons": {
-                "MISSING-clear_selection": "Clear Selection",
-                "MISSING-select": "Select"
+                "clear_selection": "Fjern valg",
+                "select": "Velg"
             }
         }
     },
@@ -4234,7 +4233,7 @@
         "human_experimentation": "Menneskelig eksperimentering",
         "interspecies": "Interspesifikk",
         "short-form_chapter": "Kapittel på én side",
-        "MISSING-prophecy": "Prophecy"
+        "prophecy": "Profeti"
     },
     "genre_tags": {
         "action": "Action",
@@ -6430,8 +6429,8 @@
         "whistle": "fløyte",
         "yan": "Yan",
         "visor": "visir",
-        "accessory": "Tilbehør",
-        "MISSING-flowers": "Flowers"
+        "accessory": "tilbehør",
+        "flowers": "blomster"
     },
     "daily_quests": {
         "title": "Daglig oppdrag",
@@ -6605,30 +6604,30 @@
     },
     "skin_seasons": {
         "full": {
-            "MISSING-fall": "Fall",
-            "MISSING-summer": "Summer",
-            "MISSING-winter": "Winter",
-            "MISSING-spring": "Spring",
-            "MISSING-halloween": "Halloween",
-            "MISSING-christmas": "Christmas",
-            "MISSING-lunar": "Lunar New Year",
-            "MISSING-valentine": "Valentine",
-            "MISSING-summer_games": "Summer Games",
-            "MISSING-anniversary": "Anniversary",
-            "MISSING-supernatural_spring": "Supernatural Spring"
+            "fall": "Høst",
+            "summer": "Sommer",
+            "winter": "Vinter",
+            "spring": "Vår",
+            "halloween": "Halloween",
+            "christmas": "Jul",
+            "lunar": "Månefestival",
+            "valentine": "Valentinsdag",
+            "summer_games": "Sommerleker",
+            "anniversary": "Jubileum",
+            "supernatural_spring": "Overnaturlig vår"
         },
         "short": {
-            "MISSING-fall": "Fall",
-            "MISSING-summer": "Summer",
-            "MISSING-winter": "Winter",
-            "MISSING-spring": "Spring",
-            "MISSING-halloween": "Halloween",
-            "MISSING-christmas": "Christmas",
-            "MISSING-lunar": "Lunar",
-            "MISSING-valentine": "Valentine",
-            "MISSING-summer_games": "Summer Games",
-            "MISSING-anniversary": "Anniversary",
-            "MISSING-supernatural_spring": "Supernatural"
+            "fall": "Høst",
+            "summer": "Sommer",
+            "winter": "Vinter",
+            "spring": "Vår",
+            "halloween": "Halloween",
+            "christmas": "Jul",
+            "lunar": "Månefestival",
+            "valentine": "Valentin",
+            "summer_games": "Sommerleker",
+            "anniversary": "Jubileum",
+            "supernatural_spring": "Overnaturlig"
         }
     }
 }
