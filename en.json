@@ -519,10 +519,7 @@
 			"ranked": "Ranked",
 			"ranked_finished": "Finished",
 			"ranked_types": {
-				"novice": {
-					"title": "Novice",
-					"description": "45 songs geared towards new and upcoming players"
-				},
+				"novice": { "title": "Novice", "description": "45 songs geared towards new and upcoming players" },
 				"expert": {
 					"title": "Expert",
 					"description": "85 songs geared towards experienced players. Rewards additional ranked points"
@@ -630,14 +627,9 @@
 			"free_donation": "Use Free Donation",
 			"free_donation_amount": "Amount: _NUMBER_€",
 			"approx_dollars_2": "Approx. $_SPAN_ _NUMBER_ _SPAN_",
-			"donation_choice_text": {
-				"nomination": "Nomination",
-				"secondary_choice": "Secondary Choice"
-			},
+			"donation_choice_text": { "nomination": "Nomination", "secondary_choice": "Secondary Choice" },
 			"checkout": "Checkout",
-			"popover": {
-				"no_free_donation": "Free donation already used this month"
-			},
+			"popover": { "no_free_donation": "Free donation already used this month" },
 			"alerts": {
 				"invalid_amount": {
 					"title": "Invalid Donation Amount",
@@ -647,10 +639,7 @@
 					}
 				},
 				"donation_error": { "title": "Donation Error" },
-				"donation_received": {
-					"title": "Donation Received",
-					"text": "Thank you for supporting the game!"
-				},
+				"donation_received": { "title": "Donation Received", "text": "Thank you for supporting the game!" },
 				"use_free_donation": {
 					"title": "Use Free Donation",
 					"text": "You only get one free donation per month"
@@ -696,6 +685,10 @@
 				"in_lobby": "_NUMBER_ - In Lobby",
 				"click_to_host": "Click to Host"
 			}
+		},
+		"nickname_lost": {
+			"title": "Nickname Lost",
+			"text": "As your account have been inactive for over 3 years, your nickname was released and have been taken by another player. You can select a new nickname after closing this message"
 		}
 	},
 	"menu_bar": {
@@ -740,11 +733,7 @@
 					"quiz_of_the_day": "Quiz of the Day"
 				}
 			},
-			"options": {
-				"report": "Report",
-				"remove_friend": "Remove Friend",
-				"join_game": "Join Game"
-			},
+			"options": { "report": "Report", "remove_friend": "Remove Friend", "join_game": "Join Game" },
 			"popout_messages": {
 				"not_in_game": "You are not in a game",
 				"solo_game_invite": "Can't invite players to solo games"
@@ -768,12 +757,7 @@
 			"description": "Connection status to the different video servers",
 			"click_to_retest": "Click to retest connection",
 			"speed": "Speed: _SPANC_ _NUMBER_  _SPANC_",
-			"connection_status": {
-				"good": "Good",
-				"okay": "Okay",
-				"poor": "Poor",
-				"bad": "Bad"
-			}
+			"connection_status": { "good": "Good", "okay": "Okay", "poor": "Poor", "bad": "Bad" }
 		}
 	},
 	"player_profile": {
@@ -819,8 +803,9 @@
 			},
 			"reserve_name_popover": {
 				"click_to_reserve": "Click to reserve the selected inactive nickname",
-				"require_patreon": "Reserve currently only avaliable for level _NUMBER_+ Patreon backers",
-				"already_reserved": "You have already reserved a nickname, clear your current reservation before reserving a new one"
+				"require_patreon": "Reserve currently only available for level _NUMBER_+ Patreon backers",
+				"already_reserved": "You have already reserved a nickname, clear your current reservation before reserving a new one",
+				"not_available": "Reserving nicknames not currently available"
 			},
 			"reserve_name_message": {
 				"title": "Reserve Nickname",
@@ -841,10 +826,7 @@
 				"text": "The reserved nickname is no longer inactive, so your reservation has been removed and your name change token has been returned"
 			}
 		},
-		"alerts": {
-			"error_getting_profile": "Error Getting Player Profile",
-			"unknown_player": "Unknown Player"
-		},
+		"alerts": { "error_getting_profile": "Error Getting Player Profile", "unknown_player": "Unknown Player" },
 		"name_effects_entries": {
 			"challenger_color": {
 				"name": "Challenger",
@@ -854,14 +836,8 @@
 				"name": "Challenger",
 				"description": "Unlocked for players who got top 50 in last month ranked championship"
 			},
-			"patreon_color": {
-				"name": "Patreon",
-				"description": "Unlocked for level 3 or higher Patreon backers"
-			},
-			"patreon_glow": {
-				"name": "Patreon",
-				"description": "Unlocked for level 4 or higher Patreon backers"
-			},
+			"patreon_color": { "name": "Patreon", "description": "Unlocked for level 3 or higher Patreon backers" },
+			"patreon_glow": { "name": "Patreon", "description": "Unlocked for level 4 or higher Patreon backers" },
 			"month_patreon_current": "Unlocked for level 5 Patreon backers who back this month, and level 6 backers",
 			"month_patreon_previous": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers",
 			"month_patreon_previous_unlocked": "Unlocked for level 5 Patreons who backed during the release month, and level 6 backers. You backed during the release month."
@@ -913,15 +889,9 @@
 			},
 			"description": "AMQ Patreon Backer"
 		},
-		"avatar": {
-			"name": "_NAME_ Badge",
-			"description": "Unlock 10 skins/recolors for _NAME_"
-		},
+		"avatar": { "name": "_NAME_ Badge", "description": "Unlock 10 skins/recolors for _NAME_" },
 		"mod": {
-			"name": {
-				"game": "AMQ Moderator",
-				"jam": "AMQ Jam Mode Moderator"
-			},
+			"name": { "game": "AMQ Moderator", "jam": "AMQ Jam Mode Moderator" },
 			"description": {
 				"game": "Part of the AMQ Moderator team",
 				"jam": "Part of the AMQ Jam Mode Moderator team"
@@ -963,10 +933,7 @@
 		"backer_level": {
 			"title": "Backer Level",
 			"tier": "Level _NUMBER_",
-			"rewards": {
-				"emotes": "_NUMBER_ Emotes",
-				"tickets": "_NUMBER_ Tickets"
-			}
+			"rewards": { "emotes": "_NUMBER_ Emotes", "tickets": "_NUMBER_ Tickets" }
 		},
 		"badge_level": "Badge Level",
 		"badge_level_info": "Your badge level is equal to the concurrent months you've been a level 2 or higher backer of the Patreon",
@@ -982,10 +949,7 @@
 			"manage": "Manage",
 			"empty": "Empty",
 			"states": {
-				"waiting_approval": {
-					"name": "Waiting Approval",
-					"shorthand": "W"
-				},
+				"waiting_approval": { "name": "Waiting Approval", "shorthand": "W" },
 				"active": { "name": "Active", "shorthand": "A" },
 				"disabled": { "name": "Disabled", "shorthand": "D" }
 			},
@@ -1035,12 +999,7 @@
 	},
 	"setting_window": {
 		"title": "Settings",
-		"tabs": {
-			"game": "Game",
-			"anime_list": "Anime List",
-			"graphics": "Graphics",
-			"audio": "Audio"
-		},
+		"tabs": { "game": "Game", "anime_list": "Anime List", "graphics": "Graphics", "audio": "Audio" },
 		"language": "Language",
 		"auto_submit": {
 			"title": "Auto Submit",
@@ -1050,18 +1009,9 @@
 			"title": "List Numbering",
 			"description": "Show number of songs played from each players anime list on the scoreboard"
 		},
-		"disable_emotes": {
-			"title": "Disable Emotes",
-			"description": "Disable emotes from being shown in chats"
-		},
-		"answer_time": {
-			"title": "Answer Time",
-			"description": "Display players answer time on their avatars"
-		},
-		"anime_link": {
-			"title": "Anime Link",
-			"description": "The anime site that's linked in song info"
-		},
+		"disable_emotes": { "title": "Disable Emotes", "description": "Disable emotes from being shown in chats" },
+		"answer_time": { "title": "Answer Time", "description": "Display players answer time on their avatars" },
+		"anime_link": { "title": "Anime Link", "description": "The anime site that's linked in song info" },
 		"auto_skip_vote": {
 			"title": "Auto Skip Vote",
 			"description": "Automatically vote to skip after answering and/or after 2 seconds in the replay phase",
@@ -1102,10 +1052,7 @@
 			"openings": "Openings",
 			"endings": "Endings",
 			"inserts": "Inserts",
-			"unwatched": {
-				"title": "Unwatched",
-				"description": "Videos from anime you haven't watched"
-			},
+			"unwatched": { "title": "Unwatched", "description": "Videos from anime you haven't watched" },
 			"high_risk": {
 				"title": "High Risk",
 				"description": "Videos that are likely to cause spoilers or are nsfw. Based on player statistics"
@@ -1113,14 +1060,8 @@
 		},
 		"anime_list": {
 			"description": "Connect your AniList, MyAnimeList or Kitsu list, and the game will use your anime list when picking songs with the “watched” setting. _BREAK_ Lists are updated weekly or when clicking update. To remove a list, update it without a username.",
-			"share_entries": {
-				"title": "Share Entries",
-				"description": "Show when a show is from your list"
-			},
-			"show_scores": {
-				"title": "Show Scores",
-				"description": "Show your anime score for shows on your list"
-			},
+			"share_entries": { "title": "Share Entries", "description": "Show when a show is from your list" },
+			"show_scores": { "title": "Show Scores", "description": "Show your anime score for shows on your list" },
 			"anilist_username": "AniList Username",
 			"mal_username": "MyAnimeList Username",
 			"mal_username_short": "MAL Username",
@@ -1131,10 +1072,7 @@
 			"no_list": "No List",
 			"custom_lists": "Custom Lists",
 			"custom_list_mode": {
-				"disable": {
-					"title": "Disable",
-					"description": "Don't use custom list for song selection"
-				},
+				"disable": { "title": "Disable", "description": "Don't use custom list for song selection" },
 				"list": {
 					"title": "Custom List",
 					"description": "Use the custom list as your anime list for song selection"
@@ -1190,10 +1128,7 @@
 			"notifications": "Notifications"
 		}
 	},
-	"blocked_player_window": {
-		"title": "Blocked Player List",
-		"remove_button": "Remove"
-	},
+	"blocked_player_window": { "title": "Blocked Player List", "remove_button": "Remove" },
 	"change_password_window": {
 		"title": "Change Password",
 		"current_password": "Current Password",
@@ -1212,11 +1147,7 @@
 		"ranked": "Ranked",
 		"all": "All",
 		"champs": "Champs",
-		"regions": {
-			"west": "West Region",
-			"central": "Central Region",
-			"east": "East Region"
-		}
+		"regions": { "west": "West Region", "central": "Central Region", "east": "East Region" }
 	},
 	"tutorial_window": {
 		"title": "Tutorials",
@@ -1231,11 +1162,7 @@
 			"workshop": "Workshop",
 			"rune_setup": "Rune Setup"
 		},
-		"status": {
-			"locked": "Locked",
-			"unlocked": "Unlocked",
-			"completed": "Completed"
-		}
+		"status": { "locked": "Locked", "unlocked": "Unlocked", "completed": "Completed" }
 	},
 	"guidelines_window": {
 		"title": "Guidelines",
@@ -1333,38 +1260,17 @@
 		},
 		"filters": {
 			"title": "Filters",
-			"locked": {
-				"title": "Locked",
-				"description": "Show content you haven't unlocked"
-			},
-			"unlocked": {
-				"title": "Unlocked",
-				"description": "Show content you have unlocked"
-			},
-			"available": {
-				"title": "Available",
-				"description": "Show content that's available to unlock in the shop"
-			},
+			"locked": { "title": "Locked", "description": "Show content you haven't unlocked" },
+			"unlocked": { "title": "Unlocked", "description": "Show content you have unlocked" },
+			"available": { "title": "Available", "description": "Show content that's available to unlock in the shop" },
 			"unavailable": {
 				"title": "Unavailable",
 				"description": "Show content that's not currently available to unlock in the shop"
 			},
-			"limited": {
-				"title": "Limited",
-				"description": "Show content that's only available for a limited time"
-			},
-			"unlimited": {
-				"title": "Unlimited",
-				"description": "Show content that's always available to unlock"
-			},
-			"exclusive": {
-				"title": "Exclusive",
-				"description": "Show content unlockable through the ticket systems"
-			},
-			"standard": {
-				"title": "Standard",
-				"description": "Show content unlockable with notes"
-			}
+			"limited": { "title": "Limited", "description": "Show content that's only available for a limited time" },
+			"unlimited": { "title": "Unlimited", "description": "Show content that's always available to unlock" },
+			"exclusive": { "title": "Exclusive", "description": "Show content unlockable through the ticket systems" },
+			"standard": { "title": "Standard", "description": "Show content unlockable with notes" }
 		},
 		"background": "Background",
 		"toggle": { "on": "Toggle On", "off": "Toggle Off" },
@@ -1403,52 +1309,31 @@
 			"tickets": "Tickets",
 			"avatar_token": "Avatar Token",
 			"avatar_tokens": "Avatar Tokens",
-			"menu": {
-				"use": "Use",
-				"history": "History",
-				"buy": "Buy",
-				"gift": "Gift"
-			},
+			"menu": { "use": "Use", "history": "History", "buy": "Buy", "gift": "Gift" },
 			"redeem_code": "Redeem Ticket Code",
-			"ticket_code_input": {
-				"title": "Enter Ticket Code",
-				"placeholder": "Ticket Code",
-				"redeem": "Redeem"
-			},
+			"ticket_code_input": { "title": "Enter Ticket Code", "placeholder": "Ticket Code", "redeem": "Redeem" },
 			"invalid_ticket_code": "Invalid Ticket Code",
 			"ticket_code_redeemed_message": {
 				"title": "Ticket Code Redeemed!",
 				"description": "_NUMBER_ tickets and _NUMBER2_ tokens claimed."
 			},
 			"approx_dollar": "Approx. $_NUMBER_",
-			"patreon_promo": {
-				"line_one": "Back the Patreon to get",
-				"line_two": "the Most Tickets for Your Money!"
-			},
+			"patreon_promo": { "line_one": "Back the Patreon to get", "line_two": "the Most Tickets for Your Money!" },
 			"one_ticket": "1 Ticket",
 			"ticket_pack": "_NUMBER_ Pack",
 			"gift_target": "Gift Target",
 			"gift_no_target_message": "Select Friend to Gift",
 			"gift_clear": "Clear",
 			"gift_message_placeholder": "Enter a gift message (optional)",
-			"gift_message": {
-				"title": "Buying Ticket Gift for _NAME_",
-				"placeholder": "Gift message: _MESSAGE_"
-			},
-			"no_gift_target_message": {
-				"title": "No Gift Target Selected",
-				"description": "Select one below"
-			},
+			"gift_message": { "title": "Buying Ticket Gift for _NAME_", "placeholder": "Gift message: _MESSAGE_" },
+			"no_gift_target_message": { "title": "No Gift Target Selected", "description": "Select one below" },
 			"gift_no_friends": {
 				"title": "No Friends in Friend List",
 				"description": "You're only able to gift tickets to friends in your friend list."
 			},
 			"no_past_rolls": "No Past _BREAK_ Ticket Rolls",
 			"one_roll": "1 Roll",
-			"ten_roll": {
-				"title": "10 Rolls",
-				"description": "Rare or Higher Item Guaranteed!"
-			},
+			"ten_roll": { "title": "10 Rolls", "description": "Rare or Higher Item Guaranteed!" },
 			"token_description": "Select an avatar for _BREAK_ 50% chance for it _BREAK_ on all rolls",
 			"token_description_dropdown": "Select an avatar above and all rolls will have a 50% chance of being of that avatar",
 			"roll": "Roll",
@@ -1533,16 +1418,12 @@
 			"unique": "Unique"
 		},
 		"decoration_buttons": { "front": "Front", "back": "Back" },
-		"item_types": {
-			"emote": "Emote",
-			"background": "Background",
-			"decoration": "Decoration",
-			"skin": "Skin"
-		},
+		"item_types": { "emote": "Emote", "background": "Background", "decoration": "Decoration", "skin": "Skin" },
 		"ticket_reward_tier": "Ticket Reward Tier _TIER_",
 		"rhythm_price": "Rhythm Price",
 		"silver_hibike_description": "Unique launch recolor unlocked by having joined the game during the launch week or by unlocking all non unique recolors for all avatars.",
-		"emote_previews": { "chat": "Chat", "profile": "Profile" }
+		"emote_previews": { "chat": "Chat", "profile": "Profile" },
+		"seasonal_unlock_description": "This is a seasonal skin, and is only avaliable during the yearly _NAME_ skin season"
 	},
 	"avatar_lore": {
 		"hibiki": {
@@ -1737,7 +1618,7 @@
 			"standard": "Arai runs her own underground quiz tournaments, which have made her infamous in some circles and famous in others. Despite the questionability of her being both the host and a participant, her tournaments draw huge crowds."
 		},
 		"yua": {
-			"standard": "Since high school, Yua has lowed tailoring and dressmaking, with a huge passion for wedding gowns. She secretly loves dressing up in them, dreaming of getting wed one day, but would die of embarrassment if her friends found out."
+			"standard": "Since high school, Yua has loved tailoring and dressmaking, with a huge passion for wedding gowns. She secretly loves dressing up in them, dreaming of getting wed one day, but would die of embarrassment if her friends found out."
 		},
 		"kaori": {
 			"standard": "Kaori just started highschool where she's the quiet and nervous girl in her class, but get her talking about frogs and she forgets all that. She managed to make a couple of good friends, who have to live with Kaori trying to buy all frog merch she finds."
@@ -1756,6 +1637,9 @@
 		},
 		"hinase": {
 			"standard": "Hinase always loved adventure and exploration, so she took the first chance she got to venture out into space. She now works as a freelance mech pilot, doing odd jobs, escorts and reconnaissance at the frontiers of space exploration."
+		},
+		"alexandra": {
+			"standard": "Being next in line for the throne, Alexandra was trained from a young age on how to be a noble, but it was in combat she really excelled. A power she now proudly wields to protect the citizens of her kingdom and punish evil doers."
 		},
 		"unknown": "Unknown"
 	},
@@ -1828,11 +1712,7 @@
 				"instrumental": "Instrumental",
 				"character": "Character"
 			},
-			"upload_status": {
-				"title": "Upload Status",
-				"uploaded": "Uploaded",
-				"missing": "Missing"
-			}
+			"upload_status": { "title": "Upload Status", "uploaded": "Uploaded", "missing": "Missing" }
 		},
 		"search_targets": {
 			"all": "All",
@@ -1846,11 +1726,7 @@
 		"strict_description": "Do not include groups that artists belong to when searching for artists/composers/arrangers.",
 		"search": "Search",
 		"anime_entry": {
-			"song_counts": {
-				"op": "OP _NUMBER_",
-				"ed": "ED _NUMBER_",
-				"insert": "IN _NUMBER_"
-			},
+			"song_counts": { "op": "OP _NUMBER_", "ed": "ED _NUMBER_", "insert": "IN _NUMBER_" },
 			"vintage": {
 				"winter": "Winter _YEAR_",
 				"spring": "Spring _YEAR_",
@@ -1886,18 +1762,11 @@
 			},
 			"submit": "Submit",
 			"insert_litterbox_url": "Insert Litterbox URL",
-			"like_options": {
-				"like": "Like",
-				"dislike": "Dislike",
-				"unset": "Unset"
-			},
+			"like_options": { "like": "Like", "dislike": "Dislike", "unset": "Unset" },
 			"upload_state_messages": {
 				"missing": "Missing",
 				"pending": "Pending Approval",
-				"uploaded": {
-					"title": "Uploaded",
-					"description": "Click to View"
-				}
+				"uploaded": { "title": "Uploaded", "description": "Click to View" }
 			}
 		},
 		"faq": {
@@ -2106,10 +1975,7 @@
 		"buy_slots": "Buy Slots",
 		"buy_quiz_slots": "Buy Quiz Slots",
 		"unlimited_slots": "Unlimited",
-		"one_slot_entry": {
-			"title": "1 Slot",
-			"description": "Permanently unlock a single quiz slot"
-		},
+		"one_slot_entry": { "title": "1 Slot", "description": "Permanently unlock a single quiz slot" },
 		"unlimited_slot_entry": {
 			"title": "Unlimited",
 			"description": "Unlock unlimited slots for a one time payment",
@@ -2157,18 +2023,12 @@
 				"title": "Error Cloning Quiz",
 				"description": "An error occurred while trying to clone the quiz. Please try again later."
 			},
-			"quiz_cloned": {
-				"title": "Quiz Cloned",
-				"description": "The quiz has been successfully cloned."
-			},
+			"quiz_cloned": { "title": "Quiz Cloned", "description": "The quiz has been successfully cloned." },
 			"quiz_reported": {
 				"title": "Quiz Reported",
 				"description": "The quiz has been reported to the moderators for review."
 			},
-			"quiz_deleted": {
-				"title": "Quiz Deleted",
-				"description": "The quiz has been successfully deleted."
-			},
+			"quiz_deleted": { "title": "Quiz Deleted", "description": "The quiz has been successfully deleted." },
 			"slot_unlocked": "Quiz Slot Unlocked",
 			"unlimited_slots_unlocked": "Unlimited Quiz Slots Unlocked",
 			"no_slots_available": {
@@ -2179,11 +2039,7 @@
 				"title": "Delete Quiz",
 				"description": "Are you sure you want to permanently delete this quiz?"
 			},
-			"clone_quiz": {
-				"title": "Clone Quiz",
-				"input_text": "New Name",
-				"confirm_button": "Clone"
-			},
+			"clone_quiz": { "title": "Clone Quiz", "input_text": "New Name", "confirm_button": "Clone" },
 			"publish_quiz_confirmation": {
 				"title": "Publish Quiz",
 				"description": "Public quizzes can be played by anyone, once a quiz is public you can no longer edit or delete it.",
@@ -2214,30 +2070,20 @@
 				"title": "Publish Limit Reached",
 				"description": "You have reached the maximum number of 10 published quizzes within 24 hours, please try again later."
 			},
-			"quiz_published": {
-				"title": "Quiz Published",
-				"description": "The quiz has been successfully published."
-			}
+			"quiz_published": { "title": "Quiz Published", "description": "The quiz has been successfully published." }
 		},
 		"popovers": {
 			"share": "Share this quiz with friends",
 			"unshare": "Unshare this quiz with friends",
 			"creation_date": "Creation Date",
 			"quiz_id": "Quiz ID",
-			"recently_published": {
-				"title": "Recently Published",
-				"description": "Slot locked until: _DATE_"
-			},
+			"recently_published": { "title": "Recently Published", "description": "Slot locked until: _DATE_" },
 			"locked_slot": {
 				"title": "Locked Slot",
 				"description": "A locked slot doesn’t use an available slot, but can only be cloned or deleted. To unlock, get unlimited slots again."
 			}
 		},
-		"checkout": {
-			"unlock": "Unlock Community Quiz Slots",
-			"one_slot": "1 Slot",
-			"unlimited": "Unlimited Slots"
-		},
+		"checkout": { "unlock": "Unlock Community Quiz Slots", "one_slot": "1 Slot", "unlimited": "Unlimited Slots" },
 		"host_community_quiz": {
 			"title": "Host Community Quiz",
 			"room_type": "Room Type",
@@ -2261,23 +2107,11 @@
 				"title": "Gold Medal",
 				"description": "Got 80% correct on this quiz! Next up is diamond at 100%"
 			},
-			"diamond": {
-				"title": "Diamond Medal",
-				"description": "Got 100% correct on this quiz!"
-			}
+			"diamond": { "title": "Diamond Medal", "description": "Got 100% correct on this quiz!" }
 		},
-		"create_new_quiz_tile": {
-			"message": "Create New Quiz",
-			"title": "New Quiz"
-		},
-		"unlock_at_tile": {
-			"message": "Unlock at Level _NUMBER_",
-			"title": "Locked"
-		},
-		"shared_states": {
-			"friends": "Quiz shared with friends",
-			"public": "Public Quiz"
-		}
+		"create_new_quiz_tile": { "message": "Create New Quiz", "title": "New Quiz" },
+		"unlock_at_tile": { "message": "Unlock at Level _NUMBER_", "title": "Locked" },
+		"shared_states": { "friends": "Quiz shared with friends", "public": "Public Quiz" }
 	},
 	"community_quiz_tags": {
 		"training": "Training",
@@ -2324,21 +2158,11 @@
 			"info": "Info",
 			"show_names": {
 				"title": "Show Names",
-				"ticks": {
-					"english": "English",
-					"default": "Default",
-					"romaji": "Romaji"
-				}
+				"ticks": { "english": "English", "default": "Default", "romaji": "Romaji" }
 			},
 			"anime_link": {
 				"title": "Anime Link",
-				"ticks": {
-					"anilist": "Anilist",
-					"kitsu": "Kitsu",
-					"default": "Default",
-					"mal": "MAL",
-					"ann": "ANN"
-				}
+				"ticks": { "anilist": "Anilist", "kitsu": "Kitsu", "default": "Default", "mal": "MAL", "ann": "ANN" }
 			}
 		},
 		"song_window": {
@@ -2389,22 +2213,9 @@
 		"select_settings_to_load": "Select Settings to Load",
 		"loading_disabled": "Loading Disabled",
 		"load_from_code": "Load from Code",
-		"tabs": {
-			"quick": "Quick",
-			"advanced": "Advanced",
-			"save": "Save",
-			"load": "Load"
-		},
-		"categories": {
-			"mode": "Mode",
-			"general": "General",
-			"quiz": "Quiz",
-			"anime": "Anime"
-		},
-		"quiz_mode": {
-			"standard_quiz": "Standard Quiz",
-			"community_quiz": "Community Quiz"
-		},
+		"tabs": { "quick": "Quick", "advanced": "Advanced", "save": "Save", "load": "Load" },
+		"categories": { "mode": "Mode", "general": "General", "quiz": "Quiz", "anime": "Anime" },
+		"quiz_mode": { "standard_quiz": "Standard Quiz", "community_quiz": "Community Quiz" },
 		"buttons": {
 			"exit": "Exit",
 			"host": "Host",
@@ -2440,22 +2251,13 @@
 		"swap_button_description": "Swap between community and standard quiz",
 		"game_mode": {
 			"title": "Game Mode",
-			"standard": {
-				"title": "Standard Quiz",
-				"description": "Compete in guessing the most songs"
-			},
+			"standard": { "title": "Standard Quiz", "description": "Compete in guessing the most songs" },
 			"hint": {
 				"title": "Hint",
 				"description": "Get hints for songs, but earn fewer points when hints are used"
 			},
-			"quick_draw": {
-				"title": "Quick Draw",
-				"description": "Earn more points the quicker you guessed the song"
-			},
-			"lives": {
-				"title": "Lives",
-				"description": "Start with lives, losing one each time you miss a show"
-			},
+			"quick_draw": { "title": "Quick Draw", "description": "Earn more points the quicker you guessed the song" },
+			"lives": { "title": "Lives", "description": "Start with lives, losing one each time you miss a show" },
 			"battle_royale": {
 				"title": "Battle Royale",
 				"description": "Start in a looting phase, collecting the shows that will appear in the quiz"
@@ -2507,27 +2309,18 @@
 			"title": "Tags",
 			"description": "Tags are determined using AniList. If optional is used, at least one optional tag will be required by the anime."
 		},
-		"number_of_players": {
-			"title": "Number of Players",
-			"unlimited": "Unlimited"
-		},
+		"number_of_players": { "title": "Number of Players", "unlimited": "Unlimited" },
 		"number_of_songs": { "title": "Number of Songs" },
 		"team_size": { "title": "Team Size", "solo": "Solo" },
 		"song_pool": {
 			"title": "Song Pool",
 			"description": "The base pool of songs used for the quiz, before any other filters are applied.",
-			"all": {
-				"title": "All",
-				"description": "All songs in the AMQ database"
-			},
+			"all": { "title": "All", "description": "All songs in the AMQ database" },
 			"lists": {
 				"title": "Lists",
 				"description": "Select one or more players lists and custom lists to include or execlude songs from."
 			},
-			"community": {
-				"title": "Community",
-				"description": "All songs from a Community Quiz"
-			}
+			"community": { "title": "Community", "description": "All songs from a Community Quiz" }
 		},
 		"song_selection": {
 			"title": "Song Selection",
@@ -2554,18 +2347,9 @@
 		"song_categories": {
 			"title": "Song Categories",
 			"description": "Filter what category of songs is selected for each song type. Hover over the categories below to get a description of them.",
-			"standard": {
-				"title": "Standard",
-				"description": "Songs not in any of the other categories"
-			},
-			"chanting": {
-				"title": "Chanting",
-				"description": "Songs with chanting as the only main vocals"
-			},
-			"instrumental": {
-				"title": "Instrumental",
-				"description": "Songs without any vocals"
-			},
+			"standard": { "title": "Standard", "description": "Songs not in any of the other categories" },
+			"chanting": { "title": "Chanting", "description": "Songs with chanting as the only main vocals" },
+			"instrumental": { "title": "Instrumental", "description": "Songs without any vocals" },
 			"character": {
 				"title": "Character",
 				"description": "Songs sung by characters without being part of a musical performance"
@@ -2577,18 +2361,12 @@
 		},
 		"scoring": {
 			"title": "Scoring",
-			"count": {
-				"title": "Count",
-				"description": "Players earn 1 point for each show they guess correctly"
-			},
+			"count": { "title": "Count", "description": "Players earn 1 point for each show they guess correctly" },
 			"hint": {
 				"title": "Hint",
 				"description": "Players can get hints for songs, but earn fewer points when hints are used."
 			},
-			"speed": {
-				"title": "Speed",
-				"description": "Players earn more points the quicker they guessed the song"
-			},
+			"speed": { "title": "Speed", "description": "Players earn more points the quicker they guessed the song" },
 			"lives": {
 				"title": "Lives",
 				"description": "Players start with a set amount of lives, and lose 1 each time they get a song wrong another player guessed"
@@ -2601,10 +2379,7 @@
 		"show_selection": {
 			"title": "Show Selection",
 			"description": "How shows are selected for the quiz",
-			"auto": {
-				"title": "Auto",
-				"description": "Game randomly picks shows from within the settings"
-			},
+			"auto": { "title": "Auto", "description": "Game randomly picks shows from within the settings" },
 			"looting": {
 				"title": "Looting",
 				"description": "Play a looting phase before the quiz, where players move around collecting the shows used for the quiz"
@@ -2630,10 +2405,7 @@
 			"title": "Guess Mode",
 			"description": "The type of song or video played during the guessing phase.",
 			"one_must_be_selected": "At least one guess mode must be selected",
-			"music": {
-				"title": "Song",
-				"description": "Play the song during the guessing phase"
-			},
+			"music": { "title": "Song", "description": "Play the song during the guessing phase" },
 			"tiny_video": {
 				"title": "Tiny Video",
 				"description": "Play a tiny section of the video during the guessing phase."
@@ -2643,10 +2415,7 @@
 				"description": "Play the video with a heavy blur effect during the guessing phase."
 			}
 		},
-		"lives": {
-			"title": "Lives",
-			"description": "The amount of lives players start with."
-		},
+		"lives": { "title": "Lives", "description": "The amount of lives players start with." },
 		"hint": {
 			"cost": "Cost",
 			"song_points": {
@@ -2660,10 +2429,7 @@
 			"tiny_video_hint": "Tiny Video Hint",
 			"blur_video_hint": "Blur Video Hint"
 		},
-		"boss_lives": {
-			"title": "Boss Lives",
-			"description": "The amount of lives boss players start with."
-		},
+		"boss_lives": { "title": "Boss Lives", "description": "The amount of lives boss players start with." },
 		"boss_power_ups": {
 			"title": "Boss Power-ups",
 			"description": "The amount of different power-ups the boss players can use."
@@ -2707,10 +2473,7 @@
 			"end": "End",
 			"percent_range_display": "_NUMBER_%-_NUMBER2_% Into Song"
 		},
-		"playback_speed": {
-			"title": "Playback Speed",
-			"description": "The speed songs are played at"
-		},
+		"playback_speed": { "title": "Playback Speed", "description": "The speed songs are played at" },
 		"song_difficulty": {
 			"title": "Song Difficulty",
 			"description": "Difficulty of songs selected",
@@ -2735,18 +2498,9 @@
 		},
 		"modifiers": {
 			"title": "Modifiers",
-			"skip_guessing": {
-				"title": "Skip Guessing",
-				"description": "Allow voting skip during the guessing phase"
-			},
-			"skip_results": {
-				"title": "Skip Results",
-				"description": "Allow voting skip during the results phase"
-			},
-			"queueing": {
-				"title": "Queueing",
-				"description": "Allow spectators to queue up for joining the game"
-			},
+			"skip_guessing": { "title": "Skip Guessing", "description": "Allow voting skip during the guessing phase" },
+			"skip_results": { "title": "Skip Results", "description": "Allow voting skip during the results phase" },
+			"queueing": { "title": "Queueing", "description": "Allow spectators to queue up for joining the game" },
 			"duplicate_shows": {
 				"title": "Duplicate Shows",
 				"description": "Allow shows to have multiple of their songs selected in the same game"
@@ -2763,16 +2517,9 @@
 				"title": "Full Song Range",
 				"description": "Allow songs to play up to the very ending of the song, can cause silence while answers are revealed"
 			},
-			"quiz_join": {
-				"title": "Quiz Join",
-				"description": "Allow players to join after the quiz has started"
-			}
+			"quiz_join": { "title": "Quiz Join", "description": "Allow players to join after the quiz has started" }
 		},
-		"filter_types": {
-			"include": "Include",
-			"exclude": "Exclude",
-			"optional": "Optional"
-		},
+		"filter_types": { "include": "Include", "exclude": "Exclude", "optional": "Optional" },
 		"alerts": {
 			"room_name_missing": "Room name is required",
 			"room_name_too_long": {
@@ -2811,14 +2558,8 @@
 			"name_too_long": "Name must be at most _NUMBER_ characters",
 			"max_saved_settings": "Max number of _NUMBER_ saved settings reached"
 		},
-		"delete_saved_setting": {
-			"title": "Delete Saved Setting",
-			"confirm_button": "Delete"
-		},
-		"get_code": {
-			"title": "Get Code for Settings",
-			"setting_code": "Setting Code"
-		}
+		"delete_saved_setting": { "title": "Delete Saved Setting", "confirm_button": "Delete" },
+		"get_code": { "title": "Get Code for Settings", "setting_code": "Setting Code" }
 	},
 	"room_browser": {
 		"filters": {
@@ -2829,22 +2570,9 @@
 				"open": "Open",
 				"friends": "Friends"
 			},
-			"show_selection": {
-				"title": "Show Selection",
-				"auto": "Auto",
-				"looting": "Looting"
-			},
-			"answering_mode": {
-				"title": "Answering Mode",
-				"typing": "Typing",
-				"multiple_choice": "Multiple Choice"
-			},
-			"song_type": {
-				"title": "Song Types",
-				"openings": "Openings",
-				"endings": "Endings",
-				"inserts": "Inserts"
-			},
+			"show_selection": { "title": "Show Selection", "auto": "Auto", "looting": "Looting" },
+			"answering_mode": { "title": "Answering Mode", "typing": "Typing", "multiple_choice": "Multiple Choice" },
+			"song_type": { "title": "Song Types", "openings": "Openings", "endings": "Endings", "inserts": "Inserts" },
 			"search_placeholder": "Search rooms",
 			"song_selection": {
 				"title": "Song Selection",
@@ -2899,11 +2627,7 @@
 				"song_types": "Song Types",
 				"friends": "Friends"
 			},
-			"song_types": {
-				"opening": "Opening",
-				"ending": "Ending",
-				"insert": "Insert"
-			},
+			"song_types": { "opening": "Opening", "ending": "Ending", "insert": "Insert" },
 			"join": "Join",
 			"spectate": "Spectate",
 			"game_mode": {
@@ -2916,12 +2640,7 @@
 				"amq_awards": "AMQ Awards",
 				"standard": "Standard"
 			},
-			"song_selection": {
-				"random": "Random",
-				"mix": "Mix",
-				"watched": "Watched",
-				"custom": "Custom"
-			},
+			"song_selection": { "random": "Random", "mix": "Mix", "watched": "Watched", "custom": "Custom" },
 			"room_closed": "Room Closed",
 			"password": {
 				"title": "Password Required",
@@ -2945,11 +2664,7 @@
 			},
 			"room_settings": {
 				"type": { "endless": "Endless", "standard": "Standard" },
-				"song_type": {
-					"opening": "OP",
-					"ending": "ED",
-					"insert": "IN"
-				},
+				"song_type": { "opening": "OP", "ending": "ED", "insert": "IN" },
 				"difficulty": {
 					"beginner": "Beginner",
 					"easy": "Easy",
@@ -2958,10 +2673,7 @@
 					"expert": "Expert"
 				},
 				"song_selection": { "watched": "Watched", "random": "Random" },
-				"answering_mode": {
-					"typing": "Typing",
-					"multiple_choice": "Multiple Choice"
-				},
+				"answering_mode": { "typing": "Typing", "multiple_choice": "Multiple Choice" },
 				"floor": "Floor _NUMBER_"
 			}
 		}
@@ -2990,14 +2702,29 @@
 		"sample_selector": { "start": "Start", "end": "End" },
 		"save_window": {
 			"title": "Save Quiz",
-			"description": {
-				"title": "Description",
-				"placeholder": "Enter a description for your quiz"
-			},
+			"description": { "title": "Description", "placeholder": "Enter a description for your quiz" },
 			"tags": "Tags",
 			"tags_max_warning": "Max 2 tags allowed",
 			"save_button": "Save",
 			"saving": "Saving"
+		},
+		"title_block": { "title": "Title", "placeholder": "Title - Leave blank to remove title" },
+		"message_block": {
+			"placeholder": "Message - Leave blank to only display avatar",
+			"select_avatar": "Select Avatar",
+			"change_avatar": "Change Avatar",
+			"delay": "Delay",
+			"delay_description": "Time before the message is displayed in seconds after being triggered",
+			"time": "Time",
+			"time_description": "Time the message is displayed in seconds before moving on to the next block"
+		},
+		"message_avatar_selector": {
+			"title": "Select Avatar",
+			"steps": { "avatar": "Avatar", "skin": "Skin", "version": "Version", "pose": "Pose" },
+			"buttons": {
+				"clear_selection": "Clear Selection",
+				"select": "Select"
+			}
 		},
 		"algorithm_block": {
 			"song_type": { "opening": "OP", "ending": "ED", "insert": "IN" },
@@ -3014,19 +2741,10 @@
 				"tag_count": "Number of selected tags",
 				"song_types": "Song Types"
 			},
-			"song_selection": {
-				"watched": "Watched",
-				"unwatched": "Unwatched",
-				"random": "Random",
-				"mixed": "Mixed"
-			}
+			"song_selection": { "watched": "Watched", "unwatched": "Unwatched", "random": "Random", "mixed": "Mixed" }
 		},
 		"anime_block": {
-			"song_type": {
-				"opening": "OP _NUMBER_",
-				"ending": "ED _NUMBER_",
-				"insert": "IN _NUMBER_"
-			},
+			"song_type": { "opening": "OP _NUMBER_", "ending": "ED _NUMBER_", "insert": "IN _NUMBER_" },
 			"number_of_songs_selected": {
 				"description": "Number of Songs Selected from this Anime Block",
 				"label": "Song Count"
@@ -3058,10 +2776,7 @@
 				"random": "Random",
 				"sequential": "Sequential"
 			},
-			"song_count": {
-				"description": "Number of songs to select from this block",
-				"label": "Song Count"
-			},
+			"song_count": { "description": "Number of songs to select from this block", "label": "Song Count" },
 			"guess_mode": {
 				"one_selected_alert": {
 					"title": "At Least One Guess Mode Required",
@@ -3074,16 +2789,9 @@
 		},
 		"song_block": {
 			"song_by_artist": "_SPANC_ _NAME_ _SPANC_ by _SPANC2_ _NAME2_ _SPANC2_",
-			"song_types": {
-				"opening": "OP_NUMBER_",
-				"ending": "ED_NUMBER_",
-				"insert": "IN"
-			}
+			"song_types": { "opening": "OP_NUMBER_", "ending": "ED_NUMBER_", "insert": "IN" }
 		},
-		"no_songs_warning": {
-			"title": "No Songs in Block",
-			"description": "No songs found in this block"
-		},
+		"no_songs_warning": { "title": "No Songs in Block", "description": "No songs found in this block" },
 		"rule_labels": {
 			"guess_time": "Guess Time",
 			"extra_guess_time": "Extra Guess Time",
@@ -3220,11 +2928,7 @@
 		"host": "Host",
 		"team_unset": "Unset",
 		"ping_ready_up": "Ping unready players to ready up",
-		"join_themed_team": {
-			"title": "Join Team",
-			"placeholder": "Enter a team code",
-			"join_button": "Join"
-		},
+		"join_themed_team": { "title": "Join Team", "placeholder": "Enter a team code", "join_button": "Join" },
 		"main_button": {
 			"start": "Start",
 			"join": "Join",
@@ -3235,9 +2939,7 @@
 			"starts_in": "Starts In",
 			"starting_soon": "Starting Soon"
 		},
-		"blocked_join_messages": {
-			"ranked_championship": "Only top 150 players in the region can join"
-		},
+		"blocked_join_messages": { "ranked_championship": "Only top 150 players in the region can join" },
 		"community_quiz": {
 			"click_to_select": "Click here to Select a Quiz",
 			"click_to_change": "Selected Community Quiz _BREAK_ Click to Change",
@@ -3354,11 +3056,7 @@
 			"host_afk": "Host AFK",
 			"no_players": "No Players"
 		},
-		"mode_ids": {
-			"ranked": "#Ranked",
-			"themed": "#Themed",
-			"event": "#Event"
-		},
+		"mode_ids": { "ranked": "#Ranked", "themed": "#Themed", "event": "#Event" },
 		"too_many_custom_settings": {
 			"title": "Too Many Custom Settings",
 			"description": "Too many custom settings, try removing some tags and/or custom vintages"
@@ -3412,46 +3110,13 @@
 				"only_watched": "Only Watched"
 			},
 			"show_selection": { "auto": "Auto", "looting": "Looting" },
-			"answering_mode": {
-				"typing": "Typing",
-				"multiple_choice": "Multiple Choice",
-				"mix": "Mix"
-			},
-			"guess_mode": {
-				"music": "Music",
-				"tiny_video": "Tiny Video",
-				"blur_video": "Blur Video"
-			},
-			"watched_distribution": {
-				"random": "Random",
-				"weighted": "Weighted",
-				"equal": "Equal"
-			},
-			"sample_point": {
-				"start": "Start",
-				"middle": "Middle",
-				"end": "End",
-				"random": "Random"
-			},
-			"score_type": {
-				"count": "Count",
-				"speed": "Speed",
-				"hint": "Hint",
-				"lives": "Lives",
-				"boss": "Boss"
-			},
-			"song_type": {
-				"openings": "Openings",
-				"endings": "Endings",
-				"inserts": "Inserts",
-				"random": "Random"
-			},
-			"vintage_seasons": {
-				"winter": "Winter",
-				"spring": "Spring",
-				"summer": "Summer",
-				"fall": "Fall"
-			},
+			"answering_mode": { "typing": "Typing", "multiple_choice": "Multiple Choice", "mix": "Mix" },
+			"guess_mode": { "music": "Music", "tiny_video": "Tiny Video", "blur_video": "Blur Video" },
+			"watched_distribution": { "random": "Random", "weighted": "Weighted", "equal": "Equal" },
+			"sample_point": { "start": "Start", "middle": "Middle", "end": "End", "random": "Random" },
+			"score_type": { "count": "Count", "speed": "Speed", "hint": "Hint", "lives": "Lives", "boss": "Boss" },
+			"song_type": { "openings": "Openings", "endings": "Endings", "inserts": "Inserts", "random": "Random" },
+			"vintage_seasons": { "winter": "Winter", "spring": "Spring", "summer": "Summer", "fall": "Fall" },
 			"song_pool": {
 				"custom_list": "Custom List",
 				"player_list": "Player's List",
@@ -3604,14 +3269,8 @@
 			"unpause": "Unpause the game"
 		},
 		"anime_name_placeholder": "Anime Name",
-		"anime_names": {
-			"alternative_names": "Alternative Names",
-			"alternative_answers": "Alternative Answers"
-		},
-		"late_join_full": {
-			"title": "Quiz Full",
-			"description": "Not able to join the quiz."
-		},
+		"anime_names": { "alternative_names": "Alternative Names", "alternative_answers": "Alternative Answers" },
+		"late_join_full": { "title": "Quiz Full", "description": "Not able to join the quiz." },
 		"avatar": {
 			"loot": "Loot",
 			"host": "Host",
@@ -3683,11 +3342,7 @@
 				"dub": "(Dub)",
 				"type_text": "_NAME_ _DESCRIPTION_"
 			},
-			"custom_list": {
-				"title": "Add to Custom List",
-				"add_anime": "Add anime",
-				"add_song": "Add song"
-			}
+			"custom_list": { "title": "Add to Custom List", "add_anime": "Add anime", "add_song": "Add song" }
 		},
 		"standings": {
 			"title": "Standings",
@@ -3704,10 +3359,7 @@
 		},
 		"video_player": {
 			"sound_only": "Sound Only",
-			"video_hidden": {
-				"title": "Video Hidden",
-				"click_to_reveal": "Click to Reveal"
-			},
+			"video_hidden": { "title": "Video Hidden", "click_to_reveal": "Click to Reveal" },
 			"click_to_hide_video": "Click to Hide Video",
 			"loading": "Loading",
 			"answers": "Answers",
@@ -3718,30 +3370,12 @@
 			"hints": {
 				"title": "Hints",
 				"point_value": "The point value of the current song",
-				"name": {
-					"title": "Name",
-					"description": "Reveal the length of the answer, and 4 of its characters"
-				},
-				"info": {
-					"title": "Info",
-					"description": "Reveal some of the song info for this song"
-				},
-				"multiple_choice": {
-					"title": "MC",
-					"description": "Get multiple choice options for this song"
-				},
-				"tiny_video": {
-					"title": "Tiny",
-					"description": "Reveal a tiny version of the video for this song"
-				},
-				"blur_video": {
-					"title": "Blur",
-					"description": "Reveal a blurred version of the video for this song"
-				},
-				"audio": {
-					"title": "Audio",
-					"description": "Enable the audio for this song"
-				},
+				"name": { "title": "Name", "description": "Reveal the length of the answer, and 4 of its characters" },
+				"info": { "title": "Info", "description": "Reveal some of the song info for this song" },
+				"multiple_choice": { "title": "MC", "description": "Get multiple choice options for this song" },
+				"tiny_video": { "title": "Tiny", "description": "Reveal a tiny version of the video for this song" },
+				"blur_video": { "title": "Blur", "description": "Reveal a blurred version of the video for this song" },
+				"audio": { "title": "Audio", "description": "Enable the audio for this song" },
 				"hint_popover": "_DESCRIPTION_ - Point cost: _NUMBER_"
 			},
 			"skip_messages": {
@@ -3802,14 +3436,8 @@
 					"title": "Peek Answers",
 					"description": "Reveal the answers already submitted by other players"
 				},
-				"more_time": {
-					"title": "More Time",
-					"description": "Increase guessing time by 10 seconds"
-				},
-				"end_guessing": {
-					"title": "End Guessing",
-					"description": "End the guessing phase immediately"
-				},
+				"more_time": { "title": "More Time", "description": "Increase guessing time by 10 seconds" },
+				"end_guessing": { "title": "End Guessing", "description": "End the guessing phase immediately" },
 				"multiple_choice": {
 					"title": "Multiple Choice",
 					"description": "Get multiple choice answers for the current song"
@@ -3817,10 +3445,7 @@
 			}
 		},
 		"alerts": {
-			"fatal_error": {
-				"title": "Fatal Server Error During Quiz",
-				"description": "Returning to lobby"
-			},
+			"fatal_error": { "title": "Fatal Server Error During Quiz", "description": "Returning to lobby" },
 			"joining_game": {
 				"title": "Joining Game",
 				"description": "You will be added to the game during the next result phase"
@@ -3851,10 +3476,7 @@
 			"join_lobby_instruction": "Lobby can be joined from the main menu"
 		},
 		"championship_winner_message": {
-			"solo": {
-				"title": "New _NAME_ Region Champion Found!",
-				"message": "_NAME_ is the new champion!"
-			},
+			"solo": { "title": "New _NAME_ Region Champion Found!", "message": "_NAME_ is the new champion!" },
 			"multiple": {
 				"title": "New _NAME_ Region Champions Found!",
 				"message": "_NAMELIST_ are the new champions!"
@@ -3869,12 +3491,7 @@
 			"dungeon": {
 				"title": "Dungeon",
 				"co_op_save_created": "Created",
-				"tabs": {
-					"mode": "Mode",
-					"co_op_saves": "Co-Op Saves",
-					"lobby": "Lobby",
-					"avatars": "Avatars"
-				},
+				"tabs": { "mode": "Mode", "co_op_saves": "Co-Op Saves", "lobby": "Lobby", "avatars": "Avatars" },
 				"mode": {
 					"standard": "Standard",
 					"standard_description": "Clear a single floor of the dungeon, powering up your team as you progress, before challenging the boss at the end.",
@@ -3979,10 +3596,7 @@
 						"title": "No Avatar Badges Unlocked",
 						"description": "Unlock avatar badges by leveling up avatars, and use them to power up other avatars"
 					},
-					"leave_lobby_alert": {
-						"title": "Leave Dungeon Lobby?",
-						"leave_button": "Leave"
-					},
+					"leave_lobby_alert": { "title": "Leave Dungeon Lobby?", "leave_button": "Leave" },
 					"start_alerts": {
 						"at_least_one_song_type": "At Least One Song Type Must be Selected",
 						"at_least_one_difficulty": "At Least One Difficulty Must be Selected",
@@ -4081,10 +3695,7 @@
 						"description": "Rune page has unsaved changes, discard changes?",
 						"discard_button": "Leave"
 					},
-					"destroy_rune": {
-						"title": "Destroy Rune?",
-						"destroy_button": "Destroy"
-					},
+					"destroy_rune": { "title": "Destroy Rune?", "destroy_button": "Destroy" },
 					"tooltips": {
 						"all_slots_in_use": "All rune slots in use, level up avatar to unlock more",
 						"no_rune_selected": "No rune selected. Select the rune you want to equip above.",
@@ -4122,12 +3733,7 @@
 				"character_already_in_party": "Character Already in Party",
 				"clear": "Clear"
 			},
-			"building_names": {
-				"dungeon": "Dungeon",
-				"inn": "Inn",
-				"workshop": "Workshop",
-				"locked": "Locked"
-			}
+			"building_names": { "dungeon": "Dungeon", "inn": "Inn", "workshop": "Workshop", "locked": "Locked" }
 		},
 		"dungeon": {
 			"exit_button": "Exit",
@@ -4164,16 +3770,9 @@
 				"runes": "Runes",
 				"no_drops": "No Drops",
 				"select_avatar": "Select Avatar",
-				"skip_artifact": {
-					"text": "Skip Artifact?",
-					"skip_button": "Skip"
-				}
+				"skip_artifact": { "text": "Skip Artifact?", "skip_button": "Skip" }
 			},
-			"abandon_run_vote": {
-				"title": "Abandon Run?",
-				"yes_button": "Yes",
-				"no_button": "No"
-			},
+			"abandon_run_vote": { "title": "Abandon Run?", "yes_button": "Yes", "no_button": "No" },
 			"event_window": { "title": "Event", "volume": "Volume" },
 			"store_window": {
 				"title": "Store",
@@ -4194,10 +3793,7 @@
 				"level_number": "Level _SPANC_ _NUMBER_ _SPANC_",
 				"party_wipe": "Party Wipe",
 				"floor_cleared": "Floor Cleared",
-				"xp_reward_types": {
-					"combat": "Combat",
-					"clear": "Floor Clear"
-				},
+				"xp_reward_types": { "combat": "Combat", "clear": "Floor Clear" },
 				"unlocks": {
 					"ability_level": "Ability Up",
 					"badge": "Badge",
@@ -4232,22 +3828,13 @@
 			"weak": "Weak",
 			"rune_buffs": "Rune Buffs",
 			"stats": {
-				"constitution": {
-					"title": "Constitution",
-					"description": "Increase max health"
-				},
-				"defence": {
-					"title": "Defence",
-					"description": "Reduce damage taken from attacks"
-				},
+				"constitution": { "title": "Constitution", "description": "Increase max health" },
+				"defence": { "title": "Defence", "description": "Reduce damage taken from attacks" },
 				"dodge": {
 					"title": "Dodge",
 					"description": "Increase chance to dodge attacks, halving the damage taken and gaining a random buff"
 				},
-				"attack": {
-					"title": "Attack",
-					"description": "Increase attack damage"
-				},
+				"attack": { "title": "Attack", "description": "Increase attack damage" },
 				"accuracy": {
 					"title": "Accuracy",
 					"description": "Increase chance to crit, dealing 50% extra damage and inflicting a random debuff"
@@ -4256,11 +3843,7 @@
 		},
 		"rune": {
 			"type": { "standard": "Standard", "advanced": "Advanced" },
-			"category": {
-				"offensive": "Offensive",
-				"defensive": "Defensive",
-				"any": "Any"
-			}
+			"category": { "offensive": "Offensive", "defensive": "Defensive", "any": "Any" }
 		},
 		"hover_display_commons": {
 			"cooldown": "Cooldown",
@@ -4290,10 +3873,7 @@
 			"profile": "Profile",
 			"promote_to_host": "Promote to Host",
 			"kick": "Kick",
-			"promote_host": {
-				"title": "Promote _NAME_ to Host?",
-				"promote_button": "Promote"
-			},
+			"promote_host": { "title": "Promote _NAME_ to Host?", "promote_button": "Promote" },
 			"kick_player": {
 				"title": "Kick _NAME_ from Lobby?",
 				"description": "They won't be able to join again",
@@ -4332,9 +3912,7 @@
 				"message_five": "Now she has a bunch of buffs! You can hover over the icons to see what they do!",
 				"message_six": "Now we have to answer the quiz! Hint: This is the correct answer!"
 			},
-			"post_attack": {
-				"message_one": "Great hit! Now, let's see what happens if you answer incorrectly!"
-			},
+			"post_attack": { "message_one": "Great hit! Now, let's see what happens if you answer incorrectly!" },
 			"post_damage": {
 				"message_one": "When you guess wrong the enemies' attack counters go down, one more wrong answer and they'll attack!",
 				"message_two": "Noel has low defense so we have to defend her! Luckily, Yumemi is the turn character, so we can swap her in by doing a target swap with Noel!",
@@ -4420,10 +3998,7 @@
 				"title": "Bounty Bracelet",
 				"description": "Combat victories rewards additional fragments"
 			},
-			"charge_staff": {
-				"title": "Charge Staff",
-				"description": "Landing 2 attacks in a row gives a shield"
-			},
+			"charge_staff": { "title": "Charge Staff", "description": "Landing 2 attacks in a row gives a shield" },
 			"comfy_scarf": {
 				"title": "Comfy Scarf",
 				"description": "Counter the first common debuff received in combat"
@@ -4436,10 +4011,7 @@
 				"title": "Corruption Seal",
 				"description": "Reduce damage taken from debuffed enemies by 30%"
 			},
-			"cross_shield": {
-				"title": "Cross Shield",
-				"description": "Gain a small shield after moving"
-			},
+			"cross_shield": { "title": "Cross Shield", "description": "Gain a small shield after moving" },
 			"dark_nights_imitation": {
 				"title": "Dark Night's Imitation",
 				"description": "Gain a shield at the start of combat"
@@ -4468,22 +4040,13 @@
 				"title": "Mystery Food",
 				"description": "When inflicting a debuff, apply another random debuff to the target"
 			},
-			"noble_favour": {
-				"title": "Noble Favour",
-				"description": "Gain 150 fragments on pick-up"
-			},
+			"noble_favour": { "title": "Noble Favour", "description": "Gain 150 fragments on pick-up" },
 			"pipe_of_the_golden_fairy": {
 				"title": "Pipe of the Golden Fairy",
 				"description": "Deals 50% more damage when attacking debuffed enemies"
 			},
-			"ruler_piece": {
-				"title": "Ruler Piece",
-				"description": "Gain a random buff when ability is used"
-			},
-			"sealed_watch": {
-				"title": "Sealed Watch",
-				"description": "Reduce cooldown of avatar ability by 2 turns"
-			},
+			"ruler_piece": { "title": "Ruler Piece", "description": "Gain a random buff when ability is used" },
+			"sealed_watch": { "title": "Sealed Watch", "description": "Reduce cooldown of avatar ability by 2 turns" },
 			"song_euphonium": {
 				"title": "Song Euphonium",
 				"description": "Increase the chance of getting targeted by enemy attacks"
@@ -4500,10 +4063,7 @@
 				"title": "Stealth Bunny Hat",
 				"description": "Reduce the chance of getting targeted by enemy attacks"
 			},
-			"stone_mask": {
-				"title": "Stone Mask",
-				"description": "Heal a small amount when landing a killing blow"
-			},
+			"stone_mask": { "title": "Stone Mask", "description": "Heal a small amount when landing a killing blow" },
 			"sugoi_bun": {
 				"title": "Sugoi Bun",
 				"description": "Heal a small amount at the end of combat if below 50% hp"
@@ -4534,10 +4094,7 @@
 				"title": "Enemy Turf",
 				"base": {
 					"text": "A sketchy man, in a purple suit and green hair styled over his head, greets the party as they enter the room. _BREAK_ “Hey, you can’t just pass through here, this is my turf. I can make an exception if you leave all your _HIGHLIGHT2_ fragments _HIGHLIGHT2_, else you’ll _HIGHLIGHT_ have to take it up with the boys _HIGHLIGHT_”. _BREAK_ The man signals towards _HIGHLIGHT_ 4 enemy cores _HIGHLIGHT_ floating next to him.",
-					"options": {
-						"pay": "Pay _NUMBER_ fragments",
-						"ignore": "Ignore the warning"
-					}
+					"options": { "pay": "Pay _NUMBER_ fragments", "ignore": "Ignore the warning" }
 				},
 				"pay": {
 					"text": "The man grabs the fragments as you throw them to him. _BREAK_ “Pleasure doing business”"
@@ -4551,10 +4108,7 @@
 					"title": "Gift Game - Genre",
 					"base": {
 						"text": "As the party enters the room, they are greeted by a blue haired bunny girl. _BREAK_ “Greetings players, you have been invited to _HIGHLIGHT_ partake in a simple genre quiz game _HIGHLIGHT_ by our benevolent host. _BREAK_ “You’ll earn _HIGHLIGHT2_ fragments _HIGHLIGHT2_ for each _HIGHLIGHT_ correct guess _HIGHLIGHT_, but if you _HIGHLIGHT_ get one wrong _HIGHLIGHT_, you'll have to _HIGHLIGHT_ leave without any prize _HIGHLIGHT_. _HIGHLIGHT_ Guess all 5 _HIGHLIGHT_ questions and you’ll also _HIGHLIGHT_ win the grand prize _HIGHLIGHT_ of _ARTIFACT_.”",
-						"options": {
-							"accept": "Accept the invitation",
-							"decline": "Decline the invitation"
-						}
+						"options": { "accept": "Accept the invitation", "decline": "Decline the invitation" }
 					},
 					"accept": {
 						"text": "The bunny pulls out a stack of cards. _BREAK_ “Each of these cards have the name of an _HIGHLIGHT_ anime and 4 genres _HIGHLIGHT_. Once I flip the card, _HIGHLIGHT_ you'll have 10 seconds _HIGHLIGHT_ to guess which _HIGHLIGHT_ genre belongs to the anime _HIGHLIGHT_.”",
@@ -4574,10 +4128,7 @@
 					"title": "Gift Game - Song Type",
 					"base": {
 						"text": "As the party enter the room, they are greeted by a blue haired bunny girl. _BREAK_ “Greetings players, you have been invited to _HIGHLIGHT_ partake in a simple song type quiz game _HIGHLIGHT_ by our benevolent host. _BREAK_ “You’ll earn _HIGHLIGHT2_ fragments _HIGHLIGHT2_ for each _HIGHLIGHT_ correct guess _HIGHLIGHT_, but if you get one wrong, you'll have to _HIGHLIGHT_ leave without any prize _HIGHLIGHT_. _HIGHLIGHT_ Guess all 5 _HIGHLIGHT_ questions and you’ll also _HIGHLIGHT_ win the grand prize _HIGHLIGHT_ of _ARTIFACT_.”",
-						"options": {
-							"accept": "Accept the invitation",
-							"decline": "Decline the invitation"
-						}
+						"options": { "accept": "Accept the invitation", "decline": "Decline the invitation" }
 					},
 					"accept": {
 						"text": "The bunny pulls out a small buzzer. _BREAK_ “When I click the buzzer _HIGHLIGHT_ a song will start playing _HIGHLIGHT_, and you’ll have _HIGHLIGHT_ 15 seconds to guess _HIGHLIGHT_ if it’s an _HIGHLIGHT_ opening, ending or insert song _HIGHLIGHT_. _BREAK_ “Just give me a second to get everything ready”",
@@ -4585,18 +4136,11 @@
 					},
 					"question": {
 						"text": "Which song type is this?",
-						"options": {
-							"opening": "Opening",
-							"ending": "Ending",
-							"insert_song": "Insert Song"
-						}
+						"options": { "opening": "Opening", "ending": "Ending", "insert_song": "Insert Song" }
 					},
 					"correct": {
 						"text": "“You are _HIGHLIGHT_ correct! _HIGHLIGHT_ The song was _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ from _HIGHLIGHT_ _NAME2_ _HIGHLIGHT_. And with that, _HIGHLIGHT_ your current winnings are at _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_ _HIGHLIGHT_. _BREAK_ Would you like to continue to the next question, or cash out?”",
-						"options": {
-							"next_question": "Next Question",
-							"cash_out": "Cash Out"
-						}
+						"options": { "next_question": "Next Question", "cash_out": "Cash Out" }
 					},
 					"all_correct": {
 						"text": "“Amazing, you managed to _HIGHLIGHT_ guess all 5 correct _HIGHLIGHT_! The final song was _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ from _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. I'm happy to reward you not only the _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but the _ARTIFACT_ as well!”, the bunny says before cheerfully handing over the rewards. _BREAK_ “Congrats on winning the quiz, I hope you'll play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
@@ -4612,20 +4156,13 @@
 						"ending": "Ending _NUMBEREXTRA_",
 						"insert_song": "Insert Song"
 					},
-					"type": {
-						"opening": "Opening",
-						"ending": "Ending",
-						"insert_song": "Insert Song"
-					}
+					"type": { "opening": "Opening", "ending": "Ending", "insert_song": "Insert Song" }
 				},
 				"tiny_opening": {
 					"title": "Gift Game - Tiny Opening",
 					"base": {
 						"text": "As the party enter the room, they are greeted by a blue haired bunny girl. _BREAK_ “Greetings players, you have been invited to _HIGHLIGHT_ partake in a simple video quiz game _HIGHLIGHT_ by our benevolent host. “You’ll earn _HIGHLIGHT2_ fragments _HIGHLIGHT2_ for each _HIGHLIGHT_ correct guess _HIGHLIGHT_, but if you _HIGHLIGHT_ get one wrong _HIGHLIGHT_, you'll have to _HIGHLIGHT_ leave without any prize _HIGHLIGHT_. _HIGHLIGHT_ Guess all 5 questions _HIGHLIGHT_ and you’ll also _HIGHLIGHT_ win the grand prize _HIGHLIGHT_ of _ARTIFACT_.”",
-						"options": {
-							"accept": "Accept the invitation",
-							"decline": "Decline the invitation"
-						}
+						"options": { "accept": "Accept the invitation", "decline": "Decline the invitation" }
 					},
 					"accept": {
 						"text": "The bunny pulls out a small buzzer. _BREAK_ “When I click the buzzer, _HIGHLIGHT_ a small frame of an anime opening will play _HIGHLIGHT_, and you’ll have _HIGHLIGHT_ 10 seconds to select the correct show _HIGHLIGHT_ from the provided choices. _BREAK_ “Just give me a second to get everything ready”",
@@ -4634,10 +4171,7 @@
 					"question": { "text": "What show is this?" },
 					"correct": {
 						"text": "“_HIGHLIGHT_ You are correct! _HIGHLIGHT_ The video was Opening _NUMBER_ from _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. And with that, your current winnings are at _NUMBER2_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_. _BREAK_ Would you like to _HIGHLIGHT_ continue to the next question, or cash out? _HIGHLIGHT_”",
-						"options": {
-							"next_question": "Next Question",
-							"cash_out": "Cash Out"
-						}
+						"options": { "next_question": "Next Question", "cash_out": "Cash Out" }
 					},
 					"all_correct": {
 						"text": "“Amazing, you managed to _HIGHLIGHT_ guess all 5 correct _HIGHLIGHT_! The final video was _HIGHLIGHT2_ Opening _NUMBER_ _HIGHLIGHT2_ from _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. I'm happy to reward you not only the _NUMBER2_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but the _ARTIFACT_ as well!”, the bunny says before cheerfully handing over the rewards. _BREAK_ “Congrats on winning the quiz, I hope you'll play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
@@ -4657,10 +4191,7 @@
 				},
 				"correct_guess": {
 					"text": "“You are _HIGHLIGHT_ correct! _HIGHLIGHT_ And with that, _HIGHLIGHT_ your current winnings are at _NUMBER_ _HIGHLIGHT_ _HIGHLIGHT2_ fragments. _HIGHLIGHT2_ _BREAK_ Would you like to continue to the next question, or cash out?”",
-					"options": {
-						"next_question": "Next Question",
-						"cash_out": "Cash Out"
-					}
+					"options": { "next_question": "Next Question", "cash_out": "Cash Out" }
 				},
 				"win": {
 					"text": "“Amazing, you _HIGHLIGHT_ managed to guess all 5 _HIGHLIGHT_ correct! I'm happy to reward you not only the _NUMBER_ _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but the _ARTIFACT_ as well!”, the bunny says before cheerfully handing over the rewards. _BREAK_ “Congrats on winning the quiz, I hope you'll play again in the future.” _BREAK_ The bunny bows to the party, and signals them to continue through the room."
@@ -4685,21 +4216,14 @@
 				},
 				"result": {
 					"text": "With a decisive strike, _NAME_ manages to grab the _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_, just as it was about to change. Luckily, it doesn't appear to be changing anymore",
-					"target_type": {
-						"fragments": "fragments",
-						"artifact": "artifact",
-						"rune": "rune"
-					}
+					"target_type": { "fragments": "fragments", "artifact": "artifact", "rune": "rune" }
 				}
 			},
 			"mystery_container": {
 				"title": "Mystery Container",
 				"base": {
 					"text": "A strange container sits at the center of the room. As the party gets closer, they see it's _HIGHLIGHT_ filled with glitching items _HIGHLIGHT_, changing at random into everything from _HIGHLIGHT2_ knives _HIGHLIGHT2_ and _HIGHLIGHT2_ burning embers _HIGHLIGHT2_ to _HIGHLIGHT2_ flowers _HIGHLIGHT2_ and _HIGHLIGHT2_ plush animals _HIGHLIGHT2_. _BREAK_ Through the chaotic glitch of items an _HIGHLIGHT2_ artifact _HIGHLIGHT2_ pops up from time to time. With the right timing and luck _HIGHLIGHT_ it should be possible to grab one _HIGHLIGHT_.",
-					"option": {
-						"reach_in": "Have _NAME_ reach in",
-						"ignore": "Ignore the container"
-					}
+					"option": { "reach_in": "Have _NAME_ reach in", "ignore": "Ignore the container" }
 				},
 				"artifact_result": {
 					"text": "_NAME_ manages to get a firm grasp on something and pulls out an _HIGHLIGHT2_ artifact _HIGHLIGHT2_. With the artifact removed, the glitching items appear to be a lot more aggressive, so _HIGHLIGHT_ none in the party wants to try reaching for another _HIGHLIGHT_."
@@ -4721,10 +4245,7 @@
 				"title": "Offering Box",
 				"base": {
 					"text": "A _HIGHLIGHT_ wooden shrine offering box _HIGHLIGHT_ is oddly placed at the center of the room.",
-					"option": {
-						"fragments": "Throw in _NUMBER_ fragments",
-						"ignore": "Ignore the box"
-					}
+					"option": { "fragments": "Throw in _NUMBER_ fragments", "ignore": "Ignore the box" }
 				},
 				"option_one": {
 					"text": "After throwing in the _HIGHLIGHT2_ fragments _HIGHLIGHT2_ the box glows for a moment, before _HIGHLIGHT_ disappearing in a flash of light _HIGHLIGHT_."
@@ -4778,14 +4299,9 @@
 				"title": "The Pedestal",
 				"base": {
 					"text": "A _HIGHLIGHT_ lone pedestal _HIGHLIGHT_ sits at the center of the room. As the party gets closer to it some of their _HIGHLIGHT2_ artifacts _HIGHLIGHT2_ _HIGHLIGHT_ start glowing _HIGHLIGHT_, as if drawn to the pedestal.",
-					"options": {
-						"place_artifact": "Place _NAME_ on the pedestal",
-						"ignore": "Ignore the pedestal"
-					}
+					"options": { "place_artifact": "Place _NAME_ on the pedestal", "ignore": "Ignore the pedestal" }
 				},
-				"ignore": {
-					"text": "The potential prize isn’t worth the artifact, the party continues onwards"
-				},
+				"ignore": { "text": "The potential prize isn’t worth the artifact, the party continues onwards" },
 				"transform": {
 					"text": "The _ARTIFACT_ _HIGHLIGHT_ explodes into fragments _HIGHLIGHT_ floating above the pedestal, before suddenly swarming back to its center, _HIGHLIGHT_ transforming into the _ARTIFACT2_ artifact. _HIGHLIGHT_"
 				}
@@ -4794,10 +4310,7 @@
 				"title": "The Ring",
 				"base": {
 					"text": "As the party enters the room, a _HIGHLIGHT_ sleazy man wearing a cap and an eye patch _HIGHLIGHT_ approaches the party. _BREAK_ “Perfect timing, we just had a slot open up. Any of you _HIGHLIGHT_ fancy a round in the ring _HIGHLIGHT_?” he says while gesturing to a boxing ring with an enemy _HIGHLIGHT2_ core _HIGHLIGHT2_ floating in it.",
-					"options": {
-						"enter_ring": "Have _NAME_ enter the ring",
-						"decline": "Decline the offer"
-					}
+					"options": { "enter_ring": "Have _NAME_ enter the ring", "decline": "Decline the offer" }
 				},
 				"ignore": {
 					"text": "“You ain’t never gonna win big with that attitude” the man grumbles as he heads back towards the ring."
@@ -4832,14 +4345,9 @@
 				"title": "Wild Inventor",
 				"base": {
 					"text": "A _HIGHLIGHT_ pink haired girl _HIGHLIGHT_ with a pair of large red goggles sits at a lone workbench, her eyes sparkle for a second when she notices the party, before rushing over. _BREAK_ “I just ran out of data _HIGHLIGHT2_ fragments _HIGHLIGHT2_, but let me _HIGHLIGHT_ break down _HIGHLIGHT_ some of your _HIGHLIGHT2_ artifacts _HIGHLIGHT2_, and I’ll craft you some _HIGHLIGHT2_ runes _HIGHLIGHT2_!”",
-					"options": {
-						"artifact": "Give her the _NAME_",
-						"decline": "Decline her offer"
-					}
+					"options": { "artifact": "Give her the _NAME_", "decline": "Decline her offer" }
 				},
-				"base_decline": {
-					"text": "“Your loss, I’ll save my amazing babies for the next party.”"
-				},
+				"base_decline": { "text": "“Your loss, I’ll save my amazing babies for the next party.”" },
 				"late_decline": {
 					"text": "“Not going for the full set? You’ll regret that once you see how well my babies perform”"
 				},
@@ -5174,22 +4682,13 @@
 				"title": "Quick Bomb",
 				"description": "Throw a short fuse bomb at target enemy, dealing damage at the end of the turn."
 			},
-			"healing_potion": {
-				"title": "Healing Potion",
-				"description": "Heal target avatar for 75 HP."
-			},
-			"shield_potion": {
-				"title": "Shield Potion",
-				"description": "Shield target avatar for 100 shield."
-			},
+			"healing_potion": { "title": "Healing Potion", "description": "Heal target avatar for 75 HP." },
+			"shield_potion": { "title": "Shield Potion", "description": "Shield target avatar for 100 shield." },
 			"leave_me_alone_potion": {
 				"title": "Leave-Me-Alone Potion",
 				"description": "Change enemy targeting away from target avatar."
 			},
-			"phoenix_feather": {
-				"title": "Phoenix Feather",
-				"description": "Revive target dead avatar with 20% HP."
-			}
+			"phoenix_feather": { "title": "Phoenix Feather", "description": "Revive target dead avatar with 20% HP." }
 		},
 		"runes": {
 			"rune_name": "_TIER_ _NAME_",
@@ -5225,22 +4724,13 @@
 					"name": "Crash Routine",
 					"description": "Have a _TIER_ Chance to Inflict Crash on Attacks"
 				},
-				"tortoise": {
-					"name": "Tortoise",
-					"description": "Take Less Damage, but Deal Less Damage"
-				},
-				"mobile_defence": {
-					"name": "Mobile Defence",
-					"description": "Gain a Shield when Swapping Position"
-				},
+				"tortoise": { "name": "Tortoise", "description": "Take Less Damage, but Deal Less Damage" },
+				"mobile_defence": { "name": "Mobile Defence", "description": "Gain a Shield when Swapping Position" },
 				"emergency_shield": {
 					"name": "Emergency Shield",
 					"description": "Gain a Shield Once Per Combat When Hit by an Attack"
 				},
-				"defender": {
-					"name": "Defender",
-					"description": "Give a Shield to the Target When Swapping Position"
-				},
+				"defender": { "name": "Defender", "description": "Give a Shield to the Target When Swapping Position" },
 				"threat_aura": {
 					"name": "Threat Aura",
 					"description": "Increase Chance of Getting Targeted by Attacks"
@@ -5249,57 +4739,33 @@
 					"name": "Bypass Routine",
 					"description": "Have a _TIER_ Chance to Inflict Bypass on Attacks"
 				},
-				"rampage": {
-					"name": "Rampage",
-					"description": "Deal More Damage, but Take More Damage"
-				},
-				"time_booster": {
-					"name": "Time Booster",
-					"description": "Gain Extra Silent Guess Time on Songs"
-				},
+				"rampage": { "name": "Rampage", "description": "Deal More Damage, but Take More Damage" },
+				"time_booster": { "name": "Time Booster", "description": "Gain Extra Silent Guess Time on Songs" },
 				"defensive_counter": {
 					"name": "Defensive Counter",
 					"description": "Increase Defense for Each Active Debuff"
 				},
-				"defensive_rush": {
-					"name": "Defensive Rush",
-					"description": "Increase Defense for Each Active Buff"
-				},
+				"defensive_rush": { "name": "Defensive Rush", "description": "Increase Defense for Each Active Buff" },
 				"offensive_counter": {
 					"name": "Offensive Counter",
 					"description": "Increase Attack for Each Active Debuff"
 				},
-				"offensive_rush": {
-					"name": "Offensive Rush",
-					"description": "Increase Attack for Each Active Buff"
-				}
+				"offensive_rush": { "name": "Offensive Rush", "description": "Increase Attack for Each Active Buff" }
 			}
 		},
 		"buffs": {
-			"crisis_management_form": {
-				"name": "Crisis Management Form",
-				"description": "Increase all base stats"
-			},
+			"crisis_management_form": { "name": "Crisis Management Form", "description": "Increase all base stats" },
 			"berserker_star": {
 				"name": "Berserker Star",
 				"description": "Increase damage by 20% until not landing an attack"
 			},
-			"charge_staff": {
-				"name": "Charge Staff",
-				"description": "Landing the next attack gives a shield"
-			},
-			"comfy_scarf": {
-				"name": "Comfy Scarf",
-				"description": "Counter the next standard debuff"
-			},
+			"charge_staff": { "name": "Charge Staff", "description": "Landing the next attack gives a shield" },
+			"comfy_scarf": { "name": "Comfy Scarf", "description": "Counter the next standard debuff" },
 			"computation_orb": {
 				"name": "Computation Orb",
 				"description": "Increase damage by 20% while below 50% HP"
 			},
-			"hornet_stringer": {
-				"name": "Hornet Stringer",
-				"description": "Next attack guaranteed to critical hit"
-			},
+			"hornet_stringer": { "name": "Hornet Stringer", "description": "Next attack guaranteed to critical hit" },
 			"legends_shield": {
 				"name": "Legends Shield",
 				"description": "Gain a shield when hit by the next enemy attack"
@@ -5309,18 +4775,9 @@
 				"description_one": "Next two attacks deal double damage",
 				"description_two": "Next attack deals double damage"
 			},
-			"adventurers_sword": {
-				"name": "Adventurer's Sword",
-				"description": "Attacks deal increased damage "
-			},
-			"adventurers_shield": {
-				"name": "Adventurer's Shield",
-				"description": "Reduce damage taken"
-			},
-			"angels_grace": {
-				"name": "Angel's Grace",
-				"description": "Shields from damage"
-			},
+			"adventurers_sword": { "name": "Adventurer's Sword", "description": "Attacks deal increased damage " },
+			"adventurers_shield": { "name": "Adventurer's Shield", "description": "Reduce damage taken" },
+			"angels_grace": { "name": "Angel's Grace", "description": "Shields from damage" },
 			"buster": {
 				"name": "Buster",
 				"description": "Charge up damage for the next attack in each ally's turn. Effect is lost if moved or attacked"
@@ -5329,10 +4786,7 @@
 				"name": "Cat's Luck",
 				"description": "Next attack taken inflicts 0 damage but applies a random debuff instead"
 			},
-			"cheered": {
-				"name": "Cheered",
-				"description": "Being cheered on has granted a massive buff to all stats"
-			},
+			"cheered": { "name": "Cheered", "description": "Being cheered on has granted a massive buff to all stats" },
 			"cheering": {
 				"name": "Cheering",
 				"description": "Empowers another target avatar on correct guesses instead of attacking"
@@ -5351,18 +4805,12 @@
 				"description": "When hit, attack is boosted by 50%",
 				"description_active": "The character is enraged, increasing attack by 50%"
 			},
-			"encore_buff": {
-				"name": "Encore Buff",
-				"description": "Next attack inflicts the encore debuff"
-			},
+			"encore_buff": { "name": "Encore Buff", "description": "Next attack inflicts the encore debuff" },
 			"fiery_onslaught": {
 				"name": "Fiery Onslaught",
 				"description": "Increase accuracy and apply the virus debuff on all attacks, but failed attacks inflict the virus debuff on the attacker"
 			},
-			"fox_fire": {
-				"name": "Fox Fire",
-				"description": "All attacks apply a random debuff"
-			},
+			"fox_fire": { "name": "Fox Fire", "description": "All attacks apply a random debuff" },
 			"full_charge": {
 				"name": "Full Charge",
 				"description": "Next attack deals double damage, but gain the Crash debuff at the end of the turn."
@@ -5371,10 +4819,7 @@
 				"name": "In the Rhythm",
 				"description": "Increase attack and dodge, lasting until you fail to dodge or land an attack"
 			},
-			"knights_challenge": {
-				"name": "Knight's Challenge",
-				"description": "Target of all new enemy attacks"
-			},
+			"knights_challenge": { "name": "Knight's Challenge", "description": "Target of all new enemy attacks" },
 			"magical_bombardment": {
 				"name": "Magical Bombardment",
 				"description": "Next attack deals reduced damage, but hits all enemies"
@@ -5387,10 +4832,7 @@
 				"name": "Martial Strikes",
 				"description": "Gain a charge for each successful attack, each charge increasing damage done on future attacks. Last until not landing an attack."
 			},
-			"natural_sprinter": {
-				"name": "Natural Sprinter",
-				"description": "Increase attack and accuracy"
-			},
+			"natural_sprinter": { "name": "Natural Sprinter", "description": "Increase attack and accuracy" },
 			"natures_frenzy": {
 				"name": "Nature Frenzy",
 				"description": "Greatly boost attack, but halve defense and dodge"
@@ -5411,10 +4853,7 @@
 				"name": "Recon in Force",
 				"description": "Boost dodge and attacks apply the bypass debuff"
 			},
-			"snake_charm": {
-				"name": "Snake Charm",
-				"description": "Attacks apply the charmed debuff"
-			},
+			"snake_charm": { "name": "Snake Charm", "description": "Attacks apply the charmed debuff" },
 			"spectral_tricks_buff": {
 				"name": "Spectral Tricks Buff",
 				"description": "Attacks taken this turn deal zero damage, but the damage is dealt next turn if that turn's guess is wrong"
@@ -5423,34 +4862,19 @@
 				"name": "Spectral Tricks Debuff",
 				"description": "Take damage equal to the negated damage if the next guess is wrong"
 			},
-			"swift_maneuver": {
-				"name": "Swift Maneuver",
-				"description": "Next avatar swap happens instantly"
-			},
+			"swift_maneuver": { "name": "Swift Maneuver", "description": "Next avatar swap happens instantly" },
 			"unlucky_lucky_rabbit": {
 				"name": "Unlucky Lucky Rabbit",
 				"description": "Greatly increase dodge, but increase the chance of getting targeted by enemy attacks"
 			},
-			"vampires_kiss": {
-				"name": "Vampire's Kiss",
-				"description": "Heal if the next attack kills an enemy"
-			},
-			"weapon_master": {
-				"name": "Weapon Master",
-				"description": "Empowers offensive artifacts' effect"
-			},
+			"vampires_kiss": { "name": "Vampire's Kiss", "description": "Heal if the next attack kills an enemy" },
+			"weapon_master": { "name": "Weapon Master", "description": "Empowers offensive artifacts' effect" },
 			"witches_trickery": {
 				"name": "Witches Trickery",
 				"description": "Next attack applies the bewitched debuff"
 			},
-			"force_of_yan": {
-				"name": "Force of Yan",
-				"description": "Ups defense and lowers attack"
-			},
-			"force_of_yin": {
-				"name": "Force of Yin",
-				"description": "Ups attack and lowers defense"
-			},
+			"force_of_yan": { "name": "Force of Yan", "description": "Ups defense and lowers attack" },
+			"force_of_yin": { "name": "Force of Yin", "description": "Ups attack and lowers defense" },
 			"bewitched": {
 				"name": "Bewitched",
 				"description": "At the start of each turn apply the Crash, Virus, or Bypass debuff each lasting 1 turn"
@@ -5464,70 +4888,28 @@
 				"name": "Ice Prison",
 				"description": "Skip all actions, but take greatly reduced attack damage"
 			},
-			"energized": {
-				"name": "Energized",
-				"description": "Increased attack power while the Energizer is alive"
-			},
-			"enhanced": {
-				"name": "Enhanced",
-				"description": "Increase attack by _NUMBER_% for each stack"
-			},
-			"protected": {
-				"name": "Protected",
-				"description": "Defence boost based on the protector's defence"
-			},
+			"energized": { "name": "Energized", "description": "Increased attack power while the Energizer is alive" },
+			"enhanced": { "name": "Enhanced", "description": "Increase attack by _NUMBER_% for each stack" },
+			"protected": { "name": "Protected", "description": "Defence boost based on the protector's defence" },
 			"protector": {
 				"name": "Protector",
 				"description": "The character behind the buffed character becomes protected"
 			},
-			"trojan_protocol": {
-				"name": "Trojan Protocol",
-				"description": "Attacks inflict a random debuff"
-			},
-			"untargetable": {
-				"name": "Untargetable",
-				"description": "Can't be targeted by attacks or abilities"
-			},
+			"trojan_protocol": { "name": "Trojan Protocol", "description": "Attacks inflict a random debuff" },
+			"untargetable": { "name": "Untargetable", "description": "Can't be targeted by attacks or abilities" },
 			"charmed": {
 				"name": "Charmed",
 				"description": "Forced to target attacks at _NAME_, but deal 30% less damage"
 			},
-			"accuracy_buff": {
-				"name": "Accuracy Buff",
-				"description": "Increased Accuracy on Attacks"
-			},
-			"attack_buff": {
-				"name": "Attack Buff",
-				"description": "Increased Attack Power"
-			},
-			"defence_buff": {
-				"name": "Defence Buff",
-				"description": "Increased Defence"
-			},
-			"dodge_buff": {
-				"name": "Dodge Buff",
-				"description": "Increased Dodge Chance"
-			},
-			"attack_debuff": {
-				"name": "Attack Debuff",
-				"description": "Decrease Attack Power"
-			},
-			"bypass": {
-				"name": "Bypass",
-				"description": "Increase damage taken from the next attack by 50%"
-			},
-			"crash": {
-				"name": "Crash",
-				"description": "Next action is skipped"
-			},
-			"defence_debuff": {
-				"name": "Defence Debuff",
-				"description": "Decrease Defence"
-			},
-			"virus": {
-				"name": "Virus",
-				"description": "Take damage at the start of each turn"
-			},
+			"accuracy_buff": { "name": "Accuracy Buff", "description": "Increased Accuracy on Attacks" },
+			"attack_buff": { "name": "Attack Buff", "description": "Increased Attack Power" },
+			"defence_buff": { "name": "Defence Buff", "description": "Increased Defence" },
+			"dodge_buff": { "name": "Dodge Buff", "description": "Increased Dodge Chance" },
+			"attack_debuff": { "name": "Attack Debuff", "description": "Decrease Attack Power" },
+			"bypass": { "name": "Bypass", "description": "Increase damage taken from the next attack by 50%" },
+			"crash": { "name": "Crash", "description": "Next action is skipped" },
+			"defence_debuff": { "name": "Defence Debuff", "description": "Decrease Defence" },
+			"virus": { "name": "Virus", "description": "Take damage at the start of each turn" },
 			"genre_boost": {
 				"name": "_NAME_ Boost",
 				"description": "Increase attack damage when the current anime has the _NAME_ genre."
@@ -5536,30 +4918,15 @@
 				"name": "Hidden",
 				"description": "Become untargetable by enemies and increase damage on the next attack. Expires after attacking or moving"
 			},
-			"exposed": {
-				"name": "Exposed",
-				"description": "Get a random debuff from all attacks"
-			},
-			"focused": {
-				"name": "Focused",
-				"description": "Increase chance of getting targeted by enemy attacks"
-			},
-			"snared": {
-				"name": "Snared",
-				"description": "Unable to Switch Position"
-			},
+			"exposed": { "name": "Exposed", "description": "Get a random debuff from all attacks" },
+			"focused": { "name": "Focused", "description": "Increase chance of getting targeted by enemy attacks" },
+			"snared": { "name": "Snared", "description": "Unable to Switch Position" },
 			"genre_protection": {
 				"name": "_NAME_ Protection",
 				"description": "Negate all damage from attacks when the current show doesn’t have the _NAME_ genre."
 			},
-			"data_feedback": {
-				"name": "Data Feedback",
-				"description": "Data shield damage reduction offline"
-			},
-			"data_shield": {
-				"name": "Data Shield",
-				"description": "Greatly reduce all damage taken"
-			}
+			"data_feedback": { "name": "Data Feedback", "description": "Data shield damage reduction offline" },
+			"data_shield": { "name": "Data Shield", "description": "Greatly reduce all damage taken" }
 		},
 		"enemies": {
 			"assassin": "Assassin",
@@ -5597,54 +4964,31 @@
 			"title": "Welcome to AMQ",
 			"step_one": {
 				"text": "Hi and welcome to Anime Music Quiz! _BREAK_I suggest taking my quick tutorial to learn the basics of the game. _BREAK_ There might even be rewards at the end of it!",
-				"options": {
-					"play_tutorial": "Play Tutorial",
-					"skip_tutorial": "Skip Tutorial"
-				}
+				"options": { "play_tutorial": "Play Tutorial", "skip_tutorial": "Skip Tutorial" }
 			},
 			"step_two": { "text": "Awesome, let's get started!" },
-			"step_dismiss": {
-				"text": "You can always find the tutorial in the bottom right menu."
-			}
+			"step_dismiss": { "text": "You can always find the tutorial in the bottom right menu." }
 		},
 		"welcome_no_list": {
 			"title": "Add Anime List",
 			"step_one": {
 				"text": "To start out I can see that you don't have an AniList, MyAnimeList or Kitsu user connected to your account. _BREAK_ I strongly recommend adding one, as it'll allow the game to pick songs from shows you have watched.",
-				"options": {
-					"no_list": "Don't have one",
-					"add_one": "Ok, let's add one",
-					"skip": "I'll go without"
-				}
+				"options": { "no_list": "Don't have one", "add_one": "Ok, let's add one", "skip": "I'll go without" }
 			},
 			"step_two": {
 				"text": "You can easily set up one for free on one of the sites: _LINK_ AniList _LINK_, _LINK2_ MyAnimeList _LINK2_ or _LINK3_ Kitsu _LINK3_. _BREAK_ I'll wait if you want to set one up now.",
-				"options": {
-					"created_one": "Ok, I've created one",
-					"skip": "Maybe another time"
-				}
+				"options": { "created_one": "Ok, I've created one", "skip": "Maybe another time" }
 			},
 			"step_three": {
 				"text": "Perfect, let's get it connected to your AMQ account then! _BREAK_ Which site do you have a list on?",
-				"options": {
-					"anilist": "AniList",
-					"myanimelist": "MyAnimeList",
-					"kitsu": "Kitsu",
-					"cancel": "Cancel"
-				}
+				"options": { "anilist": "AniList", "myanimelist": "MyAnimeList", "kitsu": "Kitsu", "cancel": "Cancel" }
 			},
-			"step_anilist": {
-				"text": "Please type your AniList username or leave it blank if you changed your mind."
-			},
-			"step_kitsu": {
-				"text": "Please type your Kitsu username or leave it blank if you changed your mind."
-			},
+			"step_anilist": { "text": "Please type your AniList username or leave it blank if you changed your mind." },
+			"step_kitsu": { "text": "Please type your Kitsu username or leave it blank if you changed your mind." },
 			"step_myanimelist": {
 				"text": "Please type your MyAnimeList username or leave it blank if you changed your mind."
 			},
-			"step_four": {
-				"text": "Now the game will be able to select songs from shows you've watched!"
-			},
+			"step_four": { "text": "Now the game will be able to select songs from shows you've watched!" },
 			"step_dismiss": {
 				"text": "That's fine, you can still play without one! _BREAK_ You can add anime lists in the bottom right menu under \"Settings\"."
 			}
@@ -5687,18 +5031,13 @@
 			"step_twelve": {
 				"text": "Now you're ready to play AMQ! Let's return to the main menu by clicking \"Leave\" in the top left corner."
 			},
-			"step_thirteen": {
-				"text": "And that's it for the gameplay tutorial!"
-			},
+			"step_thirteen": { "text": "And that's it for the gameplay tutorial!" },
 			"step_thirteen_first_time": {
 				"text": "That's it for the gameplay tutorial, here's a one-time reward of 3000 notes to help you start unlocking some avatars!"
 			},
 			"step_fourteen": {
 				"text": "Next up would be the avatar tutorial, which will go over how to unlock and use the different avatars in the game. Ready to get started on it?",
-				"options": {
-					"yes": "Yes, let's go!",
-					"no": "No, I'm good for now"
-				}
+				"options": { "yes": "Yes, let's go!", "no": "No, I'm good for now" }
 			}
 		},
 		"avatar": {
@@ -5706,9 +5045,7 @@
 			"step_one": {
 				"text": "Let's get started on Avatars 101 then! _BREAK_ The game features several avatars and skins you can unlock and use to represent yourself in games."
 			},
-			"step_two": {
-				"text": "You can browse all the avatars by clicking the avatar button at the bottom right."
-			},
+			"step_two": { "text": "You can browse all the avatars by clicking the avatar button at the bottom right." },
 			"step_three": {
 				"text": "Here we have the store window, at the top you can find the bar with all avatars available."
 			},
@@ -5730,9 +5067,7 @@
 			"step_nine": {
 				"text": "Limited skins work like exclusive skins, but are only available during specific times of the year, such as holidays and specific seasons, for the rest of the year they're unavailable and can't be unlocked."
 			},
-			"step_ten": {
-				"text": "With the types out of the way, try selecting the standard Komugi skin."
-			},
+			"step_ten": { "text": "With the types out of the way, try selecting the standard Komugi skin." },
 			"step_eleven": {
 				"text": "Here we have the versions you'll actually be unlocking. _BREAK_ Each skin has several different recolors that can be unlocked, and even some more advanced alternative versions of the skin. Feel free to have a look around before we continue."
 			},
@@ -5750,17 +5085,11 @@
 			},
 			"step_sixteen": {
 				"text": "Speaking of profiles, that's covered in the last tutorial. Let me know if you're up for grabbing it now!",
-				"options": {
-					"yes": "Yes, let's go!",
-					"no": "No, I'm good for now"
-				}
+				"options": { "yes": "Yes, let's go!", "no": "No, I'm good for now" }
 			},
 			"step_sixteen_first_time": {
 				"text": "Speaking of profiles, that's covered in the last tutorial. Let me know if you're up for grabbing it now! _BREAK_ Also as this was your first time completing the avatar tutorial, here's some notes to help get you towards unlocking your next skin!",
-				"options": {
-					"yes": "Yes, let's go!",
-					"no": "No, I'm good for now"
-				}
+				"options": { "yes": "Yes, let's go!", "no": "No, I'm good for now" }
 			}
 		},
 		"social": {
@@ -5820,10 +5149,7 @@
 			"return_button": "Return",
 			"stay_button": "Stay"
 		},
-		"exit_tutorial_warning": {
-			"title": "Exit Tutorial?",
-			"exit_button": "Exit"
-		}
+		"exit_tutorial_warning": { "title": "Exit Tutorial?", "exit_button": "Exit" }
 	},
 	"popout_windows": {
 		"close_window_button": "Close Window",
@@ -6217,7 +5543,8 @@
 		"graduation_project": "Graduation Project",
 		"human_experimentation": "Human Experimentation",
 		"interspecies": "Interspecies",
-		"short-form_chapter": "Short-Form Chapter"
+		"short-form_chapter": "Short-Form Chapter",
+		"prophecy": "Prophecy"
 	},
 	"genre_tags": {
 		"action": "Action",
@@ -6280,7 +5607,8 @@
 		"whistle": "Whistle",
 		"yan": "Yan",
 		"visor": "Visor",
-		"accessory": "Accessory"
+		"accessory": "Accessory",
+		"flowers": "Flowers"
 	},
 	"daily_quests": {
 		"title": "Daily Quests",
@@ -6354,14 +5682,8 @@
 				"title": "Comedy Fan",
 				"description": "Guess 20 songs from comedy shows, in non-team games"
 			},
-			"drama_fan": {
-				"title": "Drama Fan",
-				"description": "Guess 20 songs from drama shows, in non-team games"
-			},
-			"ecchi_fan": {
-				"title": "Ecchi Fan",
-				"description": "Guess 20 songs from ecchi shows, in non-team games"
-			},
+			"drama_fan": { "title": "Drama Fan", "description": "Guess 20 songs from drama shows, in non-team games" },
+			"ecchi_fan": { "title": "Ecchi Fan", "description": "Guess 20 songs from ecchi shows, in non-team games" },
 			"fantasy_fan": {
 				"title": "Fantasy Fan",
 				"description": "Guess 20 songs from fantasy shows, in non-team games"
@@ -6374,14 +5696,8 @@
 				"title": "Mahou Shoujo Fan",
 				"description": "Guess 20 songs from mahou shoujo shows, in non-team games"
 			},
-			"mecha_fan": {
-				"title": "Mecha Fan",
-				"description": "Guess 20 songs from mecha shows, in non-team games"
-			},
-			"music_fan": {
-				"title": "Music Fan",
-				"description": "Guess 20 songs from music shows, in non-team games"
-			},
+			"mecha_fan": { "title": "Mecha Fan", "description": "Guess 20 songs from mecha shows, in non-team games" },
+			"music_fan": { "title": "Music Fan", "description": "Guess 20 songs from music shows, in non-team games" },
 			"mystery_fan": {
 				"title": "Mystery Fan",
 				"description": "Guess 20 songs from mystery shows, in non-team games"
@@ -6414,10 +5730,7 @@
 				"title": "Thriller Fan",
 				"description": "Guess 20 songs from thriller shows, in non-team games"
 			},
-			"just_jamming": {
-				"title": "Just Jamming",
-				"description": "Guess 20 songs in the Jam Quiz"
-			},
+			"just_jamming": { "title": "Just Jamming", "description": "Guess 20 songs in the Jam Quiz" },
 			"april_fools_2026": {
 				"title": "Video Quiz",
 				"description": "The future is now! Guess 20 of the new Tiny Video and/or Blur Video questions! <br/> Complete to unlock a new high value skin!",
@@ -6426,6 +5739,34 @@
 					"description": "_HTML1_ You have discovered the future of anime, video! To celebrate you’ve earned the extremely valuable Solid Gold Miyu alt. version! _HTML2_"
 				}
 			}
+		}
+	},
+	"skin_seasons": {
+		"full": {
+			"fall": "Fall",
+			"summer": "Summer",
+			"winter": "Winter",
+			"spring": "Spring",
+			"halloween": "Halloween",
+			"christmas": "Christmas",
+			"lunar": "Lunar New Year",
+			"valentine": "Valentine",
+			"summer_games": "Summer Games",
+			"anniversary": "Anniversary",
+			"supernatural_spring": "Supernatural Spring"
+		},
+		"short": {
+			"fall": "Fall",
+			"summer": "Summer",
+			"winter": "Winter",
+			"spring": "Spring",
+			"halloween": "Halloween",
+			"christmas": "Christmas",
+			"lunar": "Lunar",
+			"valentine": "Valentine",
+			"summer_games": "Summer Games",
+			"anniversary": "Anniversary",
+			"supernatural_spring": "Supernatural"
 		}
 	}
 }
