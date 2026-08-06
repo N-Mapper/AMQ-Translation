@@ -1066,6 +1066,7 @@
 			"mal_username": "MyAnimeList Username",
 			"mal_username_short": "MAL Username",
 			"kitsu_username": "Kitsu Username",
+			"animeoshi_username": "AnimeOshi Username",
 			"last_updated": "_BOLD_ Last Updated: _BOLD_ _SPAN_ _DATE_ _SPAN_",
 			"amq_custom_list": "AMQ Custom List",
 			"amq_custom_list_description": "Create a custom list in the Song Library that can be used as, or alongside, your anime list.",
@@ -1983,6 +1984,7 @@
 		},
 		"patreon_promo": "Become a level 3+ Patreon Backer to _BREAK_ unlock unlimited slots and more perks",
 		"creator": "Creator",
+		"versions": "Versions",
 		"description": "Description",
 		"tags": "Tags",
 		"quiz_stats": {
@@ -2014,14 +2016,20 @@
 			"share": "Share",
 			"unshare": "Unshare",
 			"publish": "Publish",
+			"publish_version": "Publish Version",
 			"play": "Play",
-			"select": "Select"
+			"select": "Select",
+			"create_new_version": "Create New Version"
 		},
 		"no_quiz_selected": "No Quiz Selected",
 		"messages": {
 			"error_cloning": {
 				"title": "Error Cloning Quiz",
 				"description": "An error occurred while trying to clone the quiz. Please try again later."
+			},
+			"error_creating_new_version": {
+				"title": "Error Creating New Version",
+				"description": "An error occurred while trying to create a new version of the quiz. Please try again later."
 			},
 			"quiz_cloned": { "title": "Quiz Cloned", "description": "The quiz has been successfully cloned." },
 			"quiz_reported": {
@@ -2040,10 +2048,22 @@
 				"description": "Are you sure you want to permanently delete this quiz?"
 			},
 			"clone_quiz": { "title": "Clone Quiz", "input_text": "New Name", "confirm_button": "Clone" },
+			"new_version_created": {
+				"title": "New Version Created",
+				"description": "A new version for the quiz has been created."
+			},
 			"publish_quiz_confirmation": {
 				"title": "Publish Quiz",
 				"description": "Public quizzes can be played by anyone, once a quiz is public you can no longer edit or delete it.",
 				"confirm_button": "Publish"
+			},
+			"publish_quiz_version_confirmation": {
+				"title": "Publish Quiz Version",
+				"description": "Publish this version of the quiz, making it playable from the original quiz. Once a version is published, it can no longer be edited or deleted."
+			},
+			"publish_quiz_version_no_changes": {
+				"title": "New Version Matches Last Version",
+				"description": "The new version of the quiz matches the last published version, and cannot be published."
 			},
 			"report_quiz": {
 				"title": "Report Quiz",
@@ -2070,7 +2090,11 @@
 				"title": "Publish Limit Reached",
 				"description": "You have reached the maximum number of 10 published quizzes within 24 hours, please try again later."
 			},
-			"quiz_published": { "title": "Quiz Published", "description": "The quiz has been successfully published." }
+			"quiz_published": { "title": "Quiz Published", "description": "The quiz has been successfully published." },
+			"publishing_banned": {
+				"title": "Publishing Banned",
+				"description": "You are banned from publishing quizzes"
+			}
 		},
 		"popovers": {
 			"share": "Share this quiz with friends",
@@ -2081,6 +2105,10 @@
 			"locked_slot": {
 				"title": "Locked Slot",
 				"description": "A locked slot doesn’t use an available slot, but can only be cloned or deleted. To unlock, get unlimited slots again."
+			},
+			"new_version": {
+				"title": "New Version",
+				"description": "This is a new version for the quiz #_NUMBER_."
 			}
 		},
 		"checkout": { "unlock": "Unlock Community Quiz Slots", "one_slot": "1 Slot", "unlimited": "Unlimited Slots" },
@@ -2162,7 +2190,14 @@
 			},
 			"anime_link": {
 				"title": "Anime Link",
-				"ticks": { "anilist": "Anilist", "kitsu": "Kitsu", "default": "Default", "mal": "MAL", "ann": "ANN" }
+				"ticks": {
+					"anilist": "Anilist",
+					"kitsu": "Kitsu",
+					"default": "Default",
+					"mal": "MAL",
+					"ann": "ANN",
+					"ao": "AO"
+				}
 			}
 		},
 		"song_window": {
@@ -2687,6 +2722,10 @@
 			"title": "Rule Block",
 			"description": "Rule blocks are used to containers for other blocks and allow you to set specific quiz settings for songs in it"
 		},
+		"rule_block_random_order_button": {
+			"title": "Rule Block Random Order",
+			"description": "When toggled on, all rule blocks plays in a random order during quizzes, instead of the set order"
+		},
 		"algorithm_button": {
 			"title": "Algorithm Block",
 			"description": "Algorithm blocks are used to use the games song selection algorithm to select songs for this quiz"
@@ -2716,15 +2755,14 @@
 			"delay": "Delay",
 			"delay_description": "Time before the message is displayed in seconds after being triggered",
 			"time": "Time",
-			"time_description": "Time the message is displayed in seconds before moving on to the next block"
+			"time_description": "Time the message is displayed in seconds before moving on to the next block",
+			"video_display": "Guessing Display",
+			"video_display_description": "Delay message until the guessing phase starts"
 		},
 		"message_avatar_selector": {
 			"title": "Select Avatar",
 			"steps": { "avatar": "Avatar", "skin": "Skin", "version": "Version", "pose": "Pose" },
-			"buttons": {
-				"clear_selection": "Clear Selection",
-				"select": "Select"
-			}
+			"buttons": { "clear_selection": "Clear Selection", "select": "Select" }
 		},
 		"algorithm_block": {
 			"song_type": { "opening": "OP", "ending": "ED", "insert": "IN" },
@@ -2800,7 +2838,8 @@
 			"override_guess_time": "Override the default guess time for this block",
 			"override_sample_point": "Override the default sample point for this block",
 			"override_playback_speed": "Override the default playback speed for this block",
-			"override_guess_mode": "Override the default guess modes for this block"
+			"override_guess_mode": "Override the default guess modes for this block",
+			"connect_description": "Connect these blocks, making them always appear next to each other in the quiz"
 		},
 		"alerts": {
 			"max_rule_block_count": {
@@ -4981,12 +5020,21 @@
 			},
 			"step_three": {
 				"text": "Perfect, let's get it connected to your AMQ account then! _BREAK_ Which site do you have a list on?",
-				"options": { "anilist": "AniList", "myanimelist": "MyAnimeList", "kitsu": "Kitsu", "cancel": "Cancel" }
+				"options": {
+					"anilist": "AniList",
+					"myanimelist": "MyAnimeList",
+					"kitsu": "Kitsu",
+					"anime_oshi": "AnimeOshi",
+					"cancel": "Cancel"
+				}
 			},
 			"step_anilist": { "text": "Please type your AniList username or leave it blank if you changed your mind." },
 			"step_kitsu": { "text": "Please type your Kitsu username or leave it blank if you changed your mind." },
 			"step_myanimelist": {
 				"text": "Please type your MyAnimeList username or leave it blank if you changed your mind."
+			},
+			"step_anime_oshi": {
+				"text": "Please type your AnimeOshi username or leave it blank if you changed your mind."
 			},
 			"step_four": { "text": "Now the game will be able to select songs from shows you've watched!" },
 			"step_dismiss": {
@@ -5544,7 +5592,10 @@
 		"human_experimentation": "Human Experimentation",
 		"interspecies": "Interspecies",
 		"short-form_chapter": "Short-Form Chapter",
-		"prophecy": "Prophecy"
+		"prophecy": "Prophecy",
+		"cheating": "Cheating",
+		"incest": "Incest",
+		"inseki": "Inseki"
 	},
 	"genre_tags": {
 		"action": "Action",
