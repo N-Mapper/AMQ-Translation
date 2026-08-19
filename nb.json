@@ -1475,7 +1475,8 @@
 		},
 		"kuriko": {
 			"standard": "Selv blant hekser blir Kuriko sett på som spesielt mektig, men hennes bekymringsløse holdning hindrer henne ofte i å bruke alle sine krefter. Hun kan ofte finnes mens hun har det gøy under konfliktene mellom teknologi og magi som oppstår i hennes verden.",
-			"sorceress": "Kuriko kommer fra en nomadisk stamme i de sørlige landene og har reist helt til kongeriket på et oppdrag for å spre folkets budskap, men oftere ender hun opp med å lure folk til å bli med henne på vanvittige eventyr."
+			"sorceress": "Kuriko kommer fra en nomadisk stamme i de sørlige landene og har reist helt til kongeriket på et oppdrag for å spre folkets budskap, men oftere ender hun opp med å lure folk til å bli med henne på vanvittige eventyr.",
+			"summer_games": "Kuriko har alltid vært en frilynt syklist som elsker friheten ved å sykle, men uten interesse for sporten. Men etter å ha blitt en av de beste syklistene i landet sitt, endte hun opp med å konkurrere i sommerlekene for å få en gratis tur ut av det."
 		},
 		"miyu": {
 			"standard": "Som en lykkelig og munter jente levde Miyu et begivenhetsløst liv frem til sitt siste år på ungdomsskolen, da hun fant en stjerneformet juvel som lot henne materialisere sine underliggende magiske krefter.",
@@ -2100,10 +2101,7 @@
 				"title": "Låst plass",
 				"description": "En låst plass bruker ikke en tilgjengelig plass, men kan bare klones eller slettes. For å låse opp, få et ubegrenset antall plasser igjen."
 			},
-			"new_version": {
-				"title": "Ny versjon",
-				"description": "Dette er en ny versjon av quiz #_NUMBER_."
-			}
+			"new_version": { "title": "Ny versjon", "description": "Dette er en ny versjon av quiz #_NUMBER_." }
 		},
 		"checkout": {
 			"unlock": "Lås opp plasser for fellesskapsquizer",
@@ -2722,7 +2720,8 @@
 			"override_sample_point": "Overstyr standard snuttpunkt for denne blokken",
 			"override_playback_speed": "Overstyr standard avspillingshastighet for denne blokken",
 			"override_guess_mode": "Overstyr standard gjettingsmodus for denne blokken",
-			"connect_description": "Koble disse blokkene sammen, slik at de alltid vises ved siden av hverandre i quizen"
+			"connect_description": "Koble disse blokkene sammen, slik at de alltid vises sammen i quizen",
+			"lock_description": "Lås denne blokkens posisjon, silk at den alltid vises på dette stedet i regelblokken, selv om rekkefølge på regelblokkene er tilfeldig"
 		},
 		"alerts": {
 			"max_rule_block_count": {
@@ -3582,7 +3581,6 @@
 		"historical": "Historisk",
 		"homeless": "Hjemløs",
 		"horticulture": "Hortikultur",
-		"ice_skating": "Skøyting",
 		"idol": "Idol",
 		"indigenous_cultures": "Urfolkskultur",
 		"inn": "Kro",
@@ -3778,7 +3776,10 @@
 		"prophecy": "Profeti",
 		"cheating": "Utroskap",
 		"incest": "Incest",
-		"inseki": "Inseki"
+		"inseki": "Inseki",
+		"exiled": "Eksil",
+		"middle_east": "Midtøsten",
+		"ice_sports": "is-idrett"
 	},
 	"genre_tags": {
 		"action": "Action",
