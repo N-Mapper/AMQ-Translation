@@ -1010,6 +1010,7 @@
 			"description": "Show number of songs played from each players anime list on the scoreboard"
 		},
 		"disable_emotes": { "title": "Disable Emotes", "description": "Disable emotes from being shown in chats" },
+		"hide_name": { "title": "Hide Name", "description": "Appear as a guest user in the online player and room tile list." },
 		"answer_time": { "title": "Answer Time", "description": "Display players answer time on their avatars" },
 		"anime_link": { "title": "Anime Link", "description": "The anime site that's linked in song info" },
 		"auto_skip_vote": {
@@ -1466,7 +1467,8 @@
 		},
 		"kuriko": {
 			"standard": "Even among witches, Kuriko is seen as especially powerful, but her carefree attitude often keeps her from using her full powers. She can often be found having fun during the conflicts between technology and magic that occur in her world.",
-			"sorceress": "Hailing from a nomadic tribe in the far southern countries, Kuriko has traveled all the way to the kingdom on a mission to spread the word of her people, but more often she ends up tricking people into joining her on crazy adventures."
+			"sorceress": "Hailing from a nomadic tribe in the far southern countries, Kuriko has traveled all the way to the kingdom on a mission to spread the word of her people, but more often she ends up tricking people into joining her on crazy adventures.",
+			"summer_games": "Kuriko has always been a free spirited cyclist who loved the freedom of biking, but with no interest in the sport. But after ending up as one of the best cyclists in her country, she ended up competing at the Summer Games to get a free trip out of it."
 		},
 		"miyu": {
 			"standard": "As a bright and cheerful girl, Miyu lived an uneventful life until her last year of middle school when she found a star shaped gem which allowed her to materialise her dormant magical powers.",
@@ -2106,10 +2108,7 @@
 				"title": "Locked Slot",
 				"description": "A locked slot doesn’t use an available slot, but can only be cloned or deleted. To unlock, get unlimited slots again."
 			},
-			"new_version": {
-				"title": "New Version",
-				"description": "This is a new version for the quiz #_NUMBER_."
-			}
+			"new_version": { "title": "New Version", "description": "This is a new version for the quiz #_NUMBER_." }
 		},
 		"checkout": { "unlock": "Unlock Community Quiz Slots", "one_slot": "1 Slot", "unlimited": "Unlimited Slots" },
 		"host_community_quiz": {
@@ -2662,6 +2661,10 @@
 				"song_types": "Song Types",
 				"friends": "Friends"
 			},
+			"player_list": {
+				"players": "Players",
+				"spectators": "Spectators"
+			},
 			"song_types": { "opening": "Opening", "ending": "Ending", "insert": "Insert" },
 			"join": "Join",
 			"spectate": "Spectate",
@@ -2756,7 +2759,7 @@
 			"delay_description": "Time before the message is displayed in seconds after being triggered",
 			"time": "Time",
 			"time_description": "Time the message is displayed in seconds before moving on to the next block",
-			"video_display": "Guessing Display",
+			"video_display": "Display During Guessing",
 			"video_display_description": "Delay message until the guessing phase starts"
 		},
 		"message_avatar_selector": {
@@ -2839,7 +2842,8 @@
 			"override_sample_point": "Override the default sample point for this block",
 			"override_playback_speed": "Override the default playback speed for this block",
 			"override_guess_mode": "Override the default guess modes for this block",
-			"connect_description": "Connect these blocks, making them always appear next to each other in the quiz"
+			"connect_description": "Connect these blocks, making them always appear next to each other in the quiz",
+			"lock_description": "Lock this blocks position, making it always appear in this spot in the rule block, even if the rule block order is random"
 		},
 		"alerts": {
 			"max_rule_block_count": {
@@ -5387,7 +5391,6 @@
 		"historical": "Historical",
 		"homeless": "Homeless",
 		"horticulture": "Horticulture",
-		"ice_skating": "Ice Skating",
 		"idol": "Idol",
 		"indigenous_cultures": "Indigenous Cultures",
 		"inn": "Inn",
@@ -5595,7 +5598,10 @@
 		"prophecy": "Prophecy",
 		"cheating": "Cheating",
 		"incest": "Incest",
-		"inseki": "Inseki"
+		"inseki": "Inseki",
+		"exiled": "Exiled",
+		"middle_east": "Middle east",
+		"ice_sports": "Ice Sports"
 	},
 	"genre_tags": {
 		"action": "Action",

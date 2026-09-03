@@ -499,7 +499,10 @@
 			"ranked": "Ranked",
 			"ranked_finished": "Ferdig",
 			"ranked_types": {
-				"novice": { "title": "Novise", "description": "45 sanger målrettet mot nye og oppkommende spillere" },
+				"novice": {
+					"title": "Novise",
+					"description": "45 sanger målrettet mot nye og oppkommende spillere"
+				},
 				"expert": {
 					"title": "Ekspert",
 					"description": "85 sanger målrettet mot erfarne spillere. Belønner med ekstra ranked-poeng"
@@ -540,7 +543,9 @@
 					"title": "Quiz ukeplan",
 					"text": "Se quiz ukeplanen og finn mer informasjon om modusen"
 				},
-				"region_time": { "text": "Region og tid til neste quiz" }
+				"region_time": {
+					"text": "Region og tid til neste quiz"
+				}
 			},
 			"alerts": {
 				"ranked_rules": {
@@ -549,9 +554,18 @@
 				}
 			},
 			"regions": {
-				"west": { "name": "Vest", "shorthand": "V" },
-				"east": { "name": "Øst", "shorthand": "Ø" },
-				"central": { "name": "Sentral", "shorthand": "S" }
+				"west": {
+					"name": "Vest",
+					"shorthand": "V"
+				},
+				"east": {
+					"name": "Øst",
+					"shorthand": "Ø"
+				},
+				"central": {
+					"name": "Sentral",
+					"shorthand": "S"
+				}
 			},
 			"week_year_2": "Uke _NUMBER_ av _YEAR_"
 		},
@@ -602,7 +616,9 @@
 			"free_donation": "Bruk gratis donasjon",
 			"free_donation_amount": "Beløp: _NUMBER_€",
 			"checkout": "Betal",
-			"popover": { "no_free_donation": "Gratis donasjonen allerede brukt denne måneden" },
+			"popover": {
+				"no_free_donation": "Gratis donasjonen allerede brukt denne måneden"
+			},
 			"alerts": {
 				"invalid_amount": {
 					"title": "Ugyldig donasjonsbeløp",
@@ -611,16 +627,27 @@
 						"minimum": "Minimumsbeløp for donasjon er på 1€"
 					}
 				},
-				"donation_error": { "title": "Donasjonsfeil" },
-				"donation_received": { "title": "Donasjon mottatt", "text": "Takk for at du støtter spillet!" },
-				"use_free_donation": { "title": "Bruk gratis donasjon", "text": "Du får én gratis donasjon i måned" }
+				"donation_error": {
+					"title": "Donasjonsfeil"
+				},
+				"donation_received": {
+					"title": "Donasjon mottatt",
+					"text": "Takk for at du støtter spillet!"
+				},
+				"use_free_donation": {
+					"title": "Bruk gratis donasjon",
+					"text": "Du får én gratis donasjon i måned"
+				}
 			},
 			"faq_button": "FAQ",
 			"faq_header": "FAQ",
 			"avatar_description_placeholder": "Kort beskrivelse av avatar",
 			"title": "Avatar-aksjon",
 			"approx_dollars_2": "Omtrent. $_SPAN_ _NUMBER_ _SPAN_",
-			"donation_choice_text": { "nomination": "Nominasjon", "secondary_choice": "Andre valg" },
+			"donation_choice_text": {
+				"nomination": "Nominasjon",
+				"secondary_choice": "Andre valg"
+			},
 			"recent_winner_queue": "Nylig vinnerkø",
 			"queue_empty": "Ingen nylige vinnere i køen"
 		},
@@ -730,7 +757,11 @@
 					"quiz_of_the_day": "Dagens Quiz"
 				}
 			},
-			"options": { "report": "Rapportér", "remove_friend": "Fjern venn", "join_game": "Bli med i et game" },
+			"options": {
+				"report": "Rapportér",
+				"remove_friend": "Fjern venn",
+				"join_game": "Bli med i et game"
+			},
 			"popout_messages": {
 				"not_in_game": "Du er ikke i et game",
 				"solo_game_invite": "Kan ikke invitere spillere til et sologame"
@@ -754,7 +785,12 @@
 			"description": "Tilkoblingsstatus til de forskjellige videoserverne",
 			"click_to_retest": "Klikk for å teste tilkoblingen på nytt",
 			"speed": "Latens: _SPANC_ _NUMBER_ _SPANC_",
-			"connection_status": { "good": "Bra", "okay": "OK", "poor": "Dårlig", "bad": "Elendig" }
+			"connection_status": {
+				"good": "Bra",
+				"okay": "OK",
+				"poor": "Dårlig",
+				"bad": "Elendig"
+			}
 		}
 	},
 	"player_profile": {
@@ -823,7 +859,10 @@
 			},
 			"unable_to_reserve": "Kan ikke reserveres kallenavn"
 		},
-		"alerts": { "error_getting_profile": "Spillerprofilhentingsfeil", "unknown_player": "Ukjent spiller" },
+		"alerts": {
+			"error_getting_profile": "Spillerprofilhentingsfeil",
+			"unknown_player": "Ukjent spiller"
+		},
 		"name_effects_entries": {
 			"challenger_color": {
 				"name": "Utfordrer",
@@ -892,10 +931,19 @@
 			},
 			"description": "AMQ Patreon-medlem"
 		},
-		"avatar": { "name": "_NAME_ merke", "description": "Lås opp 10 skinn/antrekk for _NAME_" },
+		"avatar": {
+			"name": "_NAME_ merke",
+			"description": "Lås opp 10 skinn/antrekk for _NAME_"
+		},
 		"mod": {
-			"name": { "game": "AMQ moderator", "jam": "AMQ jam quiz moderator" },
-			"description": { "game": "En del av AMQ moderatorteamet", "jam": "En del av AMQ jam quiz moderatorteamet" }
+			"name": {
+				"game": "AMQ moderator",
+				"jam": "AMQ jam quiz moderator"
+			},
+			"description": {
+				"game": "En del av AMQ moderatorteamet",
+				"jam": "En del av AMQ jam quiz moderatorteamet"
+			}
 		},
 		"aragaimu": {
 			"name": {
@@ -933,7 +981,10 @@
 		"backer_level": {
 			"title": "Patreon-nivå",
 			"tier": "Nivå _NUMBER_",
-			"rewards": { "emotes": "_NUMBER_ emoji", "tickets": "_NUMBER_ tickets" }
+			"rewards": {
+				"emotes": "_NUMBER_ emoji",
+				"tickets": "_NUMBER_ tickets"
+			}
 		},
 		"badge_level": "Merkenivå",
 		"badge_level_info": "Ditt merkenivå tilsvarer antall måneder du har vært medlem på nivå 2 eller høyere på Patreon",
@@ -949,9 +1000,18 @@
 			"manage": "Kontroller",
 			"empty": "Tom",
 			"states": {
-				"waiting_approval": { "name": "Venter på godkjenning", "shorthand": "V" },
-				"active": { "name": "Aktiv", "shorthand": "A" },
-				"disabled": { "name": "Deaktivert", "shorthand": "D" }
+				"waiting_approval": {
+					"name": "Venter på godkjenning",
+					"shorthand": "V"
+				},
+				"active": {
+					"name": "Aktiv",
+					"shorthand": "A"
+				},
+				"disabled": {
+					"name": "Deaktivert",
+					"shorthand": "D"
+				}
 			},
 			"error_deleting": "Emojislettingsfeil",
 			"upload_emote": {
@@ -999,7 +1059,12 @@
 	},
 	"setting_window": {
 		"title": "Innstillinger",
-		"tabs": { "game": "Spillet", "anime_list": "Animeliste", "graphics": "Grafikk", "audio": "Lyd" },
+		"tabs": {
+			"game": "Spillet",
+			"anime_list": "Animeliste",
+			"graphics": "Grafikk",
+			"audio": "Lyd"
+		},
 		"language": "Språk",
 		"auto_submit": {
 			"title": "Autoinnsending",
@@ -1009,9 +1074,18 @@
 			"title": "Listenummerering",
 			"description": "Vis antall sanger spilt fra hver spillers animeliste på resultattavlen"
 		},
-		"disable_emotes": { "title": "Deaktiver emoji", "description": "Deaktiver emojier fra å vises i chatter" },
-		"answer_time": { "title": "Svartid", "description": "Vis spillernes svartid på avataren deres" },
-		"anime_link": { "title": "Animelenke", "description": "Animesiden som er lenket i sanginformasjonen" },
+		"disable_emotes": {
+			"title": "Deaktiver emoji",
+			"description": "Deaktiver emojier fra å vises i chatter"
+		},
+		"answer_time": {
+			"title": "Svartid",
+			"description": "Vis spillernes svartid på avataren deres"
+		},
+		"anime_link": {
+			"title": "Animelenke",
+			"description": "Animesiden som er lenket i sanginformasjonen"
+		},
 		"auto_skip_vote": {
 			"title": "Auto-stem for hopp over",
 			"description": "Stem automatisk for å hoppe over etter svaret og/eller etter 2 sekunder i avspillingsfasen",
@@ -1052,7 +1126,10 @@
 			"openings": "Introsanger",
 			"endings": "Sluttsanger",
 			"inserts": "Innsatser",
-			"unwatched": { "title": "Usett", "description": "Videoer fra anime du ikke har sett" },
+			"unwatched": {
+				"title": "Usett",
+				"description": "Videoer fra anime du ikke har sett"
+			},
 			"high_risk": {
 				"title": "Høy risiko",
 				"description": "Videoer som sannsynligvis vil forårsake spoilere eller er upassende. Basert på spillerstatistikk"
@@ -1060,8 +1137,14 @@
 		},
 		"anime_list": {
 			"description": "Tilkoble din AniList-, MyAnimeList- eller Kitsu-liste, så bruker spillet animelisten din når den velger sanger med «Sett» innstillingen. _BREAK_ Lister oppdateres ukentlig eller når du klikker oppdater. For å fjerne en liste, oppdater den uten et brukernavn.",
-			"share_entries": { "title": "Del oppføringer", "description": "Vis når et program er fra din liste" },
-			"show_scores": { "title": "Del score", "description": "Vis animescoren din for program på din liste" },
+			"share_entries": {
+				"title": "Del oppføringer",
+				"description": "Vis når et program er fra din liste"
+			},
+			"show_scores": {
+				"title": "Del score",
+				"description": "Vis animescoren din for program på din liste"
+			},
 			"anilist_username": "AniList brukernavn",
 			"mal_username": "MyAnimeList brukernavn",
 			"mal_username_short": "MAL brukernavn",
@@ -1092,7 +1175,10 @@
 			"no_list": "Ingen liste",
 			"custom_lists": "Selvvalgte lister",
 			"custom_list_mode": {
-				"disable": { "title": "Deaktiver", "description": "Ikke bruk den selvvalgte listen for sangvalg" },
+				"disable": {
+					"title": "Deaktiver",
+					"description": "Ikke bruk den selvvalgte listen for sangvalg"
+				},
 				"list": {
 					"title": "Selvvalgt",
 					"description": "Bruk den selvvalgte listen som animeliste for sangvalg"
@@ -1112,7 +1198,11 @@
 			"particle_effects": {
 				"title": "Partikkeleffekter",
 				"description": "Kontrollerer antall partikler som bruker i effekter, for eksempel XP-animasjonen.",
-				"levels": { "off": "Av", "low": "Lav", "high": "Høy" }
+				"levels": {
+					"off": "Av",
+					"low": "Lav",
+					"high": "Høy"
+				}
 			},
 			"disable_floating_text": {
 				"title": "Deaktiver flytende tekst",
@@ -1127,9 +1217,16 @@
 			"effects": "Effekter",
 			"general": "General",
 			"notifications": "Varsler"
+		},
+		"hide_name": {
+			"title": "Skjul navn",
+			"description": "Vise some gjestebruker i påloggete spillere og romlisten."
 		}
 	},
-	"blocked_player_window": { "title": "Blokkertespillerliste", "remove_button": "Fjern" },
+	"blocked_player_window": {
+		"title": "Blokkertespillerliste",
+		"remove_button": "Fjern"
+	},
 	"change_password_window": {
 		"title": "Bytt passord",
 		"current_password": "Nåværende passord",
@@ -1148,7 +1245,11 @@
 		"ranked": "Ranked",
 		"all": "Alle",
 		"champs": "Mestere",
-		"regions": { "west": "Vestregionen", "central": "Sentralregionen", "east": "Østregionen" }
+		"regions": {
+			"west": "Vestregionen",
+			"central": "Sentralregionen",
+			"east": "Østregionen"
+		}
 	},
 	"tutorial_window": {
 		"title": "Opplæringer",
@@ -1163,7 +1264,11 @@
 			"workshop": "Verksted",
 			"rune_setup": "Rune oppsett"
 		},
-		"status": { "locked": "Tilgjengelig", "unlocked": "Utilgjengelig", "completed": "Fullført" }
+		"status": {
+			"locked": "Tilgjengelig",
+			"unlocked": "Utilgjengelig",
+			"completed": "Fullført"
+		}
 	},
 	"guidelines_window": {
 		"title": "Retningslinjer",
@@ -1255,12 +1360,22 @@
 			"auto_switch": {
 				"description": "Automatisk bytt mellom favorittavatarer på slutten av hvert game",
 				"auto_switch": "Auto-bytt",
-				"mode": { "random": "Tilfeldig", "off": "Av", "cycle": "Syklus" }
+				"mode": {
+					"random": "Tilfeldig",
+					"off": "Av",
+					"cycle": "Syklus"
+				}
 			}
 		},
 		"filters": {
-			"locked": { "title": "Låst", "description": "Vis innhold du ikke har låst opp" },
-			"unlocked": { "title": "Ulåst", "description": "Vis innhold du har låst opp" },
+			"locked": {
+				"title": "Låst",
+				"description": "Vis innhold du ikke har låst opp"
+			},
+			"unlocked": {
+				"title": "Ulåst",
+				"description": "Vis innhold du har låst opp"
+			},
 			"available": {
 				"title": "Tilgjengelig",
 				"description": "Vis innhold som er tilgjengelig for opplåsing i butikken"
@@ -1273,16 +1388,25 @@
 				"title": "Begrenset",
 				"description": "Vis innhold som bare er tilgjengelig i en begrenset periode"
 			},
-			"unlimited": { "title": "Ubegrenset", "description": "Vis innhold som alltid er tilgjengelig" },
+			"unlimited": {
+				"title": "Ubegrenset",
+				"description": "Vis innhold som alltid er tilgjengelig"
+			},
 			"exclusive": {
 				"title": "Eksklusiv",
 				"description": "Vis innhold som kan låses opp gjennom ticketsystemet"
 			},
-			"standard": { "title": "Standard", "description": "Vis innhold som kan låses opp med notes" },
+			"standard": {
+				"title": "Standard",
+				"description": "Vis innhold som kan låses opp med notes"
+			},
 			"title": "Filtre"
 		},
 		"background": "Bakgrunn",
-		"toggle": { "on": "Skru på", "off": "Skru av" },
+		"toggle": {
+			"on": "Skru på",
+			"off": "Skru av"
+		},
 		"poses": "Positur",
 		"pose_names": {
 			"base": "Base",
@@ -1318,30 +1442,51 @@
 			"tickets": "Tickets",
 			"avatar_token": "Avatar token",
 			"avatar_tokens": "Avatar tokens",
-			"menu": { "use": "Bruk", "history": "Historikk", "buy": "Kjøp", "gift": "Gave" },
+			"menu": {
+				"use": "Bruk",
+				"history": "Historikk",
+				"buy": "Kjøp",
+				"gift": "Gave"
+			},
 			"redeem_code": "Løs inn ticketkode",
-			"ticket_code_input": { "title": "Skriv inn ticketkode", "placeholder": "Ticketkode", "redeem": "Løs inn" },
+			"ticket_code_input": {
+				"title": "Skriv inn ticketkode",
+				"placeholder": "Ticketkode",
+				"redeem": "Løs inn"
+			},
 			"invalid_ticket_code": "Ugyldig ticketkode",
 			"ticket_code_redeemed_message": {
 				"title": "Ticketkode løst inn!",
 				"description": "_NUMBER_ tickets og _NUMBER2_ tokens mottatt."
 			},
 			"approx_dollar": "Omtrent. $_NUMBER_",
-			"patreon_promo": { "line_one": "Støtt Patreon for å få", "line_two": "mest mulig ticket for pengene!" },
+			"patreon_promo": {
+				"line_one": "Støtt Patreon for å få",
+				"line_two": "mest mulig ticket for pengene!"
+			},
 			"one_ticket": "1 ticket",
 			"ticket_pack": "_NUMBER_ pakke",
 			"gift_target": "Gavemål",
 			"gift_no_target_message": "Velg venn å gi gave til",
 			"gift_clear": "Ta bort",
-			"gift_message": { "title": "Kjøp ticketgave til _NAME_", "placeholder": "Gave melding: _MESSAGE_" },
-			"no_gift_target_message": { "title": "Gavemål ikke valgt", "description": "Velg et nedenfor" },
+			"gift_message": {
+				"title": "Kjøp ticketgave til _NAME_",
+				"placeholder": "Gave melding: _MESSAGE_"
+			},
+			"no_gift_target_message": {
+				"title": "Gavemål ikke valgt",
+				"description": "Velg et nedenfor"
+			},
 			"gift_no_friends": {
 				"title": "Ingen venner i vennelisten",
 				"description": "Du kan bare gi ticket til venner i vennelisten din."
 			},
 			"no_past_rolls": "Ingen tidligere _BREAK_ Ticketspinn",
 			"one_roll": "1 spinn",
-			"ten_roll": { "title": "10 spinn", "description": "Garantert sjelden eller høyere!" },
+			"ten_roll": {
+				"title": "10 spinn",
+				"description": "Garantert sjelden eller høyere!"
+			},
 			"token_description": "Velg en avatar for _BREAK_ 50% sjanse for den _BREAK_ på alle spinn",
 			"token_description_dropdown": "Velg en avatar ovenfor, og alle spinnene vil ha 50% sjanse for å være av den avataren",
 			"roll": "Spinn",
@@ -1426,12 +1571,23 @@
 			"standard": "Standard",
 			"unique": "Unik"
 		},
-		"decoration_buttons": { "front": "Front", "back": "Bak" },
-		"item_types": { "emote": "Emoji", "background": "Bakgrunn", "decoration": "Dekorasjon", "skin": "Skinn" },
+		"decoration_buttons": {
+			"front": "Front",
+			"back": "Bak"
+		},
+		"item_types": {
+			"emote": "Emoji",
+			"background": "Bakgrunn",
+			"decoration": "Dekorasjon",
+			"skin": "Skinn"
+		},
 		"ticket_reward_tier": "Ticketbelønningsnivå _TIER_",
 		"rhythm_price": "Rhythm pris",
 		"silver_hibike_description": "Unik lanseringsantrekk låses ioo ved å ha blitt med i spillet i løpet av lanseringsuken eller ved å låse opp alle ikke-unike antrekk for alle avatarer.",
-		"emote_previews": { "chat": "Chat", "profile": "Profil" },
+		"emote_previews": {
+			"chat": "Chat",
+			"profile": "Profil"
+		},
 		"emote_category_misc": "div.",
 		"seasonal_unlock_description": "Dette er et sesongbasert skinn, og er kun tilgjengelig i løpet av den årlige _NAME_ skinnsesongen"
 	},
@@ -1722,7 +1878,11 @@
 				"instrumental": "Instrumental",
 				"character": "Karakter"
 			},
-			"upload_status": { "title": "Opplastingsstatus", "uploaded": "Opplastet", "missing": "Mangler" },
+			"upload_status": {
+				"title": "Opplastingsstatus",
+				"uploaded": "Opplastet",
+				"missing": "Mangler"
+			},
 			"more_filters": "Flere filtre"
 		},
 		"search_targets": {
@@ -1737,7 +1897,11 @@
 		"strict_description": "Ikke inkluder grupper som artister tilhører når du søker etter artister/komponister/arrangører.",
 		"search": "Søk",
 		"anime_entry": {
-			"song_counts": { "op": "OP _NUMBER_", "ed": "ED _NUMBER_", "insert": "IN _NUMBER_" },
+			"song_counts": {
+				"op": "OP _NUMBER_",
+				"ed": "ED _NUMBER_",
+				"insert": "IN _NUMBER_"
+			},
 			"vintage": {
 				"winter": "Vinter _YEAR_",
 				"spring": "Vår _YEAR_",
@@ -1751,7 +1915,11 @@
 			"more_info": "Mer info"
 		},
 		"song_entry": {
-			"type": { "ed": "ED_NUMBER_", "in": "IN", "op": "OP_NUMBER_" },
+			"type": {
+				"ed": "ED_NUMBER_",
+				"in": "IN",
+				"op": "OP_NUMBER_"
+			},
 			"dub": "Dubb",
 			"rebroadcast": "Reprise",
 			"composer": "Komponist",
@@ -1772,11 +1940,18 @@
 			},
 			"submit": "Send inn",
 			"insert_litterbox_url": "Skriv inn litterbox-lenke",
-			"like_options": { "like": "Liker", "dislike": "Liker ikke", "unset": "Nullstill" },
+			"like_options": {
+				"like": "Liker",
+				"dislike": "Liker ikke",
+				"unset": "Nullstill"
+			},
 			"upload_state_messages": {
 				"missing": "Mangler",
 				"pending": "Venter på godkjenning",
-				"uploaded": { "title": "Opplastet", "description": "Klikk for å se" }
+				"uploaded": {
+					"title": "Opplastet",
+					"description": "Klikk for å se"
+				}
 			},
 			"anime_header": "Anime:"
 		},
@@ -1887,7 +2062,11 @@
 			},
 			"song_entry_anime_description": {
 				"format": "_TYPE_ - _NAME_",
-				"type": { "op": "OP_NUMBER_", "ed": "ED_NUMBER_", "in": "IN" }
+				"type": {
+					"op": "OP_NUMBER_",
+					"ed": "ED_NUMBER_",
+					"in": "IN"
+				}
 			},
 			"max_list_count": {
 				"title": "Maks antall selvvalgte lister nådd",
@@ -1899,7 +2078,9 @@
 			},
 			"delete_list": "Slett liste",
 			"share_list": "Del liste",
-			"share_code_message": { "title": "Delingskode" },
+			"share_code_message": {
+				"title": "Delingskode"
+			},
 			"max_list_message": {
 				"title": "Maks antall selvvalgte lister nådd",
 				"description": "Du kan ha maksimalt _NUMBER_ selvvalgte lister."
@@ -1939,8 +2120,14 @@
 		"other_names": "Andre navn",
 		"members": "Medlemmer",
 		"member_of": "Medlem av",
-		"group": { "title": "Gruppe", "shorthand": "G" },
-		"artist": { "title": "Artist", "shorthand": "A" }
+		"group": {
+			"title": "Gruppe",
+			"shorthand": "G"
+		},
+		"artist": {
+			"title": "Artist",
+			"shorthand": "A"
+		}
 	},
 	"community_quiz_window": {
 		"title": "Fellesskapsquizer",
@@ -1959,20 +2146,34 @@
 			"most_played": "Mest spilte"
 		},
 		"search_for_quizzes": "Søk etter quizer",
-		"song_types": { "op": "OP", "ed": "ED", "in": "IN" },
-		"difficulties": { "easy": "Lett", "medium": "Middels", "hard": "Vanskelig" },
+		"song_types": {
+			"op": "OP",
+			"ed": "ED",
+			"in": "IN"
+		},
+		"difficulties": {
+			"easy": "Lett",
+			"medium": "Middels",
+			"hard": "Vanskelig"
+		},
 		"upload_time": {
 			"last_24_hours": "Siste 24 timer",
 			"last_week": "Forrige uke",
 			"last_month": "Forrige måned",
 			"all_time": "Alltid"
 		},
-		"play_state": { "played": "Spilt", "unplayed": "Uspilt" },
+		"play_state": {
+			"played": "Spilt",
+			"unplayed": "Uspilt"
+		},
 		"slots_available": "Plasser tilgjengelig",
 		"buy_slots": "Kjøp plasser",
 		"buy_quiz_slots": "Kjøp quizplasser",
 		"unlimited_slots": "Ubegrenset",
-		"one_slot_entry": { "title": "1 plass", "description": "Lås opp én enkel quizplass permanent" },
+		"one_slot_entry": {
+			"title": "1 plass",
+			"description": "Lås opp én enkel quizplass permanent"
+		},
 		"unlimited_slot_entry": {
 			"title": "Ubegrenset",
 			"description": "Lås opp ubegrensede plasser for en engangsbetalling",
@@ -1991,7 +2192,10 @@
 			"song_types": "Sangtyper:",
 			"difficulty": "Vanskelighet:",
 			"selection": "Utvalg:",
-			"selection_types": { "random": "Tilfeldig", "watched": "Sett" },
+			"selection_types": {
+				"random": "Tilfeldig",
+				"watched": "Sett"
+			},
 			"guess_mode": "Gjettingsmodus:"
 		},
 		"highscores": {
@@ -2022,12 +2226,18 @@
 				"title": "Quizkloningsfeil",
 				"description": "Det oppsto en feil under kloningen av quizen, prøv igjen senere."
 			},
-			"quiz_cloned": { "title": "Quiz klonet", "description": "Quizen er klonet." },
+			"quiz_cloned": {
+				"title": "Quiz klonet",
+				"description": "Quizen er klonet."
+			},
 			"quiz_reported": {
 				"title": "Quiz rapportert",
 				"description": "Quizen er rapportert til moderatorene og vil bli gjennomgått."
 			},
-			"quiz_deleted": { "title": "Quiz slettet", "description": "Quizen er slettet." },
+			"quiz_deleted": {
+				"title": "Quiz slettet",
+				"description": "Quizen er slettet."
+			},
 			"slot_unlocked": "Quizplasser er låst opp",
 			"unlimited_slots_unlocked": "Ubegrenset antall quizplasser er låst opp",
 			"no_slots_available": {
@@ -2038,7 +2248,11 @@
 				"title": "Slett quiz",
 				"description": "Er du sikker på at du vil slette denne quizen for godt?"
 			},
-			"clone_quiz": { "title": "Klon quiz", "input_text": "Nytt navn", "confirm_button": "Klon" },
+			"clone_quiz": {
+				"title": "Klon quiz",
+				"input_text": "Nytt navn",
+				"confirm_button": "Klon"
+			},
 			"publish_quiz_confirmation": {
 				"title": "Publiser quiz",
 				"description": "Offentlig quizer kan spilles av alle. Når en quiz er offentlig, kan du ikke lenger redigere eller slette den.",
@@ -2069,7 +2283,10 @@
 				"title": "Publiseringsgrense er nådd",
 				"description": "Du har nådd det maksimale antall publiserte quizer på 10 innen 24 timer, prøv igjen senere."
 			},
-			"quiz_published": { "title": "Quiz publisert", "description": "Quizen er publisert." },
+			"quiz_published": {
+				"title": "Quiz publisert",
+				"description": "Quizen er publisert."
+			},
 			"error_creating_new_version": {
 				"title": "Nyversjonsfeil",
 				"description": "Det oppsto en feil under forsøket på å opprette en ny versjon av quizen. Prøv igjen senere."
@@ -2096,12 +2313,18 @@
 			"unshare": "Opphev delingen av denne quizen med venner",
 			"creation_date": "Opprettelsesdato",
 			"quiz_id": "Quiz-ID",
-			"recently_published": { "title": "Nylig publisert", "description": "Plasser låst til: _DATE_" },
+			"recently_published": {
+				"title": "Nylig publisert",
+				"description": "Plasser låst til: _DATE_"
+			},
 			"locked_slot": {
 				"title": "Låst plass",
 				"description": "En låst plass bruker ikke en tilgjengelig plass, men kan bare klones eller slettes. For å låse opp, få et ubegrenset antall plasser igjen."
 			},
-			"new_version": { "title": "Ny versjon", "description": "Dette er en ny versjon av quiz #_NUMBER_." }
+			"new_version": {
+				"title": "Ny versjon",
+				"description": "Dette er en ny versjon av quiz #_NUMBER_."
+			}
 		},
 		"checkout": {
 			"unlock": "Lås opp plasser for fellesskapsquizer",
@@ -2132,12 +2355,28 @@
 				"title": "Gullmedalje",
 				"description": "Fikk 80% riktig på denne quizen! Neste er diamant med 100%"
 			},
-			"diamond": { "title": "Diamantmedalje", "description": "Fikk 100% riktig på denne quizen!" }
+			"diamond": {
+				"title": "Diamantmedalje",
+				"description": "Fikk 100% riktig på denne quizen!"
+			}
 		},
-		"create_new_quiz_tile": { "message": "Lag ny quiz", "title": "Ny quiz" },
-		"unlock_at_tile": { "message": "Låses opp på level _NUMBER_", "title": "Låst" },
-		"shared_states": { "friends": "Quiz delt med venner", "public": "Offentlig quiz" },
-		"guess_modes": { "song": "Sang", "tiny": "Liten", "blur": "Uskarp" },
+		"create_new_quiz_tile": {
+			"message": "Lag ny quiz",
+			"title": "Ny quiz"
+		},
+		"unlock_at_tile": {
+			"message": "Låses opp på level _NUMBER_",
+			"title": "Låst"
+		},
+		"shared_states": {
+			"friends": "Quiz delt med venner",
+			"public": "Offentlig quiz"
+		},
+		"guess_modes": {
+			"song": "Sang",
+			"tiny": "Liten",
+			"blur": "Uskarp"
+		},
 		"versions": "Versjoner"
 	},
 	"community_quiz_tags": {
@@ -2151,9 +2390,22 @@
 		"setup_game": "Sett opp game",
 		"select_settings_to_load": "Velg innstillinger som skal lastes inn",
 		"load_from_code": "Last inn fra kode",
-		"tabs": { "quick": "Raskt", "advanced": "Avansert", "save": "Lagre", "load": "Last inn" },
-		"categories": { "mode": "Modus", "general": "Generell", "quiz": "Quiz", "anime": "Anime" },
-		"quiz_mode": { "standard_quiz": "Standardquiz", "community_quiz": "Fellesskapsquiz" },
+		"tabs": {
+			"quick": "Raskt",
+			"advanced": "Avansert",
+			"save": "Lagre",
+			"load": "Last inn"
+		},
+		"categories": {
+			"mode": "Modus",
+			"general": "Generell",
+			"quiz": "Quiz",
+			"anime": "Anime"
+		},
+		"quiz_mode": {
+			"standard_quiz": "Standardquiz",
+			"community_quiz": "Fellesskapsquiz"
+		},
 		"buttons": {
 			"exit": "Gå ut",
 			"host": "Vert",
@@ -2189,9 +2441,18 @@
 		"swap_button_description": "Bytt mellom fellesskaps- og standardquiz",
 		"game_mode": {
 			"title": "Spillmodus",
-			"standard": { "title": "Standardquiz", "description": "Konkurrer i å gjette flest sanger" },
-			"hint": { "title": "Hint", "description": "Få hint til sanger, men tjen færre poeng når hint brukes" },
-			"quick_draw": { "title": "Førstemann", "description": "Tjen flere poeng jo raskere du gjetter sangen" },
+			"standard": {
+				"title": "Standardquiz",
+				"description": "Konkurrer i å gjette flest sanger"
+			},
+			"hint": {
+				"title": "Hint",
+				"description": "Få hint til sanger, men tjen færre poeng når hint brukes"
+			},
+			"quick_draw": {
+				"title": "Førstemann",
+				"description": "Tjen flere poeng jo raskere du gjetter sangen"
+			},
 			"lives": {
 				"title": "Liv",
 				"description": "Start med liv, og du mister ett hver gang du bommer på et program"
@@ -2219,10 +2480,22 @@
 			"add_to_advanced": "legg til i avasert filter"
 		},
 		"season_selector": {
-			"winter": { "title": "Vinter", "shorthand": "V" },
-			"spring": { "title": "Vår", "shorthand": "V" },
-			"summer": { "title": "Sommer", "shorthand": "S" },
-			"fall": { "title": "Høst", "shorthand": "H" }
+			"winter": {
+				"title": "Vinter",
+				"shorthand": "V"
+			},
+			"spring": {
+				"title": "Vår",
+				"shorthand": "V"
+			},
+			"summer": {
+				"title": "Sommer",
+				"shorthand": "S"
+			},
+			"fall": {
+				"title": "Høst",
+				"shorthand": "H"
+			}
 		},
 		"anime_type": {
 			"title": "Type",
@@ -2241,9 +2514,17 @@
 			"title": "Tagger",
 			"description": "Tagger bestemmes ved hjelp av AniList. Hvis valgfri brukes, vil animeen kreve minst én valgfri tagg."
 		},
-		"number_of_players": { "title": "Antall spillere", "unlimited": "Ubegrensede" },
-		"number_of_songs": { "title": "Antall sanger" },
-		"team_size": { "title": "Lagstørrelse", "solo": "Solo" },
+		"number_of_players": {
+			"title": "Antall spillere",
+			"unlimited": "Ubegrensede"
+		},
+		"number_of_songs": {
+			"title": "Antall sanger"
+		},
+		"team_size": {
+			"title": "Lagstørrelse",
+			"solo": "Solo"
+		},
 		"song_selection": {
 			"title": "Sangvalg",
 			"description": "Hvordan sanger velges for quizen. Sett dekker all anime som er sett av en spiller.",
@@ -2269,9 +2550,18 @@
 		"song_categories": {
 			"title": "Sangkategorier",
 			"description": "Filtrer hvilken kategori sanger som er valgt for hver sangtype. Hold musepekeren over kategoriene nedenfor for å få en beskrivelse av dem.",
-			"standard": { "title": "Standard", "description": "Sanger som ikke er i noen av de andre kategoriene" },
-			"chanting": { "title": "Messing", "description": "Sanger med messing som eneste hovedvokal" },
-			"instrumental": { "title": "Instrumental", "description": "Sanger uten vokal" },
+			"standard": {
+				"title": "Standard",
+				"description": "Sanger som ikke er i noen av de andre kategoriene"
+			},
+			"chanting": {
+				"title": "Messing",
+				"description": "Sanger med messing som eneste hovedvokal"
+			},
+			"instrumental": {
+				"title": "Instrumental",
+				"description": "Sanger uten vokal"
+			},
 			"character": {
 				"title": "Karakter",
 				"description": "Sanger sunget av karakterer uten å være del av en musikalsk opptrend"
@@ -2291,7 +2581,10 @@
 				"title": "Hint",
 				"description": "Spillere kan få hint til sanger, men tjener færre poeng når hint brukes"
 			},
-			"speed": { "title": "Fart", "description": "Spillere tjener flere poeng jo raskere de gjettet sangen" },
+			"speed": {
+				"title": "Fart",
+				"description": "Spillere tjener flere poeng jo raskere de gjettet sangen"
+			},
 			"lives": {
 				"title": "Liv",
 				"description": "Spillere starter med et bestemt antall liv, og mister 1 liv hver gang de får en sang feil og en annen spiller får den riktig"
@@ -2304,7 +2597,10 @@
 		"show_selection": {
 			"title": "Programvalg",
 			"description": "Hvordan programmer velges for quizen",
-			"auto": { "title": "Auto", "description": "Spillet velger tilfeldige programmer utifra innstillingene" },
+			"auto": {
+				"title": "Auto",
+				"description": "Spillet velger tilfeldige programmer utifra innstillingene"
+			},
 			"looting": {
 				"title": "Innsamling",
 				"description": "Spill én innsamlingsfasen før quizen, hvor spillerne beveger seg rundt og samler programmene som blir brukt for quizen"
@@ -2321,11 +2617,23 @@
 				"title": "Blandet",
 				"description": "Alle spillere kan velge mellom å svare ved å skrive inn og flervalg"
 			},
-			"multiple_choice": { "title": "Flervalg", "description": "Spillere kan velge mellom 4 svaralternativ" }
+			"multiple_choice": {
+				"title": "Flervalg",
+				"description": "Spillere kan velge mellom 4 svaralternativ"
+			}
 		},
-		"lives": { "title": "Liv", "description": "Antall liv spillerne starter med" },
-		"boss_lives": { "title": "Bossliv", "description": "Antall liv bossen starter med" },
-		"boss_power_ups": { "title": "Boss power-ups", "description": "Antall unike power-ups bossen kan bruke" },
+		"lives": {
+			"title": "Liv",
+			"description": "Antall liv spillerne starter med"
+		},
+		"boss_lives": {
+			"title": "Bossliv",
+			"description": "Antall liv bossen starter med"
+		},
+		"boss_power_ups": {
+			"title": "Boss power-ups",
+			"description": "Antall unike power-ups bossen kan bruke"
+		},
 		"boss_max_song_count": {
 			"title": "Maks antall boss sanger",
 			"description": "Maksimalt antall sanger bossen kan få. Hvis de overlever alle sangene, tjener de bonuspoeng basert på antall liv de har igjen"
@@ -2365,7 +2673,10 @@
 			"end": "Slutt",
 			"percent_range_display": "_NUMBER_%-_NUMBER2_% inni sangen"
 		},
-		"playback_speed": { "title": "Avspillingshastighet", "description": "Hastigheten sangen blir spilt i" },
+		"playback_speed": {
+			"title": "Avspillingshastighet",
+			"description": "Hastigheten sangen blir spilt i"
+		},
 		"song_difficulty": {
 			"title": "Sangvansklighet",
 			"description": "Vansklighetsgraden på de valgte sangene",
@@ -2398,7 +2709,10 @@
 				"title": "Hopp over resultater",
 				"description": "Tillat at resultatfasen kan hoppes over"
 			},
-			"queueing": { "title": "Kø", "description": "Tillat tilskuere stille seg i kø for å bli med i game" },
+			"queueing": {
+				"title": "Kø",
+				"description": "Tillat tilskuere stille seg i kø for å bli med i game"
+			},
 			"duplicate_shows": {
 				"title": "Duplikat program",
 				"description": "Tillat at programmer har flere av sangene sine valgt i samme game"
@@ -2420,7 +2734,11 @@
 				"description": "Tillat spillere å bli med etter quizen har startet"
 			}
 		},
-		"filter_types": { "include": "Inkludere", "exclude": "Ekskludere", "optional": "Valgfri" },
+		"filter_types": {
+			"include": "Inkludere",
+			"exclude": "Ekskludere",
+			"optional": "Valgfri"
+		},
 		"alerts": {
 			"room_name_missing": "Romnavn er obligatorisk",
 			"room_name_too_long": {
@@ -2459,14 +2777,26 @@
 			"name_too_long": "Navnet kan maksimalt være på _NUMBER_ tegn",
 			"max_saved_settings": "Maksimalt antall av _NUMBER_ lagrede innstillinger er nådd"
 		},
-		"delete_saved_setting": { "title": "Slett lagret innstilling", "confirm_button": "Slett" },
-		"get_code": { "title": "Hent kode for innstillinger", "setting_code": "Innstillingskode" },
+		"delete_saved_setting": {
+			"title": "Slett lagret innstilling",
+			"confirm_button": "Slett"
+		},
+		"get_code": {
+			"title": "Hent kode for innstillinger",
+			"setting_code": "Innstillingskode"
+		},
 		"loading_disabled": "Innlasting deaktivert",
 		"song_pool": {
 			"title": "Sangsamling",
 			"description": "Basisutvalget av sanger som brukes til quizen, før andre filtre brukes.",
-			"all": { "title": "Alt", "description": "Alle sanger i AMQ-databasen" },
-			"community": { "title": "Fellesskap", "description": "Alle sangene fra en felleskapsquiz" },
+			"all": {
+				"title": "Alt",
+				"description": "Alle sanger i AMQ-databasen"
+			},
+			"community": {
+				"title": "Fellesskap",
+				"description": "Alle sangene fra en felleskapsquiz"
+			},
 			"lists": {
 				"title": "Lister",
 				"description": "Velg én eller flere spillers lister og selvvalgte lister å inkludere eller ekskludere sanger fra."
@@ -2481,7 +2811,10 @@
 		"guess_mode": {
 			"title": "Gjettingsmodus",
 			"description": "Type sang eller video som spilles av i gjettingsfasen",
-			"music": { "title": "Sang", "description": "Spill sangen i gjettingsfasen" },
+			"music": {
+				"title": "Sang",
+				"description": "Spill sangen i gjettingsfasen"
+			},
 			"tiny_video": {
 				"title": "Liten video",
 				"description": "Spill av en liten del av videoen i gjettingsfasen"
@@ -2494,7 +2827,10 @@
 		},
 		"hint": {
 			"cost": "Pris",
-			"song_points": { "title": "Sangpoeng", "description": "Antall poeng en sang er verdt uten hint" },
+			"song_points": {
+				"title": "Sangpoeng",
+				"description": "Antall poeng en sang er verdt uten hint"
+			},
 			"name_hint": "Navnhint",
 			"info_hint": "Infohint",
 			"multiple_choice_hint": "Flervalgshint",
@@ -2512,10 +2848,28 @@
 				"open": "Åpen",
 				"friends": "Venner"
 			},
-			"show_selection": { "title": "Programvalg", "auto": "Auto", "looting": "Innsamling" },
-			"answering_mode": { "title": "Svarmodus", "typing": "Skriv", "multiple_choice": "Flervalg" },
-			"song_type": { "title": "Sangtyper", "openings": "Introer", "endings": "Slutter", "inserts": "Innsatser" },
-			"song_selection": { "title": "Sangvalg", "watched": "Sett", "unwatched": "Usett", "random": "Tilfeldig" },
+			"show_selection": {
+				"title": "Programvalg",
+				"auto": "Auto",
+				"looting": "Innsamling"
+			},
+			"answering_mode": {
+				"title": "Svarmodus",
+				"typing": "Skriv",
+				"multiple_choice": "Flervalg"
+			},
+			"song_type": {
+				"title": "Sangtyper",
+				"openings": "Introer",
+				"endings": "Slutter",
+				"inserts": "Innsatser"
+			},
+			"song_selection": {
+				"title": "Sangvalg",
+				"watched": "Sett",
+				"unwatched": "Usett",
+				"random": "Tilfeldig"
+			},
 			"scoring": {
 				"title": "Scoring",
 				"count": "Telling",
@@ -2564,7 +2918,11 @@
 				"song_types": "Sangtyper",
 				"friends": "Venner"
 			},
-			"song_types": { "opening": "Introer", "ending": "Slutter", "insert": "Innsatser" },
+			"song_types": {
+				"opening": "Introer",
+				"ending": "Slutter",
+				"insert": "Innsatser"
+			},
 			"join": "Bli med",
 			"spectate": "Se på",
 			"game_mode": {
@@ -2577,7 +2935,12 @@
 				"amq_awards": "AMQ-prisene",
 				"standard": "Standard"
 			},
-			"song_selection": { "random": "Tilfeldig", "mix": "Blandet", "watched": "Sett", "custom": "Selvvalgt" },
+			"song_selection": {
+				"random": "Tilfeldig",
+				"mix": "Blandet",
+				"watched": "Sett",
+				"custom": "Selvvalgt"
+			},
 			"room_closed": "Stengt rom",
 			"password": {
 				"title": "Passord kreves",
@@ -2585,6 +2948,10 @@
 				"confirm_button": "Bli med",
 				"wrong_password": "Feil passord",
 				"game_closed": "Game eksisterer ikke lenger"
+			},
+			"player_list": {
+				"players": "Spillere",
+				"spectators": "Tilskuere"
 			}
 		},
 		"nexus_lobbies": {
@@ -2600,8 +2967,15 @@
 				"description": "Nexus lobbyen du prøver å bli med i finnes ikke eller er strengt"
 			},
 			"room_settings": {
-				"type": { "endless": "Uendelig", "standard": "Standard" },
-				"song_type": { "opening": "OP", "ending": "ED", "insert": "IN" },
+				"type": {
+					"endless": "Uendelig",
+					"standard": "Standard"
+				},
+				"song_type": {
+					"opening": "OP",
+					"ending": "ED",
+					"insert": "IN"
+				},
 				"difficulty": {
 					"easy": "Lett",
 					"medium": "Middels",
@@ -2609,8 +2983,14 @@
 					"beginner": "Begynner",
 					"expert": "Ekspert"
 				},
-				"song_selection": { "watched": "Sett", "random": "Tilfeldig" },
-				"answering_mode": { "typing": "Skriving", "multiple_choice": "Flervalg" },
+				"song_selection": {
+					"watched": "Sett",
+					"random": "Tilfeldig"
+				},
+				"answering_mode": {
+					"typing": "Skriving",
+					"multiple_choice": "Flervalg"
+				},
 				"floor": "Etasje _NUMBER_"
 			}
 		}
@@ -2636,17 +3016,27 @@
 			"title": "Tittelblokk",
 			"description": "Tittelblokker legger til en tittel som vises under quizen"
 		},
-		"sample_selector": { "start": "Start", "end": "Slutt" },
+		"sample_selector": {
+			"start": "Start",
+			"end": "Slutt"
+		},
 		"save_window": {
 			"title": "Lagre quiz",
-			"description": { "title": "Beskrivelse", "placeholder": "Skriv inn en beskrivelse for quizen din" },
+			"description": {
+				"title": "Beskrivelse",
+				"placeholder": "Skriv inn en beskrivelse for quizen din"
+			},
 			"tags": "Tagger",
 			"tags_max_warning": "Maks 2 tagger tillatt",
 			"save_button": "Lagre",
 			"saving": "Lagrer"
 		},
 		"algorithm_block": {
-			"song_type": { "opening": "OP", "ending": "ED", "insert": "IN" },
+			"song_type": {
+				"opening": "OP",
+				"ending": "ED",
+				"insert": "IN"
+			},
 			"genres": "_SPANC_ _NUMBER_ _SPANC_ sjangere",
 			"tags": "_SPANC_ _NUMBER_ _SPANC_ tagger",
 			"popovers": {
@@ -2660,10 +3050,19 @@
 				"tag_count": "Antall valgte tagger",
 				"song_types": "Sangtyper"
 			},
-			"song_selection": { "watched": "Sett", "unwatched": "Usett", "random": "Tilfeldig", "mixed": "Blandet" }
+			"song_selection": {
+				"watched": "Sett",
+				"unwatched": "Usett",
+				"random": "Tilfeldig",
+				"mixed": "Blandet"
+			}
 		},
 		"anime_block": {
-			"song_type": { "opening": "OP _NUMBER_", "ending": "ED _NUMBER_", "insert": "IN _NUMBER_" },
+			"song_type": {
+				"opening": "OP _NUMBER_",
+				"ending": "ED _NUMBER_",
+				"insert": "IN _NUMBER_"
+			},
 			"number_of_songs_selected": {
 				"description": "Antall sanger valgt fra denne animeblokken",
 				"label": "Antall sanger"
@@ -2695,7 +3094,10 @@
 				"random": "Tilfeldig",
 				"sequential": "Sekvensielt"
 			},
-			"song_count": { "description": "Antall sanger valgt fra denne blokken", "label": "Antall sanger" },
+			"song_count": {
+				"description": "Antall sanger valgt fra denne blokken",
+				"label": "Antall sanger"
+			},
 			"guess_mode": {
 				"one_selected_alert": {
 					"title": "Minst én gjettingsmodus må velges",
@@ -2708,9 +3110,16 @@
 		},
 		"song_block": {
 			"song_by_artist": "_SPANC_ _NAME_ _SPANC_ av _SPANC2_ _NAME2_ _SPANC2_",
-			"song_types": { "opening": "OP_NUMBER_", "ending": "ED_NUMBER_", "insert": "IN" }
+			"song_types": {
+				"opening": "OP_NUMBER_",
+				"ending": "ED_NUMBER_",
+				"insert": "IN"
+			}
 		},
-		"no_songs_warning": { "title": "Ingen sanger i blokken", "description": "Ingen sanger funnet i denne blokken" },
+		"no_songs_warning": {
+			"title": "Ingen sanger i blokken",
+			"description": "Ingen sanger funnet i denne blokken"
+		},
 		"rule_labels": {
 			"guess_time": "Gjettingstid",
 			"extra_guess_time": "Ekstra gjettingstid",
@@ -2768,7 +3177,10 @@
 			}
 		},
 		"page_close_warning": "Hvis du forlater siden, mister du all ulagret progresjon.",
-		"title_block": { "title": "Tittel", "placeholder": "Tittel - La stå tomt for å fjerne tittel" },
+		"title_block": {
+			"title": "Tittel",
+			"placeholder": "Tittel - La stå tomt for å fjerne tittel"
+		},
 		"message_block": {
 			"placeholder": "Melding - La stå tomt for å kun vise avatar",
 			"select_avatar": "Velg avatar",
@@ -2782,8 +3194,16 @@
 		},
 		"message_avatar_selector": {
 			"title": "Velg avatar",
-			"steps": { "avatar": "Avatar", "skin": "Skinn", "version": "Versjon", "pose": "Positur" },
-			"buttons": { "clear_selection": "Fjern valg", "select": "Velg" }
+			"steps": {
+				"avatar": "Avatar",
+				"skin": "Skinn",
+				"version": "Versjon",
+				"pose": "Positur"
+			},
+			"buttons": {
+				"clear_selection": "Fjern valg",
+				"select": "Velg"
+			}
 		},
 		"rule_block_random_order_button": {
 			"title": "Regelblokk tilfeldig rekkefølge",
@@ -2869,7 +3289,11 @@
 		"team": "Lag",
 		"host": "Vert",
 		"team_unset": "Avaktiver",
-		"join_themed_team": { "title": "Bli med et lag", "placeholder": "Angi lagkode", "join_button": "Bli med" },
+		"join_themed_team": {
+			"title": "Bli med et lag",
+			"placeholder": "Angi lagkode",
+			"join_button": "Bli med"
+		},
 		"main_button": {
 			"start": "Start",
 			"join": "Bli med",
@@ -2880,7 +3304,9 @@
 			"starts_in": "Starter om",
 			"starting_soon": "Starter snart"
 		},
-		"blocked_join_messages": { "ranked_championship": "Bare de 150 beste spillerne i regionen kan bli med" },
+		"blocked_join_messages": {
+			"ranked_championship": "Bare de 150 beste spillerne i regionen kan bli med"
+		},
 		"community_quiz": {
 			"click_to_select": "Klikk her for å velge en quiz",
 			"click_to_change": "Valgt fellesskapsquiz _BREAK_ Klikk for å endre",
@@ -2968,7 +3394,11 @@
 			"host_afk": "Vert er AFK",
 			"no_players": "Ingen spillere"
 		},
-		"mode_ids": { "ranked": "#Ranked", "themed": "#Tema", "event": "#Event" },
+		"mode_ids": {
+			"ranked": "#Ranked",
+			"themed": "#Tema",
+			"event": "#Event"
+		},
 		"too_many_custom_settings": {
 			"title": "For mange egendefinerte innstillinger",
 			"description": "For mange egendefinerte innstillinger. Prøv å fjerne noen tagger og/eller årganger"
@@ -3021,18 +3451,45 @@
 				"mainly_watched": "Hovedsakelig sett",
 				"only_watched": "Bare sett"
 			},
-			"show_selection": { "auto": "Auto", "looting": "Innsamling" },
-			"answering_mode": { "typing": "Skriving", "multiple_choice": "Flervalg", "mix": "Blandet" },
-			"watched_distribution": { "random": "Tilfeldig", "weighted": "Vektet", "equal": "Likt" },
-			"sample_point": { "start": "Start", "middle": "Middel", "end": "Slutt", "random": "Tilfeldig" },
-			"score_type": { "count": "Telling", "speed": "Fart", "hint": "Hint", "lives": "Liv", "boss": "Boss" },
+			"show_selection": {
+				"auto": "Auto",
+				"looting": "Innsamling"
+			},
+			"answering_mode": {
+				"typing": "Skriving",
+				"multiple_choice": "Flervalg",
+				"mix": "Blandet"
+			},
+			"watched_distribution": {
+				"random": "Tilfeldig",
+				"weighted": "Vektet",
+				"equal": "Likt"
+			},
+			"sample_point": {
+				"start": "Start",
+				"middle": "Middel",
+				"end": "Slutt",
+				"random": "Tilfeldig"
+			},
+			"score_type": {
+				"count": "Telling",
+				"speed": "Fart",
+				"hint": "Hint",
+				"lives": "Liv",
+				"boss": "Boss"
+			},
 			"song_type": {
 				"openings": "Introsanger",
 				"endings": "Sluttsanger",
 				"inserts": "Innsatser",
 				"random": "Tilfeldig"
 			},
-			"vintage_seasons": { "winter": "Vinter", "spring": "Vår", "summer": "Sommer", "fall": "Høst" },
+			"vintage_seasons": {
+				"winter": "Vinter",
+				"spring": "Vår",
+				"summer": "Sommer",
+				"fall": "Høst"
+			},
 			"titles": {
 				"vintage": "Årgang",
 				"anime_score": "Animescore",
@@ -3108,7 +3565,11 @@
 				"community_quiz": "Felleskapsquiz",
 				"all_songs": "Alle sanger"
 			},
-			"guess_mode": { "music": "Musikk", "tiny_video": "Liten video", "blur_video": "Uskarp video" },
+			"guess_mode": {
+				"music": "Musikk",
+				"tiny_video": "Liten video",
+				"blur_video": "Uskarp video"
+			},
 			"hints": {
 				"song_points": "Hintsangpoengpris",
 				"name_cost": "Navnhintpris",
@@ -3187,7 +3648,10 @@
 			"players_left": "Boss spillere igjen",
 			"powers_left": "_SPAN_ _NUMBER_ _SPAN_ powers igjen",
 			"powers": {
-				"name_hint": { "title": "Navnhint", "description": "Avslører lengden på svaret og 4 av tegnene" },
+				"name_hint": {
+					"title": "Navnhint",
+					"description": "Avslører lengden på svaret og 4 av tegnene"
+				},
 				"song_hint": {
 					"title": "Sanghint",
 					"description": "Avslør noe av sanginformasjonen for den nåværende sangen"
@@ -3196,8 +3660,14 @@
 					"title": "Titt på svar",
 					"description": "Titt på svarenen som allerede er sendt inn av andre spillere"
 				},
-				"more_time": { "title": "Mer tid", "description": "Øk gjettetiden med 10 sekunder" },
-				"end_guessing": { "title": "Stopp gjetting", "description": "Stopper gjettingsfasen umiddelbart" },
+				"more_time": {
+					"title": "Mer tid",
+					"description": "Øk gjettetiden med 10 sekunder"
+				},
+				"end_guessing": {
+					"title": "Stopp gjetting",
+					"description": "Stopper gjettingsfasen umiddelbart"
+				},
 				"multiple_choice": {
 					"title": "Flervalg",
 					"description": "Få flervalgsalternativ for den nåværende sangen"
@@ -3205,7 +3675,10 @@
 			}
 		},
 		"leave_button": "Forlat",
-		"leave_quiz_option": { "title": "Forlat quiz?", "stay": "Bli værende" },
+		"leave_quiz_option": {
+			"title": "Forlat quiz?",
+			"stay": "Bli værende"
+		},
 		"return_to_lobby": {
 			"popover": "Start en avstemming for å returnere til lobbyen",
 			"vote_message": "Returner til lobby?",
@@ -3221,7 +3694,11 @@
 			}
 		},
 		"join_button": "Bli med",
-		"video_quality": { "720p": "720p", "480p": "480p", "sound": "Lyd" },
+		"video_quality": {
+			"720p": "720p",
+			"480p": "480p",
+			"sound": "Lyd"
+		},
 		"settings_popover": "Innstillinger",
 		"song_history_popover": "Sanghistorikk",
 		"vote_skip": "Hopp over",
@@ -3240,7 +3717,10 @@
 			"pause": "Pauser game etter denne sangen. Alle spillere kan avslutte pausen",
 			"unpause": "Starter game"
 		},
-		"anime_names": { "alternative_names": "Alternative navn", "alternative_answers": "Alternative svar" },
+		"anime_names": {
+			"alternative_names": "Alternative navn",
+			"alternative_answers": "Alternative svar"
+		},
 		"avatar": {
 			"loot": "Valgt",
 			"host": "Vert",
@@ -3322,7 +3802,10 @@
 		},
 		"video_player": {
 			"sound_only": "Kun lyd",
-			"video_hidden": { "title": "Video skjult", "click_to_reveal": "Klikk for å avsløre" },
+			"video_hidden": {
+				"title": "Video skjult",
+				"click_to_reveal": "Klikk for å avsløre"
+			},
 			"click_to_hide_video": "Klikk for å skjule videoen",
 			"loading": "Laster inn",
 			"answers": "Svar",
@@ -3333,16 +3816,31 @@
 			"hints": {
 				"title": "Hint",
 				"point_value": "Poengverdien til den nåværende sangen",
-				"name": { "title": "Navn", "description": "Avslør lengden på svaret og 4 tegn" },
-				"info": { "title": "Info", "description": "Avslør noe av sanginformasjonen for denne sangen" },
-				"multiple_choice": { "title": "FV", "description": "Få flervalgsalternativ for denne sangen" },
+				"name": {
+					"title": "Navn",
+					"description": "Avslør lengden på svaret og 4 tegn"
+				},
+				"info": {
+					"title": "Info",
+					"description": "Avslør noe av sanginformasjonen for denne sangen"
+				},
+				"multiple_choice": {
+					"title": "FV",
+					"description": "Få flervalgsalternativ for denne sangen"
+				},
 				"hint_popover": "_DESCRIPTION_ - Poengkostnad: _NUMBER_",
-				"tiny_video": { "title": "Liten", "description": "Avslør en liten del av videoen til denne sangen" },
+				"tiny_video": {
+					"title": "Liten",
+					"description": "Avslør en liten del av videoen til denne sangen"
+				},
 				"blur_video": {
 					"title": "Uskarp",
 					"description": "Avslør en uskarp versjon av videoen til denne sangen"
 				},
-				"audio": { "title": "Lyd", "description": "Aktiver lyden for denne sangen" }
+				"audio": {
+					"title": "Lyd",
+					"description": "Aktiver lyden for denne sangen"
+				}
 			},
 			"skip_messages": {
 				"answers": "Hopper til svar",
@@ -3381,7 +3879,10 @@
 			"no_active_spectators": "Ingen aktive tilskuere"
 		},
 		"alerts": {
-			"fatal_error": { "title": "Fatal serverfeil under quiz", "description": "Returnerer til lobby" },
+			"fatal_error": {
+				"title": "Fatal serverfeil under quiz",
+				"description": "Returnerer til lobby"
+			},
 			"joining_game": {
 				"title": "Bli med i game",
 				"description": "Du blir med i gamet i løpet av neste resultatfase"
@@ -3416,7 +3917,10 @@
 			"public_short": "O",
 			"public_description": "Offentlig: Alle kan bli med i dette laget, verten kan klikke for å endre til privat"
 		},
-		"late_join_full": { "title": "Quiz full", "description": "Ikke mulig å bli med i quiz" }
+		"late_join_full": {
+			"title": "Quiz full",
+			"description": "Ikke mulig å bli med i quiz"
+		}
 	},
 	"anime_tags": {
 		"4-koma": "4-koma",
@@ -3828,7 +4332,11 @@
 			"info": "Info",
 			"show_names": {
 				"title": "Vis navn",
-				"ticks": { "english": "Engelsk", "default": "Standard", "romaji": "Romaji" }
+				"ticks": {
+					"english": "Engelsk",
+					"default": "Standard",
+					"romaji": "Romaji"
+				}
 			},
 			"anime_link": {
 				"title": "Animelenke",
@@ -3915,7 +4423,12 @@
 			"dungeon": {
 				"title": "Fangehull",
 				"co_op_save_created": "Lag",
-				"tabs": { "mode": "Modus", "co_op_saves": "Co-op filer", "lobby": "Lobby", "avatars": "Avatarer" },
+				"tabs": {
+					"mode": "Modus",
+					"co_op_saves": "Co-op filer",
+					"lobby": "Lobby",
+					"avatars": "Avatarer"
+				},
 				"mode": {
 					"standard": "Standard",
 					"standard_description": "Fullfør en etasje i fangehullet, og gi laget ditt flere krefter etter hvert som dere avanserer, før dere utfordrer bossen til slutt.",
@@ -4016,7 +4529,10 @@
 						"title": "Ingen avatarmerker låst opp",
 						"description": "Lås opp avatarmerker ved å gå opp i level med avatarer, og bruk dem til å gi andre avatarer flere krefter"
 					},
-					"leave_lobby_alert": { "title": "Forlat fangehullets lobby?", "leave_button": "Forlat" },
+					"leave_lobby_alert": {
+						"title": "Forlat fangehullets lobby?",
+						"leave_button": "Forlat"
+					},
 					"start_alerts": {
 						"at_least_one_song_type": "Minst én sangtype må velges",
 						"at_least_one_difficulty": "Minst én vanskelighetsgrad må velges",
@@ -4119,7 +4635,10 @@
 						"description": "Runesiden har ulagrede endringer, forkast endringene?",
 						"discard_button": "Forlat"
 					},
-					"destroy_rune": { "title": "Destruere rune?", "destroy_button": "Destruer" },
+					"destroy_rune": {
+						"title": "Destruere rune?",
+						"destroy_button": "Destruer"
+					},
 					"tooltips": {
 						"all_slots_in_use": "Alle runeplasser i bruk, gå opp i level for å låse opp mer",
 						"no_rune_selected": "Ingen rune valgt. Velg runen du vil utruste ovenfor",
@@ -4157,7 +4676,12 @@
 				"character_already_in_party": "Karakter allerede i gruppe",
 				"clear": "Tøm"
 			},
-			"building_names": { "dungeon": "Fangehull", "inn": "Kroa", "workshop": "Verksted", "locked": "Låst" }
+			"building_names": {
+				"dungeon": "Fangehull",
+				"inn": "Kroa",
+				"workshop": "Verksted",
+				"locked": "Låst"
+			}
 		},
 		"dungeon": {
 			"exit_button": "Forlat",
@@ -4185,7 +4709,9 @@
 			},
 			"genre_zone": "_NAME_-sone",
 			"standard_zone": "Standard",
-			"avatars": { "no_artifacts": "Ingen artefakter" },
+			"avatars": {
+				"no_artifacts": "Ingen artefakter"
+			},
 			"floor_number": "Etasje _SPAN_ _NUMBER_ _SPAN_",
 			"reward_window": {
 				"title": "Belønninger",
@@ -4194,9 +4720,15 @@
 				"runes": "Runer",
 				"no_drops": "Ingen å finne",
 				"select_avatar": "Velg avatar",
-				"skip_artifact": { "text": "Hopp over artefakt?", "skip_button": "Hopp over" }
+				"skip_artifact": {
+					"text": "Hopp over artefakt?",
+					"skip_button": "Hopp over"
+				}
 			},
-			"event_window": { "title": "Event", "volume": "Volum" },
+			"event_window": {
+				"title": "Event",
+				"volume": "Volum"
+			},
 			"store_window": {
 				"title": "Butikk",
 				"description": "Materialiser fragmenter til artefakter og/eller runer",
@@ -4216,7 +4748,10 @@
 				"level_number": "Level _SPANC_ _NUMBER_ _SPANC_",
 				"party_wipe": "Gruppen døde",
 				"floor_cleared": "Etasje passert",
-				"xp_reward_types": { "combat": "Kamp", "clear": "Etasje fullført" },
+				"xp_reward_types": {
+					"combat": "Kamp",
+					"clear": "Etasje fullført"
+				},
 				"unlocks": {
 					"ability_level": "Evne opp",
 					"badge": "Merke",
@@ -4232,11 +4767,18 @@
 				"heal_option": "Helbred 20%",
 				"lock_artifact_option": "Lås artefakt",
 				"no_artifacts": "Ingen artefakter",
-				"no_locking_warning": { "title": "Fortsett uten å låse artefaten?", "continue_button": "Fortsett" },
+				"no_locking_warning": {
+					"title": "Fortsett uten å låse artefaten?",
+					"continue_button": "Fortsett"
+				},
 				"heal_this_avatar": "Helbred denne avataren",
 				"lock_artifact_description": "Lås inne en artefakt for å ta den med til neste etasje. Hver avatar kan bare låse inne én artefakt"
 			},
-			"abandon_run_vote": { "title": "Forlat run", "yes_button": "Ja", "no_button": "Nei" }
+			"abandon_run_vote": {
+				"title": "Forlat run",
+				"yes_button": "Ja",
+				"no_button": "Nei"
+			}
 		},
 		"avatar": {
 			"genre": "Sjanger",
@@ -4244,13 +4786,22 @@
 			"weak": "Svak",
 			"rune_buffs": "Rune buff",
 			"stats": {
-				"constitution": { "title": "Konstitusjon", "description": "Øker maks liv" },
-				"defence": { "title": "Forsvar", "description": "Reduser skaden som medfølge av angrep" },
+				"constitution": {
+					"title": "Konstitusjon",
+					"description": "Øker maks liv"
+				},
+				"defence": {
+					"title": "Forsvar",
+					"description": "Reduser skaden som medfølge av angrep"
+				},
 				"dodge": {
 					"title": "Unnvikelse",
 					"description": "Øk sjansen for å unnvike angrep, halver skaden og få en tilfeldig buff"
 				},
-				"attack": { "title": "Angrep", "description": "Øk angrepsskaden" },
+				"attack": {
+					"title": "Angrep",
+					"description": "Øk angrepsskaden"
+				},
 				"accuracy": {
 					"title": "Nøyaktighet",
 					"description": "Øk sjansen for kritiske treff, gjør 50% ekstra skade og påfør en tilfeldig debuff"
@@ -4258,8 +4809,15 @@
 			}
 		},
 		"rune": {
-			"type": { "standard": "Standard", "advanced": "Avansert" },
-			"category": { "offensive": "Offensiv", "defensive": "Defensiv", "any": "Hvilken som helst" }
+			"type": {
+				"standard": "Standard",
+				"advanced": "Avansert"
+			},
+			"category": {
+				"offensive": "Offensiv",
+				"defensive": "Defensiv",
+				"any": "Hvilken som helst"
+			}
 		},
 		"hover_display_commons": {
 			"cooldown": "Nedkjøling",
@@ -4289,7 +4847,10 @@
 			"profile": "Profil",
 			"promote_to_host": "Forfrem til vert",
 			"kick": "Kast ut",
-			"promote_host": { "title": "Forfrem _NAME_ til vert?", "promote_button": "Forfrem" },
+			"promote_host": {
+				"title": "Forfrem _NAME_ til vert?",
+				"promote_button": "Forfrem"
+			},
 			"kick_player": {
 				"title": "Kast _NAME_ ut av lobby?",
 				"description": "De vil ikke kunne bli med igjen",
@@ -4328,7 +4889,9 @@
 				"message_five": "Nå har hun en haug med buffer! Du kan holde musepekeren over ikonene for å se hva de gjør!",
 				"message_six": "Nå må vi svar på quizen! Hint: Dette er riktig svar!"
 			},
-			"post_attack": { "message_one": "Flott treff! Nå, la oss se hva som skjer hvis du svarer feil!" },
+			"post_attack": {
+				"message_one": "Flott treff! Nå, la oss se hva som skjer hvis du svarer feil!"
+			},
 			"post_damage": {
 				"message_one": "Når du gjetter feil, går fiendes angrepsnedteller ned. Ett feil svar til, og de angriper!",
 				"message_two": "Noel har lavt forsvar, så vi må forsvare henne! Heldigvis er det Yumemis tur, så vi kan bytte henne inn ved å gjøre et målbytte med Noel!",
@@ -4410,23 +4973,38 @@
 				"title": "Berserker-stjerne",
 				"description": "Øk skaden på alle angrep inntil du ikke lander et angrep"
 			},
-			"bounty_bracelet": { "title": "Dusørarmbånd", "description": "Kampseire belønner ytterligere fragmenter" },
-			"charge_staff": { "title": "Ladnings stav", "description": "Å lande 2 angrep på rad gir et skjold" },
+			"bounty_bracelet": {
+				"title": "Dusørarmbånd",
+				"description": "Kampseire belønner ytterligere fragmenter"
+			},
+			"charge_staff": {
+				"title": "Ladnings stav",
+				"description": "Å lande 2 angrep på rad gir et skjold"
+			},
 			"comfy_scarf": {
 				"title": "Mykt skjerf",
 				"description": "Kontre den første vanlige debuffen mottatt i kamp"
 			},
-			"computation_orb": { "title": "Beregningskule", "description": "Gjør ekstra skade når du er under 50% hp" },
+			"computation_orb": {
+				"title": "Beregningskule",
+				"description": "Gjør ekstra skade når du er under 50% hp"
+			},
 			"corruption_seal": {
 				"title": "Korrupsjonssegl",
 				"description": "Reduser skaden fra debuffede fiender med 30%"
 			},
-			"cross_shield": { "title": "Krosskjold", "description": "Få et lite skjold etter å ha byttet" },
+			"cross_shield": {
+				"title": "Krosskjold",
+				"description": "Få et lite skjold etter å ha byttet"
+			},
 			"dark_nights_imitation": {
 				"title": "Nattens mørke imitasjon",
 				"description": "Få et skjold i starten av kampen"
 			},
-			"detective_loupe": { "title": "Detektivlupp", "description": "Avslør lengden på svaret i gjettingsfasen" },
+			"detective_loupe": {
+				"title": "Detektivlupp",
+				"description": "Avslør lengden på svaret i gjettingsfasen"
+			},
 			"energy_jar": {
 				"title": "Energikrukke",
 				"description": "Få et skjold i starten av kampene. Dette skjoldet blir værende mellom kamper."
@@ -4447,12 +5025,18 @@
 				"title": "Mysteriemat",
 				"description": "Når du påfører en debuff, blir en tilfeldig debuff også påført på målet"
 			},
-			"noble_favour": { "title": "Adelig favør", "description": "Få 150 fragmenter ved opphenting" },
+			"noble_favour": {
+				"title": "Adelig favør",
+				"description": "Få 150 fragmenter ved opphenting"
+			},
 			"pipe_of_the_golden_fairy": {
 				"title": "Pipe av den gylne fe",
 				"description": "Gjør 50% mer skade når du angriper debuffede fiender"
 			},
-			"ruler_piece": { "title": "Herskerbrikke", "description": "Få en tilfeldig buff når evnen brukes" },
+			"ruler_piece": {
+				"title": "Herskerbrikke",
+				"description": "Få en tilfeldig buff når evnen brukes"
+			},
 			"sealed_watch": {
 				"title": "Forseglet klokke",
 				"description": "Reduser nedkjølingstiden for avatar-evnen med 2 runder"
@@ -4465,7 +5049,10 @@
 				"title": "Sjelbeholder",
 				"description": "Gjenoppliv umiddelbart med 50% hp når du blir drept eller utrustet til en død avatar, men mister sjelbeholderen"
 			},
-			"spiked_guards": { "title": "Piggetebeskytter", "description": "Gi noe av skaden tilbake til angriperen" },
+			"spiked_guards": {
+				"title": "Piggetebeskytter",
+				"description": "Gi noe av skaden tilbake til angriperen"
+			},
 			"stealth_bunny_hat": {
 				"title": "Stealth kaninhatt",
 				"description": "Reduser sjansen for å bli mål for fiendens angrep"
@@ -4482,7 +5069,10 @@
 				"title": "Sverd av Lys og Sannhet",
 				"description": "Angripe tre ganger på rad gjør det tredje angrepet gjør dobbel skade"
 			},
-			"time_disk": { "title": "Tidsdisk", "description": "Få ytterligere 5 sekunder i gjettingsfasen" },
+			"time_disk": {
+				"title": "Tidsdisk",
+				"description": "Få ytterligere 5 sekunder i gjettingsfasen"
+			},
 			"unexpected_supporter": {
 				"title": "Uventet støttespiller",
 				"description": "Kampbelønninger har en ekstra artefakt å velge mellom"
@@ -4501,7 +5091,10 @@
 				"title": "Fiendens territorium",
 				"base": {
 					"text": "En lumsk mann, i en lilla dress og grønt hår stylet over hodet, hilser på gruppen idet de kommer inn i rommet. _BREAK_ «Hei, dere kan ikke bare gå forbi her, dette er mitt territorium. Jeg kan gjøre et unntak hvis dere lar alle _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ deres ligge, ellers må dere _HIGHLIGHT_ ta det opp med gutta mine _HIGHLIGHT_.» _BREAK_ Mannen signaliserer _HIGHLIGHT_ 4 fiendtlige kjerner _HIGHLIGHT_ som svever ved siden av ham.",
-					"options": { "pay": "Betal _NUMBER_ fragmenter", "ignore": "Ignorer advarselen" }
+					"options": {
+						"pay": "Betal _NUMBER_ fragmenter",
+						"ignore": "Ignorer advarselen"
+					}
 				},
 				"pay": {
 					"text": "Mannen griper tak i fragmentene mens du kaster dem til ham. _BREAK_ «En fornøyelse å gjøre business.»"
@@ -4515,13 +5108,20 @@
 					"title": "Gavegame - sjanger",
 					"base": {
 						"text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ «Hei sann spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt sjangerquiz-game _HIGHLIGHT_ av vår velvillige vert.» _BREAK_ «Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere _HIGHLIGHT_ får én feil _HIGHLIGHT_, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.»",
-						"options": { "accept": "Godta initasjonen", "decline": "Avslå initasjonen" }
+						"options": {
+							"accept": "Godta initasjonen",
+							"decline": "Avslå initasjonen"
+						}
 					},
 					"accept": {
 						"text": "Kaninen trekker ut en bunke med kort. _BREAK_ «Hver av disse kortene har navnet på en _HIGHLIGHT_ anime og fire sjangere _HIGHLIGHT_. Når jeg snur kortet, _HIGHLIGHT_ har du 10 sekunder _HIGHLIGHT_ på dere å gjette hvilken _HIGHLIGHT_ sjanger som tilhører animeen _HIGHLIGHT_.»",
-						"options": { "first_question": "Første spørsmål" }
+						"options": {
+							"first_question": "Første spørsmål"
+						}
 					},
-					"question": { "text": "Hvilken sjanger tilhører følgende anime. _BREAK_ _NAME_ _BREAK_ _NAME2_" },
+					"question": {
+						"text": "Hvilken sjanger tilhører følgende anime. _BREAK_ _NAME_ _BREAK_ _NAME2_"
+					},
 					"wrong_guess": {
 						"text": "«Beklager så mye, men «_NAME_» _HIGHLIGHT_ er ikke sjangeren _HIGHLIGHT_ for _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. Det _HIGHLIGHT_ riktige svaret _HIGHLIGHT_ er _HIGHLIGHT2_ _NAME3_ _HIGHLIGHT2_.»_BREAK_« Jeg ønsker dere lykke til i fremtidige game, og håper dere vil delta igjen i fremtiden.»_BREAK_ Kaninen bukker og gir dere signal om å fortsette gjennom rommet."
 					},
@@ -4533,19 +5133,31 @@
 					"title": "Gavegame - sangtype",
 					"base": {
 						"text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ «Hei sann spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt sangtypequiz-game _HIGHLIGHT_ av vår velvillige vert.» _BREAK_ «Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere får én feil, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.»",
-						"options": { "accept": "Godta initasjonen", "decline": "Avslå initasjonen" }
+						"options": {
+							"accept": "Godta initasjonen",
+							"decline": "Avslå initasjonen"
+						}
 					},
 					"accept": {
 						"text": "Kaninen trekker fram en liten summer. _BREAK_ «Når jeg klikker på summeren _HIGHLIGHT_, Vil en sang begynne å spille _HIGHLIGHT_, og dere har _HIGHLIGHT_ 15 sekunder på dere til å gjette _HIGHLIGHT_ om det er en _HIGHLIGHT_ introsang, sluttsang eller innsats _HIGHLIGHT_.»_BREAK_ «Bare gi meg et sekund til å gjøre alt klart.»",
-						"options": { "first_question": "Første spørsmål" }
+						"options": {
+							"first_question": "Første spørsmål"
+						}
 					},
 					"question": {
 						"text": "Hvilken sangtype er dette?",
-						"options": { "opening": "Introsang", "ending": "Sluttsang", "insert_song": "Innsats" }
+						"options": {
+							"opening": "Introsang",
+							"ending": "Sluttsang",
+							"insert_song": "Innsats"
+						}
 					},
 					"correct": {
 						"text": "«Dere har _HIGHLIGHT_ rett! _HIGHLIGHT_ Sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT_ _NAME2_ _HIGHLIGHT_. Og med det, _HIGHLIGHT_ er deres nåværende gevinster på _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ _HIGHLIGHT_. _BREAK_ Vil dere fortsette til neste spørsmål, eller ta ut fragmentene?»",
-						"options": { "next_question": "Neste spørsmål", "cash_out": "Ta ut fragmentene" }
+						"options": {
+							"next_question": "Neste spørsmål",
+							"cash_out": "Ta ut fragmentene"
+						}
 					},
 					"all_correct": {
 						"text": "«Fantastisk, dere klarte å _HIGHLIGHT_ gjette alle 5 riktige _HIGHLIGHT_! Den siste sangen var _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_. Jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!», sier kanin før hun muntert overleverer belønningene. _BREAK_ «Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.»_BREAK_ Kaninen bukker og signaliserer til dere om å fortsette gjennom rommet."
@@ -4561,22 +5173,36 @@
 						"ending": "Sluttsang _NUMBEREXTRA_",
 						"insert_song": "Innsats"
 					},
-					"type": { "opening": "Introsang", "ending": "Sluttsang", "insert_song": "Innsats" }
+					"type": {
+						"opening": "Introsang",
+						"ending": "Sluttsang",
+						"insert_song": "Innsats"
+					}
 				},
 				"tiny_opening": {
 					"title": "Gavegame - liten intro",
 					"base": {
 						"text": "Når gruppen kommer inn i rommet, blir de møtt av en blåhåret kaninjente. _BREAK_ «Hei sann spillere, dere har blitt invitert til å _HIGHLIGHT_ delta i et enkelt videoquiz-game _HIGHLIGHT_ av vår velvillige vert.» _BREAK_ «Dere tjener _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ for hver _HIGHLIGHT_ riktig svar _HIGHLIGHT_, men hvis dere _HIGHLIGHT_ får én feil _HIGHLIGHT_, må dere _HIGHLIGHT_ dra uten noe premie _HIGHLIGHT_. _HIGHLIGHT_ Gjett alle de 5 _HIGHLIGHT_ spørsmålene, så vinner dere _HIGHLIGHT_ hovedpremien _HIGHLIGHT_ av _ARTIFACT_.»",
-						"options": { "accept": "Godta initasjonen", "decline": "Avslå initasjonen" }
+						"options": {
+							"accept": "Godta initasjonen",
+							"decline": "Avslå initasjonen"
+						}
 					},
 					"accept": {
 						"text": "Kaninen trekker frem en liten summer. _BREAK_ «Når jeg klikker på summeren, _HIGHLIGHT_ vil en liten del av en anime intro spilles av _HIGHLIGHT_, og du har _HIGHLIGHT_ 10 sekunder på deg til å velge riktig program _HIGHLIGHT_ fra de oppgitte valgene.» _BREAK_ «Bare gi meg et sekund til å gjøre alt klart.»",
-						"options": { "first_question": "Første spørsmål" }
+						"options": {
+							"first_question": "Første spørsmål"
+						}
 					},
-					"question": { "text": "Hvilket program er dette?" },
+					"question": {
+						"text": "Hvilket program er dette?"
+					},
 					"correct": {
 						"text": "«Dere har _HIGHLIGHT_ rett! _HIGHLIGHT_ Videoen var intro _NUMBER_ fra _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. Og med det, er deres nåværende gevinster på _NUMBER2_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_. _BREAK_ Vil dere  _HIGHLIGHT_ fortsette til neste spørsmål, eller ta ut fragmentene?_HIGHLIGHT_»",
-						"options": { "next_question": "Neste spørsmål", "cash_out": "Ta ut fragmentene" }
+						"options": {
+							"next_question": "Neste spørsmål",
+							"cash_out": "Ta ut fragmentene"
+						}
 					},
 					"all_correct": {
 						"text": "«Fantastisk, dere klarte å _HIGHLIGHT_ gjette alle 5 riktige _HIGHLIGHT_! Den siste videoen var _HIGHLIGHT2_ intro _NUMBER_ _HIGHLIGHT2_ fra _HIGHLIGHT2_ _NAME_ _HIGHLIGHT2_. Jeg er glad for å belønne dere ikke bare _NUMBER2_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!», sier kanin før hun muntert overleverer belønningene. _BREAK_ «Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.»_BREAK_ Kaninen bukker og signaliserer til dere om å fortsette gjennom rommet."
@@ -4596,7 +5222,10 @@
 				},
 				"correct_guess": {
 					"text": "«Du har _HIGHLIGHT_ rett! _HIGHLIGHT_ Og med det, _HIGHLIGHT_ er deres nåværende gevinster på _NUMBER_ _HIGHLIGHT_ _HIGHLIGHT2_ fragmenter. _HIGHLIGHT2_ _BREAK_ Vil dere fortsette til neste spørsmål, eller ta ut fragmentene?»",
-					"options": { "next_question": "Neste spørsmål", "cash_out": "Ta ut fragmentene" }
+					"options": {
+						"next_question": "Neste spørsmål",
+						"cash_out": "Ta ut fragmentene"
+					}
 				},
 				"win": {
 					"text": "«Fantastisk, dere _HIGHLIGHT_ klarte å gjette alle 5 _HIGHLIGHT_ riktig! Jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!», sier kaninen før han muntert overleverer belønningene. _BREAK_ «Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.» _BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet."
@@ -4606,7 +5235,9 @@
 					"text_two": "Kaninen begynner rasende å trykke på summeren, før de ser opp på gruppen med et anstrengt smil. _BREAK_ «Det ser ut til at utstyret er defekt, så vi må hoppe over dette spørsmålet. Jeg skal sette opp det neste.»",
 					"text_three": "Kaninen griper rasende summeren og kaster den mot veggen. _BREAK_ «Det ser ut til at vi _HIGHLIGHT_ opplever noen tekniske problemer _HIGHLIGHT_, så vi _HIGHLIGHT_ vil ikke kunne fullføre quizen _HIGHLIGHT_. Jeg er sikker på at verten vår har råd til å _HIGHLIGHT_ gi dere 100 _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_ _HIGHLIGHT_ som en unnskyldning.» _BREAK_ Kaninen gir gruppen _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_, og signaliserer deretter til døren.",
 					"text_four": "Kaninen prøver å klikke på knappen flere ganger, men ingenting skjer. _BREAK_ «Det siste _HIGHLIGHT_ spørsmålet ser ikke ut til å fungere _HIGHLIGHT_. Siden dette er vertens feil, vil jeg _HIGHLIGHT_ belønne dere for spørsmålet _HIGHLIGHT_. Så jeg er glad for å belønne dere ikke bare _NUMBER_ _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men også _ARTIFACT_!», sier kaninen før de muntert overleverer belønningene. _BREAK_ «Gratulerer med å vinne quizen, jeg håper dere spiller igjen i fremtiden.» _BREAK_ Kaninen bukker for gruppen og signaliserer til dere om å fortsette gjennom rommet.",
-					"options": { "next_question": "Neste spørsmål" }
+					"options": {
+						"next_question": "Neste spørsmål"
+					}
 				}
 			},
 			"glitched_item": {
@@ -4621,14 +5252,21 @@
 				},
 				"result": {
 					"text": "Med et avgjørende treff klarer _NAME_ å gripe tak i _HIGHLIGHT2_ _NAME2_ _HIGHLIGHT2_, akkurat idet den skulle til å forandre seg. Heldigvis ser det ikke ut til at den forandrer seg lenger.",
-					"target_type": { "fragments": "fragmentene", "artifact": "artefakt", "rune": "rune" }
+					"target_type": {
+						"fragments": "fragmentene",
+						"artifact": "artefakt",
+						"rune": "rune"
+					}
 				}
 			},
 			"mystery_container": {
 				"title": "Mysteriebeholder",
 				"base": {
 					"text": "En merkelig beholder står midt i rommet. Etter hvert som gruppen nærmer seg, ser de at den er _HIGHLIGHT_ fylt med gitchende gjenstander _HIGHLIGHT_, som tilfeldig forandrer seg til alt fra _HIGHLIGHT2_ kniver _HIGHLIGHT2_ og _HIGHLIGHT2_ brennende glør _HIGHLIGHT2_ til _HIGHLIGHT2_ blomster _HIGHLIGHT2_ og _HIGHLIGHT2_ plysjdyr _HIGHLIGHT2_. _BREAK_ Gjennom den kaotiske glitchende av gjenstander dukker det opp en _HIGHLIGHT2_ artefakt _HIGHLIGHT2_ fra tid til annen. Med riktig timing og flaks _HIGHLIGHT_ burde det være mulig å få tak i én _HIGHLIGHT_.",
-					"option": { "reach_in": "Få _NAME_ til å gripe inn", "ignore": "Ignorer beholderen" }
+					"option": {
+						"reach_in": "Få _NAME_ til å gripe inn",
+						"ignore": "Ignorer beholderen"
+					}
 				},
 				"artifact_result": {
 					"text": "_NAME_ klarer å få et godt grep om noe og trekker frem en _HIGHLIGHT2_ artefakt _HIGHLIGHT2_. Når artefakten er fjernet, virker den glitchende gjenstanden til å være mye mer aggressiv, så _HIGHLIGHT_ ingen i gruppen vil prøve å strekke seg etter en annen _HIGHLIGHT_."
@@ -4650,7 +5288,10 @@
 				"title": "Offeringsboks",
 				"base": {
 					"text": "En _HIGHLIGHT_ offeringsboks av tre fra et alter _HIGHLIGHT_ er merkelig plassert midt i rommet.",
-					"option": { "fragments": "Putt _NUMBER_ fragmenter i", "ignore": "Ignorer boksen" }
+					"option": {
+						"fragments": "Putt _NUMBER_ fragmenter i",
+						"ignore": "Ignorer boksen"
+					}
 				},
 				"option_one": {
 					"text": "Etter å ha kastet inn _HIGHLIGHT2_ fragmentene _HIGHLIGHT2_ gløder boksen et øyeblikk, før _HIGHLIGHT_ den forsvinner i et lysglimt _HIGHLIGHT_."
@@ -4694,7 +5335,9 @@
 				"title": "Gudinnen",
 				"base": {
 					"text": "Idet gruppen kommer inn i rommet, blir de _HIGHLIGHT_ møtt av en jente med langt blått hår _HIGHLIGHT_ som sitter i en stor hvit stol. _BREAK_ «Vel møtt reisende, anse dem selv som velsignet etter at reisen dems har ført dem til et sted med fred. Gå frem, og _HIGHLIGHT_ jeg vil dele mine guddomelige krefter for å gjenopprette dem._HIGHLIGHT_»",
-					"options": { "step_forward": "Ha _NAME_ gå frem" }
+					"options": {
+						"step_forward": "Ha _NAME_ gå frem"
+					}
 				},
 				"result": {
 					"text": "Et _HIGHLIGHT_ guddommelig lys dekker _NAME_ og gjenoppretter styrken deres _HIGHLIGHT_. _BREAK_ Når gruppen ser tilbake på jenta, blir de overrasket over å se at hun dovent småspiser fra en pose potetgull. _BREAK_ «Åh, dere er her fortsatt? _HIGHLIGHT_ Jeg har allerede helbredet en av dere _HIGHLIGHT_, hvor trengende kan dere være... Jeg har allerede gjort min del, så _HIGHLIGHT_ gå og fortsett med oppdraget deres _HIGHLIGHT_ eller hva enn dere driver med.»"
@@ -4704,9 +5347,14 @@
 				"title": "Pidestall",
 				"base": {
 					"text": "En _HIGHLIGHT_ enslig pidestall _HIGHLIGHT_ står midt i rommet. Etter hvert som gruppen kommer nærmere, begynner noen av _HIGHLIGHT2_ artefaktene deres _HIGHLIGHT2_ _HIGHLIGHT_ å gløde _HIGHLIGHT_, som om de blir trukket mot pidestallen.",
-					"options": { "place_artifact": "Plasser _NAME_ på pidestallen", "ignore": "Ignorer pidestallen" }
+					"options": {
+						"place_artifact": "Plasser _NAME_ på pidestallen",
+						"ignore": "Ignorer pidestallen"
+					}
 				},
-				"ignore": { "text": "Den potensielle premien er ikke verdt artefakten, gruppen fortsetter videre" },
+				"ignore": {
+					"text": "Den potensielle premien er ikke verdt artefakten, gruppen fortsetter videre"
+				},
 				"transform": {
 					"text": "_ARTIFACT_ _HIGHLIGHT_ eksploderere i biter _HIGHLIGHT_ som svever over pidestallen, til den plutselig svermer tilbake til sentrum, _HIGHLIGHT_ forvandles til _ARTIFACT2_ artefakten._HIGHLIGHT_"
 				}
@@ -4715,9 +5363,14 @@
 				"title": "Ringen",
 				"base": {
 					"text": "Idet gruppen kommer inn i rommet, nærmer en _HIGHLIGHT_ sleip mann med matroslue og øyelapp _HIGHLIGHT_ seg gruppen, _BREAK_ «Perfekt timing, vi hadde nettopp en ledig plass åpne seg opp. Har noen av dere _HIGHLIGHT_ lyst på en runde i ringen_HIGHLIGHT_?» sier han mens han gestikulerer mot en boksering med en _HIGHLIGHT2_ fiendtlig kjerne _HIGHLIGHT2_ svevende i den.",
-					"options": { "enter_ring": "Ha _NAME_ gå i ringen", "decline": "Takk nei til tilbudet" }
+					"options": {
+						"enter_ring": "Ha _NAME_ gå i ringen",
+						"decline": "Takk nei til tilbudet"
+					}
 				},
-				"ignore": { "text": "«Den som intet våger, intet vinner.», mumler mannen idet han går mot ringen." }
+				"ignore": {
+					"text": "«Den som intet våger, intet vinner.», mumler mannen idet han går mot ringen."
+				}
 			},
 			"transmutation_circle": {
 				"title": "Transmutasjonssirkelen",
@@ -4748,9 +5401,14 @@
 				"title": "Vill oppfinner",
 				"base": {
 					"text": "En _HIGHLIGHT_ rosahåret jente _HIGHLIGHT_ med et par store røde beskyttelsesbriller sitter ved en enslig arbeidsbenk. Øyene hennes glitrer et sekund når hun legger merke til gruppen, før hun skynder seg bort. _BREAK_ «Jeg gikk nettopp tom for data _HIGHLIGHT2_ fragmenter _HIGHLIGHT2_, men la meg _HIGHLIGHT_ brytte ned _HIGHLIGHT_ noen av _HIGHLIGHT2_ artefaktene deres _HIGHLIGHT2_, så skal jeg lage noen _HIGHLIGHT2_ runer _HIGHLIGHT2_ til dere!»",
-					"options": { "artifact": "Gi henne _NAME_", "decline": "Takk nei til tilbudet" }
+					"options": {
+						"artifact": "Gi henne _NAME_",
+						"decline": "Takk nei til tilbudet"
+					}
 				},
-				"base_decline": { "text": "«Deres tap, jeg sparer de fantastiske babyene mine til neste gruppe.»" },
+				"base_decline": {
+					"text": "«Deres tap, jeg sparer de fantastiske babyene mine til neste gruppe.»"
+				},
 				"late_decline": {
 					"text": "«Går dere ikke for hele settet? Dere kommer til å angre på det når dere ser hvor bra babyene mine presterer.»"
 				},
@@ -5085,13 +5743,22 @@
 				"title": "Hurtighetsbombe",
 				"description": "Kast en kort luntebombe mot en målfienden, og gjør skade på slutten av runden"
 			},
-			"healing_potion": { "title": "Helbredende eliksir", "description": "Helbred målavataren for 75 hp" },
-			"shield_potion": { "title": "Skjold eliksir", "description": "Gi målavataren 100 skjold" },
+			"healing_potion": {
+				"title": "Helbredende eliksir",
+				"description": "Helbred målavataren for 75 hp"
+			},
+			"shield_potion": {
+				"title": "Skjold eliksir",
+				"description": "Gi målavataren 100 skjold"
+			},
 			"leave_me_alone_potion": {
 				"title": "La-meg-være eliksir",
 				"description": "Endre fiendens mål bort fra målavataren"
 			},
-			"phoenix_feather": { "title": "Føniksfjær", "description": "Gjenoppliv en dø målavatar med 20% hp" }
+			"phoenix_feather": {
+				"title": "Føniksfjær",
+				"description": "Gjenoppliv en dø målavatar med 20% hp"
+			}
 		},
 		"runes": {
 			"rune_name": "_TIER_ _NAME_",
@@ -5111,7 +5778,9 @@
 				"crit_damage": "Kritisk skade",
 				"crit": "Kritisk"
 			},
-			"boost_rune": { "description": "Gi en _TIER_ løft til _NAME_" },
+			"boost_rune": {
+				"description": "Gi en _TIER_ løft til _NAME_"
+			},
 			"genre_rune": {
 				"offense_description": "Øk skaden under _NAME_-program",
 				"defense_description": "Reduser skaden tatt under _NAME_-program",
@@ -5127,38 +5796,77 @@
 					"name": "Kræsjrutine",
 					"description": "Har en _TIER_ sjanse til å påføre Kræsj på angrep"
 				},
-				"tortoise": { "name": "Skilpadde", "description": "Tar mindre skade, men gjør mindre skade" },
-				"mobile_defence": { "name": "Mobilt forsvar", "description": "Få et skjold når du bytter posisjon" },
+				"tortoise": {
+					"name": "Skilpadde",
+					"description": "Tar mindre skade, men gjør mindre skade"
+				},
+				"mobile_defence": {
+					"name": "Mobilt forsvar",
+					"description": "Få et skjold når du bytter posisjon"
+				},
 				"emergency_shield": {
 					"name": "Nødskjold",
 					"description": "Få et skjold én gang per kamp når du blir truffet av et angrep"
 				},
-				"defender": { "name": "Forsvarer", "description": "Gi målet et skjold når du bytter posisjon" },
-				"threat_aura": { "name": "Trusselaura", "description": "Øk sjansen for å bli målrettet av angrep" },
+				"defender": {
+					"name": "Forsvarer",
+					"description": "Gi målet et skjold når du bytter posisjon"
+				},
+				"threat_aura": {
+					"name": "Truendeaura",
+					"description": "Øk sjansen for å bli målrettet av angrep"
+				},
 				"bypass_routine": {
 					"name": "Forbipasseringsrutine",
 					"description": "Har en _TIER_ sjanse til å påføre forbipassering på angrep"
 				},
-				"rampage": { "name": "Raseri", "description": "Gjør mer skade, men ta mer skade" },
-				"time_booster": { "name": "Tidsforsterker", "description": "Få ekstra stille gjettetid på sanger" },
+				"rampage": {
+					"name": "Raseri",
+					"description": "Gjør mer skade, men ta mer skade"
+				},
+				"time_booster": {
+					"name": "Tidsforsterker",
+					"description": "Få ekstra stille gjettetid på sanger"
+				},
 				"defensive_counter": {
 					"name": "Defensiv kontring",
 					"description": "Øk forsvar for hver aktive debuff"
 				},
-				"defensive_rush": { "name": "Defensivt angrep", "description": "Øk forsvar for hver aktive buff" },
-				"offensive_counter": { "name": "Offensiv kontring", "description": "Øk angrep for hver aktive debuff" },
-				"offensive_rush": { "name": "Offensivt angrep", "description": "Øk angrep for hver aktive buff" }
+				"defensive_rush": {
+					"name": "Defensivt angrep",
+					"description": "Øk forsvar for hver aktive buff"
+				},
+				"offensive_counter": {
+					"name": "Offensiv kontring",
+					"description": "Øk angrep for hver aktive debuff"
+				},
+				"offensive_rush": {
+					"name": "Offensivt angrep",
+					"description": "Øk angrep for hver aktive buff"
+				}
 			}
 		},
 		"buffs": {
-			"crisis_management_form": { "name": "Krishåndteringsform", "description": "Øk alle basisstatistikk" },
+			"crisis_management_form": {
+				"name": "Krishåndteringsform",
+				"description": "Øk alle basisstatistikk"
+			},
 			"berserker_star": {
 				"name": "Berserker-stjerne",
 				"description": "Øk skaden med 20% inntil du ikke lander et angrep"
 			},
-			"charge_staff": { "name": "Ladnings stav", "description": "Å lande neste angrep gir et skjold" },
-			"comfy_scarf": { "name": "Mykt skjerf", "description": "Kontre neste standard debuff" },
-			"computation_orb": { "name": "Beregningskule", "description": "Øk skaden med 20% mens hp-en er under 50%" },
+			"charge_staff": {
+				"name": "Ladnings stav",
+				"description": "Å lande neste angrep gir et skjold"
+			},
+			"comfy_scarf": {
+				"name": "Mykt skjerf",
+				"description": "Kontre neste standard debuff"
+			},
+			"computation_orb": {
+				"name": "Beregningskule",
+				"description": "Øk skaden med 20% mens hp-en er under 50%"
+			},
 			"hornet_stringer": {
 				"name": "Stikkeveps brodd",
 				"description": "Neste angrep er garantert et kritisk treff"
@@ -5172,9 +5880,18 @@
 				"description_one": "Gjør dobbel skade om to angrep",
 				"description_two": "Gjør dobbel skade neste angrep"
 			},
-			"adventurers_sword": { "name": "Eventyrens sverd", "description": "Øk skaden påført" },
-			"adventurers_shield": { "name": "Eventyrens skjold", "description": "Reduser skaden tatt" },
-			"angels_grace": { "name": "Engelens nåde", "description": "Beskytter mot skade" },
+			"adventurers_sword": {
+				"name": "Eventyrens sverd",
+				"description": "Øk skaden påført"
+			},
+			"adventurers_shield": {
+				"name": "Eventyrens skjold",
+				"description": "Reduser skaden tatt"
+			},
+			"angels_grace": {
+				"name": "Engelens nåde",
+				"description": "Beskytter mot skade"
+			},
 			"buster": {
 				"name": "Kanon",
 				"description": "Lad opp skaden for neste angrep i hver allierts tur. Effekten går tapt hvis man blir flyttet eller troffet"
@@ -5213,7 +5930,10 @@
 				"name": "Brennende angrep",
 				"description": "Øk nøyaktigheten og påfør Virus debuffen på alle angrep, men mislykkede angrep påfører angriperen Virus debuffen"
 			},
-			"fox_fire": { "name": "Reveflammer", "description": "Alle angrep påfører en tilfeldig debuff" },
+			"fox_fire": {
+				"name": "Reveflammer",
+				"description": "Alle angrep påfører en tilfeldig debuff"
+			},
 			"full_charge": {
 				"name": "Fremad marsj",
 				"description": "Neste angrep gjør dobbel skade, men få Kræsj debuffen på slutten av turen"
@@ -5238,7 +5958,10 @@
 				"name": "Kampslag",
 				"description": "Få en ladning for hvert vellykkede angrep, og hver ladning øker skaden som gjøres på fremtidige angrep. Varer til du ikke lander et angrep"
 			},
-			"natural_sprinter": { "name": "Naturlig sprinter", "description": "Øk angrep og Nøyaktighet" },
+			"natural_sprinter": {
+				"name": "Naturlig sprinter",
+				"description": "Øk angrep og Nøyaktighet"
+			},
 			"natures_frenzy": {
 				"name": "Naturvanvidd",
 				"description": "Øk angrepet betraktelig, men halver forsvar og unnvikelse"
@@ -5259,7 +5982,10 @@
 				"name": "Rekognoseringsstyrke",
 				"description": "Boost unnvikelse og angrep påfører Forbipassering debuffen"
 			},
-			"snake_charm": { "name": "Slangesjarm", "description": "Angrep bruker påfører Sjarmert debuffen" },
+			"snake_charm": {
+				"name": "Slangesjarm",
+				"description": "Angrep bruker påfører Sjarmert debuffen"
+			},
 			"spectral_tricks_buff": {
 				"name": "Spektrale triks buff",
 				"description": "Angrep tatt denne turen gjør null skade, men skaden deles ut i neste hvis du bommer denne turen"
@@ -5268,7 +5994,10 @@
 				"name": "Spektrale triks debuff",
 				"description": "Ta skade tilsvarende den negerte skaden hvis svaret er feil"
 			},
-			"swift_maneuver": { "name": "Rask manøver", "description": "Neste avatarbytte skjer umiddelbart" },
+			"swift_maneuver": {
+				"name": "Rask manøver",
+				"description": "Neste avatarbytte skjer umiddelbart"
+			},
 			"unlucky_lucky_rabbit": {
 				"name": "Uheldig heldig kanin",
 				"description": "Øk unnvikelsen betraktelig, men øk sjansen for å bli mål for fiendens angrep"
@@ -5277,10 +6006,22 @@
 				"name": "Vampyrens kyss",
 				"description": "Helbred hvis neste angrepet dreper en fiende"
 			},
-			"weapon_master": { "name": "Våpenmester", "description": "Styrker effekten av offensiv artefakter" },
-			"witches_trickery": { "name": "Hekselureri", "description": "Neste angrep påfører Forhekset debuffen" },
-			"force_of_yan": { "name": "Kraft av Yan", "description": "Øker forsvar og senker angrep" },
-			"force_of_yin": { "name": "Kraft av Yin", "description": "Øker angrep og senker forsvar" },
+			"weapon_master": {
+				"name": "Våpenmester",
+				"description": "Styrker effekten av offensiv artefakter"
+			},
+			"witches_trickery": {
+				"name": "Hekselureri",
+				"description": "Neste angrep påfører Forhekset debuffen"
+			},
+			"force_of_yan": {
+				"name": "Kraft av Yan",
+				"description": "Øker forsvar og senker angrep"
+			},
+			"force_of_yin": {
+				"name": "Kraft av Yin",
+				"description": "Øker angrep og senker forsvar"
+			},
 			"bewitched": {
 				"name": "Forhekset",
 				"description": "I starten av hver tur, påfør Kræsj, Virus eller Forbipassering debuffen"
@@ -5294,28 +6035,70 @@
 				"name": "Isfengsel",
 				"description": "Hopp over alle handlinger, men ta betraktelig redusert skade"
 			},
-			"energized": { "name": "Energisert", "description": "Økt angrepskraft mens Energisert er i live" },
-			"enhanced": { "name": "Forbedret", "description": "Øk angrepet med _NUMBER_% for hver stabel" },
+			"energized": {
+				"name": "Energisert",
+				"description": "Økt angrepskraft mens Energisert er i live"
+			},
+			"enhanced": {
+				"name": "Forbedret",
+				"description": "Øk angrepet med _NUMBER_% for hver stabel"
+			},
 			"protected": {
 				"name": "Beskyttet",
 				"description": "Forsvars er forsterket basert på beskytterens forsvar"
 			},
-			"protector": { "name": "Beskytter", "description": "Karakteren bak den buffet karakteren blir Beskyttet" },
-			"trojan_protocol": { "name": "Trojanske protokoll", "description": "Angrep påfører en tilfeldig debuff" },
-			"untargetable": { "name": "Umålrettbar", "description": "Kan ikke målrettes av angrep eller evner" },
+			"protector": {
+				"name": "Beskytter",
+				"description": "Karakteren bak den buffet karakteren blir Beskyttet"
+			},
+			"trojan_protocol": {
+				"name": "Trojanske protokoll",
+				"description": "Angrep påfører en tilfeldig debuff"
+			},
+			"untargetable": {
+				"name": "Umålrettbar",
+				"description": "Kan ikke målrettes av angrep eller evner"
+			},
 			"charmed": {
 				"name": "Sjarmert",
 				"description": "Tvunget til å rette angrep mot _NAME_, men gjøre 30% mindre skade"
 			},
-			"accuracy_buff": { "name": "Nøyaktighet buff", "description": "Øk nøyaktigheten på angrep" },
-			"attack_buff": { "name": "Angrep buff", "description": "Øk angrepskraften" },
-			"defence_buff": { "name": "Forsvar buff", "description": "Øk forsvar" },
-			"dodge_buff": { "name": "Unnvikelse buff", "description": "Øk unnvikelse sjansen" },
-			"attack_debuff": { "name": "Angrep debuff", "description": "Reduser angrepskraften" },
-			"bypass": { "name": "Forbipassering", "description": "Øk skaden tatt fra neste angrep med 50%" },
-			"crash": { "name": "Kræsj", "description": "Neste handling hoppes over" },
-			"defence_debuff": { "name": "Forsvar debuff", "description": "Reduser forsvar" },
-			"virus": { "name": "Virus", "description": "Ta skade i starten av hver tur" },
+			"accuracy_buff": {
+				"name": "Nøyaktighet buff",
+				"description": "Øk nøyaktigheten på angrep"
+			},
+			"attack_buff": {
+				"name": "Angrep buff",
+				"description": "Øk angrepskraften"
+			},
+			"defence_buff": {
+				"name": "Forsvar buff",
+				"description": "Øk forsvar"
+			},
+			"dodge_buff": {
+				"name": "Unnvikelse buff",
+				"description": "Øk unnvikelse sjansen"
+			},
+			"attack_debuff": {
+				"name": "Angrep debuff",
+				"description": "Reduser angrepskraften"
+			},
+			"bypass": {
+				"name": "Forbipassering",
+				"description": "Øk skaden tatt fra neste angrep med 50%"
+			},
+			"crash": {
+				"name": "Kræsj",
+				"description": "Neste handling hoppes over"
+			},
+			"defence_debuff": {
+				"name": "Forsvar debuff",
+				"description": "Reduser forsvar"
+			},
+			"virus": {
+				"name": "Virus",
+				"description": "Ta skade i starten av hver tur"
+			},
 			"genre_boost": {
 				"name": "_NAME_ boost",
 				"description": "Increase attack damage when the current anime has the _NAME_ genre."
@@ -5324,9 +6107,18 @@
 				"name": "Skjult",
 				"description": "Bli utilgjengelig for fiender og øk skaden ved neste angrep. Utløper etter angrep eller forflytting"
 			},
-			"exposed": { "name": "Eksponert", "description": "Få en tilfeldig debuff fra alle angrep" },
-			"focused": { "name": "Fokusert", "description": "Øk sjansen for å bli mål for fiendens angrep" },
-			"snared": { "name": "Snaret", "description": "Kan ikke bytte posisjon" },
+			"exposed": {
+				"name": "Eksponert",
+				"description": "Få en tilfeldig debuff fra alle angrep"
+			},
+			"focused": {
+				"name": "Fokusert",
+				"description": "Øk sjansen for å bli mål for fiendens angrep"
+			},
+			"snared": {
+				"name": "Snaret",
+				"description": "Kan ikke bytte posisjon"
+			},
 			"genre_protection": {
 				"name": "_NAME_ beskyttet",
 				"description": "Neger all skaden fra angrep når den gjeldende programmet ikke har sjageren _NAME_."
@@ -5335,7 +6127,10 @@
 				"name": "Datatilbakekobling",
 				"description": "Reduksjon av databeskyttelsesskade frakoblet"
 			},
-			"data_shield": { "name": "Dataskjold", "description": "Reduser all skade betraktelig" }
+			"data_shield": {
+				"name": "Dataskjold",
+				"description": "Reduser all skade betraktelig"
+			}
 		},
 		"enemies": {
 			"assassin": "Leiemorder",
@@ -5377,20 +6172,34 @@
 			"title": "Velkommen til AMQ",
 			"step_one": {
 				"text": "Hei og velkommen til Anime Music Quiz! _BREAK_ Jeg forslår at du tar den raske opplæringen min for å lære det grunnleggende i spillet. _BREAK_ Det kan til og med hende at det er en belønning til slutt!",
-				"options": { "play_tutorial": "Ta opplæringen", "skip_tutorial": "Hopp over opplæring" }
+				"options": {
+					"play_tutorial": "Ta opplæringen",
+					"skip_tutorial": "Hopp over opplæring"
+				}
 			},
-			"step_two": { "text": "Fantastisk, la oss sette i gang!" },
-			"step_dismiss": { "text": "Du finner alltid opplæringen i menyen nederst til høyre." }
+			"step_two": {
+				"text": "Fantastisk, la oss sette i gang!"
+			},
+			"step_dismiss": {
+				"text": "Du finner alltid opplæringen i menyen nederst til høyre."
+			}
 		},
 		"welcome_no_list": {
 			"title": "Legge til animeliste",
 			"step_one": {
 				"text": "For å begynne med ser jeg at du ikke har en Anilist-, MyAnimeList- eller Kitsu-bruker tilkoblet. _BREAK_ Jeg anbefaler på det sterkeste at du legger til en, fordi det lar spillet velge sanger fra serier du har sett.",
-				"options": { "no_list": "Jeg har ikke én", "add_one": "La meg legge til én", "skip": "Jeg går uten" }
+				"options": {
+					"no_list": "Jeg har ikke én",
+					"add_one": "La meg legge til én",
+					"skip": "Jeg går uten"
+				}
 			},
 			"step_two": {
 				"text": "Du kan enkelt sette opp en gratis på en av nettstedene: _LINK_ AniList _LINK_, _LINK2_ MyAnimeList _LINK2_ eller _LINK3_ Kitsu _LINK3_. Jeg venter hvis du vil sette opp én nå.",
-				"options": { "created_one": "Ok, jeg har laget én", "skip": "Kanskje senere" }
+				"options": {
+					"created_one": "Ok, jeg har laget én",
+					"skip": "Kanskje senere"
+				}
 			},
 			"step_three": {
 				"text": "Perfekt, la oss koble den til AMQ-kontoen din da! _BREAK_ hvilket nettsted har du en liste på?",
@@ -5411,7 +6220,9 @@
 			"step_myanimelist": {
 				"text": "Vennligst skriv inn MyAnimeList-brukernavnet ditt, eller la det stå tomt hvis du har ombestemt deg."
 			},
-			"step_four": { "text": "Nå vil spillet kunne velge sanger fra serier du har sett!" },
+			"step_four": {
+				"text": "Nå vil spillet kunne velge sanger fra serier du har sett!"
+			},
 			"step_dismiss": {
 				"text": "Det går greit, du kan fortsatt spille uten én! _BREAK_ Du kan legge til animelister i menyen nederst til høyre under «Innstillinger»."
 			},
@@ -5457,13 +6268,18 @@
 			"step_twelve": {
 				"text": "Nå er du klar for å spille AMQ! La oss gå tilbake til hovedmenyen ved å klikke «Forlat» øverst til vensrte"
 			},
-			"step_thirteen": { "text": "Og det var alt for spillopplæringen" },
+			"step_thirteen": {
+				"text": "Og det var alt for spillopplæringen"
+			},
 			"step_thirteen_first_time": {
 				"text": "Det var alt for spillopplæringen. Her er en engangsbelønning på 3000 notes som hjelper deg med å låse opp noen avatarer!"
 			},
 			"step_fourteen": {
 				"text": "Neste steg er avatar-opplæringen, som går gjennom hvordan du låser opp og bruker de forskjellige avatarene i spillet. Klar til å komme i gang?",
-				"options": { "yes": "Ja, la oss begynne!", "no": "Nei, ellers takk" }
+				"options": {
+					"yes": "Ja, la oss begynne!",
+					"no": "Nei, ellers takk"
+				}
 			}
 		},
 		"avatar": {
@@ -5495,7 +6311,9 @@
 			"step_nine": {
 				"text": "Begrensede skinn kan fungere som eksklusive skinn, men er bare tilgjengelige i bestemte tider av året, for eksempel høytider og bestemte sesonger. Resten av året er de utilgjengelig og kan ikke låses opp."
 			},
-			"step_ten": { "text": "Når typene er ute av veien, kan du prøve å velge standard Komugi skinnet." },
+			"step_ten": {
+				"text": "Når typene er ute av veien, kan du prøve å velge standard Komugi skinnet."
+			},
 			"step_eleven": {
 				"text": "Her har vi versjonene du faktisk kommer til å låse opp. _BREAK_ Hvert skinn har flere forskjellige antrekk som kan låses opp, og til og med noen mer avanserte alternative versjoner av skinnet. Ta gjerne en titt rundt før vi fortsetter."
 			},
@@ -5513,11 +6331,17 @@
 			},
 			"step_sixteen": {
 				"text": "Nå som vi snakker om profiler, blir dette dekket i den siste delen opplæringen. Si fra om du er klar for å få ta den nå!",
-				"options": { "yes": "Ja, la oss begynne!", "no": "Nei, ellers takk" }
+				"options": {
+					"yes": "Ja, la oss begynne!",
+					"no": "Nei, ellers takk"
+				}
 			},
 			"step_sixteen_first_time": {
 				"text": "Nå som vi snakker om profiler, blir dette dekket i den siste delen opplæringen. Si fra om du er klar for å få ta den nå! Siden dette var første gang du fullførte avatar-opplæringen, får du noen notes som kan hjelpe deg med å låse opp ditt neste skinn!",
-				"options": { "yes": "Ja, la oss begynne!", "no": "Nei, ellers takk" }
+				"options": {
+					"yes": "Ja, la oss begynne!",
+					"no": "Nei, ellers takk"
+				}
 			}
 		},
 		"social": {
@@ -5577,7 +6401,10 @@
 			"return_button": "Tilbake",
 			"stay_button": "Bli"
 		},
-		"exit_tutorial_warning": { "title": "Forlat opplæring?", "exit_button": "Forlat" },
+		"exit_tutorial_warning": {
+			"title": "Forlat opplæring?",
+			"exit_button": "Forlat"
+		},
 		"username_input_placeholder": "Brukernavn"
 	},
 	"popout_windows": {
@@ -5684,7 +6511,10 @@
 				"title": "BR flex",
 				"description": "Gjett 20 sanger du ikke innsamlet, i et ikke-laggame med innsamling aktivt"
 			},
-			"master_rigger": { "title": "Mester rigger", "description": "Gjett 20 sanger fra animelisten din" },
+			"master_rigger": {
+				"title": "Mester rigger",
+				"description": "Gjett 20 sanger fra animelisten din"
+			},
 			"survivor": {
 				"title": "Overlevende",
 				"description": "Overlev 10 runder når du spiller med liv, i ikke-laggame"
@@ -5729,8 +6559,14 @@
 				"title": "Komediefan",
 				"description": "Gjett 20 sanger fra komedieprogrammer, i ikke-laggame"
 			},
-			"drama_fan": { "title": "Dramafan", "description": "Gjett 20 sanger fra dramaprogrammer, i ikke-laggame" },
-			"ecchi_fan": { "title": "Ecchifan", "description": "Gjett 20 sanger fra ecchiprogrammer, i ikke-laggame" },
+			"drama_fan": {
+				"title": "Dramafan",
+				"description": "Gjett 20 sanger fra dramaprogrammer, i ikke-laggame"
+			},
+			"ecchi_fan": {
+				"title": "Ecchifan",
+				"description": "Gjett 20 sanger fra ecchiprogrammer, i ikke-laggame"
+			},
 			"fantasy_fan": {
 				"title": "Fantasyfan",
 				"description": "Gjett 20 sanger fra fantasyprogrammer, i ikke-laggame"
@@ -5743,7 +6579,10 @@
 				"title": "Mahou shoujo-fan",
 				"description": "Gjett 20 sanger fra mahou shoujo-programmer, i ikke-laggame"
 			},
-			"mecha_fan": { "title": "Mechafan", "description": "Gjett 20 sanger fra mechaprogrammer, i ikke-laggame" },
+			"mecha_fan": {
+				"title": "Mechafan",
+				"description": "Gjett 20 sanger fra mechaprogrammer, i ikke-laggame"
+			},
 			"music_fan": {
 				"title": "Musikkfan",
 				"description": "Gjett 20 sanger fra musikkprogrammer, i ikke-laggame"
@@ -5780,7 +6619,10 @@
 				"title": "Thriller-fan",
 				"description": "Gjett 20 sanger fra thrillerprogrammer, i ikke-laggame"
 			},
-			"just_jamming": { "title": "Kun jamming", "description": "Gjett 20 sanger i jam quiz" },
+			"just_jamming": {
+				"title": "Kun jamming",
+				"description": "Gjett 20 sanger i jam quiz"
+			},
 			"april_fools_2026": {
 				"title": "Videoquiz",
 				"description": "Fremtiden er nå! Gjett 20 av de nye spørsmålene på liten video og/eller uskarp video! <br/> Fullfør å låse opp et nytt skinn av høy verdi",
@@ -5800,10 +6642,20 @@
 			"join_lobby_instruction": "Lobbyen kan nås fra hovedmenyen"
 		},
 		"championship_winner_message": {
-			"solo": { "title": "Ny _NAME_ !", "message": "_NAME_ er den nye mesteren!" },
-			"multiple": { "title": "Ny _NAME_ regionmester funnet!", "message": "_NAMELIST_ er de nye mesterne!" }
+			"solo": {
+				"title": "Ny _NAME_ !",
+				"message": "_NAME_ er den nye mesteren!"
+			},
+			"multiple": {
+				"title": "Ny _NAME_ regionmester funnet!",
+				"message": "_NAMELIST_ er de nye mesterne!"
+			}
 		},
-		"region_names": { "east": "Øst", "west": "Vest", "central": "Sentral" }
+		"region_names": {
+			"east": "Øst",
+			"west": "Vest",
+			"central": "Sentral"
+		}
 	},
 	"skin_seasons": {
 		"full": {
