@@ -4460,7 +4460,7 @@
 			"name": "Tittel",
 			"artist": "Artist",
 			"answer": "Svar",
-			"guesses": "Gjettinger",
+			"guesses": "Forsøk",
 			"difficulty": "Vansklighet",
 			"sample": "Snuttpunkt"
 		},
@@ -6829,11 +6829,11 @@
 		},
 		"answer_input_placeholder": "Animenavn",
 		"guesses": {
-			"header": "Gjettinger",
-			"no_guesses": "Ingen gjettinger",
+			"header": "Forsøk",
+			"no_guesses": "Ingen forsøk",
 			"skipped": "Hopp over"
 		},
-		"guess_button": "Gjett",
+		"guess_button": "Svar",
 		"next_button": "Neste",
 		"finish_button": "Fullfør",
 		"hold_to_skip": "Hold for å hoppe over dette hintet",
