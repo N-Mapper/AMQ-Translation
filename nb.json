@@ -713,6 +713,126 @@
 		"nickname_lost": {
 			"title": "Mistet kallenavn",
 			"text": "Siden kontoen din har vært inaktiv i over 3 år, har kallenavnet ditt blitt frigitt og tatt av en annen spiller. Du kan velge et nytt kallenavn etter at du har lukket denne meldingen"
+		},
+		"amqdle": {
+			"MISSING-title": "AMQdle",
+			"MISSING-play": "Play",
+			"MISSING-quizzes": "Quizzes",
+			"MISSING-create_button": "Create",
+			"MISSING-join_button": "Join",
+			"MISSING-leave_button": "Leave",
+			"join_with_code": {
+				"MISSING-title": "Join AMQdle",
+				"MISSING-placeholder": "Invite Code",
+				"MISSING-confirm_button": "Join",
+				"MISSING-failed_title": "Join Failed",
+				"MISSING-failed_message": "Unknown invite code",
+				"MISSING-banned_message": "You're banned from this AMQdle"
+			},
+			"setup": {
+				"MISSING-create_title": "Create AMQdle",
+				"MISSING-edit_title": "Edit AMQdle",
+				"MISSING-create_button": "Create",
+				"MISSING-save_button": "Save",
+				"MISSING-saved": "Saved!",
+				"MISSING-pending_changes_show": "This AMQdle has changes that become active tomorrow. Click to view them",
+				"MISSING-pending_changes_hide": "Showing the changes that become active tomorrow. Click to view the current setup",
+				"MISSING-create_requirements": "An AMQdle needs a name, at least one category and at least one song in each category",
+				"MISSING-missing_names_title": "Missing Names",
+				"MISSING-missing_names_message": "All categories and songs need a name",
+				"MISSING-create_failed_title": "Creation Failed",
+				"MISSING-create_failed_message": "The AMQdle couldn't be created, please try again",
+				"MISSING-update_failed_title": "Saving Failed",
+				"MISSING-update_failed_message": "The changes to the AMQdle couldn't be saved, please try again",
+				"tabs": {
+					"MISSING-setup": "Setup",
+					"MISSING-players": "Players"
+				},
+				"players": {
+					"MISSING-invite_code": "Invite Code",
+					"MISSING-invite_code_description": "A permanent invite code anyone can use to join the AMQdle",
+					"MISSING-free_invite": "Free Invite",
+					"MISSING-free_invite_description": "Allow anyone to invite their friends to the AMQdle",
+					"MISSING-invite_friend": "Invite Friend",
+					"MISSING-invite_alert": "Invite to AMQdle: _NAME_",
+					"MISSING-invite_sent_alert": "AMQdle invite sent",
+					"MISSING-invite_banned_title": "Player Banned",
+					"MISSING-invite_banned_message": "_NAME_ is banned from this AMQdle",
+					"MISSING-online_friends": "Online Friends",
+					"MISSING-no_friends_online": "No Friends Online",
+					"MISSING-already_in_amqdle": "Already in the AMQdle",
+					"MISSING-header": "Players",
+					"MISSING-ban": "Ban",
+					"MISSING-host": "Host",
+					"MISSING-banned_header": "Banned Players",
+					"MISSING-unban": "Unban",
+					"disable_invite_code": {
+						"MISSING-title": "Turn Off Invite Code?",
+						"MISSING-message": "Turning off the invite code resets it. You won't be able to get the exact same code back.",
+						"MISSING-confirm_button": "Turn Off"
+					},
+					"confirm_ban": {
+						"MISSING-title": "Ban Player?",
+						"MISSING-message": "Banning _NAME_ will remove them from the AMQdle and hide their highscores. They won't be able to rejoin.",
+						"MISSING-confirm_button": "Ban"
+					},
+					"confirm_unban": {
+						"MISSING-title": "Unban Player?",
+						"MISSING-message": "_NAME_ will be able to rejoin the AMQdle.",
+						"MISSING-restore_highscores": "Restore their hidden highscores",
+						"MISSING-confirm_button": "Unban"
+					},
+					"load_failed": {
+						"MISSING-title": "Failed to Load",
+						"MISSING-message": "Something went wrong loading the players.",
+						"MISSING-retry_button": "Retry"
+					},
+					"setting_update_failed": {
+						"MISSING-title": "Update Failed",
+						"MISSING-message": "Something went wrong saving the settings. Please try again."
+					}
+				},
+				"MISSING-name_label": "Name",
+				"MISSING-name_placeholder": "AMQdle Name",
+				"MISSING-section_header": "AMQdle Setup",
+				"MISSING-add_category": "Add Category",
+				"MISSING-add_song": "Add Song",
+				"MISSING-no_songs": "No Songs",
+				"MISSING-no_categories": "Add Category",
+				"MISSING-default_category_name": "Category _NUMBER_",
+				"MISSING-max_categories_reached": "Max _NUMBER_ categories reached",
+				"MISSING-max_songs_reached": "Max _NUMBER_ songs per category reached",
+				"MISSING-song_name_placeholder": "Name",
+				"song": {
+					"MISSING-popularity_label": "Popularity",
+					"MISSING-difficulty_label": "Difficulty",
+					"MISSING-difficulty_description": "The guess rate of the song selected",
+					"MISSING-song_types_label": "Song Types",
+					"song_types": {
+						"MISSING-opening": "Opening",
+						"MISSING-ending": "Ending",
+						"MISSING-insert": "Insert"
+					},
+					"MISSING-song_selection_label": "Song Selection",
+					"song_selection": {
+						"MISSING-random": "Random",
+						"MISSING-any_watched": "Any Watched",
+						"MISSING-all_watched": "All Watched"
+					},
+					"song_selection_description": {
+						"MISSING-intro": "The lists songs are selected from",
+						"MISSING-random": "Doesn't use any lists",
+						"MISSING-any_watched": "The anime must be in at least one player's list",
+						"MISSING-all_watched": "The anime must be in all players' lists"
+					}
+				}
+			},
+			"date_text": {
+				"MISSING-today": "Today",
+				"MISSING-reset_time": "New quizzes release everyday at _DATE_",
+				"MISSING-oldest_version": "No older versions available for this quiz",
+				"MISSING-future_date": "This quiz hasn't been released yet"
+			}
 		}
 	},
 	"menu_bar": {
@@ -961,6 +1081,14 @@
 				"3rd": "Fikk 3. plass i Aragaimu _YEAR_ turneringen",
 				"2nd": "Fikk 2. plass i Aragaimu _YEAR_ turneringen",
 				"1st": "Vant Aragaimu _YEAR_ turneringen"
+			}
+		},
+		"world_cup": {
+			"name": {
+				"MISSING-participant": "World Cup _YEAR_ Participant"
+			},
+			"description": {
+				"MISSING-participant": "Participated in the World Cup _YEAR_ tournament"
 			}
 		}
 	},
@@ -1808,6 +1936,12 @@
 		},
 		"alexandra": {
 			"standard": "Som den neste i rekken til tronen ble Alexandra trent fra ung alder i hvordan man blir en adelsmann, men det var i kamp hun virkelig utmerket seg. En makt hun nå stolt utøver for å beskytte innbyggerne i kongeriket sitt og straffer ugjerningsmenn."
+		},
+		"oro": {
+			"MISSING-standard": "Not many know that Oro is a descendant of an ancient demon family, as he values secrecy and working from the shadows. Rumors do surface from time to time, as Oro isn’t afraid to flaunt his powers against other supernatural beings who enter his turf."
+		},
+		"nyaka": {
+			"MISSING-standard": "Nyaka was originally an autonomous support unit, but after gaining sentience she ditched that role, and ventured out to explore the universe. She now works with Hinase, as her supporter during operations."
 		}
 	},
 	"song_library": {
@@ -4283,7 +4417,9 @@
 		"inseki": "Inseki",
 		"exiled": "Eksil",
 		"middle_east": "Midtøsten",
-		"ice_sports": "is-idrett"
+		"ice_sports": "is-idrett",
+		"MISSING-crafts": "Crafts",
+		"MISSING-poverty": "Poverty"
 	},
 	"genre_tags": {
 		"action": "Action",
@@ -6485,7 +6621,8 @@
 		"yan": "Yan",
 		"visor": "visir",
 		"accessory": "tilbehør",
-		"flowers": "blomster"
+		"flowers": "blomster",
+		"MISSING-skirt": "Skirt"
 	},
 	"daily_quests": {
 		"title": "Daglig oppdrag",
@@ -6683,6 +6820,40 @@
 			"summer_games": "Sommerleker",
 			"anniversary": "Jubileum",
 			"supernatural_spring": "Overnaturlig"
+		}
+	},
+	"amqdle": {
+		"hint_steps": {
+			"MISSING-seconds": "_NUMBER_ Sec",
+			"MISSING-blur": "Blur"
+		},
+		"MISSING-answer_input_placeholder": "Anime Name",
+		"guesses": {
+			"MISSING-header": "Guesses",
+			"MISSING-no_guesses": "No Guesses",
+			"MISSING-skipped": "Skipped"
+		},
+		"MISSING-guess_button": "Guess",
+		"MISSING-next_button": "Next",
+		"MISSING-finish_button": "Finish",
+		"MISSING-hold_to_skip": "Hold to skip to this hint",
+		"song_info": {
+			"MISSING-song_name": "Song Name",
+			"MISSING-type": "Type",
+			"MISSING-artist": "Artist",
+			"MISSING-arranger": "Arranger",
+			"MISSING-composer": "Composer"
+		},
+		"final_result": {
+			"MISSING-title": "AMQdle",
+			"MISSING-score": "Score",
+			"MISSING-text": "Here are the final results of the quiz.",
+			"MISSING-copy_result": "Copy Result",
+			"MISSING-copied": "Copied!",
+			"MISSING-highscores": "Highscores",
+			"MISSING-player": "Player",
+			"MISSING-not_on_day": "Late Completion",
+			"MISSING-no_plays": "No Plays"
 		}
 	}
 }
