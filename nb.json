@@ -798,7 +798,7 @@
 				"add_category": "Legg til kategori",
 				"add_song": "Legg til sang",
 				"no_songs": "Ingen sanger",
-				"no_categories": "Ingen kategorier",
+				"no_categories": "Legg til kategori",
 				"default_category_name": "Kategori _NUMBER_",
 				"max_categories_reached": "Max _NUMBER_ kategorier nådd",
 				"max_songs_reached": "Max _NUMBER_ sanger per kategori nådd",
