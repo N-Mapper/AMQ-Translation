@@ -1067,7 +1067,7 @@
 		},
 		"aragaimu": {
 			"name": {
-				"participant": "Aragaimu _YEAR_ deltager",
+				"participant": "Aragaimu _YEAR_ deltaker",
 				"top32": "Aragaimu _YEAR_ topp 32",
 				"4th": "Aragaimu _YEAR_ 4. plass",
 				"3rd": "Aragaimu _YEAR_ 3. plass",
@@ -1085,10 +1085,10 @@
 		},
 		"world_cup": {
 			"name": {
-				"MISSING-participant": "World Cup _YEAR_ Participant"
+				"participant": "Verdensmesterskap _YEAR_ deltaker"
 			},
 			"description": {
-				"MISSING-participant": "Participated in the World Cup _YEAR_ tournament"
+				"participant": "Deltok i Verdensmesterskap turneringen _YEAR_"
 			}
 		}
 	},
@@ -1938,10 +1938,10 @@
 			"standard": "Som den neste i rekken til tronen ble Alexandra trent fra ung alder i hvordan man blir en adelsmann, men det var i kamp hun virkelig utmerket seg. En makt hun nå stolt utøver for å beskytte innbyggerne i kongeriket sitt og straffer ugjerningsmenn."
 		},
 		"oro": {
-			"MISSING-standard": "Not many know that Oro is a descendant of an ancient demon family, as he values secrecy and working from the shadows. Rumors do surface from time to time, as Oro isn’t afraid to flaunt his powers against other supernatural beings who enter his turf."
+			"standard": "Ikke mange vet at Oro er en etterkommer av en gammel demon familie, som verdsetter sikkerhet og jobber i skyggene. Rykter kommer fra tid til annen, siden Oro ikke er redd for å skryte om kreftene mot andre overnaturlig som kommer på hans område."
 		},
 		"nyaka": {
-			"MISSING-standard": "Nyaka was originally an autonomous support unit, but after gaining sentience she ditched that role, and ventured out to explore the universe. She now works with Hinase, as her supporter during operations."
+			"standard": "Nyaka var originalt en autonom støtte enhet, men etter å ha fått bevissthet droppet hun rollen, og reste ut for å utforske universe. Hun jobber nå med Hinase, som hennes støtte under operasjoner."
 		}
 	},
 	"song_library": {
@@ -4418,8 +4418,8 @@
 		"exiled": "Eksil",
 		"middle_east": "Midtøsten",
 		"ice_sports": "is-idrett",
-		"MISSING-crafts": "Crafts",
-		"MISSING-poverty": "Poverty"
+		"crafts": "Håndverk",
+		"poverty": "Fattigdom"
 	},
 	"genre_tags": {
 		"action": "Action",
@@ -6622,7 +6622,7 @@
 		"visor": "visir",
 		"accessory": "tilbehør",
 		"flowers": "blomster",
-		"MISSING-skirt": "Skirt"
+		"skirt": "skjørt"
 	},
 	"daily_quests": {
 		"title": "Daglig oppdrag",
@@ -6824,36 +6824,36 @@
 	},
 	"amqdle": {
 		"hint_steps": {
-			"MISSING-seconds": "_NUMBER_ Sec",
-			"MISSING-blur": "Blur"
+			"seconds": "_NUMBER_ sec",
+			"blur": "Uskarp"
 		},
-		"MISSING-answer_input_placeholder": "Anime Name",
+		"answer_input_placeholder": "Animenavn",
 		"guesses": {
-			"MISSING-header": "Guesses",
-			"MISSING-no_guesses": "No Guesses",
-			"MISSING-skipped": "Skipped"
+			"header": "Gjettinger",
+			"no_guesses": "Ingen gjettinger",
+			"skipped": "Hopp over"
 		},
-		"MISSING-guess_button": "Guess",
-		"MISSING-next_button": "Next",
-		"MISSING-finish_button": "Finish",
-		"MISSING-hold_to_skip": "Hold to skip to this hint",
+		"guess_button": "Gjett",
+		"next_button": "Neste",
+		"finish_button": "Fullfør",
+		"hold_to_skip": "Hold for å hoppe over dette hintet",
 		"song_info": {
-			"MISSING-song_name": "Song Name",
-			"MISSING-type": "Type",
-			"MISSING-artist": "Artist",
-			"MISSING-arranger": "Arranger",
-			"MISSING-composer": "Composer"
+			"song_name": "Sangtittel",
+			"type": "Type",
+			"artist": "Artist",
+			"arranger": "Arrangør",
+			"composer": "Komponist"
 		},
 		"final_result": {
-			"MISSING-title": "AMQdle",
-			"MISSING-score": "Score",
-			"MISSING-text": "Here are the final results of the quiz.",
-			"MISSING-copy_result": "Copy Result",
-			"MISSING-copied": "Copied!",
-			"MISSING-highscores": "Highscores",
-			"MISSING-player": "Player",
-			"MISSING-not_on_day": "Late Completion",
-			"MISSING-no_plays": "No Plays"
+			"title": "AMQdle",
+			"score": "Score",
+			"text": "Her er det endlig resultat av quizen",
+			"copy_result": "Kopier resultat",
+			"copied": "Kopiert!",
+			"highscores": "Ledertavle",
+			"player": "Spiller",
+			"not_on_day": "Sen fullførting",
+			"no_plays": "Ingen har spilt"
 		}
 	}
 }
